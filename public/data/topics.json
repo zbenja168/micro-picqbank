@@ -1,50 +1,14 @@
 {
   "categories": [
     {
-      "id": "antifungals-drugs-to-treat-fungal-infections",
-      "name": "Antifungals: Drugs to Treat Fungal Infections",
+      "id": "bacterial-structure-growth-and-staining",
+      "name": "Bacterial Structure, Growth, and Staining",
       "topics": [
         {
-          "id": "antifungals-drugs-to-treat-fungal-infections",
-          "name": "Antifungals: Drugs to Treat Fungal Infections",
+          "id": "bacterial-structure-growth-and-staining",
+          "name": "Bacterial Structure, Growth, and Staining",
           "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "antiretrovirals-for-hiv-infection",
-      "name": "Antiretrovirals for HIV Infection",
-      "topics": [
-        {
-          "id": "antiretrovirals-for-hiv-infection",
-          "name": "Antiretrovirals for HIV Infection",
-          "sourceFile": "brick",
-          "questionCount": 1
-        }
-      ]
-    },
-    {
-      "id": "antivirals-for-herpesvirus-infections",
-      "name": "Antivirals for Herpesvirus Infections",
-      "topics": [
-        {
-          "id": "antivirals-for-herpesvirus-infections",
-          "name": "Antivirals for Herpesvirus Infections",
-          "sourceFile": "brick",
-          "questionCount": 1
-        }
-      ]
-    },
-    {
-      "id": "atypical-bacteria",
-      "name": "Atypical Bacteria",
-      "topics": [
-        {
-          "id": "atypical-bacteria",
-          "name": "Atypical Bacteria",
-          "sourceFile": "brick",
-          "questionCount": 9
+          "questionCount": 4
         }
       ]
     },
@@ -61,62 +25,38 @@
       ]
     },
     {
-      "id": "bacterial-structure-growth-and-staining",
-      "name": "Bacterial Structure, Growth, and Staining",
+      "id": "normal-flora-role-in-health-and-disease",
+      "name": "Normal Flora: Role in Health and Disease",
       "topics": [
         {
-          "id": "bacterial-structure-growth-and-staining",
-          "name": "Bacterial Structure, Growth, and Staining",
+          "id": "normal-flora-role-in-health-and-disease",
+          "name": "Normal Flora: Role in Health and Disease",
           "sourceFile": "brick",
           "questionCount": 4
         }
       ]
     },
     {
-      "id": "bacterial-tick-borne-diseases",
-      "name": "Bacterial Tick-Borne Diseases",
+      "id": "gram-positive-and-negative-algorithms",
+      "name": "Gram-Positive and Negative Algorithms",
       "topics": [
         {
-          "id": "bacterial-tick-borne-diseases",
-          "name": "Bacterial Tick-Borne Diseases",
+          "id": "gram-positive-and-negative-algorithms",
+          "name": "Gram-Positive and Negative Algorithms",
           "sourceFile": "brick",
-          "questionCount": 4
+          "questionCount": 9
         }
       ]
     },
     {
-      "id": "caliciviridae-matonaviridae-and-reoviridae",
-      "name": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "id": "staphylococci",
+      "name": "Staphylococci",
       "topics": [
         {
-          "id": "caliciviridae-matonaviridae-and-reoviridae",
-          "name": "Caliciviridae, Matonaviridae, and Reoviridae",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "candida-and-aspergillus",
-      "name": "Candida and Aspergillus",
-      "topics": [
-        {
-          "id": "candida-and-aspergillus",
-          "name": "Candida and Aspergillus",
+          "id": "staphylococci",
+          "name": "Staphylococci",
           "sourceFile": "brick",
           "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "carbapenems",
-      "name": "Carbapenems",
-      "topics": [
-        {
-          "id": "carbapenems",
-          "name": "Carbapenems",
-          "sourceFile": "brick",
-          "questionCount": 3
         }
       ]
     },
@@ -133,12 +73,96 @@
       ]
     },
     {
+      "id": "carbapenems",
+      "name": "Carbapenems",
+      "topics": [
+        {
+          "id": "carbapenems",
+          "name": "Carbapenems",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "vancomycin-and-bacitracin",
+      "name": "Vancomycin and Bacitracin",
+      "topics": [
+        {
+          "id": "vancomycin-and-bacitracin",
+          "name": "Vancomycin and Bacitracin",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "penicillins",
+      "name": "Penicillins",
+      "topics": [
+        {
+          "id": "penicillins",
+          "name": "Penicillins",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "streptococci-and-enterococci",
+      "name": "Streptococci and Enterococci",
+      "topics": [
+        {
+          "id": "streptococci-and-enterococci",
+          "name": "Streptococci and Enterococci",
+          "sourceFile": "brick",
+          "questionCount": 7
+        }
+      ]
+    },
+    {
       "id": "clostridia",
       "name": "Clostridia",
       "topics": [
         {
           "id": "clostridia",
           "name": "Clostridia",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "listeria-monocytogenes",
+      "name": "Listeria Monocytogenes",
+      "topics": [
+        {
+          "id": "listeria-monocytogenes",
+          "name": "Listeria Monocytogenes",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "fluoroquinolones",
+      "name": "Fluoroquinolones",
+      "topics": [
+        {
+          "id": "fluoroquinolones",
+          "name": "Fluoroquinolones",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "neisseria-and-haemophilus",
+      "name": "Neisseria and Haemophilus",
+      "topics": [
+        {
+          "id": "neisseria-and-haemophilus",
+          "name": "Neisseria and Haemophilus",
           "sourceFile": "brick",
           "questionCount": 3
         }
@@ -157,186 +181,6 @@
       ]
     },
     {
-      "id": "fluoroquinolones",
-      "name": "Fluoroquinolones",
-      "topics": [
-        {
-          "id": "fluoroquinolones",
-          "name": "Fluoroquinolones",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "fungal-skin-infections",
-      "name": "Fungal Skin Infections",
-      "topics": [
-        {
-          "id": "fungal-skin-infections",
-          "name": "Fungal Skin Infections",
-          "sourceFile": "brick",
-          "questionCount": 22
-        }
-      ]
-    },
-    {
-      "id": "geographically-defined-mycoses",
-      "name": "Geographically Defined Mycoses",
-      "topics": [
-        {
-          "id": "geographically-defined-mycoses",
-          "name": "Geographically Defined Mycoses",
-          "sourceFile": "brick",
-          "questionCount": 14
-        }
-      ]
-    },
-    {
-      "id": "gram-positive-and-negative-algorithms",
-      "name": "Gram-Positive and Negative Algorithms",
-      "topics": [
-        {
-          "id": "gram-positive-and-negative-algorithms",
-          "name": "Gram-Positive and Negative Algorithms",
-          "sourceFile": "brick",
-          "questionCount": 9
-        }
-      ]
-    },
-    {
-      "id": "helminths",
-      "name": "Helminths",
-      "topics": [
-        {
-          "id": "helminths",
-          "name": "Helminths",
-          "sourceFile": "brick",
-          "questionCount": 20
-        }
-      ]
-    },
-    {
-      "id": "herpesviridae",
-      "name": "Herpesviridae",
-      "topics": [
-        {
-          "id": "herpesviridae",
-          "name": "Herpesviridae",
-          "sourceFile": "brick",
-          "questionCount": 14
-        }
-      ]
-    },
-    {
-      "id": "introduction-to-parasitology",
-      "name": "Introduction to Parasitology",
-      "topics": [
-        {
-          "id": "introduction-to-parasitology",
-          "name": "Introduction to Parasitology",
-          "sourceFile": "brick",
-          "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "introduction-to-virology",
-      "name": "Introduction to Virology",
-      "topics": [
-        {
-          "id": "introduction-to-virology",
-          "name": "Introduction to Virology",
-          "sourceFile": "brick",
-          "questionCount": 2
-        }
-      ]
-    },
-    {
-      "id": "listeria-monocytogenes",
-      "name": "Listeria Monocytogenes",
-      "topics": [
-        {
-          "id": "listeria-monocytogenes",
-          "name": "Listeria Monocytogenes",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "mycobacterium-tuberculosis-and-mac",
-      "name": "Mycobacterium Tuberculosis and MAC",
-      "topics": [
-        {
-          "id": "mycobacterium-tuberculosis-and-mac",
-          "name": "Mycobacterium Tuberculosis and MAC",
-          "sourceFile": "brick",
-          "questionCount": 13
-        }
-      ]
-    },
-    {
-      "id": "mycology-an-introduction",
-      "name": "Mycology: An Introduction",
-      "topics": [
-        {
-          "id": "mycology-an-introduction",
-          "name": "Mycology: An Introduction",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "neisseria-and-haemophilus",
-      "name": "Neisseria and Haemophilus",
-      "topics": [
-        {
-          "id": "neisseria-and-haemophilus",
-          "name": "Neisseria and Haemophilus",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "normal-flora-role-in-health-and-disease",
-      "name": "Normal Flora: Role in Health and Disease",
-      "topics": [
-        {
-          "id": "normal-flora-role-in-health-and-disease",
-          "name": "Normal Flora: Role in Health and Disease",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae",
-      "name": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
-      "topics": [
-        {
-          "id": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae",
-          "name": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
-          "sourceFile": "brick",
-          "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "penicillins",
-      "name": "Penicillins",
-      "topics": [
-        {
-          "id": "penicillins",
-          "name": "Penicillins",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
       "id": "protein-synthesis-inhibitors",
       "name": "Protein Synthesis Inhibitors",
       "topics": [
@@ -345,42 +189,6 @@
           "name": "Protein Synthesis Inhibitors",
           "sourceFile": "brick",
           "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "protozoan-infections",
-      "name": "Protozoan Infections",
-      "topics": [
-        {
-          "id": "protozoan-infections",
-          "name": "Protozoan Infections",
-          "sourceFile": "brick",
-          "questionCount": 17
-        }
-      ]
-    },
-    {
-      "id": "pseudomonas-and-related-bacteria",
-      "name": "Pseudomonas and Related Bacteria",
-      "topics": [
-        {
-          "id": "pseudomonas-and-related-bacteria",
-          "name": "Pseudomonas and Related Bacteria",
-          "sourceFile": "brick",
-          "questionCount": 11
-        }
-      ]
-    },
-    {
-      "id": "retroviridae",
-      "name": "Retroviridae",
-      "topics": [
-        {
-          "id": "retroviridae",
-          "name": "Retroviridae",
-          "sourceFile": "brick",
-          "questionCount": 3
         }
       ]
     },
@@ -397,26 +205,14 @@
       ]
     },
     {
-      "id": "staphylococci",
-      "name": "Staphylococci",
+      "id": "pseudomonas-and-related-bacteria",
+      "name": "Pseudomonas and Related Bacteria",
       "topics": [
         {
-          "id": "staphylococci",
-          "name": "Staphylococci",
+          "id": "pseudomonas-and-related-bacteria",
+          "name": "Pseudomonas and Related Bacteria",
           "sourceFile": "brick",
-          "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "streptococci-and-enterococci",
-      "name": "Streptococci and Enterococci",
-      "topics": [
-        {
-          "id": "streptococci-and-enterococci",
-          "name": "Streptococci and Enterococci",
-          "sourceFile": "brick",
-          "questionCount": 7
+          "questionCount": 11
         }
       ]
     },
@@ -433,14 +229,218 @@
       ]
     },
     {
-      "id": "vancomycin-and-bacitracin",
-      "name": "Vancomycin and Bacitracin",
+      "id": "mycobacterium-tuberculosis-and-mac",
+      "name": "Mycobacterium Tuberculosis and MAC",
       "topics": [
         {
-          "id": "vancomycin-and-bacitracin",
-          "name": "Vancomycin and Bacitracin",
+          "id": "mycobacterium-tuberculosis-and-mac",
+          "name": "Mycobacterium Tuberculosis and MAC",
+          "sourceFile": "brick",
+          "questionCount": 13
+        }
+      ]
+    },
+    {
+      "id": "atypical-bacteria",
+      "name": "Atypical Bacteria",
+      "topics": [
+        {
+          "id": "atypical-bacteria",
+          "name": "Atypical Bacteria",
+          "sourceFile": "brick",
+          "questionCount": 9
+        }
+      ]
+    },
+    {
+      "id": "bacterial-tick-borne-diseases",
+      "name": "Bacterial Tick-Borne Diseases",
+      "topics": [
+        {
+          "id": "bacterial-tick-borne-diseases",
+          "name": "Bacterial Tick-Borne Diseases",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "introduction-to-virology",
+      "name": "Introduction to Virology",
+      "topics": [
+        {
+          "id": "introduction-to-virology",
+          "name": "Introduction to Virology",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "herpesviridae",
+      "name": "Herpesviridae",
+      "topics": [
+        {
+          "id": "herpesviridae",
+          "name": "Herpesviridae",
+          "sourceFile": "brick",
+          "questionCount": 14
+        }
+      ]
+    },
+    {
+      "id": "antivirals-for-herpesvirus-infections",
+      "name": "Antivirals for Herpesvirus Infections",
+      "topics": [
+        {
+          "id": "antivirals-for-herpesvirus-infections",
+          "name": "Antivirals for Herpesvirus Infections",
           "sourceFile": "brick",
           "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "retroviridae",
+      "name": "Retroviridae",
+      "topics": [
+        {
+          "id": "retroviridae",
+          "name": "Retroviridae",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "antiretrovirals-for-hiv-infection",
+      "name": "Antiretrovirals for HIV Infection",
+      "topics": [
+        {
+          "id": "antiretrovirals-for-hiv-infection",
+          "name": "Antiretrovirals for HIV Infection",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae",
+      "name": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
+      "topics": [
+        {
+          "id": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae",
+          "name": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "caliciviridae-matonaviridae-and-reoviridae",
+      "name": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "topics": [
+        {
+          "id": "caliciviridae-matonaviridae-and-reoviridae",
+          "name": "Caliciviridae, Matonaviridae, and Reoviridae",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "mycology-an-introduction",
+      "name": "Mycology: An Introduction",
+      "topics": [
+        {
+          "id": "mycology-an-introduction",
+          "name": "Mycology: An Introduction",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "candida-and-aspergillus",
+      "name": "Candida and Aspergillus",
+      "topics": [
+        {
+          "id": "candida-and-aspergillus",
+          "name": "Candida and Aspergillus",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "geographically-defined-mycoses",
+      "name": "Geographically Defined Mycoses",
+      "topics": [
+        {
+          "id": "geographically-defined-mycoses",
+          "name": "Geographically Defined Mycoses",
+          "sourceFile": "brick",
+          "questionCount": 14
+        }
+      ]
+    },
+    {
+      "id": "antifungals-drugs-to-treat-fungal-infections",
+      "name": "Antifungals: Drugs to Treat Fungal Infections",
+      "topics": [
+        {
+          "id": "antifungals-drugs-to-treat-fungal-infections",
+          "name": "Antifungals: Drugs to Treat Fungal Infections",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "fungal-skin-infections",
+      "name": "Fungal Skin Infections",
+      "topics": [
+        {
+          "id": "fungal-skin-infections",
+          "name": "Fungal Skin Infections",
+          "sourceFile": "brick",
+          "questionCount": 22
+        }
+      ]
+    },
+    {
+      "id": "introduction-to-parasitology",
+      "name": "Introduction to Parasitology",
+      "topics": [
+        {
+          "id": "introduction-to-parasitology",
+          "name": "Introduction to Parasitology",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "id": "protozoan-infections",
+      "name": "Protozoan Infections",
+      "topics": [
+        {
+          "id": "protozoan-infections",
+          "name": "Protozoan Infections",
+          "sourceFile": "brick",
+          "questionCount": 17
+        }
+      ]
+    },
+    {
+      "id": "helminths",
+      "name": "Helminths",
+      "topics": [
+        {
+          "id": "helminths",
+          "name": "Helminths",
+          "sourceFile": "brick",
+          "questionCount": 20
         }
       ]
     }
