@@ -1,0 +1,123 @@
+{
+  "categoryId": "antifungals-drugs-to-treat-fungal-infections",
+  "categoryName": "Antifungals: Drugs to Treat Fungal Infections",
+  "questions": [
+    {
+      "id": "mipic-198",
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals: Drugs to Treat Fungal Infections",
+      "stem": "This diagram maps where different antifungal classes act on the fungal cell. The class that inserts into the membrane and binds ergosterol produces which primary effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of beta-glucan synthase in the cell wall"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of the enzyme that converts lanosterol to ergosterol"
+        },
+        {
+          "label": "C",
+          "text": "Disruption of microtubule function during mitosis"
+        },
+        {
+          "label": "D",
+          "text": "Formation of pores that increase membrane permeability and cause leakage of cell contents"
+        },
+        {
+          "label": "E",
+          "text": "Incorporation into fungal DNA and RNA to halt synthesis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Polyenes such as amphotericin B bind ergosterol and create pores in the fungal membrane, increasing permeability and causing lethal leakage of intracellular contents. The other options correspond to azoles, echinocandins, griseofulvin, and flucytosine respectively.",
+        "whyCorrect": "Polyenes such as amphotericin B bind ergosterol and create pores in the fungal membrane, increasing permeability and causing lethal leakage of intracellular contents. The other options correspond to azoles, echinocandins, griseofulvin, and flucytosine respectively.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-198_mi039_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-199",
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals: Drugs to Treat Fungal Infections",
+      "stem": "This chart maps antifungal adverse effects to organ systems. Amphotericin B appears in the nephrotoxicity panel; what is the principal mechanism of its renal injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osmotic diuresis from unmetabolized drug in the filtrate"
+        },
+        {
+          "label": "B",
+          "text": "Immune-complex deposition in the glomerular basement membrane"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of CYP450 enzymes within renal tubular cells"
+        },
+        {
+          "label": "D",
+          "text": "Renal vasoconstriction with direct tubular toxicity reducing perfusion"
+        },
+        {
+          "label": "E",
+          "text": "Crystal precipitation obstructing the renal tubules"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Amphotericin B causes decreased renal perfusion via vasoconstriction plus direct tubular damage, leading to renal tubular acidosis, potassium and magnesium wasting, and reduced erythropoietin (anemia). The distractors describe mechanisms not responsible for its nephrotoxicity.",
+        "whyCorrect": "Amphotericin B causes decreased renal perfusion via vasoconstriction plus direct tubular damage, leading to renal tubular acidosis, potassium and magnesium wasting, and reduced erythropoietin (anemia). The distractors describe mechanisms not responsible for its nephrotoxicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-199_mi039_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-231",
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals: Drugs to Treat Fungal Infections",
+      "stem": "This schematic depicts a fungal plasma membrane, with the green molecules embedded among the blue phospholipids. What is the clinical significance of these green sterol molecules?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are the selective target of antifungal drugs because they are absent from human membranes"
+        },
+        {
+          "label": "B",
+          "text": "They serve as the receptor for host antibodies against fungi"
+        },
+        {
+          "label": "C",
+          "text": "They are the site where beta-glucan is polymerized into the cell wall"
+        },
+        {
+          "label": "D",
+          "text": "They actively pump antifungal drugs out of the cell"
+        },
+        {
+          "label": "E",
+          "text": "They generate the aerobic energy the fungal cell requires"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The green molecules are ergosterol, the fungal analog of cholesterol. Because ergosterol is unique to fungal membranes and absent in humans, it (and its synthesis) is exploited for selective toxicity by polyenes and azoles.",
+        "whyCorrect": "The green molecules are ergosterol, the fungal analog of cholesterol. Because ergosterol is unique to fungal membranes and absent in humans, it (and its synthesis) is exploited for selective toxicity by polyenes and azoles.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-231_mi039_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

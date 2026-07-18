@@ -1,0 +1,318 @@
+{
+  "categoryId": "introduction-to-parasitology",
+  "categoryName": "Introduction to Parasitology",
+  "questions": [
+    {
+      "id": "mipic-002",
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "stem": "This diagram shows the segmented body plan of a helminth whose individual segments each contain reproductive organs. What are these segments called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Somites"
+        },
+        {
+          "label": "B",
+          "text": "Proglottids"
+        },
+        {
+          "label": "C",
+          "text": "Merozoites"
+        },
+        {
+          "label": "D",
+          "text": "Metameres"
+        },
+        {
+          "label": "E",
+          "text": "Sporocysts"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cestodes (tapeworms) have a scolex (head) and a chain of segments called proglottids; each mature proglottid is hermaphroditic, containing both male and female organs.",
+        "whyCorrect": "Cestodes (tapeworms) have a scolex (head) and a chain of segments called proglottids; each mature proglottid is hermaphroditic, containing both male and female organs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-002_mi041_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-015",
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "stem": "This electron micrograph shows a slender female worm held within a groove of the thicker male. What is this male body groove called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gynecophoral canal"
+        },
+        {
+          "label": "B",
+          "text": "Acetabulum"
+        },
+        {
+          "label": "C",
+          "text": "Rostellum"
+        },
+        {
+          "label": "D",
+          "text": "Buccal capsule"
+        },
+        {
+          "label": "E",
+          "text": "Genital pore"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adult schistosomes (blood flukes) are unusual among trematodes in having separate sexes; the male's gynecophoral canal holds the female during continuous mating.",
+        "whyCorrect": "Adult schistosomes (blood flukes) are unusual among trematodes in having separate sexes; the male's gynecophoral canal holds the female during continuous mating.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-015_mi041_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-088",
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "stem": "A skin scraping viewed under the microscope reveals this organism along with surrounding eggs. What is the diagnostic finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Louse (Pediculus) nit"
+        },
+        {
+          "label": "B",
+          "text": "Cutaneous larva migrans larva"
+        },
+        {
+          "label": "C",
+          "text": "Sarcoptes scabiei mite with eggs"
+        },
+        {
+          "label": "D",
+          "text": "Demodex follicular mite"
+        },
+        {
+          "label": "E",
+          "text": "Giardia lamblia trophozoites"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Definitive diagnosis of scabies is made by scraping a burrow and identifying the Sarcoptes scabiei mite, its eggs, or fecal pellets microscopically.",
+        "whyCorrect": "Definitive diagnosis of scabies is made by scraping a burrow and identifying the Sarcoptes scabiei mite, its eggs, or fecal pellets microscopically.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-088_mi041_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-089",
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "stem": "This stool-smear organism has two nuclei and multiple flagella, giving it a face-like appearance. How does it move?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "By extending pseudopods"
+        },
+        {
+          "label": "B",
+          "text": "By muscular body-wall contraction"
+        },
+        {
+          "label": "C",
+          "text": "By hair-like cilia"
+        },
+        {
+          "label": "D",
+          "text": "It is non-motile (sporozoan)"
+        },
+        {
+          "label": "E",
+          "text": "By whip-like flagella"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Giardia lamblia is a flagellated protozoan; its paired nuclei and flagella produce the classic 'owl-face' trophozoite that causes fatty, foul-smelling diarrhea.",
+        "whyCorrect": "Giardia lamblia is a flagellated protozoan; its paired nuclei and flagella produce the classic 'owl-face' trophozoite that causes fatty, foul-smelling diarrhea.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-089_mi041_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-090",
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "stem": "This large oval protozoan has a fuzzy border made of thousands of tiny structures. What is its mode of locomotion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cilia"
+        },
+        {
+          "label": "B",
+          "text": "Gliding motility (non-motile forms)"
+        },
+        {
+          "label": "C",
+          "text": "Undulating membrane only"
+        },
+        {
+          "label": "D",
+          "text": "Pseudopods"
+        },
+        {
+          "label": "E",
+          "text": "Flagella"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Balantidium coli is the only ciliate known to infect humans; the fuzzy edge is thousands of cilia. It is transmitted fecal-orally and can cause dysentery.",
+        "whyCorrect": "Balantidium coli is the only ciliate known to infect humans; the fuzzy edge is thousands of cilia. It is transmitted fecal-orally and can cause dysentery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-090_mi041_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-182",
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "stem": "These intensely itchy skin findings are worst at night and cluster in finger webs and skin folds. The tunnel-like burrow lines seen are best described as:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Annular scaling plaques"
+        },
+        {
+          "label": "B",
+          "text": "Vesicular dermatomal eruption"
+        },
+        {
+          "label": "C",
+          "text": "Petechial hemorrhagic rash"
+        },
+        {
+          "label": "D",
+          "text": "Target (erythema migrans) lesions"
+        },
+        {
+          "label": "E",
+          "text": "Serpiginous (burrow) tracks"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Scabies mites tunnel through the epidermis, producing serpiginous burrow lines; lesions favor finger webs, wrists, waistline, and genitals and itch worst at night.",
+        "whyCorrect": "Scabies mites tunnel through the epidermis, producing serpiginous burrow lines; lesions favor finger webs, wrists, waistline, and genitals and itch worst at night.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-182_mi041_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-233",
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "stem": "The arthropod shown is considered the deadliest animal on earth to humans. Why?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It burrows into skin and causes an intense hypersensitivity reaction"
+        },
+        {
+          "label": "B",
+          "text": "It transmits disease only mechanically on its body surface"
+        },
+        {
+          "label": "C",
+          "text": "It multiplies within human tissue as an endoparasite"
+        },
+        {
+          "label": "D",
+          "text": "Its bite injects a directly lethal neurotoxin"
+        },
+        {
+          "label": "E",
+          "text": "It serves as a biological vector transmitting parasites, bacteria, and viruses"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Mosquitoes are the deadliest animal to humans because they act as biological vectors, spreading malaria, arboviruses, filariasis, and other pathogens that kill millions annually.",
+        "whyCorrect": "Mosquitoes are the deadliest animal to humans because they act as biological vectors, spreading malaria, arboviruses, filariasis, and other pathogens that kill millions annually.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-233_mi041_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-234",
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "stem": "This schematic depicts a mite burrowing within the layers of host skin. What type of parasite is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An ectoparasite (Sarcoptes scabiei)"
+        },
+        {
+          "label": "B",
+          "text": "A single-celled protozoan endoparasite"
+        },
+        {
+          "label": "C",
+          "text": "A multicellular helminth endoparasite"
+        },
+        {
+          "label": "D",
+          "text": "A ciliated flagellate"
+        },
+        {
+          "label": "E",
+          "text": "A blood-borne fluke (trematode)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Scabies is caused by Sarcoptes scabiei, an ectoparasitic mite that only superficially burrows into the epidermis rather than invading deeper tissues; the itch is a Type I hypersensitivity reaction.",
+        "whyCorrect": "Scabies is caused by Sarcoptes scabiei, an ectoparasitic mite that only superficially burrows into the epidermis rather than invading deeper tissues; the itch is a Type I hypersensitivity reaction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-234_mi041_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

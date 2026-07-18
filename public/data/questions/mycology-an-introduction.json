@@ -1,0 +1,123 @@
+{
+  "categoryId": "mycology-an-introduction",
+  "categoryName": "Mycology: An Introduction",
+  "questions": [
+    {
+      "id": "mipic-066",
+      "topicId": "mycology-an-introduction",
+      "topicName": "Mycology: An Introduction",
+      "stem": "These tissue stains show large, thick-walled yeast cells reproducing by budding across a wide base of attachment between mother and daughter cell. Which fungus classically shows this pattern in tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coccidioides immitis"
+        },
+        {
+          "label": "B",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "C",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "D",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "E",
+          "text": "Cryptococcus neoformans"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Broad-based budding of large yeast with a thick, doubly-refractile wall is the hallmark of Blastomyces dermatitidis. Histoplasma is small and intracellular with narrow-based budding, Cryptococcus is encapsulated, and Candida forms pseudohyphae.",
+        "whyCorrect": "Broad-based budding of large yeast with a thick, doubly-refractile wall is the hallmark of Blastomyces dermatitidis. Histoplasma is small and intracellular with narrow-based budding, Cryptococcus is encapsulated, and Candida forms pseudohyphae.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-066_mi036_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-166",
+      "topicId": "mycology-an-introduction",
+      "topicName": "Mycology: An Introduction",
+      "stem": "This immunosuppressed patient using inhaled corticosteroids developed lesions of the oral mucosa. Overgrowth of which organism most commonly causes this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "C",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "E",
+          "text": "Aspergillus fumigatus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Oral thrush is overgrowth of Candida albicans, part of the normal flora that flourishes when local or systemic immunity is suppressed (e.g., inhaled steroids, HIV). It is a yeast, not a mold or bacterium, and forms removable white pseudomembranous plaques.",
+        "whyCorrect": "Oral thrush is overgrowth of Candida albicans, part of the normal flora that flourishes when local or systemic immunity is suppressed (e.g., inhaled steroids, HIV). It is a yeast, not a mold or bacterium, and forms removable white pseudomembranous plaques.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-166_mi036_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-197",
+      "topicId": "mycology-an-introduction",
+      "topicName": "Mycology: An Introduction",
+      "stem": "This schematic of the fungal cell envelope highlights the sterol embedded within the phospholipid bilayer of the cell membrane. Which antifungal class works by binding directly to this sterol and creating pores that leak ions from the cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allylamines"
+        },
+        {
+          "label": "B",
+          "text": "Griseofulvin"
+        },
+        {
+          "label": "C",
+          "text": "Polyenes (e.g., amphotericin B)"
+        },
+        {
+          "label": "D",
+          "text": "Echinocandins"
+        },
+        {
+          "label": "E",
+          "text": "Azoles"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The membrane sterol shown is ergosterol. Polyenes such as amphotericin B bind ergosterol and punch pores in the membrane, causing lethal ion leakage. Echinocandins act on glucan synthase in the wall, azoles and allylamines block ergosterol synthesis, and griseofulvin disrupts microtubules.",
+        "whyCorrect": "The membrane sterol shown is ergosterol. Polyenes such as amphotericin B bind ergosterol and punch pores in the membrane, causing lethal ion leakage. Echinocandins act on glucan synthase in the wall, azoles and allylamines block ergosterol synthesis, and griseofulvin disrupts microtubules.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-197_mi036_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

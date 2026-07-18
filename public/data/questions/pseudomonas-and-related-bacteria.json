@@ -1,0 +1,435 @@
+{
+  "categoryId": "pseudomonas-and-related-bacteria",
+  "categoryName": "Pseudomonas and Related Bacteria",
+  "questions": [
+    {
+      "id": "mipic-044",
+      "topicId": "pseudomonas-and-related-bacteria",
+      "topicName": "Pseudomonas and Related Bacteria",
+      "stem": "This electron micrograph shows a rod-shaped bacterium bearing a single appendage extending from one pole. What structure is this and what function does it provide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An axial filament for corkscrew motion"
+        },
+        {
+          "label": "B",
+          "text": "A fimbria used only for adhesion"
+        },
+        {
+          "label": "C",
+          "text": "A polar spore for dormancy"
+        },
+        {
+          "label": "D",
+          "text": "A single polar flagellum providing motility"
+        },
+        {
+          "label": "E",
+          "text": "A sex pilus mediating conjugation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pseudomonas spp. are motile by a single polar flagellum, which drives their characteristic swimming motility and helps them reach and colonize surfaces.",
+        "whyCorrect": "Pseudomonas spp. are motile by a single polar flagellum, which drives their characteristic swimming motility and helps them reach and colonize surfaces.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-044_mi014_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-045",
+      "topicId": "pseudomonas-and-related-bacteria",
+      "topicName": "Pseudomonas and Related Bacteria",
+      "stem": "Colonies growing on this agar plate produce a diffusing blue-green discoloration of the medium. Which pigment is chiefly responsible for this color and is directly toxic to host cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyoverdine"
+        },
+        {
+          "label": "B",
+          "text": "Bilirubin"
+        },
+        {
+          "label": "C",
+          "text": "Melanin"
+        },
+        {
+          "label": "D",
+          "text": "Prodigiosin"
+        },
+        {
+          "label": "E",
+          "text": "Pyocyanin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pyocyanin is a blue pigment produced by P. aeruginosa that is toxic to cells including leukocytes and epithelial cells, and together with yellow pyoverdine gives colonies their blue-to-aqua color.",
+        "whyCorrect": "Pyocyanin is a blue pigment produced by P. aeruginosa that is toxic to cells including leukocytes and epithelial cells, and together with yellow pyoverdine gives colonies their blue-to-aqua color.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-045_mi014_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-046",
+      "topicId": "pseudomonas-and-related-bacteria",
+      "topicName": "Pseudomonas and Related Bacteria",
+      "stem": "This agar plate shows bacterial growth with a diffuse aqua-green discoloration spreading through the medium. This colony appearance and pigmentation is most characteristic of which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "E",
+          "text": "Salmonella enterica"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pseudomonas colonies characteristically show an aqua-to-green color from pyocyanin and pyoverdine; it is a non-lactose-fermenting, oxidase-positive gram-negative rod.",
+        "whyCorrect": "Pseudomonas colonies characteristically show an aqua-to-green color from pyocyanin and pyoverdine; it is a non-lactose-fermenting, oxidase-positive gram-negative rod.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-046_mi014_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-047",
+      "topicId": "pseudomonas-and-related-bacteria",
+      "topicName": "Pseudomonas and Related Bacteria",
+      "stem": "This split plate compares two strains of the same organism, one dry and one glistening and slimy. Overproduction of which substance accounts for the slimy (mucoid) phenotype on the right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipopolysaccharide endotoxin"
+        },
+        {
+          "label": "B",
+          "text": "Peptidoglycan cross-links"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcal M protein"
+        },
+        {
+          "label": "D",
+          "text": "An alginate capsule"
+        },
+        {
+          "label": "E",
+          "text": "The pigment pyocyanin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mucoid strains, characteristic of cystic fibrosis isolates, overproduce an alginate capsule that can absorb hundreds of times its weight in water and helps the bacteria adhere to and colonize mucus.",
+        "whyCorrect": "Mucoid strains, characteristic of cystic fibrosis isolates, overproduce an alginate capsule that can absorb hundreds of times its weight in water and helps the bacteria adhere to and colonize mucus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-047_mi014_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-048",
+      "topicId": "pseudomonas-and-related-bacteria",
+      "topicName": "Pseudomonas and Related Bacteria",
+      "stem": "This Gram stain from a ventilator-associated pneumonia isolate shows pink-staining organisms that are short and plump rather than long rods. What is the shape and Gram reaction depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gram-negative coccobacilli"
+        },
+        {
+          "label": "B",
+          "text": "Gram-positive rods with spores"
+        },
+        {
+          "label": "C",
+          "text": "Gram-positive cocci in clusters"
+        },
+        {
+          "label": "D",
+          "text": "Gram-negative diplococci"
+        },
+        {
+          "label": "E",
+          "text": "Gram-negative spiral rods"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acinetobacter spp. appear as gram-negative coccobacilli (a shape between a sphere and a rod), are non-motile and oxidase-negative, and are a common cause of ventilator-associated pneumonia.",
+        "whyCorrect": "Acinetobacter spp. appear as gram-negative coccobacilli (a shape between a sphere and a rod), are non-motile and oxidase-negative, and are a common cause of ventilator-associated pneumonia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-048_mi014_f19.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-136",
+      "topicId": "pseudomonas-and-related-bacteria",
+      "topicName": "Pseudomonas and Related Bacteria",
+      "stem": "A ventilated ICU patient develops the eye finding shown, with a corneal infiltrate and surrounding conjunctival injection. Which organism is the most likely cause of this rapidly progressive keratitis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "E",
+          "text": "Acinetobacter baumannii"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pseudomonas aeruginosa is a leading cause of severe, rapidly progressive bacterial keratitis, especially with contact lens use or contaminated solutions; its proteases and toxins drive aggressive corneal destruction.",
+        "whyCorrect": "Pseudomonas aeruginosa is a leading cause of severe, rapidly progressive bacterial keratitis, especially with contact lens use or contaminated solutions; its proteases and toxins drive aggressive corneal destruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-136_mi014_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-137",
+      "topicId": "pseudomonas-and-related-bacteria",
+      "topicName": "Pseudomonas and Related Bacteria",
+      "stem": "A patient develops the itchy, tender red papules and pustules shown over the trunk two days after using a poorly maintained hot tub. Which organism is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Malassezia furfur"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hot tub folliculitis is caused by Pseudomonas contaminating warm water; the bacteria enter hair follicles through microabrasions, producing follicular papules and pustules that usually resolve without complications.",
+        "whyCorrect": "Hot tub folliculitis is caused by Pseudomonas contaminating warm water; the bacteria enter hair follicles through microabrasions, producing follicular papules and pustules that usually resolve without complications.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-137_mi014_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-138",
+      "topicId": "pseudomonas-and-related-bacteria",
+      "topicName": "Pseudomonas and Related Bacteria",
+      "stem": "A diabetic patient presents with the plantar ulcer shown after a puncture injury. Deep infection here can extend to underlying bone. Which gram-negative organism is a classic cause of such foot infections and osteomyelitis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Legionella pneumophila"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria gonorrhoeae"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "D",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "E",
+          "text": "Bordetella pertussis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pseudomonas is a well-known cause of foot infections in diabetics, especially after puncture wounds through footwear, and can seed bone and joints to cause osteomyelitis.",
+        "whyCorrect": "Pseudomonas is a well-known cause of foot infections in diabetics, especially after puncture wounds through footwear, and can seed bone and joints to cause osteomyelitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-138_mi014_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-139",
+      "topicId": "pseudomonas-and-related-bacteria",
+      "topicName": "Pseudomonas and Related Bacteria",
+      "stem": "An immunocompromised infant develops scattered necrotic skin lesions that began as red macules and progressed to pustules, alongside bacteremia. This necrotic skin manifestation of gram-negative sepsis is known as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ecthyma gangrenosum"
+        },
+        {
+          "label": "B",
+          "text": "Erythema multiforme"
+        },
+        {
+          "label": "C",
+          "text": "Stevens-Johnson syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Necrotizing fasciitis"
+        },
+        {
+          "label": "E",
+          "text": "Erythema nodosum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ecthyma gangrenosum is a necrotic skin lesion seen with hematogenous dissemination of Pseudomonas; lesions favor the anogenital and axillary areas and evolve from macules to pustules to necrotic ulcers.",
+        "whyCorrect": "Ecthyma gangrenosum is a necrotic skin lesion seen with hematogenous dissemination of Pseudomonas; lesions favor the anogenital and axillary areas and evolve from macules to pustules to necrotic ulcers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-139_mi014_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-209",
+      "topicId": "pseudomonas-and-related-bacteria",
+      "topicName": "Pseudomonas and Related Bacteria",
+      "stem": "A rock pulled from standing water is coated with the slimy green-brown layer shown. What microbial structure best explains how bacteria persist in this environment and resist clearance in patients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A viral plaque"
+        },
+        {
+          "label": "B",
+          "text": "A crystalline endospore coat"
+        },
+        {
+          "label": "C",
+          "text": "A fungal fruiting body"
+        },
+        {
+          "label": "D",
+          "text": "A calcified granuloma"
+        },
+        {
+          "label": "E",
+          "text": "A biofilm of secreted extracellular polysaccharide"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pseudomonas spp. secrete extracellular polysaccharides and macromolecules to form biofilms, which shield the bacteria from the environment, predators, antibiotics, and the host immune response.",
+        "whyCorrect": "Pseudomonas spp. secrete extracellular polysaccharides and macromolecules to form biofilms, which shield the bacteria from the environment, predators, antibiotics, and the host immune response.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-209_mi014_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-210",
+      "topicId": "pseudomonas-and-related-bacteria",
+      "topicName": "Pseudomonas and Related Bacteria",
+      "stem": "This schematic contrasts a normal airway with the airway of the depicted inherited disease, in which thick mucus lines and blocks the passages. What underlying molecular defect causes the mucus abnormality shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A surfactant protein B deficiency"
+        },
+        {
+          "label": "B",
+          "text": "An elastin gene mutation"
+        },
+        {
+          "label": "C",
+          "text": "A dynein arm defect in cilia"
+        },
+        {
+          "label": "D",
+          "text": "A CFTR chloride-channel mutation impairing chloride and water transport"
+        },
+        {
+          "label": "E",
+          "text": "An alpha-1 antitrypsin deficiency"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cystic fibrosis results from a CFTR mutation that impairs chloride and water transport across epithelia, producing thick, sticky mucus that obstructs the airways and creates a niche for Pseudomonas colonization.",
+        "whyCorrect": "Cystic fibrosis results from a CFTR mutation that impairs chloride and water transport across epithelia, producing thick, sticky mucus that obstructs the airways and creates a niche for Pseudomonas colonization.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-210_mi014_f13.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

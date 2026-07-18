@@ -1,0 +1,240 @@
+{
+  "categoryId": "salmonella-shigella-and-campylobacter",
+  "categoryName": "Salmonella, Shigella, and Campylobacter",
+  "questions": [
+    {
+      "id": "mipic-041",
+      "topicId": "salmonella-shigella-and-campylobacter",
+      "topicName": "Salmonella, Shigella, and Campylobacter",
+      "stem": "On this MacConkey agar plate the colonies of the enteric pathogen remain pale/colorless rather than pink. What does this colony appearance indicate about the organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It ferments lactose strongly"
+        },
+        {
+          "label": "B",
+          "text": "It is gram-positive"
+        },
+        {
+          "label": "C",
+          "text": "It does not ferment lactose"
+        },
+        {
+          "label": "D",
+          "text": "It produces beta-hemolysis"
+        },
+        {
+          "label": "E",
+          "text": "It is oxidase positive"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Colorless (non-pink) colonies on MacConkey agar indicate a non-lactose fermenter. Salmonella spp. are gram-negative, lactose-non-fermenting rods, which appear pale against the pink lactose-fermenting background flora.",
+        "whyCorrect": "Colorless (non-pink) colonies on MacConkey agar indicate a non-lactose fermenter. Salmonella spp. are gram-negative, lactose-non-fermenting rods, which appear pale against the pink lactose-fermenting background flora.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-041_mi013_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-042",
+      "topicId": "salmonella-shigella-and-campylobacter",
+      "topicName": "Salmonella, Shigella, and Campylobacter",
+      "stem": "This triple sugar iron (TSI) agar tube shows an acidic (yellow) butt after inoculation with the enteric pathogen. Which two metabolic activities of Salmonella does the TSI reaction classically demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxidase and catalase activity"
+        },
+        {
+          "label": "B",
+          "text": "Nitrate reduction and indole formation"
+        },
+        {
+          "label": "C",
+          "text": "Urease activity and gas production"
+        },
+        {
+          "label": "D",
+          "text": "Glucose fermentation and hydrogen sulfide (H2S) production"
+        },
+        {
+          "label": "E",
+          "text": "Lactose and sucrose fermentation only"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "On TSI agar, Salmonella ferments glucose (yellow, acidic butt) and produces H2S, which reacts with iron salts to form a black precipitate. This distinguishes it from Shigella, which does not produce H2S.",
+        "whyCorrect": "On TSI agar, Salmonella ferments glucose (yellow, acidic butt) and produces H2S, which reacts with iron salts to form a black precipitate. This distinguishes it from Shigella, which does not produce H2S.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-042_mi013_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-043",
+      "topicId": "salmonella-shigella-and-campylobacter",
+      "topicName": "Salmonella, Shigella, and Campylobacter",
+      "stem": "This Gram stain shows small, curved, comma- or seagull-shaped pink-staining bacilli. These morphologic features are characteristic of which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shigella sonnei"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella enterica"
+        },
+        {
+          "label": "E",
+          "text": "Campylobacter jejuni"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Campylobacter spp. are gram-negative, comma- or S-shaped (seagull-shaped) rods, distinguishing them from the straight rods of Salmonella and Shigella. They are also oxidase positive and grow optimally at 42 degrees C.",
+        "whyCorrect": "Campylobacter spp. are gram-negative, comma- or S-shaped (seagull-shaped) rods, distinguishing them from the straight rods of Salmonella and Shigella. They are also oxidase positive and grow optimally at 42 degrees C.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-043_mi013_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-134",
+      "topicId": "salmonella-shigella-and-campylobacter",
+      "topicName": "Salmonella, Shigella, and Campylobacter",
+      "stem": "This gross specimen, shown with a centimeter ruler, is an abnormally small organ studded with dark infarcts. Loss of this organ's function predisposes patients to disseminated Salmonella infection. Which organ is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymph node"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Kidney"
+        },
+        {
+          "label": "D",
+          "text": "Spleen"
+        },
+        {
+          "label": "E",
+          "text": "Pancreas"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The specimen is a shrunken, infarcted spleen (autosplenectomy). Functional asplenia, as in sickle cell disease, impairs clearance of encapsulated and intracellular organisms and markedly increases the risk of disseminated salmonellosis.",
+        "whyCorrect": "The specimen is a shrunken, infarcted spleen (autosplenectomy). Functional asplenia, as in sickle cell disease, impairs clearance of encapsulated and intracellular organisms and markedly increases the risk of disseminated salmonellosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-134_mi013_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-135",
+      "topicId": "salmonella-shigella-and-campylobacter",
+      "topicName": "Salmonella, Shigella, and Campylobacter",
+      "stem": "This faint, blanching maculopapular eruption on the trunk is a classic transient finding of which systemic infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shigellosis"
+        },
+        {
+          "label": "B",
+          "text": "Reactive arthritis"
+        },
+        {
+          "label": "C",
+          "text": "Nontyphoidal Salmonella gastroenteritis"
+        },
+        {
+          "label": "D",
+          "text": "Campylobacter enteritis"
+        },
+        {
+          "label": "E",
+          "text": "Typhoid fever"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Rose spots, a transient maculopapular rash on the trunk, are characteristic of typhoidal salmonellosis (typhoid fever). This finding does not occur with nontyphoidal Salmonella infection.",
+        "whyCorrect": "Rose spots, a transient maculopapular rash on the trunk, are characteristic of typhoidal salmonellosis (typhoid fever). This finding does not occur with nontyphoidal Salmonella infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-135_mi013_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-208",
+      "topicId": "salmonella-shigella-and-campylobacter",
+      "topicName": "Salmonella, Shigella, and Campylobacter",
+      "stem": "Panels A and B diagram this needle-like apparatus spanning both bacterial membranes, and panel C shows it by electron microscopy. What is its primary function for the bacterium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rotating to provide flagellar motility"
+        },
+        {
+          "label": "B",
+          "text": "Conjugative transfer of plasmid DNA"
+        },
+        {
+          "label": "C",
+          "text": "Injecting effector proteins into the host cell cytoplasm"
+        },
+        {
+          "label": "D",
+          "text": "Exporting lipopolysaccharide to the surface"
+        },
+        {
+          "label": "E",
+          "text": "Assembling the peptidoglycan cell wall"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The structure is a Type III secretion system, a syringe-like injectisome that spans both membranes of gram-negative bacteria and translocates effector proteins directly into host cells to promote invasion and block phagocytic killing.",
+        "whyCorrect": "The structure is a Type III secretion system, a syringe-like injectisome that spans both membranes of gram-negative bacteria and translocates effector proteins directly into host cells to promote invasion and block phagocytic killing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-208_mi013_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

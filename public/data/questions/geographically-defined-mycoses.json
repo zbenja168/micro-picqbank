@@ -1,0 +1,552 @@
+{
+  "categoryId": "geographically-defined-mycoses",
+  "categoryName": "Geographically Defined Mycoses",
+  "questions": [
+    {
+      "id": "mipic-013",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "This tissue biopsy shows a large, thick-walled round structure filled with numerous small internal bodies. This finding is essentially pathognomonic for which fungal infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histoplasmosis"
+        },
+        {
+          "label": "B",
+          "text": "Blastomycosis"
+        },
+        {
+          "label": "C",
+          "text": "Aspergillosis"
+        },
+        {
+          "label": "D",
+          "text": "Cryptococcosis"
+        },
+        {
+          "label": "E",
+          "text": "Coccidioidomycosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Giant thick-walled spherules filled with endospores are the diagnostic tissue form of Coccidioides.",
+        "whyCorrect": "Giant thick-walled spherules filled with endospores are the diagnostic tissue form of Coccidioides.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-013_mi038_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-072",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "These chest images (radiograph A and CT B) from a patient in an endemic river-valley region show a nodular pattern mimicking miliary tuberculosis. Which infection should be suspected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "B",
+          "text": "Histoplasmosis"
+        },
+        {
+          "label": "C",
+          "text": "Blastomycosis"
+        },
+        {
+          "label": "D",
+          "text": "Miliary tuberculosis"
+        },
+        {
+          "label": "E",
+          "text": "Metastatic carcinoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acute pulmonary histoplasmosis can produce a nodular pneumonia with adenopathy resembling miliary TB; imaging alone is not diagnostic and requires laboratory confirmation.",
+        "whyCorrect": "Acute pulmonary histoplasmosis can produce a nodular pneumonia with adenopathy resembling miliary TB; imaging alone is not diagnostic and requires laboratory confirmation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-072_mi038_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-073",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "This chest radiograph shows cavitary lesions (dark areas within white opacities) in a smoker with chronic pulmonary disease. This cavitary appearance most closely mimics which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lobar bacterial pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "Pleural effusion"
+        },
+        {
+          "label": "C",
+          "text": "Simple pneumothorax"
+        },
+        {
+          "label": "D",
+          "text": "Tuberculosis"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary embolism"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cavitation and adenopathy in chronic pulmonary histoplasmosis can closely mimic tuberculosis, so identification and ruling out other causes is essential.",
+        "whyCorrect": "Cavitation and adenopathy in chronic pulmonary histoplasmosis can closely mimic tuberculosis, so identification and ruling out other causes is essential.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-073_mi038_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-074",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "This microscopy shows very small yeast cells with narrow-based budding, some resembling an hourglass or infinity sign as they divide. Which organism does this morphology indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "B",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "C",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "D",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "E",
+          "text": "Coccidioides immitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tiny (2-5 um) yeasts with narrow-based budding are characteristic of Histoplasma; Blastomyces shows broad-based budding and Cryptococcus has a wide capsule.",
+        "whyCorrect": "Tiny (2-5 um) yeasts with narrow-based budding are characteristic of Histoplasma; Blastomyces shows broad-based budding and Cryptococcus has a wide capsule.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-074_mi038_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-075",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "This mold form (grown at 25 C) shows large tuberculate structures alongside much smaller conidia (arrows). This combination is diagnostic of which fungus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "B",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "C",
+          "text": "Aspergillus fumigatus"
+        },
+        {
+          "label": "D",
+          "text": "Coccidioides immitis"
+        },
+        {
+          "label": "E",
+          "text": "Sporothrix schenckii"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The mold form of Histoplasma has both microconidia and distinctive large macroconidia (giant suns next to tiny microconidia); Blastomyces has conidia but no macroconidia.",
+        "whyCorrect": "The mold form of Histoplasma has both microconidia and distinctive large macroconidia (giant suns next to tiny microconidia); Blastomyces has conidia but no macroconidia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-075_mi038_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-076",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "This mold-form microscopy shows alternating barrel-shaped units resembling a bracelet. Which organism is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coccidioides spp."
+        },
+        {
+          "label": "B",
+          "text": "Aspergillus fumigatus"
+        },
+        {
+          "label": "C",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "D",
+          "text": "Rhizopus spp."
+        },
+        {
+          "label": "E",
+          "text": "Histoplasma capsulatum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The mold form of Coccidioides produces alternating barrel-shaped arthroconidia with clear cells between them, giving a bracelet-like appearance.",
+        "whyCorrect": "The mold form of Coccidioides produces alternating barrel-shaped arthroconidia with clear cells between them, giving a bracelet-like appearance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-076_mi038_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-077",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "In this immunodiffusion plate the central well contains antigen, surrounded by control and test-serum wells. A cloudy line forming between a test-serum well and the central well indicates which result for that sample?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antigen excess preventing any reaction"
+        },
+        {
+          "label": "B",
+          "text": "Negative - no antibodies present"
+        },
+        {
+          "label": "C",
+          "text": "Positive - antibodies are present"
+        },
+        {
+          "label": "D",
+          "text": "Indeterminate, requiring PCR confirmation"
+        },
+        {
+          "label": "E",
+          "text": "The sample is contaminated"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A precipitin line between a test well and the antigen well signals antigen-antibody complex formation, a positive result; wells that pass by one another without a line are negative.",
+        "whyCorrect": "A precipitin line between a test well and the antigen well signals antigen-antibody complex formation, a positive result; wells that pass by one another without a line are negative.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-077_mi038_f18.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-078",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "This microscopy shows yeast cells each surrounded by a large clear zone (an unstained halo). Which structural feature accounts for this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A germ tube"
+        },
+        {
+          "label": "B",
+          "text": "A thick polysaccharide capsule"
+        },
+        {
+          "label": "C",
+          "text": "An endospore-filled spherule"
+        },
+        {
+          "label": "D",
+          "text": "A broad-based bud"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculate macroconidia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cryptococcus has a very large polysaccharide capsule that excludes stain, creating a clear halo around the yeast.",
+        "whyCorrect": "Cryptococcus has a very large polysaccharide capsule that excludes stain, creating a clear halo around the yeast.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-078_mi038_f19.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-079",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "These brain MRIs from a 64-year-old show space-occupying nodular lesions (arrows). Among the endemic fungi, which is the most likely cause of this CNS involvement (meningitis and mass-like cryptococcomas)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspergillus fumigatus"
+        },
+        {
+          "label": "B",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "C",
+          "text": "Cryptococcus spp."
+        },
+        {
+          "label": "D",
+          "text": "Coccidioides immitis"
+        },
+        {
+          "label": "E",
+          "text": "Blastomyces dermatitidis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Although all these fungi can disseminate to the CNS, Cryptococcus is by far the most likely to infect the central nervous system, causing meningitis and cryptococcomas.",
+        "whyCorrect": "Although all these fungi can disseminate to the CNS, Cryptococcus is by far the most likely to infect the central nervous system, causing meningitis and cryptococcomas.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-079_mi038_f20.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-080",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "This CSF preparation uses a negative stain that leaves a clear halo around each yeast against a dark background. Which staining method and organism does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GMS silver stain of Histoplasma"
+        },
+        {
+          "label": "B",
+          "text": "Gram stain of Candida"
+        },
+        {
+          "label": "C",
+          "text": "India ink stain highlighting the capsule of Cryptococcus"
+        },
+        {
+          "label": "D",
+          "text": "Mucicarmine stain of Blastomyces"
+        },
+        {
+          "label": "E",
+          "text": "KOH preparation of Coccidioides"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "India ink is a classic negative stain for CSF: the thick capsule of Cryptococcus excludes the ink, producing a clear halo around each yeast on a dark background.",
+        "whyCorrect": "India ink is a classic negative stain for CSF: the thick capsule of Cryptococcus excludes the ink, producing a clear halo around each yeast on a dark background.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-080_mi038_f22.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-167",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "This severely immunocompromised (AIDS) patient presents with widespread cutaneous papules and nodules across the trunk. Given profound T-cell deficiency, disseminated infection by which endemic fungus is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sporothrix schenckii"
+        },
+        {
+          "label": "B",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "C",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "D",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "E",
+          "text": "Coccidioides immitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Disseminated histoplasmosis spreads via the reticuloendothelial system in patients with severe immunosuppression and can seed the skin among many organ systems.",
+        "whyCorrect": "Disseminated histoplasmosis spreads via the reticuloendothelial system in patients with severe immunosuppression and can seed the skin among many organ systems.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-167_mi038_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-168",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "A patient with coccidioidomycosis develops these tender, red nodules on the shins. This finding most likely represents which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A hypersensitivity reaction to amphotericin B"
+        },
+        {
+          "label": "B",
+          "text": "An immune (hypersensitivity) reaction to circulating fungal antigens, not tissue dissemination"
+        },
+        {
+          "label": "C",
+          "text": "Direct fungal dissemination to the skin"
+        },
+        {
+          "label": "D",
+          "text": "Septic emboli from fungal endocarditis"
+        },
+        {
+          "label": "E",
+          "text": "Kaposi sarcoma lesions"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Erythema nodosum reflects the immune system's response to fungal antigens leaking into the blood, not spread of the organism to the skin; it can also occur with non-infectious causes such as Crohn disease.",
+        "whyCorrect": "Erythema nodosum reflects the immune system's response to fungal antigens leaking into the blood, not spread of the organism to the skin; it can also occur with non-infectious causes such as Crohn disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-168_mi038_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-229",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "A dimorphic fungus with the endemic range shown here (overlapping Histoplasma but lacking any bird/bat-dropping association) classically forms which yeast morphology in tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Barrel-shaped arthroconidia"
+        },
+        {
+          "label": "B",
+          "text": "Encapsulated yeast with an India-ink halo"
+        },
+        {
+          "label": "C",
+          "text": "Broad-based budding yeast"
+        },
+        {
+          "label": "D",
+          "text": "Spherules with endospores"
+        },
+        {
+          "label": "E",
+          "text": "Narrow-based budding yeast"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is the range of Blastomyces, which favors decomposing leaves/wood and forms large yeast with characteristic broad-based budding.",
+        "whyCorrect": "This is the range of Blastomyces, which favors decomposing leaves/wood and forms large yeast with characteristic broad-based budding.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-229_mi038_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-230",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "This fungus is endemic to the arid region shown (notably southern Arizona and California's San Joaquin Valley). The inhaled infectious particles of its mold form take which shape?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Germ tubes"
+        },
+        {
+          "label": "B",
+          "text": "Broad-based budding yeast"
+        },
+        {
+          "label": "C",
+          "text": "Encapsulated yeast"
+        },
+        {
+          "label": "D",
+          "text": "Barrel-shaped arthroconidia arranged like a bracelet"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculate macroconidia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is the range of Coccidioides (Valley Fever); its mold form fragments into barrel-shaped arthroconidia that are inhaled and then convert to spherules in tissue.",
+        "whyCorrect": "This is the range of Coccidioides (Valley Fever); its mold form fragments into barrel-shaped arthroconidia that are inhaled and then convert to spherules in tissue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-230_mi038_f13.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "categoryId": "bacterial-structure-growth-and-staining",
+  "categoryName": "Bacterial Structure, Growth, and Staining",
+  "questions": [
+    {
+      "id": "mipic-005",
+      "topicId": "bacterial-structure-growth-and-staining",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "stem": "This electron micrograph shows a single bacterium with one long, thin whip-like appendage extending from one pole. What is the primary function of that appendage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Motility (propelling the cell through liquid)"
+        },
+        {
+          "label": "B",
+          "text": "Transfer of plasmid DNA between cells"
+        },
+        {
+          "label": "C",
+          "text": "Attachment to host epithelial surfaces"
+        },
+        {
+          "label": "D",
+          "text": "Uptake of nutrients across the membrane"
+        },
+        {
+          "label": "E",
+          "text": "Secretion of exotoxins"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The polar filament is a flagellum, a protein cylinder anchored in the cell envelope that rotates to propel the bacterium; adhesion is a role of pili/fimbriae, and conjugative transfer uses sex pili.",
+        "whyCorrect": "The polar filament is a flagellum, a protein cylinder anchored in the cell envelope that rotates to propel the bacterium; adhesion is a role of pili/fimbriae, and conjugative transfer uses sex pili.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-005_mi010_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-006",
+      "topicId": "bacterial-structure-growth-and-staining",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "stem": "This labeled schematic depicts a cell whose genetic material sits free in the cytoplasm as a single loop rather than inside a membrane-bound compartment. What type of cell is illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A plant cell"
+        },
+        {
+          "label": "B",
+          "text": "A prokaryotic (bacterial) cell"
+        },
+        {
+          "label": "C",
+          "text": "A eukaryotic animal cell"
+        },
+        {
+          "label": "D",
+          "text": "An enveloped virus particle"
+        },
+        {
+          "label": "E",
+          "text": "A fungal cell"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The absence of a nucleus with the nucleoid/circular DNA free in the cytoplasm, plus a capsule, cell wall, pili and flagellum, identifies this as a prokaryotic bacterial cell.",
+        "whyCorrect": "The absence of a nucleus with the nucleoid/circular DNA free in the cytoplasm, plus a capsule, cell wall, pili and flagellum, identifies this as a prokaryotic bacterial cell.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-006_mi010_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-039",
+      "topicId": "bacterial-structure-growth-and-staining",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "stem": "In this Ziehl-Neelsen (acid-fast) preparation, the background and most cells stain blue while a few slender, curved organisms remain bright red. What cell-wall component allows those red organisms to retain the carbol fuchsin after acid-alcohol washing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Polysaccharide capsule"
+        },
+        {
+          "label": "B",
+          "text": "Peptidoglycan"
+        },
+        {
+          "label": "C",
+          "text": "Mycolic acid"
+        },
+        {
+          "label": "D",
+          "text": "Teichoic acid"
+        },
+        {
+          "label": "E",
+          "text": "Lipopolysaccharide"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acid-fast organisms such as Mycobacteria have waxy mycolic acids in their walls that resist decolorization by acid-alcohol, so they hold the red carbol fuchsin while other cells take up the methylene blue counterstain.",
+        "whyCorrect": "Acid-fast organisms such as Mycobacteria have waxy mycolic acids in their walls that resist decolorization by acid-alcohol, so they hold the red carbol fuchsin while other cells take up the methylene blue counterstain.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-039_mi010_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-040",
+      "topicId": "bacterial-structure-growth-and-staining",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "stem": "This smear shows paired, kidney-bean-shaped diplococci that stain pink/red and lie within a host neutrophil. Why do these organisms take the pink color rather than staining purple?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are coated in waxy mycolic acids"
+        },
+        {
+          "label": "B",
+          "text": "Their wall is rich in teichoic acids"
+        },
+        {
+          "label": "C",
+          "text": "They possess only a thick polysaccharide capsule"
+        },
+        {
+          "label": "D",
+          "text": "They have a thick peptidoglycan cell wall"
+        },
+        {
+          "label": "E",
+          "text": "Their envelope has only a thin peptidoglycan layer beneath an outer lipopolysaccharide membrane"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Gram-negative diplococci lose the crystal violet during decolorization because their thin peptidoglycan sits between inner and outer membranes, so they take up the pink safranin counterstain.",
+        "whyCorrect": "Gram-negative diplococci lose the crystal violet during decolorization because their thin peptidoglycan sits between inner and outer membranes, so they take up the pink safranin counterstain.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-040_mi010_f10.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

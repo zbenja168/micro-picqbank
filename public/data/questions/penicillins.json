@@ -1,0 +1,162 @@
+{
+  "categoryId": "penicillins",
+  "categoryName": "Penicillins",
+  "questions": [
+    {
+      "id": "mipic-122",
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "stem": "This colonic finding developed after broad-spectrum penicillin therapy. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Shigella dysenteriae"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella enterica"
+        },
+        {
+          "label": "D",
+          "text": "Escherichia coli O157:H7"
+        },
+        {
+          "label": "E",
+          "text": "Clostridioides difficile"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Antibiotic-associated pseudomembranous colitis results from overgrowth of toxin-producing C. difficile spores after normal flora is disrupted; the yellow-white plaques are the pseudomembranes.",
+        "whyCorrect": "Antibiotic-associated pseudomembranous colitis results from overgrowth of toxin-producing C. difficile spores after normal flora is disrupted; the yellow-white plaques are the pseudomembranes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-122_mi000_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-123",
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "stem": "A patient given aminopenicillin develops this widespread maculopapular eruption. Concurrent infection with which condition classically precipitates it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Influenza A"
+        },
+        {
+          "label": "B",
+          "text": "Primary HIV infection"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcal pharyngitis"
+        },
+        {
+          "label": "D",
+          "text": "Infectious mononucleosis (EBV)"
+        },
+        {
+          "label": "E",
+          "text": "Acute hepatitis B"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ampicillin or amoxicillin given during EBV mononucleosis produces a characteristic non-allergic maculopapular rash; it does not indicate a true penicillin allergy.",
+        "whyCorrect": "Ampicillin or amoxicillin given during EBV mononucleosis produces a characteristic non-allergic maculopapular rash; it does not indicate a true penicillin allergy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-123_mi000_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-188",
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "stem": "The highlighted four-membered ring in this core antibiotic structure allows the drug to act as a structural analogue of which bacterial cell-wall substrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "N-acetylmuramic acid"
+        },
+        {
+          "label": "B",
+          "text": "D-glutamyl-D-glutamate"
+        },
+        {
+          "label": "C",
+          "text": "L-lysyl-L-lysine"
+        },
+        {
+          "label": "D",
+          "text": "meso-diaminopimelic acid"
+        },
+        {
+          "label": "E",
+          "text": "D-Alanyl-D-alanine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The strained beta-lactam ring mimics the D-Ala-D-Ala terminus of the peptidoglycan pentapeptide, letting penicillin covalently bind and irreversibly inhibit transpeptidase (PBP).",
+        "whyCorrect": "The strained beta-lactam ring mimics the D-Ala-D-Ala terminus of the peptidoglycan pentapeptide, letting penicillin covalently bind and irreversibly inhibit transpeptidase (PBP).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-188_mi000_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-189",
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "stem": "These four illustrated panels summarize the principal adverse-effect categories of which antibiotic class?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycosides"
+        },
+        {
+          "label": "B",
+          "text": "Fluoroquinolones"
+        },
+        {
+          "label": "C",
+          "text": "Tetracyclines"
+        },
+        {
+          "label": "D",
+          "text": "Macrolides"
+        },
+        {
+          "label": "E",
+          "text": "Penicillins (beta-lactams)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hypersensitivity reactions, diarrhea/C. difficile colitis, interstitial nephritis, and hematologic toxicities are the classic adverse effects associated with penicillin-class beta-lactam therapy.",
+        "whyCorrect": "Hypersensitivity reactions, diarrhea/C. difficile colitis, interstitial nephritis, and hematologic toxicities are the classic adverse effects associated with penicillin-class beta-lactam therapy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-189_mi000_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "categoryId": "atypical-bacteria",
+  "categoryName": "Atypical Bacteria",
+  "questions": [
+    {
+      "id": "mipic-008",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This transmission electron micrograph shows a host cell containing a single large membrane-bound structure packed with small particles. What is this structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A Negri inclusion body"
+        },
+        {
+          "label": "B",
+          "text": "An intracellular Mycoplasma microcolony"
+        },
+        {
+          "label": "C",
+          "text": "The nucleus undergoing mitosis"
+        },
+        {
+          "label": "D",
+          "text": "A cytoplasmic chlamydial inclusion"
+        },
+        {
+          "label": "E",
+          "text": "A phagolysosome digesting debris"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Chlamydia species replicate inside a membrane-bound endosome (inclusion) within the host-cell cytoplasm, which enlarges as the bacteria multiply and can eventually dominate the cell volume.",
+        "whyCorrect": "Chlamydia species replicate inside a membrane-bound endosome (inclusion) within the host-cell cytoplasm, which enlarges as the bacteria multiply and can eventually dominate the cell volume.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-008_mi018_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-009",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This colorized micrograph captures the final step of an intracellular bacterial cycle, with numerous small particles bursting from the host cell. What event is occurring?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Host-cell lysis releasing infectious elementary bodies"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial sporulation"
+        },
+        {
+          "label": "C",
+          "text": "Budding of enveloped virions"
+        },
+        {
+          "label": "D",
+          "text": "Phagocytosis of extracellular bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Biofilm formation on the cell surface"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "At the end of the chlamydial cycle, reticulate bodies convert back to elementary bodies and the infected cell lyses, releasing infectious elementary bodies that go on to infect neighboring cells.",
+        "whyCorrect": "At the end of the chlamydial cycle, reticulate bodies convert back to elementary bodies and the infected cell lyses, releasing infectious elementary bodies that go on to infect neighboring cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-009_mi018_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-010",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This electron micrograph shows the labeled bacterium residing within a human phagocyte. Which mechanism allows the organism to survive inside this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks the oxidative burst with catalase"
+        },
+        {
+          "label": "B",
+          "text": "It prevents fusion of the phagosome with lysosomes"
+        },
+        {
+          "label": "C",
+          "text": "It neutralizes phagosomal acid with urease"
+        },
+        {
+          "label": "D",
+          "text": "It escapes into the cytosol using a pore-forming toxin"
+        },
+        {
+          "label": "E",
+          "text": "It forms a thick antiphagocytic capsule"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Legionella pneumophila is a facultative intracellular pathogen taken up by macrophages via coiling phagocytosis; it then inhibits phagosome-lysosome fusion, allowing it to persist and replicate inside the phagocyte.",
+        "whyCorrect": "Legionella pneumophila is a facultative intracellular pathogen taken up by macrophages via coiling phagocytosis; it then inhibits phagosome-lysosome fusion, allowing it to persist and replicate inside the phagocyte.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-010_mi018_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-055",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "A young adult with a two-week history of low-grade fever and a persistent dry cough has this chest radiograph, whose lung findings look worse than the mild clinical symptoms. Which radiographic pattern is most characteristic of the responsible organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Large pleural effusion with a meniscus sign"
+        },
+        {
+          "label": "B",
+          "text": "Dense lobar consolidation"
+        },
+        {
+          "label": "C",
+          "text": "Patchy interstitial infiltrates"
+        },
+        {
+          "label": "D",
+          "text": "Upper-lobe cavitary lesion"
+        },
+        {
+          "label": "E",
+          "text": "Bilateral hilar lymphadenopathy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mycoplasma pneumoniae causes atypical ('walking') pneumonia in which lung involvement on imaging is characteristically streaky/patchy interstitial infiltrates that appear worse than the patient's mild symptoms, rather than the dense lobar consolidation of typical bacterial pneumonia.",
+        "whyCorrect": "Mycoplasma pneumoniae causes atypical ('walking') pneumonia in which lung involvement on imaging is characteristically streaky/patchy interstitial infiltrates that appear worse than the patient's mild symptoms, rather than the dense lobar consolidation of typical bacterial pneumonia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-055_mi018_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-056",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This electron micrograph shows a tiny bacterium that is markedly variable in shape (pleomorphic) with no definitive form. Which structural feature best explains this appearance and its resistance to beta-lactams?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A waxy mycolic-acid outer coat"
+        },
+        {
+          "label": "B",
+          "text": "A rigid polysaccharide capsule"
+        },
+        {
+          "label": "C",
+          "text": "An LPS-containing outer membrane"
+        },
+        {
+          "label": "D",
+          "text": "A thick peptidoglycan layer"
+        },
+        {
+          "label": "E",
+          "text": "Absence of a cell wall"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Mycoplasma pneumoniae lacks a cell wall entirely, so it has no fixed shape and appears pleomorphic; the absence of peptidoglycan also makes cell-wall-active antibiotics (beta-lactams) ineffective.",
+        "whyCorrect": "Mycoplasma pneumoniae lacks a cell wall entirely, so it has no fixed shape and appears pleomorphic; the absence of peptidoglycan also makes cell-wall-active antibiotics (beta-lactams) ineffective.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-056_mi018_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-057",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "These colonies with a dense center and translucent periphery ('fried-egg' appearance) grew only after the culture medium was supplemented with a specific lipid. Which growth requirement identifies this organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An elevated CO2 tension"
+        },
+        {
+          "label": "B",
+          "text": "Cholesterol (sterols) in the medium"
+        },
+        {
+          "label": "C",
+          "text": "Hemin (factor X)"
+        },
+        {
+          "label": "D",
+          "text": "Cysteine and iron"
+        },
+        {
+          "label": "E",
+          "text": "NAD (factor V)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mycoplasma is unique among bacteria in incorporating sterols such as cholesterol into its membrane and therefore requires sterol-supplemented media to grow; the resulting colonies show the classic fried-egg morphology.",
+        "whyCorrect": "Mycoplasma is unique among bacteria in incorporating sterols such as cholesterol into its membrane and therefore requires sterol-supplemented media to grow; the resulting colonies show the classic fried-egg morphology.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-057_mi018_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-058",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This rapid lateral-flow urine antigen assay is a common field method for diagnosing Legionnaires' disease. What is its principal diagnostic limitation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It cannot detect any serogroup of L. pneumophila"
+        },
+        {
+          "label": "B",
+          "text": "It cross-reacts with Streptococcus pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "It turns positive only after three weeks of illness"
+        },
+        {
+          "label": "D",
+          "text": "It requires a fresh sputum sample"
+        },
+        {
+          "label": "E",
+          "text": "It detects only L. pneumophila serogroup 1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The urine antigen test detects only L. pneumophila serogroup 1; because that serogroup causes about 90% of cases it remains very useful, but PCR or culture is needed to catch the other serogroups.",
+        "whyCorrect": "The urine antigen test detects only L. pneumophila serogroup 1; because that serogroup causes about 90% of cases it remains very useful, but PCR or culture is needed to catch the other serogroups.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-058_mi018_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-059",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This fastidious organism grew as the dark colonies shown only on buffered charcoal yeast extract agar and stains poorly on Gram stain. Which two supplements does it specifically require for growth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholesterol and sterols"
+        },
+        {
+          "label": "B",
+          "text": "Mannitol and high salt"
+        },
+        {
+          "label": "C",
+          "text": "Cystine and potassium tellurite"
+        },
+        {
+          "label": "D",
+          "text": "Cysteine and iron"
+        },
+        {
+          "label": "E",
+          "text": "Hemin and NAD (factors X and V)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Legionella pneumophila requires cysteine and iron, supplied by buffered charcoal yeast extract (BCYE) agar; because it stains poorly with Gram stain, a silver stain is used to visualize it in tissue or sputum.",
+        "whyCorrect": "Legionella pneumophila requires cysteine and iron, supplied by buffered charcoal yeast extract (BCYE) agar; because it stains poorly with Gram stain, a silver stain is used to visualize it in tissue or sputum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-059_mi018_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-216",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This schematic depicts the biphasic developmental cycle of the organism. Why can this bacterium replicate only inside host cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is an energy parasite that depends on host-derived ATP"
+        },
+        {
+          "label": "B",
+          "text": "It needs host cholesterol to build its cell wall"
+        },
+        {
+          "label": "C",
+          "text": "It is killed by exposure to extracellular oxygen"
+        },
+        {
+          "label": "D",
+          "text": "It cannot replicate its own DNA"
+        },
+        {
+          "label": "E",
+          "text": "It lacks ribosomes for protein synthesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chlamydia are obligate intracellular bacteria historically mistaken for viruses because they cannot generate sufficient ATP and rely on host-cell energy; the cycle alternates infectious elementary bodies with replicating reticulate bodies inside the inclusion.",
+        "whyCorrect": "Chlamydia are obligate intracellular bacteria historically mistaken for viruses because they cannot generate sufficient ATP and rely on host-cell energy; the cycle alternates infectious elementary bodies with replicating reticulate bodies inside the inclusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-216_mi018_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

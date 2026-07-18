@@ -1,0 +1,357 @@
+{
+  "categoryId": "gram-positive-and-negative-algorithms",
+  "categoryName": "Gram-Positive and Negative Algorithms",
+  "questions": [
+    {
+      "id": "mipic-020",
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "This Gram stain shows round purple organisms arranged in irregular grape-like clusters. Which genus does this arrangement suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus"
+        },
+        {
+          "label": "B",
+          "text": "Bacillus"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus"
+        },
+        {
+          "label": "D",
+          "text": "Neisseria"
+        },
+        {
+          "label": "E",
+          "text": "Clostridium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Gram-positive cocci that bunch into grape-like clusters are characteristic of Staphylococcus, which divides in multiple planes. Streptococci form chains, Neisseria form diplococci, and Bacillus/Clostridium are rods.",
+        "whyCorrect": "Gram-positive cocci that bunch into grape-like clusters are characteristic of Staphylococcus, which divides in multiple planes. Streptococci form chains, Neisseria form diplococci, and Bacillus/Clostridium are rods.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-020_mi047_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-109",
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "These white, dry, wrinkled colonies grew on Sabouraud dextrose agar. What type of organism is this medium designed to select for?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaerobic bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Gram-negative bacilli"
+        },
+        {
+          "label": "C",
+          "text": "Spirochetes"
+        },
+        {
+          "label": "D",
+          "text": "Fungi"
+        },
+        {
+          "label": "E",
+          "text": "Mycobacteria"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sabouraud dextrose agar uses an acidic pH plus antibiotics to inhibit bacteria and favor the growth of fungi such as Candida and Aspergillus.",
+        "whyCorrect": "Sabouraud dextrose agar uses an acidic pH plus antibiotics to inhibit bacteria and favor the growth of fungi such as Candida and Aspergillus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-109_mi047_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-110",
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "A rectal swab was plated on the two media shown; growth is abundant on the left plate but restricted to a specific organism on the right. What property of the right-hand medium explains this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a nonselective enrichment broth"
+        },
+        {
+          "label": "B",
+          "text": "It is selective for Neisseria"
+        },
+        {
+          "label": "C",
+          "text": "It selects for fungi"
+        },
+        {
+          "label": "D",
+          "text": "It is purely differential"
+        },
+        {
+          "label": "E",
+          "text": "It supports all normal flora equally"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Thayer-Martin medium contains antibiotics that suppress normal flora and select for Neisseria gonorrhoeae, whereas the nonselective chocolate agar is overgrown by normal flora.",
+        "whyCorrect": "Thayer-Martin medium contains antibiotics that suppress normal flora and select for Neisseria gonorrhoeae, whereas the nonselective chocolate agar is overgrown by normal flora.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-110_mi047_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-111",
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "This organism produced a distinctive bright metallic-green sheen on EMB agar. Which bacterium is classically identified by this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "B",
+          "text": "Salmonella enterica"
+        },
+        {
+          "label": "C",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "E",
+          "text": "Pseudomonas aeruginosa"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rapid, vigorous lactose fermentation by E. coli produces amines that bind the dyes, creating the characteristic green metallic sheen on EMB.",
+        "whyCorrect": "Rapid, vigorous lactose fermentation by E. coli produces amines that bind the dyes, creating the characteristic green metallic sheen on EMB.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-111_mi047_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-112",
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "This gram-positive algorithm sorts beta-hemolytic streptococci by antibiotic susceptibility. Sensitivity to which agent identifies Streptococcus pyogenes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Novobiocin"
+        },
+        {
+          "label": "B",
+          "text": "Bacitracin"
+        },
+        {
+          "label": "C",
+          "text": "Optochin"
+        },
+        {
+          "label": "D",
+          "text": "Colistin"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "S. pyogenes (Group A) is bacitracin sensitive, whereas S. agalactiae (Group B) is bacitracin resistant. Optochin and novobiocin are used for other organisms.",
+        "whyCorrect": "S. pyogenes (Group A) is bacitracin sensitive, whereas S. agalactiae (Group B) is bacitracin resistant. Optochin and novobiocin are used for other organisms.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-112_mi047_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-113",
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "In this test, one sample bubbles vigorously when mixed with hydrogen peroxide while the other does not. Which gram-positive genus corresponds to the bubbling (positive) result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus"
+        },
+        {
+          "label": "B",
+          "text": "Lactobacillus"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus"
+        },
+        {
+          "label": "D",
+          "text": "Clostridium"
+        },
+        {
+          "label": "E",
+          "text": "Enterococcus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Catalase-positive staphylococci break H2O2 into water and oxygen, producing bubbles; streptococci are catalase negative and produce none.",
+        "whyCorrect": "Catalase-positive staphylococci break H2O2 into water and oxygen, producing bubbles; streptococci are catalase negative and produce none.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-113_mi047_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-114",
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "A disk was placed on this blood agar plate; one half shows a clear zone of inhibition around the disk and the other grows up to it. If the disk contains optochin, which organism is represented by the zone of inhibition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "E",
+          "text": "Viridans streptococci"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "S. pneumoniae is optochin sensitive, producing a clear zone of inhibition, whereas viridans streptococci are optochin resistant and grow up to the disk.",
+        "whyCorrect": "S. pneumoniae is optochin sensitive, producing a clear zone of inhibition, whereas viridans streptococci are optochin resistant and grow up to the disk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-114_mi047_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-115",
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "This gram-negative identification decision tree branches early on a single enzyme test. Which test distinguishes Pseudomonas from most Enterobacteriaceae here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Catalase test"
+        },
+        {
+          "label": "B",
+          "text": "Optochin sensitivity"
+        },
+        {
+          "label": "C",
+          "text": "Bile solubility"
+        },
+        {
+          "label": "D",
+          "text": "Oxidase test"
+        },
+        {
+          "label": "E",
+          "text": "Coagulase test"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pseudomonas is oxidase positive while most Enterobacteriaceae (E. coli, Shigella, Salmonella) are oxidase negative, making oxidase the key early branch.",
+        "whyCorrect": "Pseudomonas is oxidase positive while most Enterobacteriaceae (E. coli, Shigella, Salmonella) are oxidase negative, making oxidase the key early branch.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-115_mi047_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-116",
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "In this assay, one filter-paper sample developed a dark blue-purple color while the other stayed pale. The blue color indicates the organism produces which enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-lactamase"
+        },
+        {
+          "label": "B",
+          "text": "Urease"
+        },
+        {
+          "label": "C",
+          "text": "Cytochrome c oxidase"
+        },
+        {
+          "label": "D",
+          "text": "Coagulase"
+        },
+        {
+          "label": "E",
+          "text": "Catalase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The oxidase reagent turns blue-purple when oxidized by cytochrome c oxidase, marking an oxidase-positive organism; a pale result is oxidase negative.",
+        "whyCorrect": "The oxidase reagent turns blue-purple when oxidized by cytochrome c oxidase, marking an oxidase-positive organism; a pale result is oxidase negative.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-116_mi047_f18.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

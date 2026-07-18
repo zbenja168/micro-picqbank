@@ -1,0 +1,123 @@
+{
+  "categoryId": "retroviridae",
+  "categoryName": "Retroviridae",
+  "questions": [
+    {
+      "id": "mipic-157",
+      "topicId": "retroviridae",
+      "topicName": "Retroviridae",
+      "stem": "An HIV-positive patient with a low CD4 count develops the multiple raised violaceous-to-red cutaneous nodules and plaques shown here. Which pathogen is responsible for this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Human herpesvirus 8 (HHV-8)"
+        },
+        {
+          "label": "B",
+          "text": "Molluscum contagiosum virus"
+        },
+        {
+          "label": "C",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "D",
+          "text": "Epstein-Barr virus (HHV-4)"
+        },
+        {
+          "label": "E",
+          "text": "Cytomegalovirus (HHV-5)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The image shows Kaposi sarcoma, a vascular tumor of endothelial cells caused by HHV-8 (KSHV). It classically arises in immunocompromised patients, especially those with advanced HIV, appearing as red-purple skin nodules.",
+        "whyCorrect": "The image shows Kaposi sarcoma, a vascular tumor of endothelial cells caused by HHV-8 (KSHV). It classically arises in immunocompromised patients, especially those with advanced HIV, appearing as red-purple skin nodules.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-157_mi027_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-158",
+      "topicId": "retroviridae",
+      "topicName": "Retroviridae",
+      "stem": "This graph plots two laboratory markers against time over the natural course of untreated HIV infection. What best explains the tall, transient spike in the plasma viral-load (RNA) curve seen during the first several weeks?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of proviral DNA from long-lived memory cells"
+        },
+        {
+          "label": "B",
+          "text": "Reactivation of a latent AIDS-defining opportunistic infection"
+        },
+        {
+          "label": "C",
+          "text": "A laboratory artifact from cross-reacting maternal antibodies"
+        },
+        {
+          "label": "D",
+          "text": "Unchecked viral replication before an adaptive immune response develops (acute retroviral syndrome)"
+        },
+        {
+          "label": "E",
+          "text": "The onset of antiretroviral therapy driving viral rebound"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Early after exposure HIV replicates rapidly and seeds lymphoid tissue, producing a burst of viremia with a sharp fall in CD4 counts. As cytotoxic T cells and antibodies develop, viremia drops to a set point and CD4 counts partially recover, giving the long clinical-latency plateau before the terminal AIDS decline.",
+        "whyCorrect": "Early after exposure HIV replicates rapidly and seeds lymphoid tissue, producing a burst of viremia with a sharp fall in CD4 counts. As cytotoxic T cells and antibodies develop, viremia drops to a set point and CD4 counts partially recover, giving the long clinical-latency plateau before the terminal AIDS decline.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-158_mi028_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-225",
+      "topicId": "retroviridae",
+      "topicName": "Retroviridae",
+      "stem": "These sequential micrographs of a hypodermic needle tip (new, and after being used one, two, and six times) primarily demonstrate which consequence relevant to injection-drug use?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Formation of a protective oxide coating preventing infection"
+        },
+        {
+          "label": "B",
+          "text": "Surface sterilization of the needle with repeated use"
+        },
+        {
+          "label": "C",
+          "text": "Reduced likelihood of HIV transmission with reuse"
+        },
+        {
+          "label": "D",
+          "text": "Progressive dulling and barbing that increases tissue trauma and bloodborne transmission risk"
+        },
+        {
+          "label": "E",
+          "text": "Sharpening of the needle tip improving injection ease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "With repeated use the needle tip becomes dull and develops barbs. Users may lick or reuse needles, and this damage combined with sharing greatly increases physical tissue injury and the risk of transmitting HIV and other bloodborne pathogens.",
+        "whyCorrect": "With repeated use the needle tip becomes dull and develops barbs. Users may lick or reuse needles, and this damage combined with sharing greatly increases physical tissue injury and the risk of transmitting HIV and other bloodborne pathogens.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-225_mi027_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

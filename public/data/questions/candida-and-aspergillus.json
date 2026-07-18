@@ -1,0 +1,201 @@
+{
+  "categoryId": "candida-and-aspergillus",
+  "categoryName": "Candida and Aspergillus",
+  "questions": [
+    {
+      "id": "mipic-067",
+      "topicId": "candida-and-aspergillus",
+      "topicName": "Candida and Aspergillus",
+      "stem": "This stained microscopy field from a patient sample shows both budding yeast cells and elongated pseudohyphae. This mixed morphology is characteristic of which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "B",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "C",
+          "text": "Aspergillus species"
+        },
+        {
+          "label": "D",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "E",
+          "text": "Candida species"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Candida is dimorphic (though not thermally dimorphic), so patient samples show both yeast and hyphal/pseudohyphal forms. Aspergillus exists only as septate hyphae, and Cryptococcus as encapsulated yeast.",
+        "whyCorrect": "Candida is dimorphic (though not thermally dimorphic), so patient samples show both yeast and hyphal/pseudohyphal forms. Aspergillus exists only as septate hyphae, and Cryptococcus as encapsulated yeast.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-067_mi037_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-068",
+      "topicId": "candida-and-aspergillus",
+      "topicName": "Candida and Aspergillus",
+      "stem": "After incubation in serum at 37C for a few hours, this microscopy image shows tube-like hyphal projections extending directly from the mother yeast cells. This rapid test identifies which species?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "B",
+          "text": "Candida glabrata"
+        },
+        {
+          "label": "C",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "D",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "E",
+          "text": "Aspergillus fumigatus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Germ tube formation in serum at 37C is a rapid, near-specific identifier for Candida albicans; most other Candida species and non-Candida fungi do not form germ tubes under these conditions.",
+        "whyCorrect": "Germ tube formation in serum at 37C is a rapid, near-specific identifier for Candida albicans; most other Candida species and non-Candida fungi do not form germ tubes under these conditions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-068_mi037_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-069",
+      "topicId": "candida-and-aspergillus",
+      "topicName": "Candida and Aspergillus",
+      "stem": "This axial CT of the paranasal sinuses shows opacification and a soft-tissue mass filling the sinus cavity in an immunocompromised patient. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute bacterial sinusitis"
+        },
+        {
+          "label": "B",
+          "text": "Allergic rhinitis"
+        },
+        {
+          "label": "C",
+          "text": "Benign nasal polyposis"
+        },
+        {
+          "label": "D",
+          "text": "Invasive fungal (Aspergillus) sinusitis"
+        },
+        {
+          "label": "E",
+          "text": "Sinonasal squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A mass-like opacification of the sinus in an immunocompromised host, with potential bony destruction, suggests invasive fungal sinusitis; Aspergillus can colonize and invade the sinuses when host defenses are impaired.",
+        "whyCorrect": "A mass-like opacification of the sinus in an immunocompromised host, with potential bony destruction, suggests invasive fungal sinusitis; Aspergillus can colonize and invade the sinuses when host defenses are impaired.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-069_mi037_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-070",
+      "topicId": "candida-and-aspergillus",
+      "topicName": "Candida and Aspergillus",
+      "stem": "This chest imaging demonstrates a large cavity in the lung. In a patient with prior tuberculosis, colonization of such a pre-existing cavity by Aspergillus most classically produces what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydatid cyst"
+        },
+        {
+          "label": "B",
+          "text": "Pyogenic lung abscess"
+        },
+        {
+          "label": "C",
+          "text": "Bronchogenic carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Aspergilloma (fungus ball)"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary infarct"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Aspergillus can grow within pre-existing lung cavities (e.g., from prior TB) to form a mobile fungus ball, or aspergilloma, typically requiring surgery plus antifungals for treatment.",
+        "whyCorrect": "Aspergillus can grow within pre-existing lung cavities (e.g., from prior TB) to form a mobile fungus ball, or aspergilloma, typically requiring surgery plus antifungals for treatment.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-070_mi037_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-071",
+      "topicId": "candida-and-aspergillus",
+      "topicName": "Candida and Aspergillus",
+      "stem": "This panel shows Sabouraud cultures of several related molds with a range of dark and earth-tone pigments. Unlike Candida, which appears bright white, what growth form do all of these organisms exhibit in patient samples?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mold (hyphal) form only"
+        },
+        {
+          "label": "B",
+          "text": "Yeast form only"
+        },
+        {
+          "label": "C",
+          "text": "Thermally dimorphic yeast-and-mold"
+        },
+        {
+          "label": "D",
+          "text": "Encapsulated budding yeast"
+        },
+        {
+          "label": "E",
+          "text": "Spherules with endospores"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aspergillus species exist only as molds (septate hyphae) and never form a single-celled yeast phase, which is one feature distinguishing them from Candida in clinical specimens.",
+        "whyCorrect": "Aspergillus species exist only as molds (septate hyphae) and never form a single-celled yeast phase, which is one feature distinguishing them from Candida in clinical specimens.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-071_mi037_f15.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

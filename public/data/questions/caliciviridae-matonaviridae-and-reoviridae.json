@@ -1,0 +1,162 @@
+{
+  "categoryId": "caliciviridae-matonaviridae-and-reoviridae",
+  "categoryName": "Caliciviridae, Matonaviridae, and Reoviridae",
+  "questions": [
+    {
+      "id": "mipic-065",
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "stem": "On red-reflex testing of an infant with the bilateral white lenticular opacities indicated here by the arrows, which examination finding would you expect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Kayser-Fleischer rings"
+        },
+        {
+          "label": "B",
+          "text": "Cotton-wool spots on funduscopy"
+        },
+        {
+          "label": "C",
+          "text": "Bilateral papilledema"
+        },
+        {
+          "label": "D",
+          "text": "Roth spots"
+        },
+        {
+          "label": "E",
+          "text": "Leukocoria (white/absent red reflex)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Dense lens opacification (cataract) blocks the normal red reflex, producing a white pupillary reflex (leukocoria). Cotton-wool spots and Roth spots are retinal findings that could not be appreciated when the lens itself is opaque.",
+        "whyCorrect": "Dense lens opacification (cataract) blocks the normal red reflex, producing a white pupillary reflex (leukocoria). Cotton-wool spots and Roth spots are retinal findings that could not be appreciated when the lens itself is opaque.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-065_mi034_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-163",
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "stem": "This labeled illustration shows a proximal segment of bowel telescoping into the adjacent distal segment, trapping intestinal contents in the distended bowel above it. Occurring in roughly 1 in 20,000-100,000 infants, this finding is a recognized rare complication of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rubella infection"
+        },
+        {
+          "label": "B",
+          "text": "Rotavirus vaccine"
+        },
+        {
+          "label": "C",
+          "text": "Oral rehydration therapy"
+        },
+        {
+          "label": "D",
+          "text": "MMR vaccine"
+        },
+        {
+          "label": "E",
+          "text": "Norovirus gastroenteritis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The image depicts intussusception, a rare bowel obstruction that is a recognized adverse event of the oral rotavirus vaccine; surgery is sometimes required to correct it.",
+        "whyCorrect": "The image depicts intussusception, a rare bowel obstruction that is a recognized adverse event of the oral rotavirus vaccine; surgery is sometimes required to correct it.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-163_mi034_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-164",
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "stem": "This newborn shows the ocular clouding that forms part of the classic triad of a TORCH infection acquired transplacentally. Which two additional findings complete that triad?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sensorineural deafness and congenital heart defects"
+        },
+        {
+          "label": "B",
+          "text": "Chorioretinitis and hydrocephalus"
+        },
+        {
+          "label": "C",
+          "text": "Microcephaly and periventricular calcifications"
+        },
+        {
+          "label": "D",
+          "text": "Limb hypoplasia and cicatricial skin lesions"
+        },
+        {
+          "label": "E",
+          "text": "Hepatosplenomegaly and jaundice"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The cataracts shown are a hallmark of congenital rubella syndrome, whose classic triad is cataracts, sensorineural deafness, and congenital heart defects. Microcephaly with periventricular calcifications instead suggests congenital CMV.",
+        "whyCorrect": "The cataracts shown are a hallmark of congenital rubella syndrome, whose classic triad is cataracts, sensorineural deafness, and congenital heart defects. Microcephaly with periventricular calcifications instead suggests congenital CMV.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-164_mi034_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-165",
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "stem": "This neonate has diffuse blue-purple papulonodular skin lesions over the trunk and face producing a 'blueberry muffin' appearance. What underlying process most directly produces these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neonatal cephalic pustulosis"
+        },
+        {
+          "label": "B",
+          "text": "Disseminated cutaneous candidiasis"
+        },
+        {
+          "label": "C",
+          "text": "Meningococcal petechiae from DIC"
+        },
+        {
+          "label": "D",
+          "text": "Dermal extramedullary hematopoiesis"
+        },
+        {
+          "label": "E",
+          "text": "Allergic contact dermatitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The 'blueberry muffin' rash of congenital TORCH infections such as rubella and CMV results from foci of extramedullary hematopoiesis in the dermis; associated thrombocytopenia contributes overlying petechiae and purpura.",
+        "whyCorrect": "The 'blueberry muffin' rash of congenital TORCH infections such as rubella and CMV results from foci of extramedullary hematopoiesis in the dermis; associated thrombocytopenia contributes overlying petechiae and purpura.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-165_mi034_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

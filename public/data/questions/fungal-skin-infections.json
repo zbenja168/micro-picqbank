@@ -1,0 +1,864 @@
+{
+  "categoryId": "fungal-skin-infections",
+  "categoryName": "Fungal Skin Infections",
+  "questions": [
+    {
+      "id": "mipic-014",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This labeled diagram depicts the layered structure of the epidermis. Why are dermatophyte infections confined to the superficial region shown here rather than invading deeper tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermatophytes require keratin and cannot survive in the living, keratin-poor deeper tissue"
+        },
+        {
+          "label": "B",
+          "text": "Dermatophytes are obligate intracellular organisms of basal cells"
+        },
+        {
+          "label": "C",
+          "text": "Blood vessels in the dermis physically wall off the fungus"
+        },
+        {
+          "label": "D",
+          "text": "Dermatophytes are killed instantly by melanocyte pigment"
+        },
+        {
+          "label": "E",
+          "text": "The dermis contains antifungal proteins that block invasion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dermatophytes feed on keratin found only in the stratum corneum, hair, and nails, so they remain limited to keratinized superficial layers and rarely cause deep or systemic disease.",
+        "whyCorrect": "Dermatophytes feed on keratin found only in the stratum corneum, hair, and nails, so they remain limited to keratinized superficial layers and rarely cause deep or systemic disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-014_mi040_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-081",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "Under this ultraviolet lamp the infected area fluoresces. What is the correct interpretation of a positive and a negative result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluorescence indicates a viral coinfection"
+        },
+        {
+          "label": "B",
+          "text": "A negative test definitively excludes fungal infection"
+        },
+        {
+          "label": "C",
+          "text": "Some dermatophytes fluoresce; a negative test does NOT rule out infection"
+        },
+        {
+          "label": "D",
+          "text": "A positive test confirms bacterial infection"
+        },
+        {
+          "label": "E",
+          "text": "All dermatophytes fluoresce, so the test is fully diagnostic"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A Wood's lamp causes some dermatophytes (e.g., Microsporum canis) to fluoresce, but many do not, so a negative test cannot exclude a fungal infection.",
+        "whyCorrect": "A Wood's lamp causes some dermatophytes (e.g., Microsporum canis) to fluoresce, but many do not, so a negative test cannot exclude a fungal infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-081_mi040_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-082",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This microscopy shows smooth, club/beaver-tail-shaped macroconidia in clusters with no microconidia. Which genus is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sporothrix"
+        },
+        {
+          "label": "B",
+          "text": "Epidermophyton"
+        },
+        {
+          "label": "C",
+          "text": "Malassezia"
+        },
+        {
+          "label": "D",
+          "text": "Trichophyton"
+        },
+        {
+          "label": "E",
+          "text": "Microsporum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Epidermophyton produces smooth, club-shaped macroconidia in clusters and characteristically lacks microconidia.",
+        "whyCorrect": "Epidermophyton produces smooth, club-shaped macroconidia in clusters and characteristically lacks microconidia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-082_mi040_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-083",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This microscopy shows cigar-shaped macroconidia with abundant microconidia. Which dermatophyte genus does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trichophyton"
+        },
+        {
+          "label": "B",
+          "text": "Malassezia"
+        },
+        {
+          "label": "C",
+          "text": "Epidermophyton"
+        },
+        {
+          "label": "D",
+          "text": "Microsporum"
+        },
+        {
+          "label": "E",
+          "text": "Candida"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Trichophyton is distinguished by cigar-shaped macroconidia, numerous microconidia, and sometimes coiled or spiraled hyphae.",
+        "whyCorrect": "Trichophyton is distinguished by cigar-shaped macroconidia, numerous microconidia, and sometimes coiled or spiraled hyphae.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-083_mi040_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-084",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This microscopy shows rough-walled, spindle-shaped macroconidia with microconidia present. Which genus is identified?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epidermophyton"
+        },
+        {
+          "label": "B",
+          "text": "Sporothrix"
+        },
+        {
+          "label": "C",
+          "text": "Malassezia"
+        },
+        {
+          "label": "D",
+          "text": "Trichophyton"
+        },
+        {
+          "label": "E",
+          "text": "Microsporum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Microsporum is identified by rough-walled, spindle-shaped macroconidia, in contrast to the smooth macroconidia of Epidermophyton.",
+        "whyCorrect": "Microsporum is identified by rough-walled, spindle-shaped macroconidia, in contrast to the smooth macroconidia of Epidermophyton.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-084_mi040_f18.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-085",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This fungal colony is growing on the medium of choice for isolating dermatophytes. What medium is this and why is it selective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thayer-Martin agar, selective for Neisseria"
+        },
+        {
+          "label": "B",
+          "text": "Chocolate agar, enriched for fastidious bacteria"
+        },
+        {
+          "label": "C",
+          "text": "Sabouraud dextrose agar, selective due to its low pH"
+        },
+        {
+          "label": "D",
+          "text": "MacConkey agar, selective for gram-negative rods"
+        },
+        {
+          "label": "E",
+          "text": "Blood agar, selective for hemolytic organisms"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sabouraud dextrose agar has a low pH (~5.6) that inhibits most bacterial growth, making it selective for fungi.",
+        "whyCorrect": "Sabouraud dextrose agar has a low pH (~5.6) that inhibits most bacterial growth, making it selective for fungi.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-085_mi040_f19.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-086",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This KOH preparation reveals clustered round yeast cells together with short hyphal elements. What is the classic descriptive term for this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "India ink halo"
+        },
+        {
+          "label": "B",
+          "text": "Chain of pearls"
+        },
+        {
+          "label": "C",
+          "text": "Spaghetti and meatballs"
+        },
+        {
+          "label": "D",
+          "text": "Sulfur granules"
+        },
+        {
+          "label": "E",
+          "text": "Germ tubes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Malassezia in a KOH prep shows clustered yeast cells (meatballs) with short hyphae (spaghetti), the classic 'spaghetti and meatballs' appearance.",
+        "whyCorrect": "Malassezia in a KOH prep shows clustered yeast cells (meatballs) with short hyphae (spaghetti), the classic 'spaghetti and meatballs' appearance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-086_mi040_f21.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-087",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This tissue biopsy shows a central yeast surrounded by radiating, star-shaped eosinophilic material within a giant cell. What is this structure called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Psammoma body"
+        },
+        {
+          "label": "B",
+          "text": "Negri body"
+        },
+        {
+          "label": "C",
+          "text": "Molluscum body"
+        },
+        {
+          "label": "D",
+          "text": "Schaumann body"
+        },
+        {
+          "label": "E",
+          "text": "Asteroid body"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Asteroid bodies are star-shaped structures surrounding the yeast within giant cells of granulomas, seen in sporotrichosis, especially disseminated disease.",
+        "whyCorrect": "Asteroid bodies are star-shaped structures surrounding the yeast within giant cells of granulomas, seen in sporotrichosis, especially disseminated disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-087_mi040_f24.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-169",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This annular skin lesion with a raised scaly advancing border and central clearing is most consistent with which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granuloma annulare"
+        },
+        {
+          "label": "B",
+          "text": "Erythema migrans"
+        },
+        {
+          "label": "C",
+          "text": "Tinea corporis (ringworm)"
+        },
+        {
+          "label": "D",
+          "text": "Nummular eczema"
+        },
+        {
+          "label": "E",
+          "text": "Psoriasis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The classic ring shape with an active scaly border and central clearing is produced as the dermatophyte spreads outward while the immune response clears the center.",
+        "whyCorrect": "The classic ring shape with an active scaly border and central clearing is produced as the dermatophyte spreads outward while the immune response clears the center.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-169_mi040_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-170",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This child's scalp shows a patch of hair loss with scaling and broken-off hairs. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alopecia areata"
+        },
+        {
+          "label": "B",
+          "text": "Trichotillomania"
+        },
+        {
+          "label": "C",
+          "text": "Seborrheic dermatitis"
+        },
+        {
+          "label": "D",
+          "text": "Discoid lupus"
+        },
+        {
+          "label": "E",
+          "text": "Tinea capitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Scaly patches with patchy alopecia and broken hairs (black dots) in a child are characteristic of dermatophyte scalp infection, tinea capitis.",
+        "whyCorrect": "Scaly patches with patchy alopecia and broken hairs (black dots) in a child are characteristic of dermatophyte scalp infection, tinea capitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-170_mi040_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-171",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This infant scalp demonstrates patchy hair loss from a dermatophyte infection. Which genera most commonly cause this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malassezia and Candida"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus and Streptococcus"
+        },
+        {
+          "label": "C",
+          "text": "Epidermophyton and Sporothrix"
+        },
+        {
+          "label": "D",
+          "text": "Trichophyton and Microsporum"
+        },
+        {
+          "label": "E",
+          "text": "Aspergillus and Fusarium"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tinea capitis is most frequently caused by Trichophyton and Microsporum species; Epidermophyton does not infect hair.",
+        "whyCorrect": "Tinea capitis is most frequently caused by Trichophyton and Microsporum species; Epidermophyton does not infect hair.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-171_mi040_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-172",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This inflamed, crusted eruption over a man's beard area is most consistent with which infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pseudofolliculitis barbae"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial folliculitis"
+        },
+        {
+          "label": "C",
+          "text": "Perioral dermatitis"
+        },
+        {
+          "label": "D",
+          "text": "Acne vulgaris"
+        },
+        {
+          "label": "E",
+          "text": "Tinea barbae"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tinea barbae is a dermatophyte infection of the beard region, typically acquired from animals and presenting with itchy, red, crusting lesions and hair loss.",
+        "whyCorrect": "Tinea barbae is a dermatophyte infection of the beard region, typically acquired from animals and presenting with itchy, red, crusting lesions and hair loss.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-172_mi040_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-173",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This farm animal shows circular patches of hair loss with crusting from a dermatophyte. Why is recognizing this relevant to human infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It proves the infection is non-contagious to humans"
+        },
+        {
+          "label": "B",
+          "text": "It is a zoonotic reservoir that can transmit dermatophytes to humans"
+        },
+        {
+          "label": "C",
+          "text": "It is the definitive sexual host of the fungus"
+        },
+        {
+          "label": "D",
+          "text": "It represents systemic fungal dissemination"
+        },
+        {
+          "label": "E",
+          "text": "It shows the fungus is dimorphic only in cattle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Livestock such as cattle harbor zoophilic dermatophytes (e.g., Trichophyton verrucosum) that can be transmitted to farmers and animal workers.",
+        "whyCorrect": "Livestock such as cattle harbor zoophilic dermatophytes (e.g., Trichophyton verrucosum) that can be transmitted to farmers and animal workers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-173_mi040_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-174",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This trunk lesion shows an expanding red patch with central clearing. Which organism is a particularly common cause among pet owners?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malassezia globosa"
+        },
+        {
+          "label": "B",
+          "text": "Epidermophyton floccosum"
+        },
+        {
+          "label": "C",
+          "text": "Sporothrix schenckii"
+        },
+        {
+          "label": "D",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "E",
+          "text": "Microsporum canis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Microsporum canis is a zoophilic dermatophyte commonly transmitted from cats and dogs, making it a frequent cause of tinea corporis in pet owners.",
+        "whyCorrect": "Microsporum canis is a zoophilic dermatophyte commonly transmitted from cats and dogs, making it a frequent cause of tinea corporis in pet owners.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-174_mi040_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-175",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This erythematous scaly eruption in the groin fold that spares the scrotum is most consistent with which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candidal intertrigo"
+        },
+        {
+          "label": "B",
+          "text": "Contact dermatitis"
+        },
+        {
+          "label": "C",
+          "text": "Erythrasma"
+        },
+        {
+          "label": "D",
+          "text": "Inverse psoriasis"
+        },
+        {
+          "label": "E",
+          "text": "Tinea cruris"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tinea cruris (jock itch) affects the groin and inner thighs with an advancing scaly border and characteristically spares the scrotum, unlike candidal infection.",
+        "whyCorrect": "Tinea cruris (jock itch) affects the groin and inner thighs with an advancing scaly border and characteristically spares the scrotum, unlike candidal infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-175_mi040_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-176",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This maceration and scaling between the toes represents which form of tinea pedis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interdigital (toe web) form"
+        },
+        {
+          "label": "B",
+          "text": "Onychomycosis"
+        },
+        {
+          "label": "C",
+          "text": "Ulcerative form"
+        },
+        {
+          "label": "D",
+          "text": "Vesiculobullous form"
+        },
+        {
+          "label": "E",
+          "text": "Moccasin (chronic hyperkeratotic) form"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The interdigital form is the most common presentation of athlete's foot, with macerated, scaly skin predominantly between the toes.",
+        "whyCorrect": "The interdigital form is the most common presentation of athlete's foot, with macerated, scaly skin predominantly between the toes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-176_mi040_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-177",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This foot shows tense blisters and erosions from a dermatophyte infection. Which form of tinea pedis is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vesiculobullous form"
+        },
+        {
+          "label": "B",
+          "text": "Moccasin form"
+        },
+        {
+          "label": "C",
+          "text": "Interdigital form"
+        },
+        {
+          "label": "D",
+          "text": "Impetigo"
+        },
+        {
+          "label": "E",
+          "text": "Onychomycosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The vesiculobullous form presents with painful, itchy blisters on the soles that are often intensely red and swollen.",
+        "whyCorrect": "The vesiculobullous form presents with painful, itchy blisters on the soles that are often intensely red and swollen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-177_mi040_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-178",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "These thickened, discolored, crumbling nails are most consistent with which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Subungual melanoma"
+        },
+        {
+          "label": "B",
+          "text": "Psoriatic nail dystrophy"
+        },
+        {
+          "label": "C",
+          "text": "Onychomycosis (tinea unguium)"
+        },
+        {
+          "label": "D",
+          "text": "Chronic nail trauma"
+        },
+        {
+          "label": "E",
+          "text": "Lichen planus of the nail"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tinea unguium (onychomycosis) is a dermatophyte nail infection causing thick, discolored, brittle nails that are often resistant to topical therapy.",
+        "whyCorrect": "Tinea unguium (onychomycosis) is a dermatophyte nail infection causing thick, discolored, brittle nails that are often resistant to topical therapy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-178_mi040_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-179",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This inflamed, macerated eruption arising where two skin surfaces rub together is best described as?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "B",
+          "text": "Hidradenitis suppurativa"
+        },
+        {
+          "label": "C",
+          "text": "Tinea corporis"
+        },
+        {
+          "label": "D",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "E",
+          "text": "Intertrigo"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Intertrigo is inflammation of skin folds caused by friction, moisture, and irritation, and it can predispose to secondary bacterial and fungal infection.",
+        "whyCorrect": "Intertrigo is inflammation of skin folds caused by friction, moisture, and irritation, and it can predispose to secondary bacterial and fungal infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-179_mi040_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-180",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This trunk shows well-demarcated patches of altered pigmentation with fine scale that became noticeable after tanning. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Post-inflammatory hypopigmentation"
+        },
+        {
+          "label": "B",
+          "text": "Pityriasis rosea"
+        },
+        {
+          "label": "C",
+          "text": "Tinea corporis"
+        },
+        {
+          "label": "D",
+          "text": "Pityriasis (tinea) versicolor"
+        },
+        {
+          "label": "E",
+          "text": "Vitiligo"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Malassezia overgrowth causes hypo- or hyperpigmented, finely scaly patches on the trunk that become obvious after sun exposure tans the surrounding skin.",
+        "whyCorrect": "Malassezia overgrowth causes hypo- or hyperpigmented, finely scaly patches on the trunk that become obvious after sun exposure tans the surrounding skin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-180_mi040_f20.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-181",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This limb shows an ulcerating nodule with additional nodules tracking proximally along the lymphatics. Which infection produces this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nocardiosis"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocutaneous sporotrichosis"
+        },
+        {
+          "label": "C",
+          "text": "Cutaneous anthrax"
+        },
+        {
+          "label": "D",
+          "text": "Cat-scratch disease"
+        },
+        {
+          "label": "E",
+          "text": "Cutaneous leishmaniasis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sporothrix schenckii inoculated through the skin produces a papule that ulcerates and spreads along lymphatic channels as a chain of nodules ('chain of pearls').",
+        "whyCorrect": "Sporothrix schenckii inoculated through the skin produces a papule that ulcerates and spreads along lymphatic channels as a chain of nodules ('chain of pearls').",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-181_mi040_f22.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-232",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "This household object is highlighted as a common source of dermatophyte spread. What role does it play in transmission?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a reservoir where the fungus completes sexual reproduction"
+        },
+        {
+          "label": "B",
+          "text": "It acts as a fomite that harbors and transfers infectious arthrospores"
+        },
+        {
+          "label": "C",
+          "text": "It is a biological vector that amplifies the fungus"
+        },
+        {
+          "label": "D",
+          "text": "It supplies the keratinase enzyme needed for infection"
+        },
+        {
+          "label": "E",
+          "text": "It is a definitive host required for the fungal life cycle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Brushes, combs, and hats are inanimate fomites that carry shed skin and hair laden with dermatophyte arthrospores, allowing indirect person-to-person transmission.",
+        "whyCorrect": "Brushes, combs, and hats are inanimate fomites that carry shed skin and hair laden with dermatophyte arthrospores, allowing indirect person-to-person transmission.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-232_mi040_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

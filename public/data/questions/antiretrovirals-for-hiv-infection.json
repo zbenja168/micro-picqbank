@@ -1,0 +1,45 @@
+{
+  "categoryId": "antiretrovirals-for-hiv-infection",
+  "categoryName": "Antiretrovirals for HIV Infection",
+  "questions": [
+    {
+      "id": "mipic-196",
+      "topicId": "antiretrovirals-for-hiv-infection",
+      "topicName": "Antiretrovirals for HIV Infection",
+      "stem": "The schematic illustrates a drug that blocks the highlighted step in which newly synthesized viral DNA is inserted into the host CD4 cell's chromosomal DNA. Which of the following agents acts at this depicted step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Efavirenz"
+        },
+        {
+          "label": "B",
+          "text": "Tenofovir"
+        },
+        {
+          "label": "C",
+          "text": "Enfuvirtide"
+        },
+        {
+          "label": "D",
+          "text": "Dolutegravir"
+        },
+        {
+          "label": "E",
+          "text": "Ritonavir"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The blocked step is integration of viral DNA into the host genome, catalyzed by integrase. Dolutegravir is an integrase strand transfer inhibitor (INSTI) that acts here. Enfuvirtide is a fusion/entry inhibitor, tenofovir is an NRTI, efavirenz is an NNRTI (both act at reverse transcription), and ritonavir is a protease inhibitor/pharmacokinetic booster.",
+        "whyCorrect": "The blocked step is integration of viral DNA into the host genome, catalyzed by integrase. Dolutegravir is an integrase strand transfer inhibitor (INSTI) that acts here. Enfuvirtide is a fusion/entry inhibitor, tenofovir is an NRTI, efavirenz is an NNRTI (both act at reverse transcription), and ritonavir is a protease inhibitor/pharmacokinetic booster.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-196_mi030_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

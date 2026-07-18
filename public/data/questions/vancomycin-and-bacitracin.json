@@ -1,0 +1,45 @@
+{
+  "categoryId": "vancomycin-and-bacitracin",
+  "categoryName": "Vancomycin and Bacitracin",
+  "questions": [
+    {
+      "id": "mipic-246",
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "stem": "This diagram traces the transport and assembly of peptidoglycan units across the bacterial membrane. Which step in this pathway does bacitracin inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Addition of new sugar units by transglycosylase"
+        },
+        {
+          "label": "B",
+          "text": "Cross-linking of peptide chains by transpeptidase"
+        },
+        {
+          "label": "C",
+          "text": "Binding of the D-alanyl-D-alanine terminus"
+        },
+        {
+          "label": "D",
+          "text": "Autolysin-mediated remodeling at the growth point"
+        },
+        {
+          "label": "E",
+          "text": "Dephosphorylation/regeneration of the bactoprenol lipid carrier, preventing NAM from being loaded and transported"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bacitracin blocks the recycling of the bactoprenol (lipid) carrier, so NAM cannot be joined to it and no new peptidoglycan subunits are transported to the wall. This is an early step, distinct from vancomycin's later D-Ala-D-Ala binding and from the transpeptidase cross-linking targeted by beta-lactams.",
+        "whyCorrect": "Bacitracin blocks the recycling of the bactoprenol (lipid) carrier, so NAM cannot be joined to it and no new peptidoglycan subunits are transported to the wall. This is an early step, distinct from vancomycin's later D-Ala-D-Ala binding and from the transpeptidase cross-linking targeted by beta-lactams.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-246_mi051_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

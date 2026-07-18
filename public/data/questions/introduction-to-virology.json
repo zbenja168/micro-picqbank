@@ -1,0 +1,84 @@
+{
+  "categoryId": "introduction-to-virology",
+  "categoryName": "Introduction to Virology",
+  "questions": [
+    {
+      "id": "mipic-061",
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "stem": "This plot shows viral load and antibody titers over the course of a COVID-19 infection. During the first week after exposure, which diagnostic test would most reliably confirm active infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgG serology"
+        },
+        {
+          "label": "B",
+          "text": "IgM serology"
+        },
+        {
+          "label": "C",
+          "text": "Convalescent antibody titer"
+        },
+        {
+          "label": "D",
+          "text": "Complement fixation assay"
+        },
+        {
+          "label": "E",
+          "text": "RT-PCR (nucleic acid amplification of a nasopharyngeal swab)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Viral load rises rapidly and peaks well before antibodies become detectable, so early in infection serology (IgM or IgG) is falsely negative. A nucleic acid amplification test such as RT-PCR detects viral RNA at this early high-viral-load stage, making it the most reliable confirmatory test in the first week.",
+        "whyCorrect": "Viral load rises rapidly and peaks well before antibodies become detectable, so early in infection serology (IgM or IgG) is falsely negative. A nucleic acid amplification test such as RT-PCR detects viral RNA at this early high-viral-load stage, making it the most reliable confirmatory test in the first week.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-061_mi023_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-222",
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "stem": "The three viral particles shown differ in capsid symmetry and in whether they possess an outer membrane. Which feature of the two rightmost particles makes them markedly more susceptible to inactivation by alcohol-based hand sanitizers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The icosahedral capsid"
+        },
+        {
+          "label": "B",
+          "text": "The nucleic acid core"
+        },
+        {
+          "label": "C",
+          "text": "The lipid bilayer envelope"
+        },
+        {
+          "label": "D",
+          "text": "The surface glycoprotein spikes"
+        },
+        {
+          "label": "E",
+          "text": "The helical nucleocapsid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The middle and right particles are enveloped viruses surrounded by a lipid bilayer derived from host membrane. Alcohol dissolves this lipid envelope, destroying infectivity, whereas the naked (non-enveloped) virus on the left lacks an envelope and is comparatively resistant.",
+        "whyCorrect": "The middle and right particles are enveloped viruses surrounded by a lipid bilayer derived from host membrane. Alcohol dissolves this lipid envelope, destroying infectivity, whereas the naked (non-enveloped) virus on the left lacks an envelope and is comparatively resistant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-222_mi023_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

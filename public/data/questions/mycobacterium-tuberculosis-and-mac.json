@@ -1,0 +1,513 @@
+{
+  "categoryId": "mycobacterium-tuberculosis-and-mac",
+  "categoryName": "Mycobacterium Tuberculosis and MAC",
+  "questions": [
+    {
+      "id": "mipic-007",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "The serpentine, rope-like parallel arrangement of the stained bacilli shown is attributed to which virulence factor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cord factor (trehalose dimycolate)"
+        },
+        {
+          "label": "B",
+          "text": "Lipoteichoic acid"
+        },
+        {
+          "label": "C",
+          "text": "Hyaluronic acid capsule"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcal protein A"
+        },
+        {
+          "label": "E",
+          "text": "Lipoarabinomannan"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cord factor (trehalose dimycolate) causes M. tuberculosis to grow in the characteristic serpentine cords seen here and is toxic to mammalian cells while inhibiting neutrophil migration.",
+        "whyCorrect": "Cord factor (trehalose dimycolate) causes M. tuberculosis to grow in the characteristic serpentine cords seen here and is toxic to mammalian cells while inhibiting neutrophil migration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-007_mi017_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-049",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This staining technique was used to visualize the pink bacilli shown against the blue background. What structural property of these bacteria makes this special stain necessary rather than a routine Gram stain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An unusually thick peptidoglycan layer"
+        },
+        {
+          "label": "B",
+          "text": "A thick polysaccharide capsule"
+        },
+        {
+          "label": "C",
+          "text": "A waxy, mycolic acid-rich cell wall that resists Gram staining"
+        },
+        {
+          "label": "D",
+          "text": "Presence of heat-resistant endospores"
+        },
+        {
+          "label": "E",
+          "text": "Complete absence of a cell wall"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mycobacteria have a lipid-rich, mycolic acid cell wall that will not take up the Gram stain, so the Ziehl-Neelsen (acid-fast) stain is required; retained pink color identifies acid-fast bacilli.",
+        "whyCorrect": "Mycobacteria have a lipid-rich, mycolic acid cell wall that will not take up the Gram stain, so the Ziehl-Neelsen (acid-fast) stain is required; retained pink color identifies acid-fast bacilli.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-049_mi017_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-050",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This selective slant medium is used to culture the pathogen. Approximately how long does colony growth typically take here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 24 hours"
+        },
+        {
+          "label": "B",
+          "text": "Several weeks, because the organism grows slowly"
+        },
+        {
+          "label": "C",
+          "text": "Two to three days"
+        },
+        {
+          "label": "D",
+          "text": "A few hours"
+        },
+        {
+          "label": "E",
+          "text": "Less than one hour"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mycobacterium tuberculosis is a very slow grower on Lowenstein-Jensen medium, with detection taking up to 10 days or several weeks, reflecting its long doubling time.",
+        "whyCorrect": "Mycobacterium tuberculosis is a very slow grower on Lowenstein-Jensen medium, with detection taking up to 10 days or several weeks, reflecting its long doubling time.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-050_mi017_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-051",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "These rough, dry, buff-colored colonies with a waxy appearance are characteristic of which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "E",
+          "text": "Neisseria meningitidis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The high mycolic acid content of the mycobacterial cell wall gives colonies their rough, waxy, buff appearance, distinct from the smooth colonies of typical bacteria.",
+        "whyCorrect": "The high mycolic acid content of the mycobacterial cell wall gives colonies their rough, waxy, buff appearance, distinct from the smooth colonies of typical bacteria.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-051_mi017_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-052",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This chest radiograph accompanies primary tuberculosis. Which radiographic feature is most characteristic of primary TB, especially in a child?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral upper-lobe cavitation"
+        },
+        {
+          "label": "B",
+          "text": "Calcified pleural plaques"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse fine miliary nodules"
+        },
+        {
+          "label": "D",
+          "text": "Lobar consolidation with air bronchograms"
+        },
+        {
+          "label": "E",
+          "text": "Hilar lymphadenopathy with a peripheral parenchymal focus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Primary TB typically shows a peripheral parenchymal (Ghon) focus with prominent hilar lymphadenopathy, unlike the apical cavitation of reactivation disease.",
+        "whyCorrect": "Primary TB typically shows a peripheral parenchymal (Ghon) focus with prominent hilar lymphadenopathy, unlike the apical cavitation of reactivation disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-052_mi017_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-053",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This chest radiograph is from reactivation tuberculosis. In which lung zone do the cavitary lesions of reactivation TB characteristically appear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The costophrenic angles"
+        },
+        {
+          "label": "B",
+          "text": "Right middle lobe only"
+        },
+        {
+          "label": "C",
+          "text": "Upper lobes (apical and posterior segments)"
+        },
+        {
+          "label": "D",
+          "text": "The lingula"
+        },
+        {
+          "label": "E",
+          "text": "Lower lobes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Reactivation TB characteristically produces cavitary disease in the well-oxygenated apices/upper lobes of the lungs.",
+        "whyCorrect": "Reactivation TB characteristically produces cavitary disease in the well-oxygenated apices/upper lobes of the lungs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-053_mi017_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-054",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "The photograph shows administration of the tuberculin (PPD) skin test, which is read 48-72 hours later. A positive reaction represents which type of hypersensitivity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A non-immune irritant reaction"
+        },
+        {
+          "label": "B",
+          "text": "Type I (immediate, IgE-mediated)"
+        },
+        {
+          "label": "C",
+          "text": "Type II (antibody-mediated cytotoxic)"
+        },
+        {
+          "label": "D",
+          "text": "Type IV (delayed-type, cell-mediated) hypersensitivity"
+        },
+        {
+          "label": "E",
+          "text": "Type III (immune-complex mediated)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A positive PPD is a type IV reaction: memory T cells sensitized by prior infection are recruited to the injection site, release cytokines, and cause induration over 48-72 hours.",
+        "whyCorrect": "A positive PPD is a type IV reaction: memory T cells sensitized by prior infection are recruited to the injection site, release cytokines, and cause induration over 48-72 hours.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-054_mi017_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-141",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "The organized structure diagrammed here walls off the infection. Which immune process is primarily responsible for forming it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type III immune-complex deposition"
+        },
+        {
+          "label": "B",
+          "text": "Innate neutrophil-driven abscess formation"
+        },
+        {
+          "label": "C",
+          "text": "Cell-mediated (type IV) immunity"
+        },
+        {
+          "label": "D",
+          "text": "Type II antibody-mediated cytotoxicity"
+        },
+        {
+          "label": "E",
+          "text": "Type I immediate hypersensitivity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Granuloma formation is driven by cell-mediated (type IV) immunity: T cells recruit and organize macrophages (including multinucleated giant cells) around the infection, walling it off with central caseous necrosis.",
+        "whyCorrect": "Granuloma formation is driven by cell-mediated (type IV) immunity: T cells recruit and organize macrophages (including multinucleated giant cells) around the infection, walling it off with central caseous necrosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-141_mi017_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-142",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This illustration depicts a peripheral lung lesion together with involved hilar lymph nodes. This combined finding is a hallmark of which stage of tuberculosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary (initial) infection"
+        },
+        {
+          "label": "B",
+          "text": "Progressive fibrocavitary disease"
+        },
+        {
+          "label": "C",
+          "text": "Reactivation (secondary) TB"
+        },
+        {
+          "label": "D",
+          "text": "Miliary dissemination"
+        },
+        {
+          "label": "E",
+          "text": "Latent infection with no visible lesion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The Ghon complex (a peripheral parenchymal Ghon focus plus caseating hilar nodes) develops during primary tuberculosis infection.",
+        "whyCorrect": "The Ghon complex (a peripheral parenchymal Ghon focus plus caseating hilar nodes) develops during primary tuberculosis infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-142_mi017_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-143",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This gross lung specimen shows innumerable small tan nodules scattered uniformly throughout the parenchyma. What mechanism produced this distribution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphatic spread limited to one hilum"
+        },
+        {
+          "label": "B",
+          "text": "Direct bronchial spread from a cavity"
+        },
+        {
+          "label": "C",
+          "text": "Contiguous extension from the pleura"
+        },
+        {
+          "label": "D",
+          "text": "Hematogenous (bloodstream) dissemination of bacilli"
+        },
+        {
+          "label": "E",
+          "text": "Aspiration of gastric contents"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Miliary tuberculosis results when bacilli seed the bloodstream and disseminate widely, producing tiny nodules throughout the lungs and other organs.",
+        "whyCorrect": "Miliary tuberculosis results when bacilli seed the bloodstream and disseminate widely, producing tiny nodules throughout the lungs and other organs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-143_mi017_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-213",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This schematic shows the macrophage-driven immune response to the organism, with a cytokine activating NK cells and driving naive T cells toward a helper phenotype. What is the principal downstream consequence of this activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Large-scale antibody production by plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Mast cell degranulation and histamine release"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophil recruitment against helminths"
+        },
+        {
+          "label": "D",
+          "text": "Direct complement-mediated bacterial lysis"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced macrophage killing of intracellular bacteria via IFN-gamma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "IL-12 from infected macrophages activates NK cells and drives Th1 differentiation; the resulting IFN-gamma activates macrophages to kill the intracellular mycobacteria, the core of cell-mediated defense.",
+        "whyCorrect": "IL-12 from infected macrophages activates NK cells and drives Th1 differentiation; the resulting IFN-gamma activates macrophages to kill the intracellular mycobacteria, the core of cell-mediated defense.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-213_mi017_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-214",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This overview schematic contrasts primary and secondary tuberculosis outcomes. In an immunocompetent person, what is the most common outcome after primary infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rapid miliary dissemination"
+        },
+        {
+          "label": "B",
+          "text": "Fatal tuberculous meningitis"
+        },
+        {
+          "label": "C",
+          "text": "Containment within a latent granuloma with no symptoms"
+        },
+        {
+          "label": "D",
+          "text": "Immediate cavitary disease"
+        },
+        {
+          "label": "E",
+          "text": "Complete sterilization within 24 hours"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In roughly 90% of immunocompetent patients, primary infection is contained within a latent granuloma, and the patient remains asymptomatic for years.",
+        "whyCorrect": "In roughly 90% of immunocompetent patients, primary infection is contained within a latent granuloma, and the patient remains asymptomatic for years.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-214_mi017_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-215",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This three-panel schematic illustrates the reaction underlying a positive PPD test over 24-72 hours. Which cells are the principal mediators of the visible lesion that develops?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement proteins"
+        },
+        {
+          "label": "B",
+          "text": "IgE-armed mast cells"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophils forming pus"
+        },
+        {
+          "label": "D",
+          "text": "Sensitized (memory) T cells"
+        },
+        {
+          "label": "E",
+          "text": "Circulating antibodies"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The delayed-type (type IV) reaction is driven by sensitized T cells that recognize injected antigen and recruit macrophages, producing the palpable induration.",
+        "whyCorrect": "The delayed-type (type IV) reaction is driven by sensitized T cells that recognize injected antigen and recruit macrophages, producing the palpable induration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-215_mi017_f16.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

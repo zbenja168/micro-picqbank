@@ -1,0 +1,123 @@
+{
+  "categoryId": "neisseria-and-haemophilus",
+  "categoryName": "Neisseria and Haemophilus",
+  "questions": [
+    {
+      "id": "mipic-027",
+      "topicId": "neisseria-and-haemophilus",
+      "topicName": "Neisseria and Haemophilus",
+      "stem": "The organism shown is a fastidious gram-negative coccobacillus that will not grow unless the culture medium is enriched. Which two accessory factors, released from lysed red blood cells, does it require?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Factor X (hematin) and Factor V (NAD)"
+        },
+        {
+          "label": "B",
+          "text": "Factor V (NAD) and coagulase"
+        },
+        {
+          "label": "C",
+          "text": "Factor X (hematin) and oxidase"
+        },
+        {
+          "label": "D",
+          "text": "Hemin and catalase"
+        },
+        {
+          "label": "E",
+          "text": "Optochin and bacitracin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "H. influenzae cannot lyse RBCs itself and requires exogenous factor X (hematin) and factor V (NAD), which is why it grows only on media containing lysed blood, such as chocolate agar.",
+        "whyCorrect": "H. influenzae cannot lyse RBCs itself and requires exogenous factor X (hematin) and factor V (NAD), which is why it grows only on media containing lysed blood, such as chocolate agar.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-027_mi006_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-028",
+      "topicId": "neisseria-and-haemophilus",
+      "topicName": "Neisseria and Haemophilus",
+      "stem": "H. influenzae grows on the brown agar plate shown but fails to grow on standard sheep blood agar. Why does this brown medium support its growth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It neutralizes the IgA protease of the organism"
+        },
+        {
+          "label": "B",
+          "text": "It contains antibiotics that selectively favor Haemophilus"
+        },
+        {
+          "label": "C",
+          "text": "Heating lyses the red blood cells, releasing factors X and V that H. influenzae cannot obtain on its own"
+        },
+        {
+          "label": "D",
+          "text": "It supplies the 5% CO2 required for growth"
+        },
+        {
+          "label": "E",
+          "text": "It provides mannitol as a fermentable carbon source"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The agar is browned by heating blood, which lyses RBCs and frees factor X (hematin) and factor V (NAD). On intact blood agar these factors remain inside RBCs, so H. influenzae cannot grow.",
+        "whyCorrect": "The agar is browned by heating blood, which lyses RBCs and frees factor X (hematin) and factor V (NAD). On intact blood agar these factors remain inside RBCs, so H. influenzae cannot grow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-028_mi006_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-131",
+      "topicId": "neisseria-and-haemophilus",
+      "topicName": "Neisseria and Haemophilus",
+      "stem": "This ventral surface of the brain is covered by a thick purulent exudate over the meninges. This gross finding is most characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tuberculous granulomatous meningitis"
+        },
+        {
+          "label": "B",
+          "text": "Acute bacterial meningitis"
+        },
+        {
+          "label": "C",
+          "text": "Viral (aseptic) meningitis"
+        },
+        {
+          "label": "D",
+          "text": "Cerebral infarction"
+        },
+        {
+          "label": "E",
+          "text": "Subarachnoid hemorrhage"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A dense neutrophil-rich purulent exudate blanketing the meninges is the hallmark of acute pyogenic bacterial meningitis, as caused by H. influenzae or N. meningitidis; viral meningitis produces a lymphocytic, non-purulent picture.",
+        "whyCorrect": "A dense neutrophil-rich purulent exudate blanketing the meninges is the hallmark of acute pyogenic bacterial meningitis, as caused by H. influenzae or N. meningitidis; viral meningitis produces a lymphocytic, non-purulent picture.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-131_mi006_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

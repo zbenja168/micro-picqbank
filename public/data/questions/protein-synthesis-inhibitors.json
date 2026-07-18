@@ -1,0 +1,201 @@
+{
+  "categoryId": "protein-synthesis-inhibitors",
+  "categoryName": "Protein Synthesis Inhibitors",
+  "questions": [
+    {
+      "id": "mipic-133",
+      "topicId": "protein-synthesis-inhibitors",
+      "topicName": "Protein Synthesis Inhibitors",
+      "stem": "This schematic of the neuromuscular junction shows autoantibodies blocking the binding of the neurotransmitter to its postsynaptic receptor. This pathophysiology is characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myasthenia gravis"
+        },
+        {
+          "label": "B",
+          "text": "Amyotrophic lateral sclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Guillain-Barre syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Botulism"
+        },
+        {
+          "label": "E",
+          "text": "Lambert-Eaton myasthenic syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The diagram shows antibodies against the acetylcholine receptor preventing ACh from activating the postsynaptic membrane, the defining mechanism of myasthenia gravis. Aminoglycosides can antagonize ACh receptors and cause neuromuscular blockade that compounds this deficit, so they are used cautiously in these patients.",
+        "whyCorrect": "The diagram shows antibodies against the acetylcholine receptor preventing ACh from activating the postsynaptic membrane, the defining mechanism of myasthenia gravis. Aminoglycosides can antagonize ACh receptors and cause neuromuscular blockade that compounds this deficit, so they are used cautiously in these patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-133_mi012_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-192",
+      "topicId": "protein-synthesis-inhibitors",
+      "topicName": "Protein Synthesis Inhibitors",
+      "stem": "This figure summarizes the major adverse reactions of one class of protein synthesis inhibitors. By what mechanism does the depicted inner-ear toxicity most likely occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of mitochondrial protein synthesis in cochlear and vestibular hair cells"
+        },
+        {
+          "label": "B",
+          "text": "Immune-mediated destruction of the organ of Corti"
+        },
+        {
+          "label": "C",
+          "text": "Chelation of endolymph calcium disrupting hair-cell transduction"
+        },
+        {
+          "label": "D",
+          "text": "Autoantibodies directed against the stria vascularis"
+        },
+        {
+          "label": "E",
+          "text": "Blockade of the outer hair cell prestin motor protein"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The panels depict nephrotoxicity, ototoxicity, and fetal harm, the hallmark adverse effects of aminoglycosides. Ototoxicity results from aminoglycoside inhibition of mitochondrial ribosomes in cochlear and vestibular hair cells, causing cell death; cochlear loss is irreversible while vestibular cells can partly regenerate.",
+        "whyCorrect": "The panels depict nephrotoxicity, ototoxicity, and fetal harm, the hallmark adverse effects of aminoglycosides. Ototoxicity results from aminoglycoside inhibition of mitochondrial ribosomes in cochlear and vestibular hair cells, causing cell death; cochlear loss is irreversible while vestibular cells can partly regenerate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-192_mi012_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-193",
+      "topicId": "protein-synthesis-inhibitors",
+      "topicName": "Protein Synthesis Inhibitors",
+      "stem": "This figure summarizes the adverse reactions of one antibiotic class, including a cardiac effect. The depicted prolongation of cardiac repolarization predisposes patients to which arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete (third-degree) heart block"
+        },
+        {
+          "label": "B",
+          "text": "Wolff-Parkinson-White tachycardia"
+        },
+        {
+          "label": "C",
+          "text": "Atrial fibrillation"
+        },
+        {
+          "label": "D",
+          "text": "Ventricular escape rhythm"
+        },
+        {
+          "label": "E",
+          "text": "Torsades de pointes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The panels show macrolide adverse effects: diarrhea, QT prolongation, nausea, and vomiting. By prolonging the QT interval, macrolides increase the risk of torsades de pointes, so they are avoided with other QT-prolonging agents and in patients with cardiovascular disease.",
+        "whyCorrect": "The panels show macrolide adverse effects: diarrhea, QT prolongation, nausea, and vomiting. By prolonging the QT interval, macrolides increase the risk of torsades de pointes, so they are avoided with other QT-prolonging agents and in patients with cardiovascular disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-193_mi012_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-194",
+      "topicId": "protein-synthesis-inhibitors",
+      "topicName": "Protein Synthesis Inhibitors",
+      "stem": "These panels depict the adverse reactions of this drug, including a risk of serotonin syndrome. This risk exists because the drug also acts as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A reversible monoamine oxidase inhibitor"
+        },
+        {
+          "label": "B",
+          "text": "A postsynaptic serotonin (5-HT) receptor agonist"
+        },
+        {
+          "label": "C",
+          "text": "A selective serotonin reuptake inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "An activator of tryptophan hydroxylase"
+        },
+        {
+          "label": "E",
+          "text": "A serotonin-norepinephrine reuptake inhibitor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The figure shows linezolid adverse effects: bone marrow suppression, peripheral neuropathy, and serotonin syndrome. Linezolid is a reversible MAO inhibitor, so co-administration with serotonergic drugs such as SSRIs or SNRIs can raise serotonin levels and precipitate serotonin syndrome.",
+        "whyCorrect": "The figure shows linezolid adverse effects: bone marrow suppression, peripheral neuropathy, and serotonin syndrome. Linezolid is a reversible MAO inhibitor, so co-administration with serotonergic drugs such as SSRIs or SNRIs can raise serotonin levels and precipitate serotonin syndrome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-194_mi012_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-207",
+      "topicId": "protein-synthesis-inhibitors",
+      "topicName": "Protein Synthesis Inhibitors",
+      "stem": "This labeled schematic depicts a bacterial ribosome with its subunits and functional sites. Which ribosomal subunit is the primary target of aminoglycoside and tetracycline antibiotics?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The peptidyl transferase center"
+        },
+        {
+          "label": "B",
+          "text": "The 50S subunit"
+        },
+        {
+          "label": "C",
+          "text": "The 60S subunit"
+        },
+        {
+          "label": "D",
+          "text": "The 30S subunit"
+        },
+        {
+          "label": "E",
+          "text": "The 70S rRNA core"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The figure shows the 70S bacterial ribosome composed of a 30S and 50S subunit, with the A (acceptor), P (peptidyl), and E (exit) tRNA-binding sites and rRNA. Aminoglycosides and tetracyclines are 30S subunit inhibitors, whereas macrolides, clindamycin, chloramphenicol, and linezolid act on the 50S subunit.",
+        "whyCorrect": "The figure shows the 70S bacterial ribosome composed of a 30S and 50S subunit, with the A (acceptor), P (peptidyl), and E (exit) tRNA-binding sites and rRNA. Aminoglycosides and tetracyclines are 30S subunit inhibitors, whereas macrolides, clindamycin, chloramphenicol, and linezolid act on the 50S subunit.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-207_mi011_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

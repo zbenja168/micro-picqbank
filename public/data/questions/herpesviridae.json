@@ -1,0 +1,552 @@
+{
+  "categoryId": "herpesviridae",
+  "categoryName": "Herpesviridae",
+  "questions": [
+    {
+      "id": "mipic-011",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "This tissue section shows a massively enlarged cell containing a single large intranuclear inclusion surrounded by a clear halo, producing an 'owl's eye' appearance. Which virus produces this cytopathic effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "B",
+          "text": "Respiratory syncytial virus"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "D",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "E",
+          "text": "Varicella-zoster virus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CMV massively enlarges infected cells (cyto = cell, megalo = large) and produces a large basophilic intranuclear inclusion with a surrounding clear halo, the classic 'owl's eye' inclusion.",
+        "whyCorrect": "CMV massively enlarges infected cells (cyto = cell, megalo = large) and produces a large basophilic intranuclear inclusion with a surrounding clear halo, the classic 'owl's eye' inclusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-011_mi025_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-062",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "This stained smear from a lesion base shows large multinucleated cells. Finding these on a Tzanck preparation indicates infection by which group of viruses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-herpesviruses (HSV-1, HSV-2, or VZV)"
+        },
+        {
+          "label": "B",
+          "text": "Papillomaviruses"
+        },
+        {
+          "label": "C",
+          "text": "Poxviruses"
+        },
+        {
+          "label": "D",
+          "text": "Enteroviruses"
+        },
+        {
+          "label": "E",
+          "text": "Adenoviruses"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Multinucleated giant cells (Tzanck cells) on a smear indicate infection by an alpha-herpesvirus: HSV-1, HSV-2, or VZV.",
+        "whyCorrect": "Multinucleated giant cells (Tzanck cells) on a smear indicate infection by an alpha-herpesvirus: HSV-1, HSV-2, or VZV.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-062_mi024_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-063",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "This non-contrast head CT of a child shows calcifications distributed around the margins of the lateral ventricles. Congenital infection with which organism most characteristically produces this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zika virus"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "D",
+          "text": "Rubella virus"
+        },
+        {
+          "label": "E",
+          "text": "Toxoplasma gondii"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Congenital CMV characteristically causes periventricular intracranial calcifications. This contrasts with Toxoplasma, which tends to cause diffuse scattered intracranial calcifications.",
+        "whyCorrect": "Congenital CMV characteristically causes periventricular intracranial calcifications. This contrasts with Toxoplasma, which tends to cause diffuse scattered intracranial calcifications.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-063_mi025_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-147",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "These clustered vesicular/ulcerating lesions at the base of the penis are most characteristic of infection with which agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus 2 (HSV-2)"
+        },
+        {
+          "label": "B",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "C",
+          "text": "Haemophilus ducreyi"
+        },
+        {
+          "label": "D",
+          "text": "Treponema pallidum"
+        },
+        {
+          "label": "E",
+          "text": "Human papillomavirus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Painful, grouped genital vesicles that ulcerate are the hallmark of genital herpes, most often caused by HSV-2.",
+        "whyCorrect": "Painful, grouped genital vesicles that ulcerate are the hallmark of genital herpes, most often caused by HSV-2.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-147_mi024_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-148",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "A young child presents with these painful oral vesicles and ulcerated, swollen gums. What is the most likely causative organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus 2 (HSV-2)"
+        },
+        {
+          "label": "B",
+          "text": "Coxsackievirus A"
+        },
+        {
+          "label": "C",
+          "text": "Measles virus"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus 1 (HSV-1)"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Primary herpetic gingivostomatitis, with painful vesicles and ulceration involving the gingiva and oral mucosa, is most commonly caused by initial HSV-1 infection.",
+        "whyCorrect": "Primary herpetic gingivostomatitis, with painful vesicles and ulceration involving the gingiva and oral mucosa, is most commonly caused by initial HSV-1 infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-148_mi024_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-149",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "This corneal infection can cause a dendritic ulcer and lead to blindness. Which virus is the most common infectious cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus 1 (HSV-1)"
+        },
+        {
+          "label": "D",
+          "text": "Adenovirus"
+        },
+        {
+          "label": "E",
+          "text": "Varicella zoster virus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Herpetic keratitis is most commonly caused by HSV-1 and is a leading infectious cause of corneal blindness.",
+        "whyCorrect": "Herpetic keratitis is most commonly caused by HSV-1 and is a leading infectious cause of corneal blindness.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-149_mi024_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-150",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "A neonate develops these clustered vesicular lesions around the face days after a vaginal delivery. Which virus is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rubella virus"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus 1 (HSV-1)"
+        },
+        {
+          "label": "D",
+          "text": "Varicella zoster virus"
+        },
+        {
+          "label": "E",
+          "text": "Herpes simplex virus 2 (HSV-2)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Neonatal herpes is most often acquired from an HSV-2 shedding maternal genital tract during delivery and classically presents with vesicular lesions around the eyes and mouth.",
+        "whyCorrect": "Neonatal herpes is most often acquired from an HSV-2 shedding maternal genital tract during delivery and classically presents with vesicular lesions around the eyes and mouth.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-150_mi024_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-151",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "A healthcare worker develops this painful vesicular lesion on the finger through autoinoculation. What is the causative agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus (HSV-1)"
+        },
+        {
+          "label": "B",
+          "text": "Sporothrix schenckii"
+        },
+        {
+          "label": "C",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Herpetic whitlow is an HSV infection of the finger, historically common in healthcare workers before routine glove use and spread by autoinoculation.",
+        "whyCorrect": "Herpetic whitlow is an HSV infection of the finger, historically common in healthcare workers before routine glove use and spread by autoinoculation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-151_mi024_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-152",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "A wrestler develops this clustered vesicular facial rash acquired through skin-to-skin contact on the mat. What is the causative agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus 1 (HSV-1)"
+        },
+        {
+          "label": "B",
+          "text": "Molluscum contagiosum virus"
+        },
+        {
+          "label": "C",
+          "text": "Dermatophyte fungi (tinea)"
+        },
+        {
+          "label": "D",
+          "text": "Varicella zoster virus"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Herpes gladiatorum is a cutaneous HSV infection spread by direct skin contact in contact-sport athletes such as wrestlers.",
+        "whyCorrect": "Herpes gladiatorum is a cutaneous HSV infection spread by direct skin contact in contact-sport athletes such as wrestlers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-152_mi024_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-153",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "This day-by-day series shows a skin lesion progressing from macule to papule to vesicle to crusted ulcer in a childhood illness. Which virus causes this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Varicella zoster virus (VZV)"
+        },
+        {
+          "label": "B",
+          "text": "Coxsackievirus"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus 1 (HSV-1)"
+        },
+        {
+          "label": "D",
+          "text": "Measles virus"
+        },
+        {
+          "label": "E",
+          "text": "Variola (smallpox) virus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chicken pox is caused by primary VZV infection, with lesions evolving through macule, papule, vesicle, and crust stages.",
+        "whyCorrect": "Chicken pox is caused by primary VZV infection, with lesions evolving through macule, papule, vesicle, and crust stages.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-153_mi024_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-154",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "These vesicular lesions on the soft palate appear in a patient with a generalized vesicular exanthem. Which virus is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes simplex virus 1 (HSV-1)"
+        },
+        {
+          "label": "B",
+          "text": "Measles virus"
+        },
+        {
+          "label": "C",
+          "text": "Varicella zoster virus (VZV)"
+        },
+        {
+          "label": "D",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "E",
+          "text": "Coxsackievirus A"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "VZV can produce a vesicular enanthem on the oral mucosa (including the soft palate) in addition to the widespread skin rash of chicken pox.",
+        "whyCorrect": "VZV can produce a vesicular enanthem on the oral mucosa (including the soft palate) in addition to the widespread skin rash of chicken pox.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-154_mi024_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-155",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "This painful vesicular rash is confined to a single dermatome and does not cross the midline. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Impetigo"
+        },
+        {
+          "label": "B",
+          "text": "Recurrent HSV-1 infection"
+        },
+        {
+          "label": "C",
+          "text": "Herpes zoster (shingles) from VZV reactivation"
+        },
+        {
+          "label": "D",
+          "text": "Contact dermatitis"
+        },
+        {
+          "label": "E",
+          "text": "Bacterial cellulitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A painful dermatomal vesicular rash respecting the midline is shingles, caused by reactivation of latent varicella zoster virus in a sensory ganglion.",
+        "whyCorrect": "A painful dermatomal vesicular rash respecting the midline is shingles, caused by reactivation of latent varicella zoster virus in a sensory ganglion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-155_mi024_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-156",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "This clinical photograph shows a white, corrugated, plaque-like lesion on the lateral border of the tongue of an immunocompromised patient; the lesion could not be removed by scraping. Which virus is the underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "B",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "C",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "D",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "E",
+          "text": "Herpes simplex virus type 1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The non-scrapable, corrugated white plaque on the lateral tongue is oral hairy leukoplakia, an EBV-driven lesion classically seen in HIV/AIDS and other severely immunosuppressed patients. Unlike thrush (Candida), it cannot be scraped off.",
+        "whyCorrect": "The non-scrapable, corrugated white plaque on the lateral tongue is oral hairy leukoplakia, an EBV-driven lesion classically seen in HIV/AIDS and other severely immunosuppressed patients. Unlike thrush (Candida), it cannot be scraped off.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-156_mi025_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-223",
+      "topicId": "herpesviridae",
+      "topicName": "Herpesviridae",
+      "stem": "This schematic shows viral particles moving up and down sensory nerve axons between an epithelial surface and a ganglion. This life cycle is characteristic of which virus family?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpesviridae"
+        },
+        {
+          "label": "B",
+          "text": "Papillomaviridae"
+        },
+        {
+          "label": "C",
+          "text": "Picornaviridae"
+        },
+        {
+          "label": "D",
+          "text": "Retroviridae"
+        },
+        {
+          "label": "E",
+          "text": "Orthomyxoviridae"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Herpesviruses use retrograde axonal transport to reach sensory ganglia where they establish latency, then travel back down (anterograde) upon reactivation to produce lesions at the original mucocutaneous site.",
+        "whyCorrect": "Herpesviruses use retrograde axonal transport to reach sensory ganglia where they establish latency, then travel back down (anterograde) upon reactivation to produce lesions at the original mucocutaneous site.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-223_mi024_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "categoryId": "normal-flora-role-in-health-and-disease",
+  "categoryName": "Normal Flora: Role in Health and Disease",
+  "questions": [
+    {
+      "id": "mipic-001",
+      "topicId": "normal-flora-role-in-health-and-disease",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "This anatomical illustration compares the highlighted tube connecting the middle ear to the nasopharynx in an adult versus a child under 7. What property of this structure in the child explains their increased susceptibility to middle ear infections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is shorter, narrower, and more horizontal"
+        },
+        {
+          "label": "B",
+          "text": "It lacks ciliated epithelium entirely"
+        },
+        {
+          "label": "C",
+          "text": "It secretes more antimicrobial mucus"
+        },
+        {
+          "label": "D",
+          "text": "It is permanently occluded by adenoids"
+        },
+        {
+          "label": "E",
+          "text": "It is longer and more vertical"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In young children the eustachian tube is shorter, narrower, and more horizontal, allowing nasopharyngeal flora to migrate into the middle ear and impairing drainage, which predisposes to acute otitis media.",
+        "whyCorrect": "In young children the eustachian tube is shorter, narrower, and more horizontal, allowing nasopharyngeal flora to migrate into the middle ear and impairing drainage, which predisposes to acute otitis media.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-001_mi032_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-012",
+      "topicId": "normal-flora-role-in-health-and-disease",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "This labeled schematic contrasts normal vaginal epithelial cells with a cell whose surface is studded with bacteria. The stippled cell shown on the right is a diagnostic hallmark of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gonococcal urethritis"
+        },
+        {
+          "label": "B",
+          "text": "Chlamydial cervicitis"
+        },
+        {
+          "label": "C",
+          "text": "Vulvovaginal candidiasis"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial vaginosis"
+        },
+        {
+          "label": "E",
+          "text": "Trichomoniasis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A vaginal epithelial cell coated with adherent bacteria (obscuring its borders) is a clue cell, the microscopic hallmark of bacterial vaginosis, typically due to Gardnerella vaginalis overgrowth.",
+        "whyCorrect": "A vaginal epithelial cell coated with adherent bacteria (obscuring its borders) is a clue cell, the microscopic hallmark of bacterial vaginosis, typically due to Gardnerella vaginalis overgrowth.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-012_mi032_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-160",
+      "topicId": "normal-flora-role-in-health-and-disease",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "This clinical photograph shows the vulvar and vaginal region of a patient presenting with intense itching, erythema, and a thick white plaque. What is the most likely causative organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gardnerella vaginalis"
+        },
+        {
+          "label": "B",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "C",
+          "text": "Trichomonas vaginalis"
+        },
+        {
+          "label": "D",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "E",
+          "text": "Neisseria gonorrhoeae"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The thick, white, curd-like plaque with erythema and pruritus is characteristic of vulvovaginal candidiasis caused by the yeast Candida albicans, which overgrows when normal vaginal flora is disrupted.",
+        "whyCorrect": "The thick, white, curd-like plaque with erythema and pruritus is characteristic of vulvovaginal candidiasis caused by the yeast Candida albicans, which overgrows when normal vaginal flora is disrupted.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-160_mi032_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-161",
+      "topicId": "normal-flora-role-in-health-and-disease",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "This photograph of an open mouth shows a white plaque coating the tongue and oral mucosa in a patient. Overgrowth of which organism produces this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "B",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "C",
+          "text": "Corynebacterium diphtheriae"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "E",
+          "text": "Epstein-Barr virus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oral thrush is an overgrowth of Candida spp. in the oral cavity, presenting as a wipeable white plaque; it is often triggered by antibiotics, inhaled steroids, dentures, or immunosuppression.",
+        "whyCorrect": "Oral thrush is an overgrowth of Candida spp. in the oral cavity, presenting as a wipeable white plaque; it is often triggered by antibiotics, inhaled steroids, dentures, or immunosuppression.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-161_mi032_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

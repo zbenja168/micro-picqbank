@@ -1,0 +1,786 @@
+{
+  "categoryId": "helminths",
+  "categoryName": "Helminths",
+  "questions": [
+    {
+      "id": "mipic-018",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This scanning electron micrograph shows the anterior end of a nematode with prominent cutting structures ringing its buccal cavity. What is the functional role of these structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Penetrating the blood-brain barrier"
+        },
+        {
+          "label": "B",
+          "text": "Anchoring to and cutting the intestinal mucosa to feed on blood"
+        },
+        {
+          "label": "C",
+          "text": "Boring through skeletal muscle to encyst"
+        },
+        {
+          "label": "D",
+          "text": "Filtering plankton from intestinal fluid"
+        },
+        {
+          "label": "E",
+          "text": "Attaching to red blood cells for locomotion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hookworms (Ancylostoma duodenale shown; Necator americanus uses cutting plates) use these buccal teeth/plates to grip and lacerate the small-bowel mucosa, feeding on blood and causing iron-deficiency anemia in heavy infections.",
+        "whyCorrect": "Hookworms (Ancylostoma duodenale shown; Necator americanus uses cutting plates) use these buccal teeth/plates to grip and lacerate the small-bowel mucosa, feeding on blood and causing iron-deficiency anemia in heavy infections.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-018_mi046_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-019",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This cytology field shows elongated, bipyramidal (needle/spindle-shaped) purple crystals amid inflammatory cells from a patient with a parasitic infection. What are these crystals composed of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholesterol clefts"
+        },
+        {
+          "label": "B",
+          "text": "Monosodium urate"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophil breakdown product (galectin-10)"
+        },
+        {
+          "label": "D",
+          "text": "Hematoidin from red-cell breakdown"
+        },
+        {
+          "label": "E",
+          "text": "Calcium pyrophosphate deposits"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "These are Charcot-Leyden crystals, formed from galectin-10 released by degranulating eosinophils; they signal eosinophil-rich processes such as parasitic or allergic disease.",
+        "whyCorrect": "These are Charcot-Leyden crystals, formed from galectin-10 released by degranulating eosinophils; they signal eosinophil-rich processes such as parasitic or allergic disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-019_mi046_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-097",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This head CT of a patient with new-onset seizures shows numerous scattered calcified lesions throughout the brain parenchyma. Which condition best explains this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tuberous sclerosis cortical tubers"
+        },
+        {
+          "label": "B",
+          "text": "Metastatic melanoma"
+        },
+        {
+          "label": "C",
+          "text": "Cerebral toxoplasmosis abscesses"
+        },
+        {
+          "label": "D",
+          "text": "Neurocysticercosis"
+        },
+        {
+          "label": "E",
+          "text": "Multiple sclerosis plaques"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Multiple calcified cysts scattered through the brain in a patient with seizures are characteristic of neurocysticercosis from T. solium larvae; it is a leading cause of adult-onset seizures in endemic regions.",
+        "whyCorrect": "Multiple calcified cysts scattered through the brain in a patient with seizures are characteristic of neurocysticercosis from T. solium larvae; it is a leading cause of adult-onset seizures in endemic regions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-097_mi045_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-098",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This radiograph of the lower limbs shows numerous small, rice-grain-shaped calcified densities scattered within the soft tissues and muscles. What do these represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phleboliths within varicose veins"
+        },
+        {
+          "label": "B",
+          "text": "Calcified atherosclerotic plaques"
+        },
+        {
+          "label": "C",
+          "text": "Calcified cysticerci in muscle"
+        },
+        {
+          "label": "D",
+          "text": "Myositis ossificans deposits"
+        },
+        {
+          "label": "E",
+          "text": "Osteochondromas of the long bones"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Disseminated cysticercosis produces multiple calcified larval cysts in skeletal muscle, seen as scattered oval/rice-shaped calcifications on plain films, and can occur alongside neurocysticercosis.",
+        "whyCorrect": "Disseminated cysticercosis produces multiple calcified larval cysts in skeletal muscle, seen as scattered oval/rice-shaped calcifications on plain films, and can occur alongside neurocysticercosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-098_mi045_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-099",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "Stool microscopy reveals a round egg with a thick, radially striated shell; an arrow points to small hooklets inside. These eggs are diagnostic of which parasite group?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterobius vermicularis"
+        },
+        {
+          "label": "B",
+          "text": "Diphyllobothrium species"
+        },
+        {
+          "label": "C",
+          "text": "Schistosoma mansoni"
+        },
+        {
+          "label": "D",
+          "text": "Taenia species"
+        },
+        {
+          "label": "E",
+          "text": "Ascaris lumbricoides"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Taenia eggs are round with a thick radially striated shell and contain a six-hooked oncosphere; the eggs of the different Taenia species are morphologically identical and cannot distinguish between them.",
+        "whyCorrect": "Taenia eggs are round with a thick radially striated shell and contain a six-hooked oncosphere; the eggs of the different Taenia species are morphologically identical and cannot distinguish between them.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-099_mi045_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-100",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This stained whole-mount shows the scolex of an intestinal tapeworm bearing both suckers and a crown of hooks (an armed rostellum). Which species is most consistent with this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Taenia solium"
+        },
+        {
+          "label": "B",
+          "text": "Echinococcus granulosus"
+        },
+        {
+          "label": "C",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "D",
+          "text": "Hymenolepis nana"
+        },
+        {
+          "label": "E",
+          "text": "Taenia saginata"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "T. solium has an armed scolex with a rostellum bearing two rows of hooks, whereas T. saginata has four suckers but no rostellum or hooks.",
+        "whyCorrect": "T. solium has an armed scolex with a rostellum bearing two rows of hooks, whereas T. saginata has four suckers but no rostellum or hooks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-100_mi045_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-101",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This stained gravid proglottid is used to speciate a tapeworm by counting the lateral uterine branches. Seeing fewer than about 13 branches per side indicates which species?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hymenolepis diminuta"
+        },
+        {
+          "label": "B",
+          "text": "Taenia saginata"
+        },
+        {
+          "label": "C",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "D",
+          "text": "Taenia solium"
+        },
+        {
+          "label": "E",
+          "text": "Dipylidium caninum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "T. solium gravid proglottids have 7-13 lateral uterine branches per side, while T. saginata has 12-30; counting branches distinguishes the two species.",
+        "whyCorrect": "T. solium gravid proglottids have 7-13 lateral uterine branches per side, while T. saginata has 12-30; counting branches distinguishes the two species.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-101_mi045_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-102",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This proglottid shows a central uterus arranged in a rosette (flower-petal) pattern. This feature distinguishes which tapeworm from Taenia species?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dipylidium caninum"
+        },
+        {
+          "label": "B",
+          "text": "Diphyllobothrium"
+        },
+        {
+          "label": "C",
+          "text": "Echinococcus granulosus"
+        },
+        {
+          "label": "D",
+          "text": "Taenia saginata"
+        },
+        {
+          "label": "E",
+          "text": "Taenia solium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Diphyllobothrium proglottids have a central, rosette-shaped uterus, which distinguishes them from the laterally branching uterus of Taenia proglottids.",
+        "whyCorrect": "Diphyllobothrium proglottids have a central, rosette-shaped uterus, which distinguishes them from the laterally branching uterus of Taenia proglottids.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-102_mi045_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-103",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This schematic illustrates a scope passed down the trachea into the lungs while saline is instilled and aspirated back. What is the primary diagnostic purpose of this procedure in suspected disseminated helminth infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Recover larvae/organisms from the lower airways for diagnosis"
+        },
+        {
+          "label": "B",
+          "text": "Deliver surfactant to collapsed alveoli"
+        },
+        {
+          "label": "C",
+          "text": "Ablate an endobronchial tumor"
+        },
+        {
+          "label": "D",
+          "text": "Drain a pleural effusion"
+        },
+        {
+          "label": "E",
+          "text": "Measure pulmonary artery wedge pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bronchoalveolar lavage instills and aspirates sterile saline to sample the alveolar space; in hyperinfection it can recover migrating Strongyloides larvae when sputum is unrevealing.",
+        "whyCorrect": "Bronchoalveolar lavage instills and aspirates sterile saline to sample the alveolar space; in hyperinfection it can recover migrating Strongyloides larvae when sputum is unrevealing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-103_mi046_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-104",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This stool wet mount shows an oval egg with a thin, smooth shell and a clear space between the developing embryo and the shell. This morphology is characteristic of which infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trichuris trichiura"
+        },
+        {
+          "label": "B",
+          "text": "Ascaris lumbricoides"
+        },
+        {
+          "label": "C",
+          "text": "Enterobius vermicularis"
+        },
+        {
+          "label": "D",
+          "text": "Hookworm (Ancylostoma/Necator)"
+        },
+        {
+          "label": "E",
+          "text": "Taenia species"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hookworm eggs are thin-shelled ovals with a segmented embryo and a characteristic clear gap beneath the smooth shell; Ancylostoma and Necator eggs are morphologically indistinguishable.",
+        "whyCorrect": "Hookworm eggs are thin-shelled ovals with a segmented embryo and a characteristic clear gap beneath the smooth shell; Ancylostoma and Necator eggs are morphologically indistinguishable.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-104_mi046_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-105",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This stool micrograph shows a rounded egg with a thick shell covered by an irregular, knobby outer coat. Which organism and egg type does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fertilized Ascaris lumbricoides egg with mammillated coat"
+        },
+        {
+          "label": "B",
+          "text": "Trichuris trichiura egg"
+        },
+        {
+          "label": "C",
+          "text": "Enterobius vermicularis egg"
+        },
+        {
+          "label": "D",
+          "text": "Schistosoma mansoni egg"
+        },
+        {
+          "label": "E",
+          "text": "Hookworm egg"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fertilized Ascaris eggs are round with a thick shell and a bumpy (mammillated) albuminous coat; recognizing this coat distinguishes them from the smooth-shelled eggs of hookworm and Enterobius.",
+        "whyCorrect": "Fertilized Ascaris eggs are round with a thick shell and a bumpy (mammillated) albuminous coat; recognizing this coat distinguishes them from the smooth-shelled eggs of hookworm and Enterobius.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-105_mi046_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-106",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This specimen shows a tiny, white, thread-like female worm with a pin-shaped pointed tail. A child with nocturnal perianal itching is most likely infected with which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Necator americanus"
+        },
+        {
+          "label": "B",
+          "text": "Ascaris lumbricoides"
+        },
+        {
+          "label": "C",
+          "text": "Trichuris trichiura"
+        },
+        {
+          "label": "D",
+          "text": "Enterobius vermicularis"
+        },
+        {
+          "label": "E",
+          "text": "Strongyloides stercoralis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Enterobius vermicularis (pinworm) is a small white nematode whose gravid females migrate to the anus at night to lay eggs, producing the classic perianal pruritus in children.",
+        "whyCorrect": "Enterobius vermicularis (pinworm) is a small white nematode whose gravid females migrate to the anus at night to lay eggs, producing the classic perianal pruritus in children.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-106_mi046_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-107",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This micrograph shows transparent, elongated eggs that are flattened along one side. This asymmetric 'D-shaped' morphology is characteristic of which parasite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hookworm"
+        },
+        {
+          "label": "B",
+          "text": "Enterobius vermicularis"
+        },
+        {
+          "label": "C",
+          "text": "Trichuris trichiura"
+        },
+        {
+          "label": "D",
+          "text": "Schistosoma japonicum"
+        },
+        {
+          "label": "E",
+          "text": "Ascaris lumbricoides"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pinworm eggs are colorless and ovoid with one flattened side (D-shaped); they are best recovered with cellulose (Scotch) tape from the perianal region in the morning.",
+        "whyCorrect": "Pinworm eggs are colorless and ovoid with one flattened side (D-shaped); they are best recovered with cellulose (Scotch) tape from the perianal region in the morning.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-107_mi046_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-108",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "A stool slide shows a rounded egg with a thick shell whose outer surface is irregular and knobby. Which parasitic infection does the patient most likely have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Strongyloides stercoralis"
+        },
+        {
+          "label": "B",
+          "text": "Ascaris lumbricoides"
+        },
+        {
+          "label": "C",
+          "text": "Ancylostoma species"
+        },
+        {
+          "label": "D",
+          "text": "Necator species"
+        },
+        {
+          "label": "E",
+          "text": "Enterobius vermicularis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The round egg with a nodular (mammillated) coat is a fertilized Ascaris lumbricoides egg; hookworms have smooth thin-shelled eggs and Strongyloides is usually identified by larvae rather than eggs in stool.",
+        "whyCorrect": "The round egg with a nodular (mammillated) coat is a fertilized Ascaris lumbricoides egg; hookworms have smooth thin-shelled eggs and Strongyloides is usually identified by larvae rather than eggs in stool.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-108_mi046_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-238",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This schematic highlights a dangerous cycle unique to T. solium in which the host becomes reinfected by their own eggs. What is this process called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoinfection"
+        },
+        {
+          "label": "B",
+          "text": "Hyperinfection by larval skin penetration"
+        },
+        {
+          "label": "C",
+          "text": "Zoonotic spillover from a reservoir host"
+        },
+        {
+          "label": "D",
+          "text": "Transplacental (congenital) transmission"
+        },
+        {
+          "label": "E",
+          "text": "Paratenesis via a transport host"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When a person ingests T. solium eggs from their own feces, the eggs hatch and larvae disseminate to tissues, causing cysticercosis; this self-reinfection is termed autoinfection.",
+        "whyCorrect": "When a person ingests T. solium eggs from their own feces, the eggs hatch and larvae disseminate to tissues, causing cysticercosis; this self-reinfection is termed autoinfection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-238_mi045_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-239",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This flow schematic traces larvae penetrating skin, finding blood vessels/lymphatics, migrating to the lungs, then being coughed up and swallowed to mature. Which helminth's infectious cycle is summarized?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterobius vermicularis"
+        },
+        {
+          "label": "B",
+          "text": "Strongyloides stercoralis"
+        },
+        {
+          "label": "C",
+          "text": "Schistosoma haematobium"
+        },
+        {
+          "label": "D",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "E",
+          "text": "Taenia saginata"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The skin-penetration to lung-migration to gut-maturation sequence is the classic infectious cycle of Strongyloides stercoralis (shared in broad strokes with hookworms), distinguishing it from fecal-orally acquired worms.",
+        "whyCorrect": "The skin-penetration to lung-migration to gut-maturation sequence is the classic infectious cycle of Strongyloides stercoralis (shared in broad strokes with hookworms), distinguishing it from fecal-orally acquired worms.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-239_mi046_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-240",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This CDC life-cycle diagram contrasts a free-living cycle with a parasitic cycle and highlights autoinfection returning larvae to the small intestine. Which unique feature best explains lifelong infection by this organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transmission only via undercooked pork"
+        },
+        {
+          "label": "B",
+          "text": "Encystment in skeletal muscle"
+        },
+        {
+          "label": "C",
+          "text": "Autoinfection allowing indefinite reinfection of the same host"
+        },
+        {
+          "label": "D",
+          "text": "Requirement for a mosquito vector"
+        },
+        {
+          "label": "E",
+          "text": "Obligate intermediate snail host"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Strongyloides stercoralis is unusual among helminths in performing autoinfection: rhabditiform larvae mature and re-penetrate the gut mucosa or perianal skin, sustaining infection for years and driving hyperinfection under immunosuppression.",
+        "whyCorrect": "Strongyloides stercoralis is unusual among helminths in performing autoinfection: rhabditiform larvae mature and re-penetrate the gut mucosa or perianal skin, sustaining infection for years and driving hyperinfection under immunosuppression.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-240_mi046_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-241",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This CDC diagram shows filariform larvae penetrating the skin of a foot, migrating to the lungs, being swallowed, and maturing to adults in the small intestine that release eggs in feces. It best depicts the cycle of which parasites?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Taenia solium"
+        },
+        {
+          "label": "B",
+          "text": "Enterobius vermicularis"
+        },
+        {
+          "label": "C",
+          "text": "Ascaris lumbricoides"
+        },
+        {
+          "label": "D",
+          "text": "Ancylostoma duodenale and Necator americanus (hookworms)"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hookworm larvae penetrate intact skin (often the foot), migrate through the lungs, and mature in the gut; unlike Strongyloides they cannot autoinfect, so eggs must pass in stool and develop in soil.",
+        "whyCorrect": "Hookworm larvae penetrate intact skin (often the foot), migrate through the lungs, and mature in the gut; unlike Strongyloides they cannot autoinfect, so eggs must pass in stool and develop in soil.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-241_mi046_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-242",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This CDC life-cycle diagram shows a person ingesting embryonated eggs, larvae hatching and migrating through the lungs, then maturing into large adults in the small intestine. Which organism is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterobius vermicularis"
+        },
+        {
+          "label": "B",
+          "text": "Necator americanus"
+        },
+        {
+          "label": "C",
+          "text": "Strongyloides stercoralis"
+        },
+        {
+          "label": "D",
+          "text": "Trichinella spiralis"
+        },
+        {
+          "label": "E",
+          "text": "Ascaris lumbricoides"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ascaris (the giant roundworm) is acquired fecal-orally by ingesting embryonated eggs; larvae undergo lung migration before maturing into large adults in the gut, and unlike hookworms/Strongyloides it does not penetrate skin.",
+        "whyCorrect": "Ascaris (the giant roundworm) is acquired fecal-orally by ingesting embryonated eggs; larvae undergo lung migration before maturing into large adults in the gut, and unlike hookworms/Strongyloides it does not penetrate skin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-242_mi046_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-243",
+      "topicId": "helminths",
+      "topicName": "Helminths",
+      "stem": "This CDC diagram shows embryonated eggs ingested fecal-orally, larvae hatching in the small intestine, and gravid females migrating to the perianal region at night to deposit eggs. Which organism is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascaris lumbricoides"
+        },
+        {
+          "label": "B",
+          "text": "Enterobius vermicularis"
+        },
+        {
+          "label": "C",
+          "text": "Ancylostoma duodenale"
+        },
+        {
+          "label": "D",
+          "text": "Strongyloides stercoralis"
+        },
+        {
+          "label": "E",
+          "text": "Taenia solium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pinworm has a simple fecal-oral cycle with no tissue migration: gravid females crawl to the perianal skin at night to lay eggs, driving itching, scratching, and self-reinfection.",
+        "whyCorrect": "Pinworm has a simple fecal-oral cycle with no tissue migration: gravid females crawl to the perianal skin at night to lay eggs, driving itching, scratching, and self-reinfection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-243_mi046_f14.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "categoryId": "antivirals-for-herpesvirus-infections",
+  "categoryName": "Antivirals for Herpesvirus Infections",
+  "questions": [
+    {
+      "id": "mipic-224",
+      "topicId": "antivirals-for-herpesvirus-infections",
+      "topicName": "Antivirals for Herpesvirus Infections",
+      "stem": "This schematic maps a viral replication cycle inside a human cell and marks the step where guanosine analogs such as acyclovir exert their effect. Which viral enzyme is required to perform the FIRST activation of acyclovir so that it can act at this step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reverse transcriptase"
+        },
+        {
+          "label": "B",
+          "text": "Viral thymidine kinase"
+        },
+        {
+          "label": "C",
+          "text": "Viral DNA polymerase"
+        },
+        {
+          "label": "D",
+          "text": "Host cell kinases"
+        },
+        {
+          "label": "E",
+          "text": "Viral protease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acyclovir and related guanosine analogs are prodrugs that must first be monophosphorylated by virus-specific thymidine kinase before host kinases complete activation to the triphosphate that blocks viral nucleic acid synthesis. This dependence on the viral enzyme underlies both the drug's selectivity and the resistance seen when thymidine kinase is mutated.",
+        "whyCorrect": "Acyclovir and related guanosine analogs are prodrugs that must first be monophosphorylated by virus-specific thymidine kinase before host kinases complete activation to the triphosphate that blocks viral nucleic acid synthesis. This dependence on the viral enzyme underlies both the drug's selectivity and the resistance seen when thymidine kinase is mutated.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-224_mi026_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

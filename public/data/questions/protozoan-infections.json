@@ -1,0 +1,669 @@
+{
+  "categoryId": "protozoan-infections",
+  "categoryName": "Protozoan Infections",
+  "questions": [
+    {
+      "id": "mipic-003",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "This blood-feeding insect, much smaller than a mosquito, is the vector for which infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malaria"
+        },
+        {
+          "label": "B",
+          "text": "African sleeping sickness"
+        },
+        {
+          "label": "C",
+          "text": "Leishmaniasis"
+        },
+        {
+          "label": "D",
+          "text": "Toxoplasmosis"
+        },
+        {
+          "label": "E",
+          "text": "Chagas disease"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Female phlebotomine sandflies transmit Leishmania spp.; mosquitoes transmit malaria and reduviid bugs transmit Chagas disease.",
+        "whyCorrect": "Female phlebotomine sandflies transmit Leishmania spp.; mosquitoes transmit malaria and reduviid bugs transmit Chagas disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-003_mi042_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-016",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "These three light-microscopy forms (cyst, ameboid, and flagellated) belong to which free-living organism responsible for a nearly always fatal CNS infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trichomonas vaginalis"
+        },
+        {
+          "label": "B",
+          "text": "Leishmania donovani"
+        },
+        {
+          "label": "C",
+          "text": "Entamoeba histolytica"
+        },
+        {
+          "label": "D",
+          "text": "Toxoplasma gondii"
+        },
+        {
+          "label": "E",
+          "text": "Naegleria fowleri"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "N. fowleri uniquely exists as trophozoite, transient flagellate, and cyst forms; it causes primary amebic meningoencephalitis.",
+        "whyCorrect": "N. fowleri uniquely exists as trophozoite, transient flagellate, and cyst forms; it causes primary amebic meningoencephalitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-016_mi042_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-017",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "This tissue section shows a cyst packed with slow-dividing organisms (arrows). Which parasite forms these latent tissue cysts that reactivate with immunosuppression?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trichomonas vaginalis"
+        },
+        {
+          "label": "B",
+          "text": "Toxoplasma gondii"
+        },
+        {
+          "label": "C",
+          "text": "Leishmania donovani"
+        },
+        {
+          "label": "D",
+          "text": "Naegleria fowleri"
+        },
+        {
+          "label": "E",
+          "text": "Giardia lamblia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "T. gondii persists as bradyzoite-filled tissue cysts that reactivate when cell-mediated immunity wanes.",
+        "whyCorrect": "T. gondii persists as bradyzoite-filled tissue cysts that reactivate when cell-mediated immunity wanes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-017_mi042_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-091",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "This Giemsa-stained CSF from a patient with rapidly progressive meningoencephalitis after freshwater swimming shows a motile trophozoite (arrow). What is the organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trypanosoma brucei"
+        },
+        {
+          "label": "B",
+          "text": "Toxoplasma gondii"
+        },
+        {
+          "label": "C",
+          "text": "Naegleria fowleri"
+        },
+        {
+          "label": "D",
+          "text": "Acanthamoeba species"
+        },
+        {
+          "label": "E",
+          "text": "Cryptococcus neoformans"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Motile amebic trophozoites in CSF after warm freshwater exposure indicate N. fowleri primary amebic meningoencephalitis.",
+        "whyCorrect": "Motile amebic trophozoites in CSF after warm freshwater exposure indicate N. fowleri primary amebic meningoencephalitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-091_mi042_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-092",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "This head CT of an AIDS patient with a CD4 count of 75 shows multiple ring-enhancing lesions. Which opportunistic parasite is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Toxoplasma gondii"
+        },
+        {
+          "label": "B",
+          "text": "Leishmania infantum"
+        },
+        {
+          "label": "C",
+          "text": "Naegleria fowleri"
+        },
+        {
+          "label": "D",
+          "text": "Trypanosoma cruzi"
+        },
+        {
+          "label": "E",
+          "text": "Trichomonas vaginalis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Multiple ring-enhancing brain lesions in an AIDS patient are classic for reactivated cerebral toxoplasmosis.",
+        "whyCorrect": "Multiple ring-enhancing brain lesions in an AIDS patient are classic for reactivated cerebral toxoplasmosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-092_mi042_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-093",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "A newborn has this non-contrast head CT showing scattered intracranial calcifications, along with chorioretinitis and hydrocephalus. Which congenital infection is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congenital syphilis"
+        },
+        {
+          "label": "B",
+          "text": "Congenital rubella"
+        },
+        {
+          "label": "C",
+          "text": "Neonatal herpes simplex"
+        },
+        {
+          "label": "D",
+          "text": "Congenital cytomegalovirus"
+        },
+        {
+          "label": "E",
+          "text": "Congenital toxoplasmosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The classic triad of chorioretinitis, hydrocephalus, and diffuse intracranial calcifications points to congenital toxoplasmosis.",
+        "whyCorrect": "The classic triad of chorioretinitis, hydrocephalus, and diffuse intracranial calcifications points to congenital toxoplasmosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-093_mi042_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-094",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "This pear-shaped, flagellated organism seen on a saline wet mount is a common cause of which clinical picture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial vaginosis with clue cells"
+        },
+        {
+          "label": "B",
+          "text": "Trichomoniasis with a strawberry cervix"
+        },
+        {
+          "label": "C",
+          "text": "Primary amebic meningoencephalitis"
+        },
+        {
+          "label": "D",
+          "text": "A skin ulcer at a bite site"
+        },
+        {
+          "label": "E",
+          "text": "Vulvovaginal candidiasis with pseudohyphae"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The motile, pear-shaped trophozoite with an undulating membrane is T. vaginalis, which causes trichomoniasis and colpitis macularis (strawberry cervix).",
+        "whyCorrect": "The motile, pear-shaped trophozoite with an undulating membrane is T. vaginalis, which causes trichomoniasis and colpitis macularis (strawberry cervix).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-094_mi042_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-095",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "This wet mount shows an epithelial cell so studded with bacteria that its borders are obscured. This finding indicates infection with which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria gonorrhoeae"
+        },
+        {
+          "label": "C",
+          "text": "Lactobacillus species"
+        },
+        {
+          "label": "D",
+          "text": "Trichomonas vaginalis"
+        },
+        {
+          "label": "E",
+          "text": "Gardnerella vaginalis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A clue cell (epithelial cell coated with adherent bacteria) indicates bacterial vaginosis, associated with Gardnerella vaginalis.",
+        "whyCorrect": "A clue cell (epithelial cell coated with adherent bacteria) indicates bacterial vaginosis, associated with Gardnerella vaginalis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-095_mi042_f12.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-096",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "This bone marrow smear shows a macrophage filled with small round intracellular parasites, each with a nucleus and an adjacent rod-shaped kinetoplast. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chagas disease"
+        },
+        {
+          "label": "B",
+          "text": "Visceral leishmaniasis"
+        },
+        {
+          "label": "C",
+          "text": "Malaria"
+        },
+        {
+          "label": "D",
+          "text": "Histoplasmosis"
+        },
+        {
+          "label": "E",
+          "text": "Toxoplasmosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Amastigotes bearing a nucleus and kinetoplast inside marrow macrophages confirm visceral leishmaniasis; Histoplasma yeasts lack a kinetoplast.",
+        "whyCorrect": "Amastigotes bearing a nucleus and kinetoplast inside marrow macrophages confirm visceral leishmaniasis; Histoplasma yeasts lack a kinetoplast.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-096_mi042_f18.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-183",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "A 27-year-old man returning from Brazil develops this slowly enlarging, crusted ulcer with a raised border at a bug-bite site on his forearm. Which parasite is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Naegleria fowleri"
+        },
+        {
+          "label": "B",
+          "text": "Plasmodium falciparum"
+        },
+        {
+          "label": "C",
+          "text": "Toxoplasma gondii"
+        },
+        {
+          "label": "D",
+          "text": "Leishmania spp."
+        },
+        {
+          "label": "E",
+          "text": "Trichomonas vaginalis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A painless ulcer with a raised, indurated border at a sandfly-bite site after travel to Latin America is classic cutaneous leishmaniasis.",
+        "whyCorrect": "A painless ulcer with a raised, indurated border at a sandfly-bite site after travel to Latin America is classic cutaneous leishmaniasis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-183_mi042_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-184",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "On speculum exam this cervix shows punctate hemorrhages giving a 'strawberry' appearance, accompanied by a frothy discharge and vaginal pH above 4.5. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Trichomonas vaginalis"
+        },
+        {
+          "label": "C",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "D",
+          "text": "Gardnerella vaginalis"
+        },
+        {
+          "label": "E",
+          "text": "Neisseria gonorrhoeae"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The strawberry cervix with frothy malodorous discharge and elevated pH is characteristic of T. vaginalis.",
+        "whyCorrect": "The strawberry cervix with frothy malodorous discharge and elevated pH is characteristic of T. vaginalis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-184_mi042_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-185",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "This crusted skin ulcer with a raised border developed weeks after a sandfly bite in an endemic region. Which disease does it represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basal cell carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Sporotrichosis"
+        },
+        {
+          "label": "C",
+          "text": "Cutaneous leishmaniasis"
+        },
+        {
+          "label": "D",
+          "text": "Visceral leishmaniasis"
+        },
+        {
+          "label": "E",
+          "text": "Cutaneous anthrax"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A chronic, relatively painless ulcer with a raised, rolled border at a sandfly-bite site is cutaneous leishmaniasis.",
+        "whyCorrect": "A chronic, relatively painless ulcer with a raised, rolled border at a sandfly-bite site is cutaneous leishmaniasis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-185_mi042_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-186",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "This child from an endemic area has fever, wasting, and a grossly distended abdomen from massive splenomegaly ('black fever'). Which form of leishmaniasis is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congenital toxoplasmosis"
+        },
+        {
+          "label": "B",
+          "text": "Primary amebic meningoencephalitis"
+        },
+        {
+          "label": "C",
+          "text": "Mucocutaneous leishmaniasis"
+        },
+        {
+          "label": "D",
+          "text": "Cutaneous leishmaniasis"
+        },
+        {
+          "label": "E",
+          "text": "Visceral leishmaniasis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Visceral leishmaniasis (kala-azar), from L. donovani/L. infantum, causes hepatosplenomegaly, fever, wasting, and pancytopenia.",
+        "whyCorrect": "Visceral leishmaniasis (kala-azar), from L. donovani/L. infantum, causes hepatosplenomegaly, fever, wasting, and pancytopenia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-186_mi042_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-187",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "Years after a healed skin ulcer, this patient develops progressive destruction of the nasal and oral mucosa. Which form of leishmaniasis is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Visceral leishmaniasis"
+        },
+        {
+          "label": "B",
+          "text": "Cutaneous leishmaniasis"
+        },
+        {
+          "label": "C",
+          "text": "Mucocutaneous leishmaniasis"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "E",
+          "text": "Lepromatous leprosy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mucocutaneous leishmaniasis (often L. braziliensis) destroys nasopharyngeal mucosa years after the primary cutaneous lesion.",
+        "whyCorrect": "Mucocutaneous leishmaniasis (often L. braziliensis) destroys nasopharyngeal mucosa years after the primary cutaneous lesion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-187_mi042_f17.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-235",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "This life-cycle diagram shows an organism entering the host through the nasal passage after freshwater exposure. By what route does it reach the brain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematogenous spread from the lungs"
+        },
+        {
+          "label": "B",
+          "text": "Retrograde travel up the spinal cord"
+        },
+        {
+          "label": "C",
+          "text": "Across the blood-brain barrier from the gut"
+        },
+        {
+          "label": "D",
+          "text": "Via cranial nerve VII from the middle ear"
+        },
+        {
+          "label": "E",
+          "text": "Along the olfactory nerve through the cribriform plate"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "N. fowleri ascends the olfactory nerve and crosses the cribriform plate to cause primary amebic meningoencephalitis.",
+        "whyCorrect": "N. fowleri ascends the olfactory nerve and crosses the cribriform plate to cause primary amebic meningoencephalitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-235_mi042_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-236",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "In this life cycle, which animal serves as the definitive host where sexual reproduction and oocyst shedding occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cat"
+        },
+        {
+          "label": "B",
+          "text": "Humans"
+        },
+        {
+          "label": "C",
+          "text": "Cattle"
+        },
+        {
+          "label": "D",
+          "text": "Female sandflies"
+        },
+        {
+          "label": "E",
+          "text": "Freshwater snails"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Felids are the definitive host of T. gondii and shed oocysts in feces; humans are intermediate hosts.",
+        "whyCorrect": "Felids are the definitive host of T. gondii and shed oocysts in feces; humans are intermediate hosts.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-236_mi042_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-237",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "This schematic shows a parasite adhering to and invading a host cell, replicating intracellularly, then triggering egress and cell lysis. Which rapidly dividing form of Toxoplasma is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tachyzoite"
+        },
+        {
+          "label": "B",
+          "text": "Promastigote"
+        },
+        {
+          "label": "C",
+          "text": "Oocyst"
+        },
+        {
+          "label": "D",
+          "text": "Bradyzoite"
+        },
+        {
+          "label": "E",
+          "text": "Amastigote"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The invasive, rapidly replicating form that lyses host cells during acute infection is the tachyzoite; bradyzoites are the latent cyst form.",
+        "whyCorrect": "The invasive, rapidly replicating form that lyses host cells during acute infection is the tachyzoite; bradyzoites are the latent cyst form.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-237_mi042_f09.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

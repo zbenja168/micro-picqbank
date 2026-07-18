@@ -1,0 +1,84 @@
+{
+  "categoryId": "cephalosporins",
+  "categoryName": "Cephalosporins",
+  "questions": [
+    {
+      "id": "mipic-200",
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "stem": "The four-membered ring highlighted in red is the pharmacologically essential core of this cephalosporin. Resistant bacteria most commonly inactivate the drug by producing an enzyme that hydrolyzes this ring. What are those enzymes called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycoside-modifying acetyltransferases"
+        },
+        {
+          "label": "B",
+          "text": "DNA gyrase"
+        },
+        {
+          "label": "C",
+          "text": "Penicillin-binding proteins"
+        },
+        {
+          "label": "D",
+          "text": "β-lactamases"
+        },
+        {
+          "label": "E",
+          "text": "Transpeptidases"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The strained four-membered β-lactam ring is what covalently binds and inhibits transpeptidases. Bacteria resist β-lactam antibiotics chiefly by secreting β-lactamases, enzymes that cleave the amide bond of this ring and render the drug inactive.",
+        "whyCorrect": "The strained four-membered β-lactam ring is what covalently binds and inhibits transpeptidases. Bacteria resist β-lactam antibiotics chiefly by secreting β-lactamases, enzymes that cleave the amide bond of this ring and render the drug inactive.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-200_mi049_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-244",
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "stem": "This schematic depicts the layered bacterial envelope in which alternating sugar subunits are joined into a rigid meshwork that protects the cell from osmotic lysis. Formation of which bonds within this structure is the step blocked by cephalosporins?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Disulfide bonds between membrane proteins"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen bonds stabilizing the lipid bilayer"
+        },
+        {
+          "label": "C",
+          "text": "Glycosidic bonds between the sugar backbone"
+        },
+        {
+          "label": "D",
+          "text": "Phosphodiester bonds in the plasma membrane"
+        },
+        {
+          "label": "E",
+          "text": "Peptide cross-links formed by transpeptidation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The rigidity of the peptidoglycan wall comes from transpeptidase (penicillin-binding protein) enzymes cross-linking adjacent peptide chains that dangle from the NAM-NAG sugar backbone. Cephalosporins are structural analogs of the D-Ala-D-Ala substrate and covalently inhibit these transpeptidases, halting cross-linking so the growing cell lyses.",
+        "whyCorrect": "The rigidity of the peptidoglycan wall comes from transpeptidase (penicillin-binding protein) enzymes cross-linking adjacent peptide chains that dangle from the NAM-NAG sugar backbone. Cephalosporins are structural analogs of the D-Ala-D-Ala substrate and covalently inhibit these transpeptidases, halting cross-linking so the growing cell lyses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-244_mi049_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

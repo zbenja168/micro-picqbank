@@ -1,0 +1,123 @@
+{
+  "categoryId": "carbapenems",
+  "categoryName": "Carbapenems",
+  "questions": [
+    {
+      "id": "mipic-201",
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "stem": "The structure shown in the lower-right quadrant of this comparison differs from the other three antibiotic classes depicted. What structural property distinguishes it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its beta-lactam ring is monocyclic, not fused to a second ring"
+        },
+        {
+          "label": "B",
+          "text": "It has a five-membered thiazolidine ring fused to the beta-lactam"
+        },
+        {
+          "label": "C",
+          "text": "It lacks a beta-lactam ring entirely and acts as a glycopeptide"
+        },
+        {
+          "label": "D",
+          "text": "It contains a six-membered dihydrothiazine ring fused to the beta-lactam"
+        },
+        {
+          "label": "E",
+          "text": "It replaces the beta-lactam ring sulfur with a carbon atom"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Monobactams (lower right) are the only class shown with a solitary, monocyclic beta-lactam ring not fused to a second ring. Penicillins have a fused thiazolidine ring, cephalosporins a fused dihydrothiazine ring, and carbapenems a fused carbon-containing ring. This monocyclic structure underlies aztreonam's minimal cross-reactivity with penicillins.",
+        "whyCorrect": "Monobactams (lower right) are the only class shown with a solitary, monocyclic beta-lactam ring not fused to a second ring. Penicillins have a fused thiazolidine ring, cephalosporins a fused dihydrothiazine ring, and carbapenems a fused carbon-containing ring. This monocyclic structure underlies aztreonam's minimal cross-reactivity with penicillins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-201_mi050_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-202",
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "stem": "Of the three adverse reactions illustrated here for carbapenems and monobactams, the central one is most likely to occur with which specific agent, particularly in renal impairment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aztreonam"
+        },
+        {
+          "label": "B",
+          "text": "Imipenem/cilastatin"
+        },
+        {
+          "label": "C",
+          "text": "Meropenem"
+        },
+        {
+          "label": "D",
+          "text": "Ertapenem"
+        },
+        {
+          "label": "E",
+          "text": "Doripenem"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The central panel depicts seizures. Carbapenems can lower the seizure threshold, but the risk is greatest with imipenem/cilastatin, especially at high doses or when drug accumulates due to renal impairment. Meropenem is preferred clinically because of its lower seizure risk.",
+        "whyCorrect": "The central panel depicts seizures. Carbapenems can lower the seizure threshold, but the risk is greatest with imipenem/cilastatin, especially at high doses or when drug accumulates due to renal impairment. Meropenem is preferred clinically because of its lower seizure risk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-202_mi050_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-245",
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "stem": "This schematic of the bacterial cell envelope highlights an enzyme acting between the NAG-NAM glycan strands. What is the direct consequence when beta-lactams bind that enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peptidoglycan cross-links fail to form, weakening the wall and causing osmotic lysis"
+        },
+        {
+          "label": "B",
+          "text": "Ribosomal protein synthesis is halted at the 50S subunit"
+        },
+        {
+          "label": "C",
+          "text": "The plasma membrane becomes permeable to protons"
+        },
+        {
+          "label": "D",
+          "text": "The 30S ribosomal subunit is blocked, causing misreading"
+        },
+        {
+          "label": "E",
+          "text": "DNA gyrase is inhibited, blocking chromosome replication"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The enzyme shown (a penicillin-binding protein) is a transpeptidase that cross-links adjacent NAM-NAG peptidoglycan strands. Beta-lactams irreversibly inhibit it, so without cross-linking the wall cannot withstand osmotic pressure and the growing bacterium lyses.",
+        "whyCorrect": "The enzyme shown (a penicillin-binding protein) is a transpeptidase that cross-links adjacent NAM-NAG peptidoglycan strands. Beta-lactams irreversibly inhibit it, so without cross-linking the wall cannot withstand osmotic pressure and the growing bacterium lyses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-245_mi050_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

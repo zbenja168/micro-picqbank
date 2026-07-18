@@ -1,0 +1,162 @@
+{
+  "categoryId": "sulfonamides",
+  "categoryName": "Sulfonamides",
+  "questions": [
+    {
+      "id": "mipic-140",
+      "topicId": "sulfonamides",
+      "topicName": "Sulfonamides",
+      "stem": "A patient develops this widespread skin sloughing after starting a sulfonamide. Which severe cutaneous adverse reaction does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stevens-Johnson syndrome / toxic epidermal necrolysis"
+        },
+        {
+          "label": "B",
+          "text": "Pemphigus vulgaris"
+        },
+        {
+          "label": "C",
+          "text": "Erythema multiforme minor"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcal scalded skin syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Bullous pemphigoid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The photograph shows large-scale epidermal desquamation, the hallmark of Stevens-Johnson syndrome and its more extensive form toxic epidermal necrolysis. These are rare but potentially fatal hypersensitivity reactions to sulfonamides that mandate immediate discontinuation of the drug.",
+        "whyCorrect": "The photograph shows large-scale epidermal desquamation, the hallmark of Stevens-Johnson syndrome and its more extensive form toxic epidermal necrolysis. These are rare but potentially fatal hypersensitivity reactions to sulfonamides that mandate immediate discontinuation of the drug.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-140_mi016_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-195",
+      "topicId": "sulfonamides",
+      "topicName": "Sulfonamides",
+      "stem": "The functional group depicted here forms the shared active core of which class of antibiotics?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tetracyclines"
+        },
+        {
+          "label": "B",
+          "text": "Aminoglycosides"
+        },
+        {
+          "label": "C",
+          "text": "Sulfonamides"
+        },
+        {
+          "label": "D",
+          "text": "Fluoroquinolones"
+        },
+        {
+          "label": "E",
+          "text": "Beta-lactams"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The structure shows a central sulfur double-bonded to two oxygens and single-bonded to a nitrogen (the sulfonamide moiety) with variable R groups. This sulfonamide functional group defines the sulfa drug class, which acts as competitive inhibitors of bacterial folate synthesis.",
+        "whyCorrect": "The structure shows a central sulfur double-bonded to two oxygens and single-bonded to a nitrogen (the sulfonamide moiety) with variable R groups. This sulfonamide functional group defines the sulfa drug class, which acts as competitive inhibitors of bacterial folate synthesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-195_mi016_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-211",
+      "topicId": "sulfonamides",
+      "topicName": "Sulfonamides",
+      "stem": "This diagram shows where sulfonamides and trimethoprim act within a bacterial cell. What is the basis for their selective toxicity toward bacteria?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The drug is only activated by bacterial beta-lactamase"
+        },
+        {
+          "label": "B",
+          "text": "Human cells rapidly efflux the drug via P-glycoprotein"
+        },
+        {
+          "label": "C",
+          "text": "Human cells cannot synthesize folate and instead import it from the diet, so they lack the targeted enzyme"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial ribosomes bind the drug but human ribosomes do not"
+        },
+        {
+          "label": "E",
+          "text": "Sulfonamides cannot cross the human cell membrane"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The schematic shows PABA being converted through DHF to THF inside the bacterium, with sulfonamides blocking the folate-synthesis step. Mammalian cells lack dihydropteroate synthase and obtain preformed folate from the diet, so blocking de novo folate synthesis harms bacteria selectively.",
+        "whyCorrect": "The schematic shows PABA being converted through DHF to THF inside the bacterium, with sulfonamides blocking the folate-synthesis step. Mammalian cells lack dihydropteroate synthase and obtain preformed folate from the diet, so blocking de novo folate synthesis harms bacteria selectively.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-211_mi016_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-212",
+      "topicId": "sulfonamides",
+      "topicName": "Sulfonamides",
+      "stem": "Based on the two enzyme-blocking points shown in this pathway, why does pairing a sulfonamide with trimethoprim produce a synergistic, bactericidal effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The combination inhibits bacterial DNA gyrase in addition to folate synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Trimethoprim converts the sulfonamide into an active bactericidal metabolite"
+        },
+        {
+          "label": "C",
+          "text": "The two drugs block sequential steps of the same folate pathway, compounding the reduction in tetrahydrofolate"
+        },
+        {
+          "label": "D",
+          "text": "Trimethoprim prevents efflux of the sulfonamide from the cell"
+        },
+        {
+          "label": "E",
+          "text": "Both drugs bind the 30S ribosomal subunit to halt protein synthesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The flowchart shows sulfonamides inhibiting dihydropteroate synthase and trimethoprim/pyrimethamine inhibiting dihydrofolate reductase, two consecutive steps leading to tetrahydrofolic acid. Blocking both steps sharply reduces THF for nucleotide and protein synthesis, converting two bacteriostatic agents into a bactericidal combination.",
+        "whyCorrect": "The flowchart shows sulfonamides inhibiting dihydropteroate synthase and trimethoprim/pyrimethamine inhibiting dihydrofolate reductase, two consecutive steps leading to tetrahydrofolic acid. Blocking both steps sharply reduces THF for nucleotide and protein synthesis, converting two bacteriostatic agents into a bactericidal combination.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-212_mi016_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

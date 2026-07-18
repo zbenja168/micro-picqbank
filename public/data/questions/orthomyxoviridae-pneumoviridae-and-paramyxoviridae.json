@@ -1,0 +1,240 @@
+{
+  "categoryId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae",
+  "categoryName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
+  "questions": [
+    {
+      "id": "mipic-064",
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
+      "stem": "This frontal soft-tissue neck radiograph shows symmetric tapering of the subglottic airway to a narrow point. This imaging finding is most characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial tracheitis"
+        },
+        {
+          "label": "B",
+          "text": "Retropharyngeal abscess"
+        },
+        {
+          "label": "C",
+          "text": "Acute epiglottitis"
+        },
+        {
+          "label": "D",
+          "text": "Croup (laryngotracheobronchitis)"
+        },
+        {
+          "label": "E",
+          "text": "Foreign body aspiration"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The tapered, pencil-point narrowing of the subglottic trachea on an AP neck film is the classic steeple sign, produced by subglottic edema in croup, most often caused by parainfluenza virus. Epiglottitis shows a thumbprint sign on lateral film, not subglottic narrowing.",
+        "whyCorrect": "The tapered, pencil-point narrowing of the subglottic trachea on an AP neck film is the classic steeple sign, produced by subglottic edema in croup, most often caused by parainfluenza virus. Epiglottitis shows a thumbprint sign on lateral film, not subglottic narrowing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-064_mi033_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-159",
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
+      "stem": "This photograph shows rows of patients in an overflow makeshift hospital ward built during a lethal 1918 pandemic. In that pandemic, most deaths were directly caused by what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fulminant myocarditis"
+        },
+        {
+          "label": "B",
+          "text": "Influenza encephalitis"
+        },
+        {
+          "label": "C",
+          "text": "Secondary bacterial pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Cytokine-storm ARDS with no bacterial component"
+        },
+        {
+          "label": "E",
+          "text": "Primary influenza viral pneumonia alone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The scene is a 1918 Spanish influenza (H1N1) ward. Lung-biopsy studies from victims showed the leading direct cause of death was secondary bacterial pneumonia (e.g., S. pneumoniae, S. aureus, H. influenzae) complicating the viral infection, in the pre-antibiotic era.",
+        "whyCorrect": "The scene is a 1918 Spanish influenza (H1N1) ward. Lung-biopsy studies from victims showed the leading direct cause of death was secondary bacterial pneumonia (e.g., S. pneumoniae, S. aureus, H. influenzae) complicating the viral infection, in the pre-antibiotic era.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-159_mi031_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-162",
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
+      "stem": "This child has a confluent maculopapular rash that began at the hairline and spread downward over the trunk and extremities, preceded by high fever, cough, coryza, and conjunctivitis. Which virus is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rubella virus"
+        },
+        {
+          "label": "B",
+          "text": "Measles virus"
+        },
+        {
+          "label": "C",
+          "text": "Parvovirus B19"
+        },
+        {
+          "label": "D",
+          "text": "Varicella-zoster virus"
+        },
+        {
+          "label": "E",
+          "text": "Human herpesvirus 6 (roseola)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The blanching maculopapular rash that starts at the hairline/face and spreads caudally, together with the 3 Cs (cough, coryza, conjunctivitis) and preceding Koplik spots, is characteristic of measles. Lesions may coalesce into larger patches as seen here.",
+        "whyCorrect": "The blanching maculopapular rash that starts at the hairline/face and spreads caudally, together with the 3 Cs (cough, coryza, conjunctivitis) and preceding Koplik spots, is characteristic of measles. Lesions may coalesce into larger patches as seen here.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-162_mi033_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-226",
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
+      "stem": "This two-panel schematic shows antibodies blocking influenza attachment to an epithelial cell and blocking release of newly made virions. By what process does the virus progressively escape the antibody binding shown here from one year to the next?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Establishment of latency and reactivation"
+        },
+        {
+          "label": "B",
+          "text": "Antigenic shift through genome reassortment"
+        },
+        {
+          "label": "C",
+          "text": "Antigenic drift (gradual accumulation of point mutations in HA and NA)"
+        },
+        {
+          "label": "D",
+          "text": "Phase variation of surface proteins"
+        },
+        {
+          "label": "E",
+          "text": "Homologous recombination of viral DNA"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The figure depicts HA-specific and NA-specific antibodies neutralizing influenza. Because the influenza RNA polymerase lacks proofreading, point mutations steadily alter HA/NA epitopes (antigenic drift), so previously generated antibodies bind poorly, allowing reinfection and driving seasonal epidemics and annual vaccine reformulation.",
+        "whyCorrect": "The figure depicts HA-specific and NA-specific antibodies neutralizing influenza. Because the influenza RNA polymerase lacks proofreading, point mutations steadily alter HA/NA epitopes (antigenic drift), so previously generated antibodies bind poorly, allowing reinfection and driving seasonal epidemics and annual vaccine reformulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-226_mi031_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-227",
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
+      "stem": "The schematic shows two different influenza viruses co-infecting one cell, mixing their genome pieces during assembly, and releasing a novel variant against which the population has no immunity. This exchange is possible because the influenza genome has which structural feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is double-stranded DNA"
+        },
+        {
+          "label": "B",
+          "text": "It is a single continuous RNA molecule"
+        },
+        {
+          "label": "C",
+          "text": "It is segmented into several separate RNA pieces"
+        },
+        {
+          "label": "D",
+          "text": "It is a diploid single strand"
+        },
+        {
+          "label": "E",
+          "text": "It is circular and supercoiled"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The figure depicts genetic reassortment (antigenic shift). Because influenza carries 7-8 discrete RNA segments, co-infecting strains can swap whole segments, abruptly generating a novel HA/NA combination with pandemic potential. This occurs essentially only in influenza A owing to its animal reservoirs.",
+        "whyCorrect": "The figure depicts genetic reassortment (antigenic shift). Because influenza carries 7-8 discrete RNA segments, co-infecting strains can swap whole segments, abruptly generating a novel HA/NA combination with pandemic potential. This occurs essentially only in influenza A owing to its animal reservoirs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-227_mi031_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-228",
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
+      "stem": "This timeline maps recorded human pandemic influenza across more than a century, showing repeated abrupt emergence of novel HA/NA subtypes. Which viral process most directly explains the sudden appearance of these new subtypes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antigenic shift via genome reassortment"
+        },
+        {
+          "label": "B",
+          "text": "Polymerase proofreading and repair"
+        },
+        {
+          "label": "C",
+          "text": "Complementation between defective particles"
+        },
+        {
+          "label": "D",
+          "text": "Integration into the host chromosome"
+        },
+        {
+          "label": "E",
+          "text": "Antigenic drift from point mutations"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Each new pandemic subtype (e.g., H2N2, H3N2, novel H1N1) arose by antigenic shift, a sudden reassortment event producing a hemagglutinin/neuraminidase combination the population has no immunity to, unlike the gradual antigenic drift responsible for seasonal strains.",
+        "whyCorrect": "Each new pandemic subtype (e.g., H2N2, H3N2, novel H1N1) arose by antigenic shift, a sudden reassortment event producing a hemagglutinin/neuraminidase combination the population has no immunity to, unlike the gradual antigenic drift responsible for seasonal strains.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-228_mi031_f06.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

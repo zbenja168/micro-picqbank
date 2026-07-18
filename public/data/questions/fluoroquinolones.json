@@ -1,0 +1,162 @@
+{
+  "categoryId": "fluoroquinolones",
+  "categoryName": "Fluoroquinolones",
+  "questions": [
+    {
+      "id": "mipic-130",
+      "topicId": "fluoroquinolones",
+      "topicName": "Fluoroquinolones",
+      "stem": "A pediatric patient develops this severe mucocutaneous reaction with extensive facial epidermal detachment and crusting shortly after starting a fluoroquinolone. Which drug reaction is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fixed drug eruption"
+        },
+        {
+          "label": "B",
+          "text": "Stevens-Johnson syndrome / toxic epidermal necrolysis"
+        },
+        {
+          "label": "C",
+          "text": "Acute generalized exanthematous pustulosis"
+        },
+        {
+          "label": "D",
+          "text": "Morbilliform (maculopapular) drug rash"
+        },
+        {
+          "label": "E",
+          "text": "Erythema multiforme minor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The widespread epidermal detachment with mucosal and periorificial involvement is characteristic of the SJS/TEN spectrum, a rare but life-threatening hypersensitivity reaction; affected patients must avoid the offending fluoroquinolone permanently.",
+        "whyCorrect": "The widespread epidermal detachment with mucosal and periorificial involvement is characteristic of the SJS/TEN spectrum, a rare but life-threatening hypersensitivity reaction; affected patients must avoid the offending fluoroquinolone permanently.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-130_mi005_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-191",
+      "topicId": "fluoroquinolones",
+      "topicName": "Fluoroquinolones",
+      "stem": "These three antibacterial molecules share a common bicyclic core, but the two agents on the right add a substituent (highlighted at the top of the rightmost structure) that greatly broadens their clinical spectrum. To which antibiotic class do the modified agents belong?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluoroquinolones"
+        },
+        {
+          "label": "B",
+          "text": "Sulfonamides"
+        },
+        {
+          "label": "C",
+          "text": "Macrolides"
+        },
+        {
+          "label": "D",
+          "text": "Beta-lactams"
+        },
+        {
+          "label": "E",
+          "text": "Aminoglycosides"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The core is the quinolone ring; adding a fluorine atom (seen on nalidixic acid's successors) yields the fluoroquinolones, which have broader gram-negative coverage and stronger binding to type II topoisomerases than the parent quinolone.",
+        "whyCorrect": "The core is the quinolone ring; adding a fluorine atom (seen on nalidixic acid's successors) yields the fluoroquinolones, which have broader gram-negative coverage and stronger binding to type II topoisomerases than the parent quinolone.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-191_mi005_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-203",
+      "topicId": "fluoroquinolones",
+      "topicName": "Fluoroquinolones",
+      "stem": "This schematic depicts a type II topoisomerase acting on interlinked bacterial DNA, progressively reducing the number of braided crossings shown. What enzymatic function is being illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Synthesis of the leading DNA strand"
+        },
+        {
+          "label": "B",
+          "text": "Proofreading of mismatched bases"
+        },
+        {
+          "label": "C",
+          "text": "Decatenation of interlinked daughter chromosomes"
+        },
+        {
+          "label": "D",
+          "text": "Methylation of adenine residues"
+        },
+        {
+          "label": "E",
+          "text": "Removal of RNA primers"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The stepwise reduction from 4 to 0 braids shows topoisomerase IV passing one duplex through another to separate (decatenate) the two completed bacterial chromosomes; DNA gyrase performs the related task of managing negative supercoils.",
+        "whyCorrect": "The stepwise reduction from 4 to 0 braids shows topoisomerase IV passing one duplex through another to separate (decatenate) the two completed bacterial chromosomes; DNA gyrase performs the related task of managing negative supercoils.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-203_mi005_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-204",
+      "topicId": "fluoroquinolones",
+      "topicName": "Fluoroquinolones",
+      "stem": "The listed drugs are shown binding an enzyme located on the replicating chromosome inside this bacterial cell. What is the immediate consequence of this drug-enzyme interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Disruption of folate synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Accumulation of double-strand DNA breaks that halt replication and kill the cell"
+        },
+        {
+          "label": "C",
+          "text": "Depolarization of the cytoplasmic membrane"
+        },
+        {
+          "label": "D",
+          "text": "Blockade of ribosomal peptide bond formation"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of cell wall peptidoglycan cross-linking"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fluoroquinolones trap the enzyme after it has nicked DNA, preventing religation; the resulting persistent double-strand breaks stop DNA synthesis and produce a bactericidal effect.",
+        "whyCorrect": "Fluoroquinolones trap the enzyme after it has nicked DNA, preventing religation; the resulting persistent double-strand breaks stop DNA synthesis and produce a bactericidal effect.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-204_mi005_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

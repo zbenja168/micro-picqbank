@@ -1,0 +1,201 @@
+{
+  "categoryId": "bacterial-reproduction-and-genetics",
+  "categoryName": "Bacterial Reproduction and Genetics",
+  "questions": [
+    {
+      "id": "mipic-217",
+      "topicId": "bacterial-reproduction-and-genetics",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "stem": "This schematic shows mobile DNA elements flanking a gene, allowing it to move between plasmid and chromosomal DNA. Which clinically important trait is most commonly carried between bacteria by these elements?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Photosynthesis genes"
+        },
+        {
+          "label": "B",
+          "text": "Flagellar assembly genes"
+        },
+        {
+          "label": "C",
+          "text": "Ribosomal RNA genes"
+        },
+        {
+          "label": "D",
+          "text": "Sporulation genes"
+        },
+        {
+          "label": "E",
+          "text": "Antibiotic resistance genes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Transposons frequently carry drug-resistance genes; when a resistance gene is flanked on both sides by transposon sequences it can be cut out and inserted elsewhere, spreading resistance between plasmids and chromosomes.",
+        "whyCorrect": "Transposons frequently carry drug-resistance genes; when a resistance gene is flanked on both sides by transposon sequences it can be cut out and inserted elsewhere, spreading resistance between plasmids and chromosomes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-217_mi021_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-218",
+      "topicId": "bacterial-reproduction-and-genetics",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "stem": "In the process shown, a donor bacterium extends a sex pilus to a recipient and transfers plasmid DNA. What is the essential requirement for this form of horizontal gene transfer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exposure to ultraviolet light"
+        },
+        {
+          "label": "B",
+          "text": "Endospore formation"
+        },
+        {
+          "label": "C",
+          "text": "Uptake of naked DNA from the environment"
+        },
+        {
+          "label": "D",
+          "text": "Direct cell-to-cell contact via a pilus/mating bridge"
+        },
+        {
+          "label": "E",
+          "text": "A bacteriophage vector"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Conjugation requires physical contact: the F+ donor forms a sex pilus and mating bridge with the F- recipient and transfers a single strand of the F plasmid, converting the recipient into a donor. No chromosomal DNA and no external vector is involved.",
+        "whyCorrect": "Conjugation requires physical contact: the F+ donor forms a sex pilus and mating bridge with the F- recipient and transfers a single strand of the F plasmid, converting the recipient into a donor. No chromosomal DNA and no external vector is involved.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-218_mi021_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-219",
+      "topicId": "bacterial-reproduction-and-genetics",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "stem": "Here the donor's F plasmid has integrated into its chromosome before conjugation with a recipient. Compared with standard F+ conjugation, what is the key consequence of this donor state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No DNA transfer occurs"
+        },
+        {
+          "label": "B",
+          "text": "Flanking chromosomal (donor) DNA is transferred, not just the plasmid"
+        },
+        {
+          "label": "C",
+          "text": "Ribosomes are transferred to the recipient"
+        },
+        {
+          "label": "D",
+          "text": "Only the intact free plasmid is transferred"
+        },
+        {
+          "label": "E",
+          "text": "The recipient cell is lysed"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In an Hfr (high-frequency recombination) donor the F plasmid is integrated in the chromosome, so transfer starting at the plasmid origin drags adjacent chromosomal genes into the recipient, allowing recombination of donor chromosomal DNA.",
+        "whyCorrect": "In an Hfr (high-frequency recombination) donor the F plasmid is integrated in the chromosome, so transfer starting at the plasmid origin drags adjacent chromosomal genes into the recipient, allowing recombination of donor chromosomal DNA.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-219_mi021_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-220",
+      "topicId": "bacterial-reproduction-and-genetics",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "stem": "This sequence shows a lytic phage that mistakenly packages host DNA and delivers it to a new bacterium. How does this mechanism differ from specialized transduction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Any random fragment of host DNA can be packaged and transferred"
+        },
+        {
+          "label": "B",
+          "text": "Transfer requires a sex pilus"
+        },
+        {
+          "label": "C",
+          "text": "Only the phage's own viral DNA is transferred"
+        },
+        {
+          "label": "D",
+          "text": "DNA is taken up from the environment"
+        },
+        {
+          "label": "E",
+          "text": "Only DNA adjacent to a prophage integration site is transferred"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In generalized transduction, during lytic growth random pieces of degraded host chromosome are accidentally packaged into phage capsids, so any host gene can be moved to a recipient, unlike specialized transduction which transfers only genes flanking the prophage.",
+        "whyCorrect": "In generalized transduction, during lytic growth random pieces of degraded host chromosome are accidentally packaged into phage capsids, so any host gene can be moved to a recipient, unlike specialized transduction which transfers only genes flanking the prophage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-220_mi021_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-221",
+      "topicId": "bacterial-reproduction-and-genetics",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "stem": "In this process a temperate phage integrates into the host chromosome and later excises imprecisely, carrying adjacent bacterial genes into new hosts. Why can only specific bacterial genes be transferred this way?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transfer requires direct cell-to-cell contact"
+        },
+        {
+          "label": "B",
+          "text": "Only DNA immediately flanking the prophage integration site is excised and packaged"
+        },
+        {
+          "label": "C",
+          "text": "Genes are taken up as naked DNA from the environment"
+        },
+        {
+          "label": "D",
+          "text": "Only free plasmid genes are transferred"
+        },
+        {
+          "label": "E",
+          "text": "Any random host gene can be packaged"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In specialized transduction the prophage integrates at a specific chromosomal site; imprecise excision picks up only the immediately adjacent bacterial DNA, so just those flanking genes can be carried to the next host.",
+        "whyCorrect": "In specialized transduction the prophage integrates at a specific chromosomal site; imprecise excision picks up only the immediately adjacent bacterial DNA, so just those flanking genes can be carried to the next host.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-221_mi021_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

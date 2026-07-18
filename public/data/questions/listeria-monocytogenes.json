@@ -1,0 +1,123 @@
+{
+  "categoryId": "listeria-monocytogenes",
+  "categoryName": "Listeria Monocytogenes",
+  "questions": [
+    {
+      "id": "mipic-026",
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria Monocytogenes",
+      "stem": "Based on the staining and morphology of the organism shown in this microscopic field, what is the classic laboratory description of this bacterium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gram-positive rod"
+        },
+        {
+          "label": "B",
+          "text": "Gram-negative diplococci"
+        },
+        {
+          "label": "C",
+          "text": "Gram-positive cocci in clusters"
+        },
+        {
+          "label": "D",
+          "text": "Acid-fast bacillus"
+        },
+        {
+          "label": "E",
+          "text": "Gram-negative rod"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The purple (crystal-violet retaining) rod-shaped bacteria identify Listeria monocytogenes as a Gram-positive, facultative intracellular rod that often grows in short chains or pairs resembling Streptococcus.",
+        "whyCorrect": "The purple (crystal-violet retaining) rod-shaped bacteria identify Listeria monocytogenes as a Gram-positive, facultative intracellular rod that often grows in short chains or pairs resembling Streptococcus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-026_mi003_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-129",
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria Monocytogenes",
+      "stem": "This schematic depicts the pathogenesis of the organism from ingestion through cell-to-cell spread and dissemination. What key advantage does this intracellular lifecycle confer on the pathogen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Independence from host cell machinery"
+        },
+        {
+          "label": "B",
+          "text": "Ability to form endospores"
+        },
+        {
+          "label": "C",
+          "text": "Production of a protective polysaccharide capsule"
+        },
+        {
+          "label": "D",
+          "text": "Evasion of antibody-mediated (humoral) immunity"
+        },
+        {
+          "label": "E",
+          "text": "Resistance to gastric acid"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "By invading host cells, escaping the phagosome, and spreading directly cell-to-cell via actin-based motility, L. monocytogenes remains largely intracellular. This shields it from circulating antibodies and explains why cell-mediated immunity is critical for control, so patients with defective cellular immunity are at highest risk.",
+        "whyCorrect": "By invading host cells, escaping the phagosome, and spreading directly cell-to-cell via actin-based motility, L. monocytogenes remains largely intracellular. This shields it from circulating antibodies and explains why cell-mediated immunity is critical for control, so patients with defective cellular immunity are at highest risk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-129_mi003_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-190",
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria Monocytogenes",
+      "stem": "This diagram illustrates the general mechanisms by which the organism resists multiple antibiotic classes. Despite this broad inherent resistance, which agent remains the drug of choice for treating infection with this pathogen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tetracycline"
+        },
+        {
+          "label": "B",
+          "text": "Cephalexin"
+        },
+        {
+          "label": "C",
+          "text": "Ampicillin"
+        },
+        {
+          "label": "D",
+          "text": "Azithromycin"
+        },
+        {
+          "label": "E",
+          "text": "Ciprofloxacin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "L. monocytogenes is inherently resistant to fluoroquinolones, cephalosporins, macrolides, and tetracyclines through efflux pumps, enzymatic inactivation, reduced uptake, and target modification. Ampicillin (often with gentamicin) remains the treatment of choice.",
+        "whyCorrect": "L. monocytogenes is inherently resistant to fluoroquinolones, cephalosporins, macrolides, and tetracyclines through efflux pumps, enzymatic inactivation, reduced uptake, and target modification. Ampicillin (often with gentamicin) remains the treatment of choice.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-190_mi003_f04.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

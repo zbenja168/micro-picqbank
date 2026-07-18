@@ -1,0 +1,123 @@
+{
+  "categoryId": "clostridia",
+  "categoryName": "Clostridia",
+  "questions": [
+    {
+      "id": "mipic-023",
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "stem": "Based on the staining reaction and cell morphology shown in this smear from an anaerobic culture, which organism group is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gram-positive, spore-forming bacilli"
+        },
+        {
+          "label": "B",
+          "text": "Acid-fast bacilli"
+        },
+        {
+          "label": "C",
+          "text": "Spirochetes"
+        },
+        {
+          "label": "D",
+          "text": "Gram-positive cocci in clusters"
+        },
+        {
+          "label": "E",
+          "text": "Gram-negative bacilli"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The elongated rods retain the crystal violet stain (appearing dark blue/purple), identifying them as Gram-positive bacilli, consistent with Clostridia among the surrounding red blood cells.",
+        "whyCorrect": "The elongated rods retain the crystal violet stain (appearing dark blue/purple), identifying them as Gram-positive bacilli, consistent with Clostridia among the surrounding red blood cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-023_mi002_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-024",
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "stem": "This blood agar plate inoculated with C. perfringens shows a characteristic pattern surrounding the colonies. What does this pattern represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Green pigment production"
+        },
+        {
+          "label": "B",
+          "text": "Gamma-hemolysis (no hemolysis)"
+        },
+        {
+          "label": "C",
+          "text": "A double zone of hemolysis"
+        },
+        {
+          "label": "D",
+          "text": "Alpha-hemolysis only"
+        },
+        {
+          "label": "E",
+          "text": "Swarming motility across the plate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C. perfringens classically produces a double (target) zone of hemolysis on blood agar, an inner complete zone from theta-toxin and an outer partial zone from alpha-toxin (a lecithinase).",
+        "whyCorrect": "C. perfringens classically produces a double (target) zone of hemolysis on blood agar, an inner complete zone from theta-toxin and an outer partial zone from alpha-toxin (a lecithinase).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-024_mi002_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-025",
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "stem": "The terminal swellings that give this stained organism its drumstick appearance confer which property?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct secretion of exotoxin"
+        },
+        {
+          "label": "B",
+          "text": "Enzymatic inactivation of antibiotics"
+        },
+        {
+          "label": "C",
+          "text": "Increased flagellar motility"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced adhesion to host epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Resistance to heat, desiccation, and disinfectants"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The terminal structures are endospores, dormant forms that allow the organism to survive harsh conditions such as heat, drying, and chemical disinfection until favorable anaerobic conditions return.",
+        "whyCorrect": "The terminal structures are endospores, dormant forms that allow the organism to survive harsh conditions such as heat, drying, and chemical disinfection until favorable anaerobic conditions return.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-025_mi002_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

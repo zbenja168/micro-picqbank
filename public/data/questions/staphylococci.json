@@ -1,0 +1,201 @@
+{
+  "categoryId": "staphylococci",
+  "categoryName": "Staphylococci",
+  "questions": [
+    {
+      "id": "mipic-117",
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "stem": "This stained microscopy field shows purple, spherical bacteria arranged in irregular grape-like clusters. What does this staining reaction and arrangement indicate about the organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gram-positive cocci in clusters (staphylococci)"
+        },
+        {
+          "label": "B",
+          "text": "Acid-fast bacilli"
+        },
+        {
+          "label": "C",
+          "text": "Gram-positive bacilli"
+        },
+        {
+          "label": "D",
+          "text": "Gram-positive cocci in chains (streptococci)"
+        },
+        {
+          "label": "E",
+          "text": "Gram-negative diplococci"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Staphylococci retain the crystal violet stain (Gram-positive, purple) and, dividing in multiple planes, form the characteristic grape-like clusters seen here, distinguishing them from chain-forming streptococci and rod-shaped organisms.",
+        "whyCorrect": "Staphylococci retain the crystal violet stain (Gram-positive, purple) and, dividing in multiple planes, form the characteristic grape-like clusters seen here, distinguishing them from chain-forming streptococci and rod-shaped organisms.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-117_mi048_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-118",
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "stem": "Hydrogen peroxide was applied to two bacterial samples; the upper sample generated abundant gas bubbles while the lower sample remained flat and bubble-free. Which enzyme activity does the bubbling sample demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-lactamase activity"
+        },
+        {
+          "label": "B",
+          "text": "Urease activity"
+        },
+        {
+          "label": "C",
+          "text": "Catalase activity (catalase positive)"
+        },
+        {
+          "label": "D",
+          "text": "Coagulase activity"
+        },
+        {
+          "label": "E",
+          "text": "Oxidase activity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Catalase converts hydrogen peroxide to water and oxygen; the visible oxygen bubbles mark a catalase-positive organism, which separates staphylococci from catalase-negative streptococci and enterococci.",
+        "whyCorrect": "Catalase converts hydrogen peroxide to water and oxygen; the visible oxygen bubbles mark a catalase-positive organism, which separates staphylococci from catalase-negative streptococci and enterococci.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-118_mi048_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-119",
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "stem": "A student uses this branching chart to identify an unknown Gram-positive isolate, moving from one phenotypic test to the next until a species is reached. What laboratory approach does this chart represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 16S rRNA gene sequencing algorithm"
+        },
+        {
+          "label": "B",
+          "text": "A colony pigment grading scale"
+        },
+        {
+          "label": "C",
+          "text": "A dichotomous key that uses sequential biochemical/phenotypic tests"
+        },
+        {
+          "label": "D",
+          "text": "Serotyping by antibody reactions"
+        },
+        {
+          "label": "E",
+          "text": "Antibiotic susceptibility (Kirby-Bauer) interpretation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The chart is a dichotomous identification key: each node is a phenotypic test (catalase, coagulase, novobiocin sensitivity) whose result branches the isolate toward a definitive species such as S. aureus, S. epidermidis, or S. saprophyticus.",
+        "whyCorrect": "The chart is a dichotomous identification key: each node is a phenotypic test (catalase, coagulase, novobiocin sensitivity) whose result branches the isolate toward a definitive species such as S. aureus, S. epidermidis, or S. saprophyticus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-119_mi048_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-120",
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "stem": "Arrows on this blood agar plate point to a zone of complete clearing of red blood cells around the colonies. What type of hemolysis is shown, and which staphylococcal species characteristically produces it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gamma-hemolysis, produced by S. aureus"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-hemolysis, produced by S. pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Beta-hemolysis, produced by S. aureus"
+        },
+        {
+          "label": "D",
+          "text": "Alpha-hemolysis, produced by S. epidermidis"
+        },
+        {
+          "label": "E",
+          "text": "Gamma-hemolysis (no hemolysis), produced by S. saprophyticus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Complete lysis of erythrocytes leaving a clear, transparent zone is beta-hemolysis; among the common staphylococci only S. aureus is beta-hemolytic, giving another way to separate it from S. epidermidis and S. saprophyticus.",
+        "whyCorrect": "Complete lysis of erythrocytes leaving a clear, transparent zone is beta-hemolysis; among the common staphylococci only S. aureus is beta-hemolytic, giving another way to separate it from S. epidermidis and S. saprophyticus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-120_mi048_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-121",
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "stem": "Small paper disks soaked in different antibiotics were placed on a confluent bacterial lawn. Some disks are surrounded by clear zones while bacteria grow right up to others. How should a clear zone around a disk be interpreted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The organism is resistant to that antibiotic"
+        },
+        {
+          "label": "B",
+          "text": "The organism is susceptible to that antibiotic"
+        },
+        {
+          "label": "C",
+          "text": "The zone represents plate contamination"
+        },
+        {
+          "label": "D",
+          "text": "The bacteria are secreting that antibiotic"
+        },
+        {
+          "label": "E",
+          "text": "The disk contained no antibiotic"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In a disk-diffusion (Kirby-Bauer) assay, antibiotic diffuses outward from each disk; a clear zone of inhibited growth means the drug stopped the bacteria (susceptible), while growth reaching the disk edge means the organism is resistant.",
+        "whyCorrect": "In a disk-diffusion (Kirby-Bauer) assay, antibiotic diffuses outward from each disk; a clear zone of inhibited growth means the drug stopped the bacteria (susceptible), while growth reaching the disk edge means the organism is resistant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-121_mi048_f10.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

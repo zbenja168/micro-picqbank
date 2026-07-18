@@ -1,0 +1,279 @@
+{
+  "categoryId": "streptococci-and-enterococci",
+  "categoryName": "Streptococci and Enterococci",
+  "questions": [
+    {
+      "id": "mipic-021",
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "This Gram stain shows purple-staining cocci arranged in chains. What does this morphology and staining reaction indicate about the organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gram-positive cocci in chains, characteristic of Streptococcus"
+        },
+        {
+          "label": "B",
+          "text": "Gram-negative diplococci (Neisseria)"
+        },
+        {
+          "label": "C",
+          "text": "Gram-positive rods (Bacillus)"
+        },
+        {
+          "label": "D",
+          "text": "Gram-positive cocci in clusters (Staphylococcus)"
+        },
+        {
+          "label": "E",
+          "text": "Gram-negative rods (E. coli)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The retained crystal violet (purple) color indicates a Gram-positive organism, and the arrangement in chains is characteristic of Streptococcus, distinguishing it from the grape-like clusters of Staphylococcus.",
+        "whyCorrect": "The retained crystal violet (purple) color indicates a Gram-positive organism, and the arrangement in chains is characteristic of Streptococcus, distinguishing it from the grape-like clusters of Staphylococcus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-021_mi001_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-022",
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "In this test, the reagent turns cherry-red when a substrate is hydrolyzed. A positive result presumptively identifies which organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S. pyogenes and Enterococcus spp."
+        },
+        {
+          "label": "B",
+          "text": "S. pneumoniae and viridans streptococci"
+        },
+        {
+          "label": "C",
+          "text": "S. gallolyticus and S. bovis"
+        },
+        {
+          "label": "D",
+          "text": "S. agalactiae only"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The PYR (pyrrolidonyl arylamidase) test is positive for S. pyogenes and Enterococcus spp., which hydrolyze the substrate to produce a pink/cherry-red color.",
+        "whyCorrect": "The PYR (pyrrolidonyl arylamidase) test is positive for S. pyogenes and Enterococcus spp., which hydrolyze the substrate to produce a pink/cherry-red color.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-022_mi001_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-124",
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "This oropharynx shows petechiae, marked erythema, and enlarged tonsils in a child with sore throat and fever. What is the most common bacterial cause of this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus agalactiae"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pyogenes (group A strep)"
+        },
+        {
+          "label": "D",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "E",
+          "text": "Viridans streptococci"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "S. pyogenes (GAS) is the most common bacterial cause of pharyngitis, presenting with fever, tonsillar erythema, palatal petechiae, and cervical lymphadenopathy.",
+        "whyCorrect": "S. pyogenes (GAS) is the most common bacterial cause of pharyngitis, presenting with fever, tonsillar erythema, palatal petechiae, and cervical lymphadenopathy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-124_mi001_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-125",
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "This superficial skin lesion shows honey-colored crusting over an erythematous base. Besides Staphylococcus aureus, which organism most commonly causes this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus agalactiae"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus gallolyticus"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Impetigo is a superficial epidermal infection caused most often by S. aureus and S. pyogenes; S. pyogenes causes the nonbullous form.",
+        "whyCorrect": "Impetigo is a superficial epidermal infection caused most often by S. aureus and S. pyogenes; S. pyogenes causes the nonbullous form.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-125_mi001_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-126",
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "This tongue finding, seen in scarlet fever, shows diffuse erythema with prominent hyperplastic papillae. What mediates the systemic rash and this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythrogenic (pyrogenic) exotoxins SPE-A and SPE-C"
+        },
+        {
+          "label": "B",
+          "text": "Streptolysin O"
+        },
+        {
+          "label": "C",
+          "text": "Hyaluronidase"
+        },
+        {
+          "label": "D",
+          "text": "M protein"
+        },
+        {
+          "label": "E",
+          "text": "Streptokinase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Scarlet fever, including the strawberry tongue, results from systemic release of the erythrogenic toxins SPE-A and SPE-C, which are acquired by S. pyogenes via lysogenic conversion.",
+        "whyCorrect": "Scarlet fever, including the strawberry tongue, results from systemic release of the erythrogenic toxins SPE-A and SPE-C, which are acquired by S. pyogenes via lysogenic conversion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-126_mi001_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-127",
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "This child has a confluent, sandpaper-like erythematous rash that spares the area immediately around the mouth. Toxins from which organism cause this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecium"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus epidermidis"
+        },
+        {
+          "label": "E",
+          "text": "Viridans streptococci"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Scarlet fever's blanching sandpaper rash with circumoral pallor is caused by erythrogenic toxins produced by S. pyogenes.",
+        "whyCorrect": "Scarlet fever's blanching sandpaper rash with circumoral pallor is caused by erythrogenic toxins produced by S. pyogenes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-127_mi001_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-128",
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "This rust-colored sputum sample is characteristic of pneumonia caused by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus agalactiae"
+        },
+        {
+          "label": "C",
+          "text": "Viridans streptococci"
+        },
+        {
+          "label": "D",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Rusty sputum is a classic finding in pneumococcal pneumonia, the most common cause of community-acquired bacterial pneumonia.",
+        "whyCorrect": "Rusty sputum is a classic finding in pneumococcal pneumonia, the most common cause of community-acquired bacterial pneumonia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-128_mi001_f12.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

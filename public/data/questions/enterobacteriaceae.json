@@ -1,0 +1,552 @@
+{
+  "categoryId": "enterobacteriaceae",
+  "categoryName": "Enterobacteriaceae",
+  "questions": [
+    {
+      "id": "mipic-004",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "These electron micrographs show bacteria perched atop raised, cup-like projections of the intestinal epithelial surface. Rearrangement of which host cytoskeletal protein forms these pedestals?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actin"
+        },
+        {
+          "label": "B",
+          "text": "Myosin heavy chain"
+        },
+        {
+          "label": "C",
+          "text": "Spectrin"
+        },
+        {
+          "label": "D",
+          "text": "Keratin"
+        },
+        {
+          "label": "E",
+          "text": "Tubulin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Enteropathogenic E. coli efface the microvilli and induce localized actin polymerization, forming characteristic actin pedestals beneath the attached bacteria, disrupting absorption.",
+        "whyCorrect": "Enteropathogenic E. coli efface the microvilli and induce localized actin polymerization, forming characteristic actin pedestals beneath the attached bacteria, disrupting absorption.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-004_mi007_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-029",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "A gram-negative stool isolate was streaked onto this selective, differential agar. Colonies on one half turned the surrounding medium pink while the other half stayed pale. What is the name of this culture medium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thiosulfate-citrate-bile salts (TCBS) agar"
+        },
+        {
+          "label": "B",
+          "text": "Eosin methylene blue (EMB) agar"
+        },
+        {
+          "label": "C",
+          "text": "Sheep blood agar"
+        },
+        {
+          "label": "D",
+          "text": "MacConkey agar"
+        },
+        {
+          "label": "E",
+          "text": "Hektoen enteric agar"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is MacConkey agar, a selective (bile salts/crystal violet inhibit gram-positives) and differential medium. Lactose fermenters produce acid that lowers the pH and turns the neutral-red indicator pink, while non-fermenters remain colorless.",
+        "whyCorrect": "This is MacConkey agar, a selective (bile salts/crystal violet inhibit gram-positives) and differential medium. Lactose fermenters produce acid that lowers the pH and turns the neutral-red indicator pink, while non-fermenters remain colorless.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-029_mi007_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-030",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "A microbiology lab uses the branching decision tree shown here, sorting organisms by sequential biochemical reactions. What is the primary purpose of this algorithm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To predict antibiotic resistance mechanisms"
+        },
+        {
+          "label": "B",
+          "text": "To identify gram-negative bacterial species from biochemical test results"
+        },
+        {
+          "label": "C",
+          "text": "To grade hemolysis patterns on blood agar"
+        },
+        {
+          "label": "D",
+          "text": "To stage the severity of sepsis"
+        },
+        {
+          "label": "E",
+          "text": "To map antibody cross-reactivity between serotypes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The dichotomous flowchart separates gram-negative organisms step by step using biochemical properties (lactose fermentation, oxidase, indole, etc.) to arrive at a species-level identification.",
+        "whyCorrect": "The dichotomous flowchart separates gram-negative organisms step by step using biochemical properties (lactose fermentation, oxidase, indole, etc.) to arrive at a species-level identification.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-030_mi007_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-031",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "A gram-negative bacillus was streaked onto this agar and its colonies developed a striking green metallic sheen. Which organism characteristically produces this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Salmonella enterica"
+        },
+        {
+          "label": "C",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "E",
+          "text": "Enterobacter cloacae"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "On eosin-methylene blue (EMB) agar, vigorous lactose fermentation by E. coli precipitates the dyes to produce the characteristic green metallic sheen, distinguishing it from other Enterobacteriaceae.",
+        "whyCorrect": "On eosin-methylene blue (EMB) agar, vigorous lactose fermentation by E. coli precipitates the dyes to produce the characteristic green metallic sheen, distinguishing it from other Enterobacteriaceae.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-031_mi007_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-032",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "This blood agar plate shows a zone of complete, transparent clearing of the red blood cells immediately surrounding the bacterial growth. What type of hemolysis is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta hemolysis"
+        },
+        {
+          "label": "B",
+          "text": "Alpha hemolysis"
+        },
+        {
+          "label": "C",
+          "text": "Alpha-prime (wide-zone) hemolysis"
+        },
+        {
+          "label": "D",
+          "text": "Gamma (non-) hemolysis"
+        },
+        {
+          "label": "E",
+          "text": "Synergistic hemolysis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Complete lysis of erythrocytes producing a clear, colorless zone is beta hemolysis. Among Enterobacteriaceae only E. coli is beta-hemolytic.",
+        "whyCorrect": "Complete lysis of erythrocytes producing a clear, colorless zone is beta hemolysis. Among Enterobacteriaceae only E. coli is beta-hemolytic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-032_mi007_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-033",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "In this stab-culture test, the tube on the left shows diffuse growth spreading outward from the central inoculation line into the surrounding agar, whereas the right tube stays confined to the stab track. What property of the left organism does this demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It produces hydrogen sulfide gas"
+        },
+        {
+          "label": "B",
+          "text": "It is a strict anaerobe"
+        },
+        {
+          "label": "C",
+          "text": "It ferments the sugar in the agar"
+        },
+        {
+          "label": "D",
+          "text": "It possesses a protective capsule"
+        },
+        {
+          "label": "E",
+          "text": "It is motile due to functional flagella"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Growth radiating away from the inoculation stab indicates motility, mediated by flagella. Confinement to the stab line (right) indicates a nonmotile organism.",
+        "whyCorrect": "Growth radiating away from the inoculation stab indicates motility, mediated by flagella. Confinement to the stab line (right) indicates a nonmotile organism.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-033_mi007_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-034",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "A reagent is added to these two culture tubes and the right tube develops a red-pink ring at the surface. What does this positive result indicate about the organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It reduces nitrate to nitrite"
+        },
+        {
+          "label": "B",
+          "text": "It produces catalase, releasing oxygen from peroxide"
+        },
+        {
+          "label": "C",
+          "text": "It produces tryptophanase, cleaving tryptophan to yield indole"
+        },
+        {
+          "label": "D",
+          "text": "It produces urease, splitting urea into ammonia"
+        },
+        {
+          "label": "E",
+          "text": "It ferments lactose to produce acid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The indole test detects tryptophanase; a red ring after adding Kovac's reagent marks an indole-positive organism, a key trait separating E. coli (positive) from K. pneumoniae (negative).",
+        "whyCorrect": "The indole test detects tryptophanase; a red ring after adding Kovac's reagent marks an indole-positive organism, a key trait separating E. coli (positive) from K. pneumoniae (negative).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-034_mi008_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-035",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "This K. pneumoniae growth on MacConkey agar shows pink, glistening, dome-shaped colonies with a slimy appearance. What feature is chiefly responsible for that mucoid look?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peritrichous flagella causing swarming"
+        },
+        {
+          "label": "B",
+          "text": "An extracellular-DNA-only biofilm"
+        },
+        {
+          "label": "C",
+          "text": "Endospore formation"
+        },
+        {
+          "label": "D",
+          "text": "Production of a red pigment (prodigiosin)"
+        },
+        {
+          "label": "E",
+          "text": "A prominent polysaccharide capsule"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "K. pneumoniae has a large polysaccharide capsule that gives its colonies a characteristic mucoid, slimy appearance; the pink color reflects lactose fermentation on MacConkey agar.",
+        "whyCorrect": "K. pneumoniae has a large polysaccharide capsule that gives its colonies a characteristic mucoid, slimy appearance; the pink color reflects lactose fermentation on MacConkey agar.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-035_mi008_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-036",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "This agar plate shows concentric rings spreading outward in a bull's-eye pattern from the inoculation site. What bacterial property produces this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Red pigment (prodigiosin) production"
+        },
+        {
+          "label": "B",
+          "text": "Capsule-mediated mucoid spreading"
+        },
+        {
+          "label": "C",
+          "text": "Twitching motility via type IV pili"
+        },
+        {
+          "label": "D",
+          "text": "Swarming motility driven by peritrichous flagella"
+        },
+        {
+          "label": "E",
+          "text": "Diffusion of a hemolysin only"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Proteus mirabilis is strongly motile with peritrichous flagella; alternating cycles of swarming and consolidation across the agar create the concentric bull's-eye rings.",
+        "whyCorrect": "Proteus mirabilis is strongly motile with peritrichous flagella; alternating cycles of swarming and consolidation across the agar create the concentric bull's-eye rings.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-036_mi008_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-037",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "Colonies on this agar plate display a striking red coloration typical of Serratia marcescens. What is the name of this pigment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyocyanin"
+        },
+        {
+          "label": "B",
+          "text": "Prodigiosin"
+        },
+        {
+          "label": "C",
+          "text": "Melanin"
+        },
+        {
+          "label": "D",
+          "text": "Violacein"
+        },
+        {
+          "label": "E",
+          "text": "Staphyloxanthin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Serratia marcescens produces prodigiosin, a red pigment; pyocyanin (blue-green) is made by Pseudomonas and staphyloxanthin (gold) by S. aureus.",
+        "whyCorrect": "Serratia marcescens produces prodigiosin, a red pigment; pyocyanin (blue-green) is made by Pseudomonas and staphyloxanthin (gold) by S. aureus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-037_mi008_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-038",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "This laboratory schematic branches on tests such as lactose fermentation, motility, and urease production. What is its primary purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To identify and distinguish members of the Enterobacteriaceae"
+        },
+        {
+          "label": "B",
+          "text": "To score the severity of sepsis"
+        },
+        {
+          "label": "C",
+          "text": "To select an anticoagulant regimen"
+        },
+        {
+          "label": "D",
+          "text": "To grade antifungal susceptibility"
+        },
+        {
+          "label": "E",
+          "text": "To stage a malignancy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The flowchart applies sequential biochemical reactions (lactose, motility, urease, indole, and others) to differentiate genera within the Enterobacteriaceae family.",
+        "whyCorrect": "The flowchart applies sequential biochemical reactions (lactose, motility, urease, indole, and others) to differentiate genera within the Enterobacteriaceae family.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-038_mi008_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-132",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "This abdominal radiograph shows a large branching stone filling the renal collecting system. In a patient with a urease-producing urinary infection, what is the typical composition of this stone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cystine"
+        },
+        {
+          "label": "B",
+          "text": "Uric acid"
+        },
+        {
+          "label": "C",
+          "text": "Struvite (magnesium ammonium phosphate)"
+        },
+        {
+          "label": "D",
+          "text": "Calcium oxalate"
+        },
+        {
+          "label": "E",
+          "text": "Calcium phosphate (brushite)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Urease-producing organisms alkalinize the urine and generate ammonia, precipitating struvite (magnesium ammonium phosphate), which can grow into a branching staghorn calculus.",
+        "whyCorrect": "Urease-producing organisms alkalinize the urine and generate ammonia, precipitating struvite (magnesium ammonium phosphate), which can grow into a branching staghorn calculus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-132_mi008_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-205",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "This schematic divides a gram-negative outer-membrane molecule into three linked regions: a distal repeating sugar chain, a core sugar segment, and a membrane-embedded lipid anchor. What molecule is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipopolysaccharide (LPS)"
+        },
+        {
+          "label": "B",
+          "text": "Peptidoglycan"
+        },
+        {
+          "label": "C",
+          "text": "Mycolic acid"
+        },
+        {
+          "label": "D",
+          "text": "Lipoteichoic acid"
+        },
+        {
+          "label": "E",
+          "text": "Teichoic acid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The three components shown (O-specific polysaccharide, core polysaccharide, and lipid A) make up lipopolysaccharide, the endotoxin of the gram-negative outer membrane. Lipid A drives the inflammatory/septic response.",
+        "whyCorrect": "The three components shown (O-specific polysaccharide, core polysaccharide, and lipid A) make up lipopolysaccharide, the endotoxin of the gram-negative outer membrane. Lipid A drives the inflammatory/septic response.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-205_mi007_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-206",
+      "topicId": "enterobacteriaceae",
+      "topicName": "Enterobacteriaceae",
+      "stem": "This diagram shows an E. coli strain adhering to the colonic brush border and releasing a toxin. That toxin kills the enterocyte by which molecular mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleaving SNARE proteins to block neurotransmitter release"
+        },
+        {
+          "label": "B",
+          "text": "Cleaving 28S rRNA of the 60S ribosomal subunit to halt protein synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Degrading membrane phospholipids via lecithinase"
+        },
+        {
+          "label": "D",
+          "text": "ADP-ribosylating elongation factor 2 (EF-2)"
+        },
+        {
+          "label": "E",
+          "text": "Raising intracellular cAMP via Gs activation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Enterohemorrhagic E. coli releases Shiga-like toxin, which removes an adenine from the 28S rRNA of the 60S ribosomal subunit, inhibiting protein synthesis and causing cell death; systemic spread underlies hemolytic uremic syndrome.",
+        "whyCorrect": "Enterohemorrhagic E. coli releases Shiga-like toxin, which removes an adenine from the 28S rRNA of the 60S ribosomal subunit, inhibiting protein synthesis and causing cell death; systemic spread underlies hemolytic uremic syndrome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-206_mi007_f10.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

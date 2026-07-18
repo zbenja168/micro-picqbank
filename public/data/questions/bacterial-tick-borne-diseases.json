@@ -1,0 +1,162 @@
+{
+  "categoryId": "bacterial-tick-borne-diseases",
+  "categoryName": "Bacterial Tick-Borne Diseases",
+  "questions": [
+    {
+      "id": "mipic-060",
+      "topicId": "bacterial-tick-borne-diseases",
+      "topicName": "Bacterial Tick-Borne Diseases",
+      "stem": "This photographic plate compares the four labeled feeding stages of the tick vector shown. Which of these stages is the usual culprit in transmitting Lyme disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adult female"
+        },
+        {
+          "label": "B",
+          "text": "Adult male"
+        },
+        {
+          "label": "C",
+          "text": "Nymph"
+        },
+        {
+          "label": "D",
+          "text": "Larva"
+        },
+        {
+          "label": "E",
+          "text": "Engorged egg mass"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The immature nymph is small and easily overlooked, so it typically remains attached long enough (36-48 h) to transmit Borrelia burgdorferi. The larger adult forms are usually noticed and removed before transmission.",
+        "whyCorrect": "The immature nymph is small and easily overlooked, so it typically remains attached long enough (36-48 h) to transmit Borrelia burgdorferi. The larger adult forms are usually noticed and removed before transmission.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-060_mi019_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-144",
+      "topicId": "bacterial-tick-borne-diseases",
+      "topicName": "Bacterial Tick-Borne Diseases",
+      "stem": "This expanding, target-like skin lesion with central clearing is considered pathognomonic for the early localized stage of which infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lyme disease (Borrelia burgdorferi)"
+        },
+        {
+          "label": "B",
+          "text": "Tinea corporis (ringworm)"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial cellulitis"
+        },
+        {
+          "label": "D",
+          "text": "Ehrlichiosis"
+        },
+        {
+          "label": "E",
+          "text": "Rocky Mountain spotted fever"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Erythema migrans, the bull's-eye rash, appears in 70-80% of Lyme disease patients during stage 1 and is the hallmark early sign of Borrelia burgdorferi infection.",
+        "whyCorrect": "Erythema migrans, the bull's-eye rash, appears in 70-80% of Lyme disease patients during stage 1 and is the hallmark early sign of Borrelia burgdorferi infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-144_mi019_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-145",
+      "topicId": "bacterial-tick-borne-diseases",
+      "topicName": "Bacterial Tick-Borne Diseases",
+      "stem": "This infographic illustrates blistering, disseminated, bull's-eye, and blue-red variants of a single rash. All of these presentations are caused by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Rickettsia rickettsii"
+        },
+        {
+          "label": "C",
+          "text": "Treponema pallidum"
+        },
+        {
+          "label": "D",
+          "text": "Ehrlichia chaffeensis"
+        },
+        {
+          "label": "E",
+          "text": "Leptospira interrogans"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The figure shows the many morphologies the Lyme disease rash can take. All are manifestations of infection by the spirochete Borrelia burgdorferi; the rash may also be absent entirely.",
+        "whyCorrect": "The figure shows the many morphologies the Lyme disease rash can take. All are manifestations of infection by the spirochete Borrelia burgdorferi; the rash may also be absent entirely.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-145_mi019_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-146",
+      "topicId": "bacterial-tick-borne-diseases",
+      "topicName": "Bacterial Tick-Borne Diseases",
+      "stem": "This maculopapular rash, which begins on the wrists, ankles, palms, and soles before spreading toward the trunk, arises because the causative bacterium preferentially infects which cell type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mononuclear phagocytes"
+        },
+        {
+          "label": "B",
+          "text": "Red blood cells"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocytes"
+        },
+        {
+          "label": "D",
+          "text": "Vascular endothelial cells"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral neurons"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rickettsia rickettsii invades endothelial cells lining blood vessels, producing a vasculitis that manifests as the centripetal maculopapular (and later petechial) rash of Rocky Mountain spotted fever.",
+        "whyCorrect": "Rickettsia rickettsii invades endothelial cells lining blood vessels, producing a vasculitis that manifests as the centripetal maculopapular (and later petechial) rash of Rocky Mountain spotted fever.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-146_mi019_f08.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
