@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "Direct cell-to-cell contact via a pilus/mating bridge"
+          "text": "Direct cell-to-cell contact"
         },
         {
           "label": "E",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "Flanking chromosomal (donor) DNA is transferred, not just the plasmid"
+          "text": "Flanking chromosomal (donor) DNA is transferred"
         },
         {
           "label": "C",
@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "Only DNA immediately flanking the prophage integration site is excised and packaged"
+          "text": "Only DNA flanking the prophage integration site is excised"
         },
         {
           "label": "C",

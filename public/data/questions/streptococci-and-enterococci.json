@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Gram-positive cocci in chains, characteristic of Streptococcus"
+          "text": "Gram-positive cocci in chains"
         },
         {
           "label": "B",
@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "Streptococcus pyogenes (group A strep)"
+          "text": "Streptococcus pyogenes"
         },
         {
           "label": "D",
@@ -166,7 +166,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Erythrogenic (pyrogenic) exotoxins SPE-A and SPE-C"
+          "text": "Erythrogenic exotoxins"
         },
         {
           "label": "B",

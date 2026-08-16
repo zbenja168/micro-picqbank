@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Host-cell lysis releasing infectious elementary bodies"
+          "text": "Host-cell lysis releasing elementary bodies"
         },
         {
           "label": "B",
@@ -209,7 +209,7 @@
         },
         {
           "label": "B",
-          "text": "Cholesterol (sterols) in the medium"
+          "text": "Cholesterol in the medium"
         },
         {
           "label": "C",
@@ -322,7 +322,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is an energy parasite that depends on host-derived ATP"
+          "text": "It depends on host-derived ATP"
         },
         {
           "label": "B",

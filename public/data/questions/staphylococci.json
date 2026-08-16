@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "Catalase activity (catalase positive)"
+          "text": "Catalase activity"
         },
         {
           "label": "D",
@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "A dichotomous key that uses sequential biochemical/phenotypic tests"
+          "text": "A dichotomous key"
         },
         {
           "label": "D",

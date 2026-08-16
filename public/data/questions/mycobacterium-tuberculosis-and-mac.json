@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cord factor (trehalose dimycolate)"
+          "text": "Cord factor"
         },
         {
           "label": "B",
@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "A waxy, mycolic acid-rich cell wall that resists Gram staining"
+          "text": "A waxy, mycolic acid-rich cell wall"
         },
         {
           "label": "D",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "Several weeks, because the organism grows slowly"
+          "text": "Several weeks"
         },
         {
           "label": "C",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Hilar lymphadenopathy with a peripheral parenchymal focus"
+          "text": "Hilar lymphadenopathy"
         }
       ],
       "correctAnswer": "E",
@@ -213,7 +213,7 @@
         },
         {
           "label": "C",
-          "text": "Upper lobes (apical and posterior segments)"
+          "text": "Upper lobes"
         },
         {
           "label": "D",
@@ -256,7 +256,7 @@
         },
         {
           "label": "D",
-          "text": "Type IV (delayed-type, cell-mediated) hypersensitivity"
+          "text": "Type IV (delayed-type, cell-mediated)"
         },
         {
           "label": "E",
@@ -373,7 +373,7 @@
         },
         {
           "label": "D",
-          "text": "Hematogenous (bloodstream) dissemination of bacilli"
+          "text": "Hematogenous dissemination of bacilli"
         },
         {
           "label": "E",
@@ -416,7 +416,7 @@
         },
         {
           "label": "E",
-          "text": "Enhanced macrophage killing of intracellular bacteria via IFN-gamma"
+          "text": "Enhanced macrophage killing of intracellular bacteria"
         }
       ],
       "correctAnswer": "E",
@@ -447,7 +447,7 @@
         },
         {
           "label": "C",
-          "text": "Containment within a latent granuloma with no symptoms"
+          "text": "Containment within a latent granuloma"
         },
         {
           "label": "D",
@@ -490,7 +490,7 @@
         },
         {
           "label": "D",
-          "text": "Sensitized (memory) T cells"
+          "text": "Sensitized T cells"
         },
         {
           "label": "E",

@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "To identify gram-negative bacterial species from biochemical test results"
+          "text": "To identify gram-negative bacterial species"
         },
         {
           "label": "C",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "It is motile due to functional flagella"
+          "text": "It is motile"
         }
       ],
       "correctAnswer": "E",
@@ -252,7 +252,7 @@
         },
         {
           "label": "C",
-          "text": "It produces tryptophanase, cleaving tryptophan to yield indole"
+          "text": "It produces tryptophanase"
         },
         {
           "label": "D",
@@ -334,7 +334,7 @@
         },
         {
           "label": "D",
-          "text": "Swarming motility driven by peritrichous flagella"
+          "text": "Swarming motility"
         },
         {
           "label": "E",
@@ -400,7 +400,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "To identify and distinguish members of the Enterobacteriaceae"
+          "text": "To identify members of the Enterobacteriaceae"
         },
         {
           "label": "B",
@@ -447,7 +447,7 @@
         },
         {
           "label": "C",
-          "text": "Struvite (magnesium ammonium phosphate)"
+          "text": "Struvite"
         },
         {
           "label": "D",
@@ -478,7 +478,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Lipopolysaccharide (LPS)"
+          "text": "Lipopolysaccharide"
         },
         {
           "label": "B",
@@ -521,7 +521,7 @@
         },
         {
           "label": "B",
-          "text": "Cleaving 28S rRNA of the 60S ribosomal subunit to halt protein synthesis"
+          "text": "Cleaving 28S rRNA of the 60S ribosomal subunit"
         },
         {
           "label": "C",

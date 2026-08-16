@@ -377,7 +377,7 @@
         },
         {
           "label": "E",
-          "text": "A biofilm of secreted extracellular polysaccharide"
+          "text": "A biofilm"
         }
       ],
       "correctAnswer": "E",
@@ -412,7 +412,7 @@
         },
         {
           "label": "D",
-          "text": "A CFTR chloride-channel mutation impairing chloride and water transport"
+          "text": "A CFTR chloride-channel mutation"
         },
         {
           "label": "E",

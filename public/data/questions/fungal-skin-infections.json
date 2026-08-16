@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Dermatophytes require keratin and cannot survive in the living, keratin-poor deeper tissue"
+          "text": "Dermatophytes require keratin"
         },
         {
           "label": "B",
@@ -330,7 +330,7 @@
         },
         {
           "label": "C",
-          "text": "Tinea corporis (ringworm)"
+          "text": "Tinea corporis"
         },
         {
           "label": "D",
@@ -482,7 +482,7 @@
         },
         {
           "label": "B",
-          "text": "It is a zoonotic reservoir that can transmit dermatophytes to humans"
+          "text": "It is a zoonotic reservoir"
         },
         {
           "label": "C",
@@ -681,7 +681,7 @@
         },
         {
           "label": "C",
-          "text": "Onychomycosis (tinea unguium)"
+          "text": "Onychomycosis"
         },
         {
           "label": "D",
@@ -833,7 +833,7 @@
         },
         {
           "label": "B",
-          "text": "It acts as a fomite that harbors and transfers infectious arthrospores"
+          "text": "It acts as a fomite"
         },
         {
           "label": "C",

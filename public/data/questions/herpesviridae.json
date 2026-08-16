@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Alpha-herpesviruses (HSV-1, HSV-2, or VZV)"
+          "text": "Alpha-herpesviruses"
         },
         {
           "label": "B",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Herpes simplex virus 2 (HSV-2)"
+          "text": "Herpes simplex virus 2"
         },
         {
           "label": "B",
@@ -213,7 +213,7 @@
         },
         {
           "label": "C",
-          "text": "Herpes simplex virus 1 (HSV-1)"
+          "text": "Herpes simplex virus 1"
         },
         {
           "label": "D",
@@ -283,7 +283,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Herpes simplex virus (HSV-1)"
+          "text": "Herpes simplex virus"
         },
         {
           "label": "B",
@@ -322,7 +322,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Herpes simplex virus 1 (HSV-1)"
+          "text": "Herpes simplex virus 1"
         },
         {
           "label": "B",
@@ -447,7 +447,7 @@
         },
         {
           "label": "C",
-          "text": "Herpes zoster (shingles) from VZV reactivation"
+          "text": "Herpes zoster (shingles)"
         },
         {
           "label": "D",

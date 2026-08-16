@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "Human cells cannot synthesize folate and instead import it from the diet, so they lack the targeted enzyme"
+          "text": "Human cells cannot synthesize folate, so they lack the targeted enzyme"
         },
         {
           "label": "D",
@@ -135,7 +135,7 @@
         },
         {
           "label": "C",
-          "text": "The two drugs block sequential steps of the same folate pathway, compounding the reduction in tetrahydrofolate"
+          "text": "The two drugs block sequential steps of the same folate pathway"
         },
         {
           "label": "D",

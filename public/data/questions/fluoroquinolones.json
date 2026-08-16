@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "Decatenation of interlinked daughter chromosomes"
+          "text": "Decatenation of daughter chromosomes"
         },
         {
           "label": "D",
@@ -131,7 +131,7 @@
         },
         {
           "label": "B",
-          "text": "Accumulation of double-strand DNA breaks that halt replication and kill the cell"
+          "text": "Accumulation of double-strand DNA breaks"
         },
         {
           "label": "C",
