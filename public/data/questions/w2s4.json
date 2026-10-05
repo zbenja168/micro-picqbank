@@ -1,0 +1,1020 @@
+{
+  "categoryId": "w2s4",
+  "categoryName": "Session 4",
+  "questions": [
+    {
+      "id": "mipic-007",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "The serpentine, rope-like parallel arrangement of the stained bacilli shown is attributed to which virulence factor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cord factor"
+        },
+        {
+          "label": "B",
+          "text": "Lipoteichoic acid"
+        },
+        {
+          "label": "C",
+          "text": "Hyaluronic acid capsule"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcal protein A"
+        },
+        {
+          "label": "E",
+          "text": "Lipoarabinomannan"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cord factor (trehalose dimycolate) causes M. tuberculosis to grow in the characteristic serpentine cords seen here and is toxic to mammalian cells while inhibiting neutrophil migration.",
+        "whyCorrect": "Cord factor (trehalose dimycolate) causes M. tuberculosis to grow in the characteristic serpentine cords seen here and is toxic to mammalian cells while inhibiting neutrophil migration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-007_mi017_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-049",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This staining technique was used to visualize the pink bacilli shown against the blue background. What structural property of these bacteria makes this special stain necessary rather than a routine Gram stain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An unusually thick peptidoglycan layer"
+        },
+        {
+          "label": "B",
+          "text": "A thick polysaccharide capsule"
+        },
+        {
+          "label": "C",
+          "text": "A waxy, mycolic acid-rich cell wall"
+        },
+        {
+          "label": "D",
+          "text": "Presence of heat-resistant endospores"
+        },
+        {
+          "label": "E",
+          "text": "Complete absence of a cell wall"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mycobacteria have a lipid-rich, mycolic acid cell wall that will not take up the Gram stain, so the Ziehl-Neelsen (acid-fast) stain is required; retained pink color identifies acid-fast bacilli.",
+        "whyCorrect": "Mycobacteria have a lipid-rich, mycolic acid cell wall that will not take up the Gram stain, so the Ziehl-Neelsen (acid-fast) stain is required; retained pink color identifies acid-fast bacilli.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-049_mi017_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-050",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This selective slant medium is used to culture the pathogen. Approximately how long does colony growth typically take here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 24 hours"
+        },
+        {
+          "label": "B",
+          "text": "Several weeks"
+        },
+        {
+          "label": "C",
+          "text": "Two to three days"
+        },
+        {
+          "label": "D",
+          "text": "A few hours"
+        },
+        {
+          "label": "E",
+          "text": "Less than one hour"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mycobacterium tuberculosis is a very slow grower on Lowenstein-Jensen medium, with detection taking up to 10 days or several weeks, reflecting its long doubling time.",
+        "whyCorrect": "Mycobacterium tuberculosis is a very slow grower on Lowenstein-Jensen medium, with detection taking up to 10 days or several weeks, reflecting its long doubling time.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-050_mi017_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-051",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "These rough, dry, buff-colored colonies with a waxy appearance are characteristic of which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "E",
+          "text": "Neisseria meningitidis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The high mycolic acid content of the mycobacterial cell wall gives colonies their rough, waxy, buff appearance, distinct from the smooth colonies of typical bacteria.",
+        "whyCorrect": "The high mycolic acid content of the mycobacterial cell wall gives colonies their rough, waxy, buff appearance, distinct from the smooth colonies of typical bacteria.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-051_mi017_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-052",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This chest radiograph accompanies primary tuberculosis. Which radiographic feature is most characteristic of primary TB, especially in a child?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral upper-lobe cavitation"
+        },
+        {
+          "label": "B",
+          "text": "Calcified pleural plaques"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse fine miliary nodules"
+        },
+        {
+          "label": "D",
+          "text": "Lobar consolidation with air bronchograms"
+        },
+        {
+          "label": "E",
+          "text": "Hilar lymphadenopathy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Primary TB typically shows a peripheral parenchymal (Ghon) focus with prominent hilar lymphadenopathy, unlike the apical cavitation of reactivation disease.",
+        "whyCorrect": "Primary TB typically shows a peripheral parenchymal (Ghon) focus with prominent hilar lymphadenopathy, unlike the apical cavitation of reactivation disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-052_mi017_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-053",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This chest radiograph is from reactivation tuberculosis. In which lung zone do the cavitary lesions of reactivation TB characteristically appear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The costophrenic angles"
+        },
+        {
+          "label": "B",
+          "text": "Right middle lobe only"
+        },
+        {
+          "label": "C",
+          "text": "Upper lobes"
+        },
+        {
+          "label": "D",
+          "text": "The lingula"
+        },
+        {
+          "label": "E",
+          "text": "Lower lobes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Reactivation TB characteristically produces cavitary disease in the well-oxygenated apices/upper lobes of the lungs.",
+        "whyCorrect": "Reactivation TB characteristically produces cavitary disease in the well-oxygenated apices/upper lobes of the lungs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-053_mi017_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-054",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "The photograph shows administration of the tuberculin (PPD) skin test, which is read 48-72 hours later. A positive reaction represents which type of hypersensitivity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A non-immune irritant reaction"
+        },
+        {
+          "label": "B",
+          "text": "Type I (immediate, IgE-mediated)"
+        },
+        {
+          "label": "C",
+          "text": "Type II (antibody-mediated cytotoxic)"
+        },
+        {
+          "label": "D",
+          "text": "Type IV (delayed-type, cell-mediated)"
+        },
+        {
+          "label": "E",
+          "text": "Type III (immune-complex mediated)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A positive PPD is a type IV reaction: memory T cells sensitized by prior infection are recruited to the injection site, release cytokines, and cause induration over 48-72 hours.",
+        "whyCorrect": "A positive PPD is a type IV reaction: memory T cells sensitized by prior infection are recruited to the injection site, release cytokines, and cause induration over 48-72 hours.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-054_mi017_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-141",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "The organized structure diagrammed here walls off the infection. Which immune process is primarily responsible for forming it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type III immune-complex deposition"
+        },
+        {
+          "label": "B",
+          "text": "Innate neutrophil-driven abscess formation"
+        },
+        {
+          "label": "C",
+          "text": "Cell-mediated (type IV) immunity"
+        },
+        {
+          "label": "D",
+          "text": "Type II antibody-mediated cytotoxicity"
+        },
+        {
+          "label": "E",
+          "text": "Type I immediate hypersensitivity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Granuloma formation is driven by cell-mediated (type IV) immunity: T cells recruit and organize macrophages (including multinucleated giant cells) around the infection, walling it off with central caseous necrosis.",
+        "whyCorrect": "Granuloma formation is driven by cell-mediated (type IV) immunity: T cells recruit and organize macrophages (including multinucleated giant cells) around the infection, walling it off with central caseous necrosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-141_mi017_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-142",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This illustration depicts a peripheral lung lesion together with involved hilar lymph nodes. This combined finding is a hallmark of which stage of tuberculosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary (initial) infection"
+        },
+        {
+          "label": "B",
+          "text": "Progressive fibrocavitary disease"
+        },
+        {
+          "label": "C",
+          "text": "Reactivation (secondary) TB"
+        },
+        {
+          "label": "D",
+          "text": "Miliary dissemination"
+        },
+        {
+          "label": "E",
+          "text": "Latent infection with no visible lesion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The Ghon complex (a peripheral parenchymal Ghon focus plus caseating hilar nodes) develops during primary tuberculosis infection.",
+        "whyCorrect": "The Ghon complex (a peripheral parenchymal Ghon focus plus caseating hilar nodes) develops during primary tuberculosis infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-142_mi017_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-143",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This gross lung specimen shows innumerable small tan nodules scattered uniformly throughout the parenchyma. What mechanism produced this distribution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphatic spread limited to one hilum"
+        },
+        {
+          "label": "B",
+          "text": "Direct bronchial spread from a cavity"
+        },
+        {
+          "label": "C",
+          "text": "Contiguous extension from the pleura"
+        },
+        {
+          "label": "D",
+          "text": "Hematogenous dissemination of bacilli"
+        },
+        {
+          "label": "E",
+          "text": "Aspiration of gastric contents"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Miliary tuberculosis results when bacilli seed the bloodstream and disseminate widely, producing tiny nodules throughout the lungs and other organs.",
+        "whyCorrect": "Miliary tuberculosis results when bacilli seed the bloodstream and disseminate widely, producing tiny nodules throughout the lungs and other organs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-143_mi017_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-213",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This schematic shows the macrophage-driven immune response to the organism, with a cytokine activating NK cells and driving naive T cells toward a helper phenotype. What is the principal downstream consequence of this activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Large-scale antibody production by plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Mast cell degranulation and histamine release"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophil recruitment against helminths"
+        },
+        {
+          "label": "D",
+          "text": "Direct complement-mediated bacterial lysis"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced macrophage killing of intracellular bacteria"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "IL-12 from infected macrophages activates NK cells and drives Th1 differentiation; the resulting IFN-gamma activates macrophages to kill the intracellular mycobacteria, the core of cell-mediated defense.",
+        "whyCorrect": "IL-12 from infected macrophages activates NK cells and drives Th1 differentiation; the resulting IFN-gamma activates macrophages to kill the intracellular mycobacteria, the core of cell-mediated defense.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-213_mi017_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-214",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This overview schematic contrasts primary and secondary tuberculosis outcomes. In an immunocompetent person, what is the most common outcome after primary infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rapid miliary dissemination"
+        },
+        {
+          "label": "B",
+          "text": "Fatal tuberculous meningitis"
+        },
+        {
+          "label": "C",
+          "text": "Containment within a latent granuloma"
+        },
+        {
+          "label": "D",
+          "text": "Immediate cavitary disease"
+        },
+        {
+          "label": "E",
+          "text": "Complete sterilization within 24 hours"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In roughly 90% of immunocompetent patients, primary infection is contained within a latent granuloma, and the patient remains asymptomatic for years.",
+        "whyCorrect": "In roughly 90% of immunocompetent patients, primary infection is contained within a latent granuloma, and the patient remains asymptomatic for years.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-214_mi017_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-215",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This three-panel schematic illustrates the reaction underlying a positive PPD test over 24-72 hours. Which cells are the principal mediators of the visible lesion that develops?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement proteins"
+        },
+        {
+          "label": "B",
+          "text": "IgE-armed mast cells"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophils forming pus"
+        },
+        {
+          "label": "D",
+          "text": "Sensitized T cells"
+        },
+        {
+          "label": "E",
+          "text": "Circulating antibodies"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The delayed-type (type IV) reaction is driven by sensitized T cells that recognize injected antigen and recruit macrophages, producing the palpable induration.",
+        "whyCorrect": "The delayed-type (type IV) reaction is driven by sensitized T cells that recognize injected antigen and recruit macrophages, producing the palpable induration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-215_mi017_f16.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-008",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This transmission electron micrograph shows a host cell containing a single large membrane-bound structure packed with small particles. What is this structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A Negri inclusion body"
+        },
+        {
+          "label": "B",
+          "text": "An intracellular Mycoplasma microcolony"
+        },
+        {
+          "label": "C",
+          "text": "The nucleus undergoing mitosis"
+        },
+        {
+          "label": "D",
+          "text": "A cytoplasmic chlamydial inclusion"
+        },
+        {
+          "label": "E",
+          "text": "A phagolysosome digesting debris"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Chlamydia species replicate inside a membrane-bound endosome (inclusion) within the host-cell cytoplasm, which enlarges as the bacteria multiply and can eventually dominate the cell volume.",
+        "whyCorrect": "Chlamydia species replicate inside a membrane-bound endosome (inclusion) within the host-cell cytoplasm, which enlarges as the bacteria multiply and can eventually dominate the cell volume.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-008_mi018_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-009",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This colorized micrograph captures the final step of an intracellular bacterial cycle, with numerous small particles bursting from the host cell. What event is occurring?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Host-cell lysis releasing elementary bodies"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial sporulation"
+        },
+        {
+          "label": "C",
+          "text": "Budding of enveloped virions"
+        },
+        {
+          "label": "D",
+          "text": "Phagocytosis of extracellular bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Biofilm formation on the cell surface"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "At the end of the chlamydial cycle, reticulate bodies convert back to elementary bodies and the infected cell lyses, releasing infectious elementary bodies that go on to infect neighboring cells.",
+        "whyCorrect": "At the end of the chlamydial cycle, reticulate bodies convert back to elementary bodies and the infected cell lyses, releasing infectious elementary bodies that go on to infect neighboring cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-009_mi018_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-010",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This electron micrograph shows the labeled bacterium residing within a human phagocyte. Which mechanism allows the organism to survive inside this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks the oxidative burst with catalase"
+        },
+        {
+          "label": "B",
+          "text": "It prevents fusion of the phagosome with lysosomes"
+        },
+        {
+          "label": "C",
+          "text": "It neutralizes phagosomal acid with urease"
+        },
+        {
+          "label": "D",
+          "text": "It escapes into the cytosol using a pore-forming toxin"
+        },
+        {
+          "label": "E",
+          "text": "It forms a thick antiphagocytic capsule"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Legionella pneumophila is a facultative intracellular pathogen taken up by macrophages via coiling phagocytosis; it then inhibits phagosome-lysosome fusion, allowing it to persist and replicate inside the phagocyte.",
+        "whyCorrect": "Legionella pneumophila is a facultative intracellular pathogen taken up by macrophages via coiling phagocytosis; it then inhibits phagosome-lysosome fusion, allowing it to persist and replicate inside the phagocyte.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-010_mi018_f09.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-055",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "A young adult with a two-week history of low-grade fever and a persistent dry cough has this chest radiograph, whose lung findings look worse than the mild clinical symptoms. Which radiographic pattern is most characteristic of the responsible organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Large pleural effusion with a meniscus sign"
+        },
+        {
+          "label": "B",
+          "text": "Dense lobar consolidation"
+        },
+        {
+          "label": "C",
+          "text": "Patchy interstitial infiltrates"
+        },
+        {
+          "label": "D",
+          "text": "Upper-lobe cavitary lesion"
+        },
+        {
+          "label": "E",
+          "text": "Bilateral hilar lymphadenopathy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mycoplasma pneumoniae causes atypical ('walking') pneumonia in which lung involvement on imaging is characteristically streaky/patchy interstitial infiltrates that appear worse than the patient's mild symptoms, rather than the dense lobar consolidation of typical bacterial pneumonia.",
+        "whyCorrect": "Mycoplasma pneumoniae causes atypical ('walking') pneumonia in which lung involvement on imaging is characteristically streaky/patchy interstitial infiltrates that appear worse than the patient's mild symptoms, rather than the dense lobar consolidation of typical bacterial pneumonia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-055_mi018_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-056",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This electron micrograph shows a tiny bacterium that is markedly variable in shape (pleomorphic) with no definitive form. Which structural feature best explains this appearance and its resistance to beta-lactams?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A waxy mycolic-acid outer coat"
+        },
+        {
+          "label": "B",
+          "text": "A rigid polysaccharide capsule"
+        },
+        {
+          "label": "C",
+          "text": "An LPS-containing outer membrane"
+        },
+        {
+          "label": "D",
+          "text": "A thick peptidoglycan layer"
+        },
+        {
+          "label": "E",
+          "text": "Absence of a cell wall"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Mycoplasma pneumoniae lacks a cell wall entirely, so it has no fixed shape and appears pleomorphic; the absence of peptidoglycan also makes cell-wall-active antibiotics (beta-lactams) ineffective.",
+        "whyCorrect": "Mycoplasma pneumoniae lacks a cell wall entirely, so it has no fixed shape and appears pleomorphic; the absence of peptidoglycan also makes cell-wall-active antibiotics (beta-lactams) ineffective.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-056_mi018_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-057",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "These colonies with a dense center and translucent periphery ('fried-egg' appearance) grew only after the culture medium was supplemented with a specific lipid. Which growth requirement identifies this organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An elevated CO2 tension"
+        },
+        {
+          "label": "B",
+          "text": "Cholesterol in the medium"
+        },
+        {
+          "label": "C",
+          "text": "Hemin (factor X)"
+        },
+        {
+          "label": "D",
+          "text": "Cysteine and iron"
+        },
+        {
+          "label": "E",
+          "text": "NAD (factor V)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mycoplasma is unique among bacteria in incorporating sterols such as cholesterol into its membrane and therefore requires sterol-supplemented media to grow; the resulting colonies show the classic fried-egg morphology.",
+        "whyCorrect": "Mycoplasma is unique among bacteria in incorporating sterols such as cholesterol into its membrane and therefore requires sterol-supplemented media to grow; the resulting colonies show the classic fried-egg morphology.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-057_mi018_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-058",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This rapid lateral-flow urine antigen assay is a common field method for diagnosing Legionnaires' disease. What is its principal diagnostic limitation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It cannot detect any serogroup of L. pneumophila"
+        },
+        {
+          "label": "B",
+          "text": "It cross-reacts with Streptococcus pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "It turns positive only after three weeks of illness"
+        },
+        {
+          "label": "D",
+          "text": "It requires a fresh sputum sample"
+        },
+        {
+          "label": "E",
+          "text": "It detects only L. pneumophila serogroup 1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The urine antigen test detects only L. pneumophila serogroup 1; because that serogroup causes about 90% of cases it remains very useful, but PCR or culture is needed to catch the other serogroups.",
+        "whyCorrect": "The urine antigen test detects only L. pneumophila serogroup 1; because that serogroup causes about 90% of cases it remains very useful, but PCR or culture is needed to catch the other serogroups.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-058_mi018_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-059",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This fastidious organism grew as the dark colonies shown only on buffered charcoal yeast extract agar and stains poorly on Gram stain. Which two supplements does it specifically require for growth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholesterol and sterols"
+        },
+        {
+          "label": "B",
+          "text": "Mannitol and high salt"
+        },
+        {
+          "label": "C",
+          "text": "Cystine and potassium tellurite"
+        },
+        {
+          "label": "D",
+          "text": "Cysteine and iron"
+        },
+        {
+          "label": "E",
+          "text": "Hemin and NAD (factors X and V)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Legionella pneumophila requires cysteine and iron, supplied by buffered charcoal yeast extract (BCYE) agar; because it stains poorly with Gram stain, a silver stain is used to visualize it in tissue or sputum.",
+        "whyCorrect": "Legionella pneumophila requires cysteine and iron, supplied by buffered charcoal yeast extract (BCYE) agar; because it stains poorly with Gram stain, a silver stain is used to visualize it in tissue or sputum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-059_mi018_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-216",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "This schematic depicts the biphasic developmental cycle of the organism. Why can this bacterium replicate only inside host cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It depends on host-derived ATP"
+        },
+        {
+          "label": "B",
+          "text": "It needs host cholesterol to build its cell wall"
+        },
+        {
+          "label": "C",
+          "text": "It is killed by exposure to extracellular oxygen"
+        },
+        {
+          "label": "D",
+          "text": "It cannot replicate its own DNA"
+        },
+        {
+          "label": "E",
+          "text": "It lacks ribosomes for protein synthesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chlamydia are obligate intracellular bacteria historically mistaken for viruses because they cannot generate sufficient ATP and rely on host-cell energy; the cycle alternates infectious elementary bodies with replicating reticulate bodies inside the inclusion.",
+        "whyCorrect": "Chlamydia are obligate intracellular bacteria historically mistaken for viruses because they cannot generate sufficient ATP and rely on host-cell energy; the cycle alternates infectious elementary bodies with replicating reticulate bodies inside the inclusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-216_mi018_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-060",
+      "topicId": "bacterial-tick-borne-diseases",
+      "topicName": "Bacterial Tick-Borne Diseases",
+      "stem": "This photographic plate compares the four labeled feeding stages of the tick vector shown. Which of these stages is the usual culprit in transmitting Lyme disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adult female"
+        },
+        {
+          "label": "B",
+          "text": "Adult male"
+        },
+        {
+          "label": "C",
+          "text": "Nymph"
+        },
+        {
+          "label": "D",
+          "text": "Larva"
+        },
+        {
+          "label": "E",
+          "text": "Engorged egg mass"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The immature nymph is small and easily overlooked, so it typically remains attached long enough (36-48 h) to transmit Borrelia burgdorferi. The larger adult forms are usually noticed and removed before transmission.",
+        "whyCorrect": "The immature nymph is small and easily overlooked, so it typically remains attached long enough (36-48 h) to transmit Borrelia burgdorferi. The larger adult forms are usually noticed and removed before transmission.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-060_mi019_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-144",
+      "topicId": "bacterial-tick-borne-diseases",
+      "topicName": "Bacterial Tick-Borne Diseases",
+      "stem": "This expanding, target-like skin lesion with central clearing is considered pathognomonic for the early localized stage of which infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lyme disease"
+        },
+        {
+          "label": "B",
+          "text": "Tinea corporis (ringworm)"
+        },
+        {
+          "label": "C",
+          "text": "Bacterial cellulitis"
+        },
+        {
+          "label": "D",
+          "text": "Ehrlichiosis"
+        },
+        {
+          "label": "E",
+          "text": "Rocky Mountain spotted fever"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Erythema migrans, the bull's-eye rash, appears in 70-80% of Lyme disease patients during stage 1 and is the hallmark early sign of Borrelia burgdorferi infection.",
+        "whyCorrect": "Erythema migrans, the bull's-eye rash, appears in 70-80% of Lyme disease patients during stage 1 and is the hallmark early sign of Borrelia burgdorferi infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-144_mi019_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-145",
+      "topicId": "bacterial-tick-borne-diseases",
+      "topicName": "Bacterial Tick-Borne Diseases",
+      "stem": "This infographic illustrates blistering, disseminated, bull's-eye, and blue-red variants of a single rash. All of these presentations are caused by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Rickettsia rickettsii"
+        },
+        {
+          "label": "C",
+          "text": "Treponema pallidum"
+        },
+        {
+          "label": "D",
+          "text": "Ehrlichia chaffeensis"
+        },
+        {
+          "label": "E",
+          "text": "Leptospira interrogans"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The figure shows the many morphologies the Lyme disease rash can take. All are manifestations of infection by the spirochete Borrelia burgdorferi; the rash may also be absent entirely.",
+        "whyCorrect": "The figure shows the many morphologies the Lyme disease rash can take. All are manifestations of infection by the spirochete Borrelia burgdorferi; the rash may also be absent entirely.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-145_mi019_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-146",
+      "topicId": "bacterial-tick-borne-diseases",
+      "topicName": "Bacterial Tick-Borne Diseases",
+      "stem": "This maculopapular rash, which begins on the wrists, ankles, palms, and soles before spreading toward the trunk, arises because the causative bacterium preferentially infects which cell type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mononuclear phagocytes"
+        },
+        {
+          "label": "B",
+          "text": "Red blood cells"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocytes"
+        },
+        {
+          "label": "D",
+          "text": "Vascular endothelial cells"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral neurons"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rickettsia rickettsii invades endothelial cells lining blood vessels, producing a vasculitis that manifests as the centripetal maculopapular (and later petechial) rash of Rocky Mountain spotted fever.",
+        "whyCorrect": "Rickettsia rickettsii invades endothelial cells lining blood vessels, producing a vasculitis that manifests as the centripetal maculopapular (and later petechial) rash of Rocky Mountain spotted fever.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-146_mi019_f08.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

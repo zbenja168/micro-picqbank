@@ -1,7 +1,241 @@
 {
-  "categoryId": "pseudomonas-and-related-bacteria",
-  "categoryName": "Pseudomonas and Related Bacteria",
+  "categoryId": "w2s3",
+  "categoryName": "Session 3",
   "questions": [
+    {
+      "id": "mipic-041",
+      "topicId": "salmonella-shigella-and-campylobacter",
+      "topicName": "Salmonella, Shigella, and Campylobacter",
+      "stem": "On this MacConkey agar plate the colonies of the enteric pathogen remain pale/colorless rather than pink. What does this colony appearance indicate about the organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It ferments lactose strongly"
+        },
+        {
+          "label": "B",
+          "text": "It is gram-positive"
+        },
+        {
+          "label": "C",
+          "text": "It does not ferment lactose"
+        },
+        {
+          "label": "D",
+          "text": "It produces beta-hemolysis"
+        },
+        {
+          "label": "E",
+          "text": "It is oxidase positive"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Colorless (non-pink) colonies on MacConkey agar indicate a non-lactose fermenter. Salmonella spp. are gram-negative, lactose-non-fermenting rods, which appear pale against the pink lactose-fermenting background flora.",
+        "whyCorrect": "Colorless (non-pink) colonies on MacConkey agar indicate a non-lactose fermenter. Salmonella spp. are gram-negative, lactose-non-fermenting rods, which appear pale against the pink lactose-fermenting background flora.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-041_mi013_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-042",
+      "topicId": "salmonella-shigella-and-campylobacter",
+      "topicName": "Salmonella, Shigella, and Campylobacter",
+      "stem": "This triple sugar iron (TSI) agar tube shows an acidic (yellow) butt after inoculation with the enteric pathogen. Which two metabolic activities of Salmonella does the TSI reaction classically demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxidase and catalase activity"
+        },
+        {
+          "label": "B",
+          "text": "Nitrate reduction and indole formation"
+        },
+        {
+          "label": "C",
+          "text": "Urease activity and gas production"
+        },
+        {
+          "label": "D",
+          "text": "Glucose fermentation and H2S production"
+        },
+        {
+          "label": "E",
+          "text": "Lactose and sucrose fermentation only"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "On TSI agar, Salmonella ferments glucose (yellow, acidic butt) and produces H2S, which reacts with iron salts to form a black precipitate. This distinguishes it from Shigella, which does not produce H2S.",
+        "whyCorrect": "On TSI agar, Salmonella ferments glucose (yellow, acidic butt) and produces H2S, which reacts with iron salts to form a black precipitate. This distinguishes it from Shigella, which does not produce H2S.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-042_mi013_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-043",
+      "topicId": "salmonella-shigella-and-campylobacter",
+      "topicName": "Salmonella, Shigella, and Campylobacter",
+      "stem": "This Gram stain shows small, curved, comma- or seagull-shaped pink-staining bacilli. These morphologic features are characteristic of which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shigella sonnei"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella enterica"
+        },
+        {
+          "label": "E",
+          "text": "Campylobacter jejuni"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Campylobacter spp. are gram-negative, comma- or S-shaped (seagull-shaped) rods, distinguishing them from the straight rods of Salmonella and Shigella. They are also oxidase positive and grow optimally at 42 degrees C.",
+        "whyCorrect": "Campylobacter spp. are gram-negative, comma- or S-shaped (seagull-shaped) rods, distinguishing them from the straight rods of Salmonella and Shigella. They are also oxidase positive and grow optimally at 42 degrees C.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-043_mi013_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-134",
+      "topicId": "salmonella-shigella-and-campylobacter",
+      "topicName": "Salmonella, Shigella, and Campylobacter",
+      "stem": "This gross specimen, shown with a centimeter ruler, is an abnormally small organ studded with dark infarcts. Loss of this organ's function predisposes patients to disseminated Salmonella infection. Which organ is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymph node"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Kidney"
+        },
+        {
+          "label": "D",
+          "text": "Spleen"
+        },
+        {
+          "label": "E",
+          "text": "Pancreas"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The specimen is a shrunken, infarcted spleen (autosplenectomy). Functional asplenia, as in sickle cell disease, impairs clearance of encapsulated and intracellular organisms and markedly increases the risk of disseminated salmonellosis.",
+        "whyCorrect": "The specimen is a shrunken, infarcted spleen (autosplenectomy). Functional asplenia, as in sickle cell disease, impairs clearance of encapsulated and intracellular organisms and markedly increases the risk of disseminated salmonellosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-134_mi013_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-135",
+      "topicId": "salmonella-shigella-and-campylobacter",
+      "topicName": "Salmonella, Shigella, and Campylobacter",
+      "stem": "This faint, blanching maculopapular eruption on the trunk is a classic transient finding of which systemic infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shigellosis"
+        },
+        {
+          "label": "B",
+          "text": "Reactive arthritis"
+        },
+        {
+          "label": "C",
+          "text": "Nontyphoidal Salmonella gastroenteritis"
+        },
+        {
+          "label": "D",
+          "text": "Campylobacter enteritis"
+        },
+        {
+          "label": "E",
+          "text": "Typhoid fever"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Rose spots, a transient maculopapular rash on the trunk, are characteristic of typhoidal salmonellosis (typhoid fever). This finding does not occur with nontyphoidal Salmonella infection.",
+        "whyCorrect": "Rose spots, a transient maculopapular rash on the trunk, are characteristic of typhoidal salmonellosis (typhoid fever). This finding does not occur with nontyphoidal Salmonella infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-135_mi013_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-208",
+      "topicId": "salmonella-shigella-and-campylobacter",
+      "topicName": "Salmonella, Shigella, and Campylobacter",
+      "stem": "Panels A and B diagram this needle-like apparatus spanning both bacterial membranes, and panel C shows it by electron microscopy. What is its primary function for the bacterium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rotating to provide flagellar motility"
+        },
+        {
+          "label": "B",
+          "text": "Conjugative transfer of plasmid DNA"
+        },
+        {
+          "label": "C",
+          "text": "Injecting effector proteins into the host cell"
+        },
+        {
+          "label": "D",
+          "text": "Exporting lipopolysaccharide to the surface"
+        },
+        {
+          "label": "E",
+          "text": "Assembling the peptidoglycan cell wall"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The structure is a Type III secretion system, a syringe-like injectisome that spans both membranes of gram-negative bacteria and translocates effector proteins directly into host cells to promote invasion and block phagocytic killing.",
+        "whyCorrect": "The structure is a Type III secretion system, a syringe-like injectisome that spans both membranes of gram-negative bacteria and translocates effector proteins directly into host cells to promote invasion and block phagocytic killing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-208_mi013_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
     {
       "id": "mipic-044",
       "topicId": "pseudomonas-and-related-bacteria",
@@ -427,6 +661,162 @@
       },
       "difficulty": "medium",
       "imageRef": "mipic-210_mi014_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-140",
+      "topicId": "sulfonamides",
+      "topicName": "Sulfonamides",
+      "stem": "A patient develops this widespread skin sloughing after starting a sulfonamide. Which severe cutaneous adverse reaction does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stevens-Johnson syndrome / toxic epidermal necrolysis"
+        },
+        {
+          "label": "B",
+          "text": "Pemphigus vulgaris"
+        },
+        {
+          "label": "C",
+          "text": "Erythema multiforme minor"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcal scalded skin syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Bullous pemphigoid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The photograph shows large-scale epidermal desquamation, the hallmark of Stevens-Johnson syndrome and its more extensive form toxic epidermal necrolysis. These are rare but potentially fatal hypersensitivity reactions to sulfonamides that mandate immediate discontinuation of the drug.",
+        "whyCorrect": "The photograph shows large-scale epidermal desquamation, the hallmark of Stevens-Johnson syndrome and its more extensive form toxic epidermal necrolysis. These are rare but potentially fatal hypersensitivity reactions to sulfonamides that mandate immediate discontinuation of the drug.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-140_mi016_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-195",
+      "topicId": "sulfonamides",
+      "topicName": "Sulfonamides",
+      "stem": "The functional group depicted here forms the shared active core of which class of antibiotics?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tetracyclines"
+        },
+        {
+          "label": "B",
+          "text": "Aminoglycosides"
+        },
+        {
+          "label": "C",
+          "text": "Sulfonamides"
+        },
+        {
+          "label": "D",
+          "text": "Fluoroquinolones"
+        },
+        {
+          "label": "E",
+          "text": "Beta-lactams"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The structure shows a central sulfur double-bonded to two oxygens and single-bonded to a nitrogen (the sulfonamide moiety) with variable R groups. This sulfonamide functional group defines the sulfa drug class, which acts as competitive inhibitors of bacterial folate synthesis.",
+        "whyCorrect": "The structure shows a central sulfur double-bonded to two oxygens and single-bonded to a nitrogen (the sulfonamide moiety) with variable R groups. This sulfonamide functional group defines the sulfa drug class, which acts as competitive inhibitors of bacterial folate synthesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-195_mi016_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-211",
+      "topicId": "sulfonamides",
+      "topicName": "Sulfonamides",
+      "stem": "This diagram shows where sulfonamides and trimethoprim act within a bacterial cell. What is the basis for their selective toxicity toward bacteria?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The drug is only activated by bacterial beta-lactamase"
+        },
+        {
+          "label": "B",
+          "text": "Human cells rapidly efflux the drug via P-glycoprotein"
+        },
+        {
+          "label": "C",
+          "text": "Human cells cannot synthesize folate, so they lack the targeted enzyme"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial ribosomes bind the drug but human ribosomes do not"
+        },
+        {
+          "label": "E",
+          "text": "Sulfonamides cannot cross the human cell membrane"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The schematic shows PABA being converted through DHF to THF inside the bacterium, with sulfonamides blocking the folate-synthesis step. Mammalian cells lack dihydropteroate synthase and obtain preformed folate from the diet, so blocking de novo folate synthesis harms bacteria selectively.",
+        "whyCorrect": "The schematic shows PABA being converted through DHF to THF inside the bacterium, with sulfonamides blocking the folate-synthesis step. Mammalian cells lack dihydropteroate synthase and obtain preformed folate from the diet, so blocking de novo folate synthesis harms bacteria selectively.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-211_mi016_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-212",
+      "topicId": "sulfonamides",
+      "topicName": "Sulfonamides",
+      "stem": "Based on the two enzyme-blocking points shown in this pathway, why does pairing a sulfonamide with trimethoprim produce a synergistic, bactericidal effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The combination inhibits bacterial DNA gyrase in addition to folate synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Trimethoprim converts the sulfonamide into an active bactericidal metabolite"
+        },
+        {
+          "label": "C",
+          "text": "The two drugs block sequential steps of the same folate pathway"
+        },
+        {
+          "label": "D",
+          "text": "Trimethoprim prevents efflux of the sulfonamide from the cell"
+        },
+        {
+          "label": "E",
+          "text": "Both drugs bind the 30S ribosomal subunit to halt protein synthesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The flowchart shows sulfonamides inhibiting dihydropteroate synthase and trimethoprim/pyrimethamine inhibiting dihydrofolate reductase, two consecutive steps leading to tetrahydrofolic acid. Blocking both steps sharply reduces THF for nucleotide and protein synthesis, converting two bacteriostatic agents into a bactericidal combination.",
+        "whyCorrect": "The flowchart shows sulfonamides inhibiting dihydropteroate synthase and trimethoprim/pyrimethamine inhibiting dihydrofolate reductase, two consecutive steps leading to tetrahydrofolic acid. Blocking both steps sharply reduces THF for nucleotide and protein synthesis, converting two bacteriostatic agents into a bactericidal combination.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-212_mi016_f03.png",
       "tags": [
         "picture"
       ]
