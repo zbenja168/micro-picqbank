@@ -240,7 +240,7 @@
       "id": "mipic-070",
       "topicId": "candida-and-aspergillus",
       "topicName": "Candida and Aspergillus",
-      "stem": "This chest imaging demonstrates a large cavity in the lung. In a patient with prior tuberculosis, colonization of such a pre-existing cavity by Aspergillus most classically produces what?",
+      "stem": "This chest imaging demonstrates a large cavity in the lung. In a patient with prior tuberculosis, colonization of such a pre-existing cavity by a ubiquitous mold with septate, acute-angle-branching hyphae most classically produces what?",
       "choices": [
         {
           "label": "A",
@@ -630,7 +630,7 @@
       "id": "mipic-079",
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "stem": "These brain MRIs from a 64-year-old show space-occupying nodular lesions (arrows). Among the endemic fungi, which is the most likely cause of this CNS involvement (meningitis and mass-like cryptococcomas)?",
+      "stem": "These brain MRIs from a 64-year-old show space-occupying nodular lesions (arrows). Among the endemic fungi, which is the most likely cause of this CNS involvement (meningitis and mass-like lesions)?",
       "choices": [
         {
           "label": "A",
