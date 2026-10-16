@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Colorless (non-pink) colonies on MacConkey agar indicate a non-lactose fermenter. Salmonella spp. are gram-negative, lactose-non-fermenting rods, which appear pale against the pink lactose-fermenting background flora.",
         "whyCorrect": "Colorless (non-pink) colonies on MacConkey agar indicate a non-lactose fermenter. Salmonella spp. are gram-negative, lactose-non-fermenting rods, which appear pale against the pink lactose-fermenting background flora.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Strong lactose fermenters acidify MacConkey agar and form pink-red colonies, the opposite of the pale colonies shown.",
+          "B": "MacConkey agar contains bile salts and crystal violet that inhibit gram-positive organisms, so colonies growing on it are gram-negative.",
+          "D": "Hemolysis cannot be assessed on MacConkey agar because it contains no red blood cells; beta hemolysis is read on blood agar.",
+          "E": "Oxidase status is determined by a separate reagent test, not colony color on MacConkey; Salmonella and other Enterobacteriaceae are oxidase negative."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-041_mi013_f05.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "On TSI agar, Salmonella ferments glucose (yellow, acidic butt) and produces H2S, which reacts with iron salts to form a black precipitate. This distinguishes it from Shigella, which does not produce H2S.",
         "whyCorrect": "On TSI agar, Salmonella ferments glucose (yellow, acidic butt) and produces H2S, which reacts with iron salts to form a black precipitate. This distinguishes it from Shigella, which does not produce H2S.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Oxidase and catalase are tested with separate reagents on colonies; TSI agar reports sugar fermentation and H2S, and Salmonella is oxidase negative.",
+          "B": "Nitrate reduction and indole are detected in nitrate broth and tryptone broth with specific reagents, not on a TSI slant.",
+          "C": "Urease activity is tested on urea agar, and Salmonella is urease negative; TSI shows glucose fermentation in the butt and H2S blackening.",
+          "E": "A yellow slant and butt would indicate lactose or sucrose fermentation; Salmonella ferments only glucose, leaving an alkaline red slant over an acidic butt."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-042_mi013_f06.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Campylobacter spp. are gram-negative, comma- or S-shaped (seagull-shaped) rods, distinguishing them from the straight rods of Salmonella and Shigella. They are also oxidase positive and grow optimally at 42 degrees C.",
         "whyCorrect": "Campylobacter spp. are gram-negative, comma- or S-shaped (seagull-shaped) rods, distinguishing them from the straight rods of Salmonella and Shigella. They are also oxidase positive and grow optimally at 42 degrees C.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Shigella sonnei is a straight gram-negative rod, not a curved, comma- or seagull-shaped organism.",
+          "B": "Staphylococcus aureus is a gram-positive coccus that stains purple and grows in grapelike clusters, not pink curved rods.",
+          "C": "Escherichia coli is a straight, plump gram-negative rod without the curved seagull morphology.",
+          "D": "Salmonella enterica is a straight gram-negative rod; the curved, seagull-shaped form points to Campylobacter."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-043_mi013_f08.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The specimen is a shrunken, infarcted spleen (autosplenectomy). Functional asplenia, as in sickle cell disease, impairs clearance of encapsulated and intracellular organisms and markedly increases the risk of disseminated salmonellosis.",
         "whyCorrect": "The specimen is a shrunken, infarcted spleen (autosplenectomy). Functional asplenia, as in sickle cell disease, impairs clearance of encapsulated and intracellular organisms and markedly increases the risk of disseminated salmonellosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A lymph node is a small bean-shaped organ with a hilum and does not show the shrunken, multiply infarcted mass typical of autosplenectomy.",
+          "B": "The liver is a large organ, not abnormally small and studded with infarcts, and its dual blood supply makes infarction rare.",
+          "C": "Renal infarcts in sickle cell disease affect the medulla (papillary necrosis), and the kidney is not the organ whose loss impairs clearance of encapsulated organisms and Salmonella.",
+          "E": "The pancreas is an elongated retroperitoneal gland that is not infarcted in sickle cell disease, and its loss does not cause susceptibility to Salmonella bacteremia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-134_mi013_f03.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Rose spots, a transient maculopapular rash on the trunk, are characteristic of typhoidal salmonellosis (typhoid fever). This finding does not occur with nontyphoidal Salmonella infection.",
         "whyCorrect": "Rose spots, a transient maculopapular rash on the trunk, are characteristic of typhoidal salmonellosis (typhoid fever). This finding does not occur with nontyphoidal Salmonella infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Shigellosis causes fever, cramps, and bloody dysentery but does not produce a transient blanching truncal rash like rose spots.",
+          "B": "Reactive arthritis presents with arthritis, urethritis, and conjunctivitis and may cause keratoderma blennorrhagicum on palms and soles, not faint truncal rose spots.",
+          "C": "Nontyphoidal Salmonella gastroenteritis is a self-limited diarrheal illness without rose spots, which are specific to systemic typhoidal disease.",
+          "D": "Campylobacter enteritis causes bloody diarrhea and can trigger Guillain-Barre syndrome, but it does not produce rose spots."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-135_mi013_f04.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The structure is a Type III secretion system, a syringe-like injectisome that spans both membranes of gram-negative bacteria and translocates effector proteins directly into host cells to promote invasion and block phagocytic killing.",
         "whyCorrect": "The structure is a Type III secretion system, a syringe-like injectisome that spans both membranes of gram-negative bacteria and translocates effector proteins directly into host cells to promote invasion and block phagocytic killing.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A flagellum is a long helical filament driven by a rotary motor at its base; the short, hollow needle shown is built for protein injection, not propulsion.",
+          "B": "Plasmid conjugation uses a sex (F) pilus and type IV secretion machinery, not the type III injectisome that targets host cells.",
+          "D": "LPS reaches the outer membrane via the Lpt transport pathway, not a needle that projects outward to contact host cells.",
+          "E": "Peptidoglycan is assembled by penicillin-binding proteins in the periplasm, not by a needle complex that penetrates host membranes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-208_mi013_f02.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Pseudomonas spp. are motile by a single polar flagellum, which drives their characteristic swimming motility and helps them reach and colonize surfaces.",
         "whyCorrect": "Pseudomonas spp. are motile by a single polar flagellum, which drives their characteristic swimming motility and helps them reach and colonize surfaces.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Axial filaments (endoflagella) lie in the periplasm of spirochetes like Treponema and Borrelia, wrapping the cell body rather than protruding from one pole of a rod.",
+          "B": "Fimbriae are numerous short, thin hairlike adhesins covering the cell surface, not a single long whip-like polar appendage.",
+          "C": "Spores are dormant internal structures formed by Bacillus and Clostridium, not external appendages, and Pseudomonas does not sporulate.",
+          "E": "A sex pilus is a straight tube that connects donor to recipient during conjugation; it does not provide swimming motility like this whip-like flagellum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-044_mi014_f02.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Pyocyanin is a blue pigment produced by P. aeruginosa that is toxic to cells including leukocytes and epithelial cells, and together with yellow pyoverdine gives colonies their blue-to-aqua color.",
         "whyCorrect": "Pyocyanin is a blue pigment produced by P. aeruginosa that is toxic to cells including leukocytes and epithelial cells, and together with yellow pyoverdine gives colonies their blue-to-aqua color.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pyoverdine is a yellow-green fluorescent siderophore of Pseudomonas that scavenges iron; it is not the blue, directly cytotoxic redox pigment.",
+          "B": "Bilirubin is a host heme-breakdown product, not a bacterial pigment diffusing from colonies into agar.",
+          "C": "Melanin is a brown-black pigment of organisms such as Cryptococcus that protects against oxidants; it does not produce blue-green discoloration.",
+          "D": "Prodigiosin is the red pigment of Serratia marcescens, not a blue-green diffusible pigment."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-045_mi014_f04.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Pseudomonas colonies characteristically show an aqua-to-green color from pyocyanin and pyoverdine; it is a non-lactose-fermenting, oxidase-positive gram-negative rod.",
         "whyCorrect": "Pseudomonas colonies characteristically show an aqua-to-green color from pyocyanin and pyoverdine; it is a non-lactose-fermenting, oxidase-positive gram-negative rod.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Klebsiella pneumoniae forms large, mucoid, lactose-fermenting colonies without producing a diffusible blue-green pigment.",
+          "B": "Staphylococcus aureus colonies are golden-yellow from staphyloxanthin, a nondiffusing pigment, not aqua-green.",
+          "C": "Escherichia coli forms gray, nonpigmented colonies on routine media and does not discolor the agar green.",
+          "E": "Salmonella enterica forms nonpigmented colonies; it may show black centers from H2S on selective media but does not produce aqua-green pigment."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-046_mi014_f16.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Mucoid strains, characteristic of cystic fibrosis isolates, overproduce an alginate capsule that can absorb hundreds of times its weight in water and helps the bacteria adhere to and colonize mucus.",
         "whyCorrect": "Mucoid strains, characteristic of cystic fibrosis isolates, overproduce an alginate capsule that can absorb hundreds of times its weight in water and helps the bacteria adhere to and colonize mucus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "LPS is present in both strains as an outer-membrane component and does not account for the slimy mucoid phenotype; overproduced alginate does.",
+          "B": "Peptidoglycan cross-links form the rigid cell wall beneath the outer membrane and do not create an extracellular slimy coat.",
+          "C": "M protein is an antiphagocytic surface protein of Streptococcus pyogenes, not a Pseudomonas product that makes colonies mucoid.",
+          "E": "Pyocyanin is a blue-green pigment that colors the agar; it does not make colonies glistening and slimy."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-047_mi014_f17.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Acinetobacter spp. appear as gram-negative coccobacilli (a shape between a sphere and a rod), are non-motile and oxidase-negative, and are a common cause of ventilator-associated pneumonia.",
         "whyCorrect": "Acinetobacter spp. appear as gram-negative coccobacilli (a shape between a sphere and a rod), are non-motile and oxidase-negative, and are a common cause of ventilator-associated pneumonia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Gram-positive rods with spores stain purple and are long bacilli such as Bacillus or Clostridium, unlike the short pink coccobacilli shown.",
+          "C": "Gram-positive cocci in clusters stain purple and are round, as with Staphylococcus, not pink plump short rods.",
+          "D": "Gram-negative diplococci are kidney-bean pairs such as Neisseria and Moraxella; Acinetobacter can look paired but is a plump coccobacillus.",
+          "E": "Gram-negative spiral rods are curved or helical, like Campylobacter or Helicobacter, rather than short plump coccobacilli."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-048_mi014_f19.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Pseudomonas aeruginosa is a leading cause of severe, rapidly progressive bacterial keratitis, especially with contact lens use or contaminated solutions; its proteases and toxins drive aggressive corneal destruction.",
         "whyCorrect": "Pseudomonas aeruginosa is a leading cause of severe, rapidly progressive bacterial keratitis, especially with contact lens use or contaminated solutions; its proteases and toxins drive aggressive corneal destruction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Staphylococcus aureus causes bacterial keratitis, but it is generally less fulminant; the rapidly destructive picture in a ventilated patient points to Pseudomonas.",
+          "B": "Streptococcus pneumoniae can cause corneal ulcers after trauma, but it is not the classic cause of rapidly melting keratitis in ventilated ICU patients.",
+          "C": "HSV keratitis produces dendritic epithelial ulcers seen with fluorescein and recurs, rather than an acute suppurative infiltrate with rapid progression.",
+          "E": "Acinetobacter is an ICU pathogen of ventilator pneumonia and wounds but is not a classic cause of rapidly progressive suppurative keratitis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-136_mi014_f01.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Hot tub folliculitis is caused by Pseudomonas contaminating warm water; the bacteria enter hair follicles through microabrasions, producing follicular papules and pustules that usually resolve without complications.",
         "whyCorrect": "Hot tub folliculitis is caused by Pseudomonas contaminating warm water; the bacteria enter hair follicles through microabrasions, producing follicular papules and pustules that usually resolve without complications.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Streptococcus pyogenes causes impetigo, cellulitis, and erysipelas, not follicular pustules arising after hot tub exposure.",
+          "C": "Staphylococcus aureus is the usual cause of ordinary folliculitis, but onset after a poorly maintained hot tub implicates Pseudomonas, which thrives in warm water.",
+          "D": "Malassezia furfur causes pityrosporum folliculitis and tinea versicolor, typically with humidity or occlusion, not acutely after a contaminated hot tub.",
+          "E": "Candida albicans causes satellite pustules in moist intertriginous areas, not truncal follicular papules after hot tub use."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-137_mi014_f06.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Pseudomonas is a well-known cause of foot infections in diabetics, especially after puncture wounds through footwear, and can seed bone and joints to cause osteomyelitis.",
         "whyCorrect": "Pseudomonas is a well-known cause of foot infections in diabetics, especially after puncture wounds through footwear, and can seed bone and joints to cause osteomyelitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Legionella pneumophila lives in water systems and causes atypical pneumonia, not puncture-wound foot infections or osteomyelitis.",
+          "B": "Neisseria gonorrhoeae can cause septic arthritis in young sexually active adults, but not plantar ulcers or puncture-associated foot osteomyelitis.",
+          "D": "Haemophilus influenzae causes otitis, sinusitis, epiglottitis, and meningitis, not diabetic foot infections after a puncture.",
+          "E": "Bordetella pertussis causes whooping cough by colonizing ciliated respiratory epithelium and has no role in foot infections."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-138_mi014_f10.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Ecthyma gangrenosum is a necrotic skin lesion seen with hematogenous dissemination of Pseudomonas; lesions favor the anogenital and axillary areas and evolve from macules to pustules to necrotic ulcers.",
         "whyCorrect": "Ecthyma gangrenosum is a necrotic skin lesion seen with hematogenous dissemination of Pseudomonas; lesions favor the anogenital and axillary areas and evolve from macules to pustules to necrotic ulcers.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Erythema multiforme is a hypersensitivity reaction, often to HSV, forming target lesions, not necrotic ulcers with Pseudomonas bacteremia.",
+          "C": "Stevens-Johnson syndrome is a drug-induced mucocutaneous reaction with epidermal detachment, not scattered necrotic lesions from bacteremic seeding.",
+          "D": "Necrotizing fasciitis is a rapidly spreading infection along fascial planes with pain out of proportion, not scattered macules that become necrotic pustules.",
+          "E": "Erythema nodosum is a panniculitis of tender red nodules on the shins, associated with sarcoidosis, TB, and strep, and it does not ulcerate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-139_mi014_f15.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Pseudomonas spp. secrete extracellular polysaccharides and macromolecules to form biofilms, which shield the bacteria from the environment, predators, antibiotics, and the host immune response.",
         "whyCorrect": "Pseudomonas spp. secrete extracellular polysaccharides and macromolecules to form biofilms, which shield the bacteria from the environment, predators, antibiotics, and the host immune response.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A viral plaque is a clear zone of lysed cells in a culture monolayer, not a slimy layer coating surfaces in water.",
+          "B": "Endospores are dormant internal structures of Bacillus and Clostridium, not a slimy surface coating that shields communities of Pseudomonas.",
+          "C": "Fungal fruiting bodies are spore-bearing structures of molds, not the bacterial polysaccharide matrix described.",
+          "D": "A calcified granuloma is a host tissue response, such as the Ghon focus of healed TB, not a microbial layer on an environmental surface."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-209_mi014_f03.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Cystic fibrosis results from a CFTR mutation that impairs chloride and water transport across epithelia, producing thick, sticky mucus that obstructs the airways and creates a niche for Pseudomonas colonization.",
         "whyCorrect": "Cystic fibrosis results from a CFTR mutation that impairs chloride and water transport across epithelia, producing thick, sticky mucus that obstructs the airways and creates a niche for Pseudomonas colonization.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Surfactant protein B deficiency causes neonatal respiratory distress from alveolar collapse, not thick mucus plugging the airways.",
+          "B": "Elastin mutations cause supravalvular aortic stenosis or cutis laxa; emphysema-like loss of elastic recoil is not mucus obstruction.",
+          "C": "A dynein arm defect causes primary ciliary dyskinesia with impaired clearance and situs inversus, but mucus composition is normal; thick dehydrated secretions point to CFTR.",
+          "E": "Alpha-1 antitrypsin deficiency causes panacinar emphysema and liver disease from unopposed elastase, not thick mucus filling the airways."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-210_mi014_f13.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "The photograph shows large-scale epidermal desquamation, the hallmark of Stevens-Johnson syndrome and its more extensive form toxic epidermal necrolysis. These are rare but potentially fatal hypersensitivity reactions to sulfonamides that mandate immediate discontinuation of the drug.",
         "whyCorrect": "The photograph shows large-scale epidermal desquamation, the hallmark of Stevens-Johnson syndrome and its more extensive form toxic epidermal necrolysis. These are rare but potentially fatal hypersensitivity reactions to sulfonamides that mandate immediate discontinuation of the drug.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Pemphigus vulgaris is autoimmune, with antibodies against desmoglein 3 forming flaccid intraepidermal bullae over a chronic course, not an acute reaction after starting a sulfonamide.",
+          "C": "Erythema multiforme minor shows targetoid lesions with minimal mucosal involvement and no widespread sloughing, usually triggered by HSV.",
+          "D": "Staphylococcal scalded skin syndrome is toxin-mediated superficial splitting at the granular layer in young children, with mucosa spared, not a drug reaction.",
+          "E": "Bullous pemphigoid is an autoimmune disease of older adults with tense subepidermal bullae and anti-hemidesmosome antibodies, not acute sheet-like sloughing after a drug."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-140_mi016_f04.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "The structure shows a central sulfur double-bonded to two oxygens and single-bonded to a nitrogen (the sulfonamide moiety) with variable R groups. This sulfonamide functional group defines the sulfa drug class, which acts as competitive inhibitors of bacterial folate synthesis.",
         "whyCorrect": "The structure shows a central sulfur double-bonded to two oxygens and single-bonded to a nitrogen (the sulfonamide moiety) with variable R groups. This sulfonamide functional group defines the sulfa drug class, which acts as competitive inhibitors of bacterial folate synthesis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tetracyclines are built on four fused six-membered rings (a naphthacene core) and bind the 30S ribosome; they lack the S(=O)2-N sulfonamide group.",
+          "B": "Aminoglycosides are amino sugars linked to an aminocyclitol ring, with no sulfur-containing functional group at their core.",
+          "D": "Fluoroquinolones share a bicyclic quinolone ring with a carboxylic acid and a fluorine, not a sulfur double-bonded to two oxygens and bonded to nitrogen.",
+          "E": "Beta-lactams are defined by a four-membered cyclic amide (the beta-lactam ring), not a sulfonyl-amide group."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-195_mi016_f01.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "The schematic shows PABA being converted through DHF to THF inside the bacterium, with sulfonamides blocking the folate-synthesis step. Mammalian cells lack dihydropteroate synthase and obtain preformed folate from the diet, so blocking de novo folate synthesis harms bacteria selectively.",
         "whyCorrect": "The schematic shows PABA being converted through DHF to THF inside the bacterium, with sulfonamides blocking the folate-synthesis step. Mammalian cells lack dihydropteroate synthase and obtain preformed folate from the diet, so blocking de novo folate synthesis harms bacteria selectively.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sulfonamides are active drugs that need no activation, and beta-lactamases inactivate rather than activate drugs, destroying penicillins and cephalosporins.",
+          "B": "P-glycoprotein efflux is not the basis of sulfonamide selectivity; human cells are spared because they take up dietary folate and lack dihydropteroate synthase.",
+          "D": "Ribosomal selectivity explains protein synthesis inhibitors such as aminoglycosides and macrolides; sulfonamides and trimethoprim act on folate-pathway enzymes, not ribosomes.",
+          "E": "Sulfonamides readily enter human cells and tissues; their selectivity comes from targeting an enzyme humans do not have, not from exclusion by the membrane."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-211_mi016_f02.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "The flowchart shows sulfonamides inhibiting dihydropteroate synthase and trimethoprim/pyrimethamine inhibiting dihydrofolate reductase, two consecutive steps leading to tetrahydrofolic acid. Blocking both steps sharply reduces THF for nucleotide and protein synthesis, converting two bacteriostatic agents into a bactericidal combination.",
         "whyCorrect": "The flowchart shows sulfonamides inhibiting dihydropteroate synthase and trimethoprim/pyrimethamine inhibiting dihydrofolate reductase, two consecutive steps leading to tetrahydrofolic acid. Blocking both steps sharply reduces THF for nucleotide and protein synthesis, converting two bacteriostatic agents into a bactericidal combination.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Neither sulfonamides nor trimethoprim inhibit DNA gyrase, which is the target of fluoroquinolones; both act within the folate pathway.",
+          "B": "Trimethoprim does not metabolize the sulfonamide; each drug is independently active, and the synergy comes from blocking two consecutive enzymes.",
+          "D": "Trimethoprim has no effect on sulfonamide efflux; it inhibits dihydrofolate reductase one step downstream of the sulfonamide target.",
+          "E": "Neither drug binds the 30S ribosome; that is the target of aminoglycosides and tetracyclines, whereas this pair blocks folate synthesis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-212_mi016_f03.png",

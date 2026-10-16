@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Hookworms (Ancylostoma duodenale shown; Necator americanus uses cutting plates) use these buccal teeth/plates to grip and lacerate the small-bowel mucosa, feeding on blood and causing iron-deficiency anemia in heavy infections.",
         "whyCorrect": "Hookworms (Ancylostoma duodenale shown; Necator americanus uses cutting plates) use these buccal teeth/plates to grip and lacerate the small-bowel mucosa, feeding on blood and causing iron-deficiency anemia in heavy infections.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hookworms live in the small intestine and do not penetrate the blood-brain barrier; their teeth or plates are for gripping mucosa.",
+          "C": "Boring through skeletal muscle to encyst is the behavior of Trichinella larvae, which lack buccal cutting teeth.",
+          "D": "Hookworms feed on blood and tissue, not on plankton, and their buccal teeth are used for lacerating mucosa.",
+          "E": "Hookworms do not attach to red blood cells; they ingest blood from the mucosa they cut, causing iron-deficiency anemia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-018_mi046_f06.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "These are Charcot-Leyden crystals, formed from galectin-10 released by degranulating eosinophils; they signal eosinophil-rich processes such as parasitic or allergic disease.",
         "whyCorrect": "These are Charcot-Leyden crystals, formed from galectin-10 released by degranulating eosinophils; they signal eosinophil-rich processes such as parasitic or allergic disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cholesterol clefts are empty, needle-shaped spaces left after lipid dissolves during processing, not stained purple bipyramidal crystals.",
+          "B": "Monosodium urate crystals are negatively birefringent needles in gouty joint fluid, not crystals in an eosinophil-rich parasitic infiltrate.",
+          "D": "Hematoidin is a golden-yellow pigment from hemoglobin breakdown in old hemorrhages, not purple bipyramidal crystals.",
+          "E": "Calcium pyrophosphate crystals are rhomboid and weakly positively birefringent in pseudogout joint fluid, not linked to eosinophilic parasitic inflammation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-019_mi046_f09.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Multiple calcified cysts scattered through the brain in a patient with seizures are characteristic of neurocysticercosis from T. solium larvae; it is a leading cause of adult-onset seizures in endemic regions.",
         "whyCorrect": "Multiple calcified cysts scattered through the brain in a patient with seizures are characteristic of neurocysticercosis from T. solium larvae; it is a leading cause of adult-onset seizures in endemic regions.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cortical tubers in tuberous sclerosis can calcify, but they occur with subependymal nodules, seizures from infancy, and skin findings such as ash-leaf spots.",
+          "B": "Metastatic melanoma produces enhancing, often hemorrhagic masses with edema, not numerous small calcified cysts.",
+          "C": "Toxoplasma abscesses are ring-enhancing lesions in immunocompromised patients, typically in the basal ganglia, not scattered calcified cysts.",
+          "E": "Multiple sclerosis plaques are periventricular white-matter lesions best seen on MRI and do not calcify."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-097_mi045_f05.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Disseminated cysticercosis produces multiple calcified larval cysts in skeletal muscle, seen as scattered oval/rice-shaped calcifications on plain films, and can occur alongside neurocysticercosis.",
         "whyCorrect": "Disseminated cysticercosis produces multiple calcified larval cysts in skeletal muscle, seen as scattered oval/rice-shaped calcifications on plain films, and can occur alongside neurocysticercosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Phleboliths are round calcifications with central lucency in pelvic or varicose veins, not elongated rice-grain densities aligned within muscle.",
+          "B": "Atherosclerotic calcification forms linear tracks along arteries, not scattered rice-shaped densities within muscles.",
+          "D": "Myositis ossificans forms a localized mass of heterotopic bone after trauma, not numerous small scattered calcifications.",
+          "E": "Osteochondromas are bony outgrowths with cartilage caps projecting from long bone metaphyses, not small calcified bodies in soft tissue."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-098_mi045_f06.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Taenia eggs are round with a thick radially striated shell and contain a six-hooked oncosphere; the eggs of the different Taenia species are morphologically identical and cannot distinguish between them.",
         "whyCorrect": "Taenia eggs are round with a thick radially striated shell and contain a six-hooked oncosphere; the eggs of the different Taenia species are morphologically identical and cannot distinguish between them.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Enterobius eggs are oval and flattened on one side with a thin smooth shell, without a radially striated wall or hooklets.",
+          "B": "Diphyllobothrium eggs are oval and operculated with a small knob at one end, lacking a striated shell and hooklets.",
+          "C": "Schistosoma mansoni eggs are large and oval with a prominent lateral spine, not round with a striated shell.",
+          "E": "Ascaris eggs are oval or round with a thick mammillated (knobby) coat and contain no hooklets."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-099_mi045_f07.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "T. solium has an armed scolex with a rostellum bearing two rows of hooks, whereas T. saginata has four suckers but no rostellum or hooks.",
         "whyCorrect": "T. solium has an armed scolex with a rostellum bearing two rows of hooks, whereas T. saginata has four suckers but no rostellum or hooks.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Echinococcus granulosus has an armed scolex, but the adult is a tiny worm with only a few segments living in dogs, not a long human intestinal tapeworm.",
+          "C": "Diphyllobothrium latum has an elongated scolex with two slit-like grooves (bothria) instead of suckers and hooks.",
+          "D": "Hymenolepis nana has an armed rostellum but is a very small dwarf tapeworm; the classic human intestinal Taenia with an armed scolex is T. solium.",
+          "E": "Taenia saginata has four suckers but no rostellum or hooks, making its scolex unarmed."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-100_mi045_f08.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "T. solium gravid proglottids have 7-13 lateral uterine branches per side, while T. saginata has 12-30; counting branches distinguishes the two species.",
         "whyCorrect": "T. solium gravid proglottids have 7-13 lateral uterine branches per side, while T. saginata has 12-30; counting branches distinguishes the two species.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hymenolepis diminuta proglottids are small and wider than long, with a saclike uterus rather than lateral branches.",
+          "B": "Taenia saginata has more lateral uterine branches, about 12-30 per side.",
+          "C": "Diphyllobothrium latum proglottids have a central rosette-shaped uterus, not lateral branches.",
+          "E": "Dipylidium caninum proglottids are cucumber-seed shaped with two genital pores and egg packets, not a branched uterus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-101_mi045_f09.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Diphyllobothrium proglottids have a central, rosette-shaped uterus, which distinguishes them from the laterally branching uterus of Taenia proglottids.",
         "whyCorrect": "Diphyllobothrium proglottids have a central, rosette-shaped uterus, which distinguishes them from the laterally branching uterus of Taenia proglottids.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dipylidium caninum proglottids are cucumber-seed shaped with paired genital pores and egg packets, not a central rosette uterus.",
+          "C": "Echinococcus granulosus adults are tiny worms with a saclike uterus in the gravid segment, not a rosette pattern.",
+          "D": "Taenia saginata proglottids have a central stem with 12-30 lateral uterine branches per side, not a rosette.",
+          "E": "Taenia solium proglottids have a central stem with 7-13 lateral uterine branches per side, not a rosette."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-102_mi045_f14.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Bronchoalveolar lavage instills and aspirates sterile saline to sample the alveolar space; in hyperinfection it can recover migrating Strongyloides larvae when sputum is unrevealing.",
         "whyCorrect": "Bronchoalveolar lavage instills and aspirates sterile saline to sample the alveolar space; in hyperinfection it can recover migrating Strongyloides larvae when sputum is unrevealing.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Surfactant is given through an endotracheal tube to premature infants with respiratory distress syndrome, not by lavaging with saline.",
+          "C": "Endobronchial tumors are treated with laser, cryotherapy, or stents, not by saline lavage.",
+          "D": "Pleural effusions are drained by thoracentesis or a chest tube through the chest wall, not via a bronchoscope.",
+          "E": "Pulmonary artery wedge pressure is measured with a pulmonary artery catheter through the venous system, not by bronchoscopy."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-103_mi046_f05.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Hookworm eggs are thin-shelled ovals with a segmented embryo and a characteristic clear gap beneath the smooth shell; Ancylostoma and Necator eggs are morphologically indistinguishable.",
         "whyCorrect": "Hookworm eggs are thin-shelled ovals with a segmented embryo and a characteristic clear gap beneath the smooth shell; Ancylostoma and Necator eggs are morphologically indistinguishable.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Trichuris eggs are barrel- or lemon-shaped with bipolar plugs, not smooth ovals with a clear space around the embryo.",
+          "B": "Ascaris eggs have a thick, knobby mammillated coat, not a thin smooth shell.",
+          "C": "Enterobius eggs are flattened on one side and usually recovered by tape test rather than in stool.",
+          "E": "Taenia eggs are round with a thick, radially striated shell containing a hooked oncosphere."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-104_mi046_f10.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Fertilized Ascaris eggs are round with a thick shell and a bumpy (mammillated) albuminous coat; recognizing this coat distinguishes them from the smooth-shelled eggs of hookworm and Enterobius.",
         "whyCorrect": "Fertilized Ascaris eggs are round with a thick shell and a bumpy (mammillated) albuminous coat; recognizing this coat distinguishes them from the smooth-shelled eggs of hookworm and Enterobius.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Trichuris eggs are barrel-shaped with bipolar plugs and a smooth shell, not round with a knobby coat.",
+          "C": "Enterobius eggs are thin-shelled, smooth, and flattened on one side.",
+          "D": "Schistosoma mansoni eggs are large and oval with a prominent lateral spine.",
+          "E": "Hookworm eggs are thin-shelled, smooth ovals with a clear space around a segmented embryo."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-105_mi046_f12.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Enterobius vermicularis (pinworm) is a small white nematode whose gravid females migrate to the anus at night to lay eggs, producing the classic perianal pruritus in children.",
         "whyCorrect": "Enterobius vermicularis (pinworm) is a small white nematode whose gravid females migrate to the anus at night to lay eggs, producing the classic perianal pruritus in children.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Necator americanus is a hookworm that lives attached to the small-intestinal mucosa, causing anemia rather than nocturnal perianal itching.",
+          "B": "Ascaris lumbricoides is a large worm up to 35 cm long that causes obstruction or biliary disease, not perianal itching.",
+          "C": "Trichuris trichiura is a whipworm with a thin anterior end embedded in colonic mucosa, causing dysentery or rectal prolapse rather than nocturnal itching.",
+          "E": "Strongyloides can cause larva currens around the perianal area, but it is a tiny worm living in the small intestinal mucosa, and gravid females do not emerge at night."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-106_mi046_f13.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Pinworm eggs are colorless and ovoid with one flattened side (D-shaped); they are best recovered with cellulose (Scotch) tape from the perianal region in the morning.",
         "whyCorrect": "Pinworm eggs are colorless and ovoid with one flattened side (D-shaped); they are best recovered with cellulose (Scotch) tape from the perianal region in the morning.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hookworm eggs are symmetric smooth ovals with a clear space around a segmented embryo.",
+          "C": "Trichuris eggs are barrel-shaped with polar plugs at each end.",
+          "D": "Schistosoma japonicum eggs are round to oval with a small inconspicuous lateral knob, not D-shaped.",
+          "E": "Ascaris eggs are round or oval with a thick knobby mammillated coat."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-107_mi046_f15.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The round egg with a nodular (mammillated) coat is a fertilized Ascaris lumbricoides egg; hookworms have smooth thin-shelled eggs and Strongyloides is usually identified by larvae rather than eggs in stool.",
         "whyCorrect": "The round egg with a nodular (mammillated) coat is a fertilized Ascaris lumbricoides egg; hookworms have smooth thin-shelled eggs and Strongyloides is usually identified by larvae rather than eggs in stool.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Strongyloides is diagnosed by rhabditiform larvae in stool, not eggs, because its eggs hatch in the intestinal mucosa.",
+          "C": "Ancylostoma eggs are smooth, thin-shelled ovals with a clear space around the embryo.",
+          "D": "Necator eggs are identical to Ancylostoma eggs, thin and smooth, not knobby.",
+          "E": "Enterobius eggs are flattened on one side with a smooth shell, usually recovered by tape test rather than stool."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-108_mi046_f16.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "When a person ingests T. solium eggs from their own feces, the eggs hatch and larvae disseminate to tissues, causing cysticercosis; this self-reinfection is termed autoinfection.",
         "whyCorrect": "When a person ingests T. solium eggs from their own feces, the eggs hatch and larvae disseminate to tissues, causing cysticercosis; this self-reinfection is termed autoinfection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Hyperinfection by larval skin penetration describes Strongyloides, whose filariform larvae re-enter the host, not T. solium eggs.",
+          "C": "Zoonotic spillover is transmission from an animal reservoir, whereas T. solium autoinfection uses the patient's own eggs.",
+          "D": "Transplacental transmission passes infection from mother to fetus and is not the route of cysticercosis.",
+          "E": "A paratenic host carries larvae without development, which is not part of self-reinfection with T. solium eggs."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-238_mi045_f04.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The skin-penetration to lung-migration to gut-maturation sequence is the classic infectious cycle of Strongyloides stercoralis (shared in broad strokes with hookworms), distinguishing it from fecal-orally acquired worms.",
         "whyCorrect": "The skin-penetration to lung-migration to gut-maturation sequence is the classic infectious cycle of Strongyloides stercoralis (shared in broad strokes with hookworms), distinguishing it from fecal-orally acquired worms.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Enterobius is acquired by ingesting eggs and has no skin penetration or lung migration.",
+          "C": "Schistosoma cercariae penetrate skin but migrate through blood to the venous plexus of the bladder, not coughed up and swallowed.",
+          "D": "Diphyllobothrium is acquired by eating raw fish containing larvae, without skin penetration or lung migration.",
+          "E": "Taenia saginata is acquired by eating undercooked beef containing cysticerci, with no skin penetration or lung migration."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-239_mi046_f02.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Strongyloides stercoralis is unusual among helminths in performing autoinfection: rhabditiform larvae mature and re-penetrate the gut mucosa or perianal skin, sustaining infection for years and driving hyperinfection under immunosuppression.",
         "whyCorrect": "Strongyloides stercoralis is unusual among helminths in performing autoinfection: rhabditiform larvae mature and re-penetrate the gut mucosa or perianal skin, sustaining infection for years and driving hyperinfection under immunosuppression.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Transmission via undercooked pork applies to Taenia solium and Trichinella, not Strongyloides, which penetrates skin from soil.",
+          "B": "Encystment in skeletal muscle is the hallmark of Trichinella spiralis, not Strongyloides.",
+          "D": "A mosquito vector is required by filarial worms such as Wuchereria, not Strongyloides.",
+          "E": "An obligate snail intermediate host is required by schistosomes and other flukes, not Strongyloides."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-240_mi046_f04.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Hookworm larvae penetrate intact skin (often the foot), migrate through the lungs, and mature in the gut; unlike Strongyloides they cannot autoinfect, so eggs must pass in stool and develop in soil.",
         "whyCorrect": "Hookworm larvae penetrate intact skin (often the foot), migrate through the lungs, and mature in the gut; unlike Strongyloides they cannot autoinfect, so eggs must pass in stool and develop in soil.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Taenia solium is acquired by eating undercooked pork or ingesting eggs, without skin penetration or lung migration.",
+          "B": "Enterobius is acquired by ingesting eggs and lives in the colon, without skin penetration or lung migration.",
+          "C": "Ascaris migrates through the lungs but is acquired by ingesting eggs rather than by skin penetration.",
+          "E": "Wuchereria bancrofti is transmitted by mosquitoes and lives in lymphatics, causing elephantiasis, not maturing in the intestine."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-241_mi046_f07.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Ascaris (the giant roundworm) is acquired fecal-orally by ingesting embryonated eggs; larvae undergo lung migration before maturing into large adults in the gut, and unlike hookworms/Strongyloides it does not penetrate skin.",
         "whyCorrect": "Ascaris (the giant roundworm) is acquired fecal-orally by ingesting embryonated eggs; larvae undergo lung migration before maturing into large adults in the gut, and unlike hookworms/Strongyloides it does not penetrate skin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Enterobius is acquired by ingesting eggs but has no lung migration and is a small worm in the colon.",
+          "B": "Necator americanus infects by skin penetration, not egg ingestion.",
+          "C": "Strongyloides infects by skin penetration of filariform larvae and is a small worm, not a large adult hatched from ingested eggs.",
+          "D": "Trichinella spiralis is acquired by eating encysted larvae in undercooked meat, and its larvae migrate to skeletal muscle rather than the lungs."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-242_mi046_f11.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Pinworm has a simple fecal-oral cycle with no tissue migration: gravid females crawl to the perianal skin at night to lay eggs, driving itching, scratching, and self-reinfection.",
         "whyCorrect": "Pinworm has a simple fecal-oral cycle with no tissue migration: gravid females crawl to the perianal skin at night to lay eggs, driving itching, scratching, and self-reinfection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ascaris is acquired by ingesting eggs but undergoes lung migration and does not lay eggs on perianal skin.",
+          "C": "Ancylostoma infects by skin penetration with lung migration and attaches to small-bowel mucosa.",
+          "D": "Strongyloides infects by skin penetration and is diagnosed by larvae in stool, not by nocturnal perianal egg laying.",
+          "E": "Taenia solium is acquired from undercooked pork or eggs, and adults live as long segmented tapeworms in the intestine."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-243_mi046_f14.png",

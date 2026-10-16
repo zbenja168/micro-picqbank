@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The tapered, pencil-point narrowing of the subglottic trachea on an AP neck film is the classic steeple sign, produced by subglottic edema in croup, most often caused by parainfluenza virus. Epiglottitis shows a thumbprint sign on lateral film, not subglottic narrowing.",
         "whyCorrect": "The tapered, pencil-point narrowing of the subglottic trachea on an AP neck film is the classic steeple sign, produced by subglottic edema in croup, most often caused by parainfluenza virus. Epiglottitis shows a thumbprint sign on lateral film, not subglottic narrowing.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bacterial tracheitis shows irregular tracheal margins and intraluminal membranes in a toxic-appearing child, rather than smooth symmetric subglottic tapering.",
+          "B": "Retropharyngeal abscess widens the prevertebral soft tissue on the lateral neck film and does not taper the subglottic airway on the frontal view.",
+          "C": "Epiglottitis shows a swollen epiglottis (thumb sign) on the lateral radiograph, a supraglottic finding, not subglottic steeple narrowing.",
+          "E": "An aspirated foreign body may be radiopaque or cause unilateral air trapping, not symmetric subglottic tapering."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-064_mi033_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The scene is a 1918 Spanish influenza (H1N1) ward. Lung-biopsy studies from victims showed the leading direct cause of death was secondary bacterial pneumonia (e.g., S. pneumoniae, S. aureus, H. influenzae) complicating the viral infection, in the pre-antibiotic era.",
         "whyCorrect": "The scene is a 1918 Spanish influenza (H1N1) ward. Lung-biopsy studies from victims showed the leading direct cause of death was secondary bacterial pneumonia (e.g., S. pneumoniae, S. aureus, H. influenzae) complicating the viral infection, in the pre-antibiotic era.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Myocarditis occurred in some 1918 influenza cases but was not the leading direct cause of death on autopsy.",
+          "B": "Influenza encephalitis and postencephalitic syndromes were rare complications and not the main cause of pandemic mortality.",
+          "D": "Cytokine-driven lung injury contributed in some young adults, but lung tissue from most victims showed a bacterial component on top of viral injury.",
+          "E": "Primary viral pneumonia caused some rapid deaths, but most fatalities came from secondary bacterial pneumonia in the pre-antibiotic era."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-159_mi031_f04.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The blanching maculopapular rash that starts at the hairline/face and spreads caudally, together with the 3 Cs (cough, coryza, conjunctivitis) and preceding Koplik spots, is characteristic of measles. Lesions may coalesce into larger patches as seen here.",
         "whyCorrect": "The blanching maculopapular rash that starts at the hairline/face and spreads caudally, together with the 3 Cs (cough, coryza, conjunctivitis) and preceding Koplik spots, is characteristic of measles. Lesions may coalesce into larger patches as seen here.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Rubella causes a milder, pink rash that also spreads from the face downward, but it is preceded by mild illness and postauricular lymphadenopathy, not high fever with the 3 Cs.",
+          "C": "Parvovirus B19 causes erythema infectiosum with slapped cheeks and a lacy reticular rash on the extremities, not a cephalocaudal confluent rash after the 3 Cs.",
+          "D": "Varicella-zoster causes a vesicular rash in crops at different stages, not a confluent maculopapular eruption.",
+          "E": "Roseola causes several days of high fever followed by a rash on the trunk that appears as the fever breaks, without cough, coryza, and conjunctivitis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-162_mi033_f04.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The figure depicts HA-specific and NA-specific antibodies neutralizing influenza. Because the influenza RNA polymerase lacks proofreading, point mutations steadily alter HA/NA epitopes (antigenic drift), so previously generated antibodies bind poorly, allowing reinfection and driving seasonal epidemics and annual vaccine reformulation.",
         "whyCorrect": "The figure depicts HA-specific and NA-specific antibodies neutralizing influenza. Because the influenza RNA polymerase lacks proofreading, point mutations steadily alter HA/NA epitopes (antigenic drift), so previously generated antibodies bind poorly, allowing reinfection and driving seasonal epidemics and annual vaccine reformulation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Influenza does not establish latency or reactivate; that pattern belongs to herpesviruses and does not explain year-to-year antibody escape.",
+          "B": "Antigenic shift is sudden reassortment of whole HA or NA segments causing pandemics, not the gradual yearly change in epitopes described.",
+          "D": "Phase variation is reversible on-off switching of bacterial surface proteins, as in Neisseria pili, not a mechanism used by influenza.",
+          "E": "Influenza has an RNA genome and essentially does not undergo homologous recombination of DNA; its yearly escape comes from polymerase point mutations."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-226_mi031_f02.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The figure depicts genetic reassortment (antigenic shift). Because influenza carries 7-8 discrete RNA segments, co-infecting strains can swap whole segments, abruptly generating a novel HA/NA combination with pandemic potential. This occurs essentially only in influenza A owing to its animal reservoirs.",
         "whyCorrect": "The figure depicts genetic reassortment (antigenic shift). Because influenza carries 7-8 discrete RNA segments, co-infecting strains can swap whole segments, abruptly generating a novel HA/NA combination with pandemic potential. This occurs essentially only in influenza A owing to its animal reservoirs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Influenza is an RNA virus; double-stranded DNA genomes belong to viruses such as herpesviruses and adenoviruses.",
+          "B": "A single continuous RNA molecule could not be exchanged in whole pieces between strains; reassortment requires a segmented genome.",
+          "D": "Diploid single-stranded RNA describes retroviruses such as HIV, which carry two copies of one genome rather than multiple distinct segments.",
+          "E": "Circular supercoiled genomes characterize papillomaviruses, polyomaviruses, and bacterial chromosomes, not the linear segmented RNA of influenza."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-227_mi031_f05.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Each new pandemic subtype (e.g., H2N2, H3N2, novel H1N1) arose by antigenic shift, a sudden reassortment event producing a hemagglutinin/neuraminidase combination the population has no immunity to, unlike the gradual antigenic drift responsible for seasonal strains.",
         "whyCorrect": "Each new pandemic subtype (e.g., H2N2, H3N2, novel H1N1) arose by antigenic shift, a sudden reassortment event producing a hemagglutinin/neuraminidase combination the population has no immunity to, unlike the gradual antigenic drift responsible for seasonal strains.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Influenza polymerase lacks proofreading, and proofreading would reduce rather than create antigenic novelty.",
+          "C": "Complementation lets defective viruses replicate with help from a coinfecting virus but does not create new HA/NA subtypes.",
+          "D": "Influenza does not integrate into the host chromosome; integration is a retrovirus feature.",
+          "E": "Antigenic drift is gradual accumulation of point mutations that causes seasonal epidemics, not the abrupt appearance of new subtypes that causes pandemics."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-228_mi031_f06.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Dense lens opacification (cataract) blocks the normal red reflex, producing a white pupillary reflex (leukocoria). Cotton-wool spots and Roth spots are retinal findings that could not be appreciated when the lens itself is opaque.",
         "whyCorrect": "Dense lens opacification (cataract) blocks the normal red reflex, producing a white pupillary reflex (leukocoria). Cotton-wool spots and Roth spots are retinal findings that could not be appreciated when the lens itself is opaque.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Kayser-Fleischer rings are copper deposits in the peripheral cornea in Wilson disease, not white lens opacities in an infant.",
+          "B": "Cotton-wool spots are retinal infarcts seen on funduscopy in hypertension, diabetes, or HIV; a dense cataract would block the view of the retina.",
+          "C": "Papilledema is optic disc swelling from raised intracranial pressure, seen on funduscopy, and would not be visible through opaque lenses.",
+          "D": "Roth spots are retinal hemorrhages with pale centers in endocarditis, a funduscopic finding that cannot be seen through a dense cataract."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-065_mi034_f04.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The image depicts intussusception, a rare bowel obstruction that is a recognized adverse event of the oral rotavirus vaccine; surgery is sometimes required to correct it.",
         "whyCorrect": "The image depicts intussusception, a rare bowel obstruction that is a recognized adverse event of the oral rotavirus vaccine; surgery is sometimes required to correct it.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Rubella infection causes rash and lymphadenopathy, or congenital defects when acquired in pregnancy; it is not linked to intussusception.",
+          "C": "Oral rehydration therapy is a safe glucose-electrolyte solution for diarrhea and does not cause intussusception.",
+          "D": "The MMR vaccine is associated with febrile seizures and rare thrombocytopenia, not intussusception.",
+          "E": "Norovirus causes acute vomiting and diarrhea but is not a recognized cause of intussusception at the rate tied to rotavirus vaccine."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-163_mi034_f01.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The cataracts shown are a hallmark of congenital rubella syndrome, whose classic triad is cataracts, sensorineural deafness, and congenital heart defects. Microcephaly with periventricular calcifications instead suggests congenital CMV.",
         "whyCorrect": "The cataracts shown are a hallmark of congenital rubella syndrome, whose classic triad is cataracts, sensorineural deafness, and congenital heart defects. Microcephaly with periventricular calcifications instead suggests congenital CMV.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Chorioretinitis with hydrocephalus and intracranial calcifications is the classic triad of congenital toxoplasmosis, not rubella with cataracts.",
+          "C": "Microcephaly with periventricular calcifications suggests congenital CMV, which also causes sensorineural deafness but not cataracts.",
+          "D": "Limb hypoplasia with cicatricial skin scarring is the pattern of congenital varicella syndrome.",
+          "E": "Hepatosplenomegaly and jaundice occur in several TORCH infections, but they are not part of the classic rubella triad with cataracts."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-164_mi034_f02.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The 'blueberry muffin' rash of congenital TORCH infections such as rubella and CMV results from foci of extramedullary hematopoiesis in the dermis; associated thrombocytopenia contributes overlying petechiae and purpura.",
         "whyCorrect": "The 'blueberry muffin' rash of congenital TORCH infections such as rubella and CMV results from foci of extramedullary hematopoiesis in the dermis; associated thrombocytopenia contributes overlying petechiae and purpura.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Neonatal cephalic pustulosis is a benign Malassezia-associated acneiform eruption of small papules and pustules on the face, not blue-purple dermal nodules.",
+          "B": "Disseminated cutaneous candidiasis presents with erythematous papules and pustules, not blue-purple nodules from dermal blood-forming cells.",
+          "C": "Meningococcal petechiae from DIC are flat, nonblanching hemorrhages in a septic infant, not raised papulonodular lesions from dermal hematopoiesis.",
+          "E": "Allergic contact dermatitis is uncommon in newborns and causes itchy eczematous plaques where an allergen touched the skin, not violaceous nodules."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-165_mi034_f03.png",

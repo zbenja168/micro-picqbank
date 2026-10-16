@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Gram-positive cocci that bunch into grape-like clusters are characteristic of Staphylococcus, which divides in multiple planes. Streptococci form chains, Neisseria form diplococci, and Bacillus/Clostridium are rods.",
         "whyCorrect": "Gram-positive cocci that bunch into grape-like clusters are characteristic of Staphylococcus, which divides in multiple planes. Streptococci form chains, Neisseria form diplococci, and Bacillus/Clostridium are rods.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Streptococci form chains or pairs because they divide in one plane, not grape-like clusters.",
+          "B": "Bacillus species are gram-positive rods, not round cocci.",
+          "D": "Neisseria are gram-negative diplococci that stain pink, not purple clusters.",
+          "E": "Clostridium species are gram-positive rods, often spore-forming, not cocci."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-020_mi047_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Sabouraud dextrose agar uses an acidic pH plus antibiotics to inhibit bacteria and favor the growth of fungi such as Candida and Aspergillus.",
         "whyCorrect": "Sabouraud dextrose agar uses an acidic pH plus antibiotics to inhibit bacteria and favor the growth of fungi such as Candida and Aspergillus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Anaerobes are grown in anaerobic conditions on enriched media such as blood agar, not Sabouraud's acidic agar.",
+          "B": "Gram-negative bacilli are selected with media such as MacConkey or EMB; Sabouraud agar suppresses bacteria.",
+          "C": "Spirochetes are mostly diagnosed by serology or darkfield microscopy and do not grow on Sabouraud agar.",
+          "E": "Mycobacteria are cultured on Lowenstein-Jensen or Middlebrook media, not Sabouraud agar."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-109_mi047_f04.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Thayer-Martin medium contains antibiotics that suppress normal flora and select for Neisseria gonorrhoeae, whereas the nonselective chocolate agar is overgrown by normal flora.",
         "whyCorrect": "Thayer-Martin medium contains antibiotics that suppress normal flora and select for Neisseria gonorrhoeae, whereas the nonselective chocolate agar is overgrown by normal flora.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The right-hand medium restricts growth, so it cannot be a nonselective enrichment medium.",
+          "C": "Fungal selection uses Sabouraud agar; Thayer-Martin includes nystatin to suppress fungi.",
+          "D": "A purely differential medium distinguishes organisms by color but still lets them grow; this medium inhibits most flora.",
+          "E": "Supporting all flora equally describes a nonselective medium like the overgrown left plate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-110_mi047_f05.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Rapid, vigorous lactose fermentation by E. coli produces amines that bind the dyes, creating the characteristic green metallic sheen on EMB.",
         "whyCorrect": "Rapid, vigorous lactose fermentation by E. coli produces amines that bind the dyes, creating the characteristic green metallic sheen on EMB.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Proteus is a non-lactose fermenter that gives colorless colonies and swarms on blood agar.",
+          "B": "Salmonella does not ferment lactose and produces colorless colonies with H2S on suitable media.",
+          "C": "Klebsiella ferments lactose but forms mucoid pink-purple colonies without the classic green metallic sheen.",
+          "E": "Pseudomonas is a non-lactose fermenter producing blue-green pigment and a grape-like odor, not metallic sheen on EMB."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-111_mi047_f11.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "S. pyogenes (Group A) is bacitracin sensitive, whereas S. agalactiae (Group B) is bacitracin resistant. Optochin and novobiocin are used for other organisms.",
         "whyCorrect": "S. pyogenes (Group A) is bacitracin sensitive, whereas S. agalactiae (Group B) is bacitracin resistant. Optochin and novobiocin are used for other organisms.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Novobiocin distinguishes S. saprophyticus (resistant) from S. epidermidis (sensitive) among coagulase-negative staphylococci.",
+          "C": "Optochin sensitivity identifies S. pneumoniae among alpha-hemolytic streptococci.",
+          "D": "Colistin is a selective agent in some media and is not used to identify S. pyogenes.",
+          "E": "Vancomycin sensitivity is not used to separate beta-hemolytic streptococci; nearly all streptococci are susceptible."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-112_mi047_f12.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Catalase-positive staphylococci break H2O2 into water and oxygen, producing bubbles; streptococci are catalase negative and produce none.",
         "whyCorrect": "Catalase-positive staphylococci break H2O2 into water and oxygen, producing bubbles; streptococci are catalase negative and produce none.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Lactobacillus is catalase negative and would not bubble with hydrogen peroxide.",
+          "C": "Streptococcus is catalase negative, the classic contrast to staphylococci in this test.",
+          "D": "Clostridium species are obligate anaerobes and generally catalase negative.",
+          "E": "Enterococcus is catalase negative and does not produce bubbles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-113_mi047_f13.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "S. pneumoniae is optochin sensitive, producing a clear zone of inhibition, whereas viridans streptococci are optochin resistant and grow up to the disk.",
         "whyCorrect": "S. pneumoniae is optochin sensitive, producing a clear zone of inhibition, whereas viridans streptococci are optochin resistant and grow up to the disk.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "S. aureus is not identified with an optochin disk; it is catalase and coagulase positive.",
+          "C": "Enterococcus is optochin resistant and identified by bile esculin hydrolysis and growth in 6.5% NaCl.",
+          "D": "S. pyogenes is beta-hemolytic and identified by bacitracin sensitivity and PYR, not optochin.",
+          "E": "Viridans streptococci are optochin resistant, growing up to the disk, which is the half without a zone."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-114_mi047_f15.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Pseudomonas is oxidase positive while most Enterobacteriaceae (E. coli, Shigella, Salmonella) are oxidase negative, making oxidase the key early branch.",
         "whyCorrect": "Pseudomonas is oxidase positive while most Enterobacteriaceae (E. coli, Shigella, Salmonella) are oxidase negative, making oxidase the key early branch.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Catalase separates staphylococci from streptococci in the gram-positive algorithm, not Pseudomonas from Enterobacteriaceae.",
+          "B": "Optochin distinguishes S. pneumoniae from viridans streptococci, a gram-positive test.",
+          "C": "Bile solubility also identifies S. pneumoniae and is not used in the gram-negative algorithm.",
+          "E": "Coagulase identifies S. aureus among staphylococci and has no role in gram-negative identification."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-115_mi047_f17.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The oxidase reagent turns blue-purple when oxidized by cytochrome c oxidase, marking an oxidase-positive organism; a pale result is oxidase negative.",
         "whyCorrect": "The oxidase reagent turns blue-purple when oxidized by cytochrome c oxidase, marking an oxidase-positive organism; a pale result is oxidase negative.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Beta-lactamase is detected with chromogenic cephalosporins such as nitrocefin, which turn red, not by oxidase reagent on filter paper.",
+          "B": "Urease is detected by a pink color change on urea agar from ammonia.",
+          "D": "Coagulase is shown by clot formation in plasma, not by a color change on filter paper.",
+          "E": "Catalase is shown by bubbling with hydrogen peroxide, not by a blue-purple color."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-116_mi047_f18.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Staphylococci retain the crystal violet stain (Gram-positive, purple) and, dividing in multiple planes, form the characteristic grape-like clusters seen here, distinguishing them from chain-forming streptococci and rod-shaped organisms.",
         "whyCorrect": "Staphylococci retain the crystal violet stain (Gram-positive, purple) and, dividing in multiple planes, form the characteristic grape-like clusters seen here, distinguishing them from chain-forming streptococci and rod-shaped organisms.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Acid-fast bacilli are rods stained red with carbol fuchsin, not purple spherical clusters.",
+          "C": "Gram-positive bacilli are rods, whereas these organisms are spherical.",
+          "D": "Streptococci form chains or pairs, not irregular grape-like clusters.",
+          "E": "Gram-negative diplococci are pink and paired, not purple clusters."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-117_mi048_f01.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Catalase converts hydrogen peroxide to water and oxygen; the visible oxygen bubbles mark a catalase-positive organism, which separates staphylococci from catalase-negative streptococci and enterococci.",
         "whyCorrect": "Catalase converts hydrogen peroxide to water and oxygen; the visible oxygen bubbles mark a catalase-positive organism, which separates staphylococci from catalase-negative streptococci and enterococci.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Beta-lactamase activity is detected with chromogenic substrates such as nitrocefin, not by bubbles with peroxide.",
+          "B": "Urease activity is detected by color change on urea medium, not gas bubbles with hydrogen peroxide.",
+          "D": "Coagulase activity produces a clot in plasma, not bubbles.",
+          "E": "Oxidase activity produces a purple color on reagent paper, not oxygen bubbles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-118_mi048_f02.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The chart is a dichotomous identification key: each node is a phenotypic test (catalase, coagulase, novobiocin sensitivity) whose result branches the isolate toward a definitive species such as S. aureus, S. epidermidis, or S. saprophyticus.",
         "whyCorrect": "The chart is a dichotomous identification key: each node is a phenotypic test (catalase, coagulase, novobiocin sensitivity) whose result branches the isolate toward a definitive species such as S. aureus, S. epidermidis, or S. saprophyticus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "16S rRNA sequencing is molecular identification and does not proceed through branching phenotypic tests.",
+          "B": "A pigment grading scale scores one trait and does not branch through sequential tests to a species.",
+          "D": "Serotyping uses antibodies against surface antigens, not a sequence of biochemical tests.",
+          "E": "Kirby-Bauer interpretation measures drug susceptibility zones and is not a species-identification flowchart."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-119_mi048_f03.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Complete lysis of erythrocytes leaving a clear, transparent zone is beta-hemolysis; among the common staphylococci only S. aureus is beta-hemolytic, giving another way to separate it from S. epidermidis and S. saprophyticus.",
         "whyCorrect": "Complete lysis of erythrocytes leaving a clear, transparent zone is beta-hemolysis; among the common staphylococci only S. aureus is beta-hemolytic, giving another way to separate it from S. epidermidis and S. saprophyticus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Gamma-hemolysis means no lysis, which contradicts the clear zone, though S. aureus is the right species.",
+          "B": "Alpha-hemolysis is green partial lysis, and S. pneumoniae is a streptococcus, not a staphylococcus.",
+          "D": "S. epidermidis is typically nonhemolytic, and the clear zone shown is complete (beta) hemolysis.",
+          "E": "S. saprophyticus is nonhemolytic, which does not match the complete clearing shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-120_mi048_f05.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "In a disk-diffusion (Kirby-Bauer) assay, antibiotic diffuses outward from each disk; a clear zone of inhibited growth means the drug stopped the bacteria (susceptible), while growth reaching the disk edge means the organism is resistant.",
         "whyCorrect": "In a disk-diffusion (Kirby-Bauer) assay, antibiotic diffuses outward from each disk; a clear zone of inhibited growth means the drug stopped the bacteria (susceptible), while growth reaching the disk edge means the organism is resistant.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Resistance is indicated by growth up to the disk edge, not a clear zone.",
+          "C": "Contamination would add unexpected colonies, not produce a symmetric clear zone around a disk.",
+          "D": "The antibiotic diffuses from the disk; the bacteria are not producing it.",
+          "E": "A blank disk would produce no zone, so a clear zone means the drug inhibited growth."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-121_mi048_f10.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "The strained four-membered β-lactam ring is what covalently binds and inhibits transpeptidases. Bacteria resist β-lactam antibiotics chiefly by secreting β-lactamases, enzymes that cleave the amide bond of this ring and render the drug inactive.",
         "whyCorrect": "The strained four-membered β-lactam ring is what covalently binds and inhibits transpeptidases. Bacteria resist β-lactam antibiotics chiefly by secreting β-lactamases, enzymes that cleave the amide bond of this ring and render the drug inactive.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aminoglycoside-modifying enzymes inactivate aminoglycosides by acetylation, phosphorylation or adenylation; they do not act on beta-lactam rings.",
+          "B": "DNA gyrase is a topoisomerase targeted by fluoroquinolones, not an enzyme that degrades antibiotics.",
+          "C": "PBPs are the drug's targets, which the beta-lactam ring binds; they do not hydrolyze it.",
+          "E": "Transpeptidases are PBPs that build cross-links; they are inhibited by, not inactivating, the drug."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-200_mi049_f02.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The rigidity of the peptidoglycan wall comes from transpeptidase (penicillin-binding protein) enzymes cross-linking adjacent peptide chains that dangle from the NAM-NAG sugar backbone. Cephalosporins are structural analogs of the D-Ala-D-Ala substrate and covalently inhibit these transpeptidases, halting cross-linking so the growing cell lyses.",
         "whyCorrect": "The rigidity of the peptidoglycan wall comes from transpeptidase (penicillin-binding protein) enzymes cross-linking adjacent peptide chains that dangle from the NAM-NAG sugar backbone. Cephalosporins are structural analogs of the D-Ala-D-Ala substrate and covalently inhibit these transpeptidases, halting cross-linking so the growing cell lyses.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Disulfide bonds between membrane proteins are not formed in peptidoglycan cross-linking and are not targeted by cephalosporins.",
+          "B": "Hydrogen bonds in the lipid bilayer are not a cephalosporin target.",
+          "C": "Glycosidic bonds of the NAM-NAG backbone are formed by transglycosylases and cleaved by lysozyme; cephalosporins block peptide cross-linking.",
+          "D": "Phosphodiester bonds are in nucleic acids and phospholipid head groups, not the peptidoglycan cross-links cephalosporins block."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-244_mi049_f01.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Monobactams (lower right) are the only class shown with a solitary, monocyclic beta-lactam ring not fused to a second ring. Penicillins have a fused thiazolidine ring, cephalosporins a fused dihydrothiazine ring, and carbapenems a fused carbon-containing ring. This monocyclic structure underlies aztreonam's minimal cross-reactivity with penicillins.",
         "whyCorrect": "Monobactams (lower right) are the only class shown with a solitary, monocyclic beta-lactam ring not fused to a second ring. Penicillins have a fused thiazolidine ring, cephalosporins a fused dihydrothiazine ring, and carbapenems a fused carbon-containing ring. This monocyclic structure underlies aztreonam's minimal cross-reactivity with penicillins.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A fused five-membered thiazolidine ring defines penicillins, not the monocyclic structure in the lower right.",
+          "C": "The highlighted structure still contains a beta-lactam ring; glycopeptides such as vancomycin are entirely different molecules.",
+          "D": "A fused six-membered dihydrothiazine ring defines cephalosporins.",
+          "E": "Replacing the sulfur with carbon in a fused ring describes carbapenems, which remain bicyclic."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-201_mi050_f01.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "The central panel depicts seizures. Carbapenems can lower the seizure threshold, but the risk is greatest with imipenem/cilastatin, especially at high doses or when drug accumulates due to renal impairment. Meropenem is preferred clinically because of its lower seizure risk.",
         "whyCorrect": "The central panel depicts seizures. Carbapenems can lower the seizure threshold, but the risk is greatest with imipenem/cilastatin, especially at high doses or when drug accumulates due to renal impairment. Meropenem is preferred clinically because of its lower seizure risk.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aztreonam is a monobactam not known for seizures; its main concerns are rash and GI effects.",
+          "C": "Meropenem has a lower seizure propensity and is preferred over imipenem for CNS infections.",
+          "D": "Ertapenem can cause seizures with accumulation but less often than imipenem/cilastatin.",
+          "E": "Doripenem has a seizure risk comparable to meropenem, not the class-leading risk of imipenem."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-202_mi050_f03.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "The enzyme shown (a penicillin-binding protein) is a transpeptidase that cross-links adjacent NAM-NAG peptidoglycan strands. Beta-lactams irreversibly inhibit it, so without cross-linking the wall cannot withstand osmotic pressure and the growing bacterium lyses.",
         "whyCorrect": "The enzyme shown (a penicillin-binding protein) is a transpeptidase that cross-links adjacent NAM-NAG peptidoglycan strands. Beta-lactams irreversibly inhibit it, so without cross-linking the wall cannot withstand osmotic pressure and the growing bacterium lyses.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Halting protein synthesis at the 50S subunit is how macrolides, clindamycin and linezolid act, not beta-lactams.",
+          "C": "Increased membrane permeability is the action of daptomycin or polymyxins, not PBP inhibition.",
+          "D": "Blocking the 30S subunit and causing misreading is the aminoglycoside mechanism.",
+          "E": "DNA gyrase inhibition is the fluoroquinolone mechanism."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-245_mi050_f02.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Bacitracin blocks the recycling of the bactoprenol (lipid) carrier, so NAM cannot be joined to it and no new peptidoglycan subunits are transported to the wall. This is an early step, distinct from vancomycin's later D-Ala-D-Ala binding and from the transpeptidase cross-linking targeted by beta-lactams.",
         "whyCorrect": "Bacitracin blocks the recycling of the bactoprenol (lipid) carrier, so NAM cannot be joined to it and no new peptidoglycan subunits are transported to the wall. This is an early step, distinct from vancomycin's later D-Ala-D-Ala binding and from the transpeptidase cross-linking targeted by beta-lactams.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Transglycosylation of new sugar units is blocked by vancomycin binding the precursor, not by bacitracin.",
+          "B": "Transpeptidase cross-linking is the target of beta-lactams.",
+          "C": "Binding the D-Ala-D-Ala terminus is vancomycin's mechanism.",
+          "D": "Autolysins remodel the wall and are activated downstream of beta-lactams; bacitracin acts on the lipid carrier."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-246_mi051_f02.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "Antibiotic-associated pseudomembranous colitis results from overgrowth of toxin-producing C. difficile spores after normal flora is disrupted; the yellow-white plaques are the pseudomembranes.",
         "whyCorrect": "Antibiotic-associated pseudomembranous colitis results from overgrowth of toxin-producing C. difficile spores after normal flora is disrupted; the yellow-white plaques are the pseudomembranes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "S. aureus can cause enterocolitis, but pseudomembranous colitis after antibiotics is characteristically C. difficile.",
+          "B": "Shigella causes dysentery with mucosal ulceration after fecal-oral exposure, not pseudomembranes after antibiotics.",
+          "C": "Salmonella causes gastroenteritis or typhoid from food exposure, not antibiotic-associated pseudomembranes.",
+          "D": "E. coli O157:H7 causes hemorrhagic colitis and HUS from undercooked beef, not pseudomembranous colitis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-122_mi000_f03.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "Ampicillin or amoxicillin given during EBV mononucleosis produces a characteristic non-allergic maculopapular rash; it does not indicate a true penicillin allergy.",
         "whyCorrect": "Ampicillin or amoxicillin given during EBV mononucleosis produces a characteristic non-allergic maculopapular rash; it does not indicate a true penicillin allergy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Influenza does not classically trigger an aminopenicillin rash.",
+          "B": "Primary HIV infection can cause its own rash but is not the classic precipitant of the ampicillin eruption.",
+          "C": "Streptococcal pharyngitis is often the mistaken diagnosis that leads to amoxicillin; the rash reflects underlying EBV infection.",
+          "E": "Acute hepatitis B can cause a serum sickness-like prodrome but is not linked to the aminopenicillin rash."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-123_mi000_f04.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "The strained beta-lactam ring mimics the D-Ala-D-Ala terminus of the peptidoglycan pentapeptide, letting penicillin covalently bind and irreversibly inhibit transpeptidase (PBP).",
         "whyCorrect": "The strained beta-lactam ring mimics the D-Ala-D-Ala terminus of the peptidoglycan pentapeptide, letting penicillin covalently bind and irreversibly inhibit transpeptidase (PBP).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "N-acetylmuramic acid is a glycan sugar that carries the peptide side chain; it is not what the beta-lactam ring mimics.",
+          "B": "D-glutamyl-D-glutamate is not the peptidoglycan terminus recognized by transpeptidases.",
+          "C": "L-lysyl-L-lysine is not the substrate imitated by the beta-lactam ring.",
+          "D": "meso-Diaminopimelic acid is a stem-peptide residue in gram-negative peptidoglycan, not the terminal D-Ala-D-Ala that PBPs bind."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-188_mi000_f01.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "Hypersensitivity reactions, diarrhea/C. difficile colitis, interstitial nephritis, and hematologic toxicities are the classic adverse effects associated with penicillin-class beta-lactam therapy.",
         "whyCorrect": "Hypersensitivity reactions, diarrhea/C. difficile colitis, interstitial nephritis, and hematologic toxicities are the classic adverse effects associated with penicillin-class beta-lactam therapy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aminoglycosides are known for nephrotoxicity, ototoxicity and neuromuscular blockade, not hypersensitivity and hemolysis.",
+          "B": "Fluoroquinolones are known for tendinopathy, QT prolongation, CNS effects and cartilage damage.",
+          "C": "Tetracyclines cause tooth discoloration, photosensitivity and esophagitis.",
+          "D": "Macrolides cause GI motility upset, QT prolongation and CYP3A4 interactions."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-189_mi000_f05.png",

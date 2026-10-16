@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The polar filament is a flagellum, a protein cylinder anchored in the cell envelope that rotates to propel the bacterium; adhesion is a role of pili/fimbriae, and conjugative transfer uses sex pili.",
         "whyCorrect": "The polar filament is a flagellum, a protein cylinder anchored in the cell envelope that rotates to propel the bacterium; adhesion is a role of pili/fimbriae, and conjugative transfer uses sex pili.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Plasmid transfer uses a sex pilus, a shorter rigid appendage that forms a mating bridge, not a long whip-like flagellum.",
+          "C": "Attachment to epithelium is the role of pili and fimbriae, which are short and numerous rather than a single long polar filament.",
+          "D": "Nutrient uptake occurs through membrane transporters and porins, not through a flagellum.",
+          "E": "Exotoxins are released through dedicated secretion systems; a flagellum's function is propulsion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-005_mi010_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The absence of a nucleus with the nucleoid/circular DNA free in the cytoplasm, plus a capsule, cell wall, pili and flagellum, identifies this as a prokaryotic bacterial cell.",
         "whyCorrect": "The absence of a nucleus with the nucleoid/circular DNA free in the cytoplasm, plus a capsule, cell wall, pili and flagellum, identifies this as a prokaryotic bacterial cell.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Plant cells are eukaryotic, with a nucleus, chloroplasts and a large vacuole, which this cell lacks.",
+          "C": "Animal cells have a membrane-bound nucleus and organelles and no cell wall, unlike the free circular DNA shown.",
+          "D": "Viruses are not cells; they have no cytoplasm, ribosomes or cell wall and cannot replicate alone.",
+          "E": "Fungal cells are eukaryotic, with a nucleus and chitin-containing walls."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-006_mi010_f02.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Acid-fast organisms such as Mycobacteria have waxy mycolic acids in their walls that resist decolorization by acid-alcohol, so they hold the red carbol fuchsin while other cells take up the methylene blue counterstain.",
         "whyCorrect": "Acid-fast organisms such as Mycobacteria have waxy mycolic acids in their walls that resist decolorization by acid-alcohol, so they hold the red carbol fuchsin while other cells take up the methylene blue counterstain.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A polysaccharide capsule does not retain carbol fuchsin through acid-alcohol and is shown with India ink or Quellung tests.",
+          "B": "Peptidoglycan retains crystal violet in the Gram stain, but alone it does not resist acid-alcohol decolorization.",
+          "D": "Teichoic acid is a gram-positive wall component that does not confer acid-fastness.",
+          "E": "LPS is a gram-negative outer-membrane component; gram-negative cells decolorize and take up the blue counterstain."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-039_mi010_f08.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Gram-negative diplococci lose the crystal violet during decolorization because their thin peptidoglycan sits between inner and outer membranes, so they take up the pink safranin counterstain.",
         "whyCorrect": "Gram-negative diplococci lose the crystal violet during decolorization because their thin peptidoglycan sits between inner and outer membranes, so they take up the pink safranin counterstain.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mycolic acids make organisms acid-fast and poorly Gram-staining; Neisseria lacks them.",
+          "B": "Teichoic acids are found in gram-positive walls, which retain purple crystal violet.",
+          "C": "A capsule does not determine Gram reaction; the thin peptidoglycan and outer membrane make these diplococci pink.",
+          "D": "A thick peptidoglycan wall retains crystal violet and would make the organisms purple."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-040_mi010_f10.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Transposons frequently carry drug-resistance genes; when a resistance gene is flanked on both sides by transposon sequences it can be cut out and inserted elsewhere, spreading resistance between plasmids and chromosomes.",
         "whyCorrect": "Transposons frequently carry drug-resistance genes; when a resistance gene is flanked on both sides by transposon sequences it can be cut out and inserted elsewhere, spreading resistance between plasmids and chromosomes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Photosynthesis genes are not a clinically important cargo of transposons in human pathogens.",
+          "B": "Flagellar assembly genes are chromosomal housekeeping genes, not the typical cargo of transposons.",
+          "C": "rRNA genes are essential chromosomal genes and are not commonly mobilized between bacteria.",
+          "D": "Sporulation genes are large chromosomal programs, not the typical cargo of these mobile elements."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-217_mi021_f02.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Conjugation requires physical contact: the F+ donor forms a sex pilus and mating bridge with the F- recipient and transfers a single strand of the F plasmid, converting the recipient into a donor. No chromosomal DNA and no external vector is involved.",
         "whyCorrect": "Conjugation requires physical contact: the F+ donor forms a sex pilus and mating bridge with the F- recipient and transfers a single strand of the F plasmid, converting the recipient into a donor. No chromosomal DNA and no external vector is involved.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ultraviolet light causes DNA damage and mutation; it is not required for conjugation.",
+          "B": "Endospore formation is a dormancy strategy and has no role in plasmid transfer.",
+          "C": "Uptake of naked environmental DNA is transformation, which requires no pilus or partner cell.",
+          "E": "A bacteriophage vector is used in transduction, not in pilus-mediated conjugation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-218_mi021_f03.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "In an Hfr (high-frequency recombination) donor the F plasmid is integrated in the chromosome, so transfer starting at the plasmid origin drags adjacent chromosomal genes into the recipient, allowing recombination of donor chromosomal DNA.",
         "whyCorrect": "In an Hfr (high-frequency recombination) donor the F plasmid is integrated in the chromosome, so transfer starting at the plasmid origin drags adjacent chromosomal genes into the recipient, allowing recombination of donor chromosomal DNA.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hfr donors do transfer DNA, often at high frequency; the difference is that chromosomal genes follow the origin.",
+          "C": "Conjugation transfers DNA, not ribosomes or other cytoplasmic machinery.",
+          "D": "Transfer of only the intact free plasmid describes standard F+ conjugation, not an Hfr donor.",
+          "E": "Conjugation does not lyse the recipient; lysis is a consequence of lytic phage infection."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-219_mi021_f04.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "In generalized transduction, during lytic growth random pieces of degraded host chromosome are accidentally packaged into phage capsids, so any host gene can be moved to a recipient, unlike specialized transduction which transfers only genes flanking the prophage.",
         "whyCorrect": "In generalized transduction, during lytic growth random pieces of degraded host chromosome are accidentally packaged into phage capsids, so any host gene can be moved to a recipient, unlike specialized transduction which transfers only genes flanking the prophage.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A sex pilus is required for conjugation, not for phage-mediated transduction.",
+          "C": "If only viral DNA were transferred, no host genes would move; generalized transduction packages host DNA instead.",
+          "D": "Uptake of DNA from the environment is transformation, not delivery inside a phage capsid.",
+          "E": "Transfer limited to DNA next to a prophage integration site is specialized transduction, the process being contrasted."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-220_mi021_f06.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "In specialized transduction the prophage integrates at a specific chromosomal site; imprecise excision picks up only the immediately adjacent bacterial DNA, so just those flanking genes can be carried to the next host.",
         "whyCorrect": "In specialized transduction the prophage integrates at a specific chromosomal site; imprecise excision picks up only the immediately adjacent bacterial DNA, so just those flanking genes can be carried to the next host.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Direct cell contact is required for conjugation; transduction uses phage particles.",
+          "C": "Naked DNA uptake is transformation, not phage-mediated transfer.",
+          "D": "Specialized transduction carries chromosomal genes adjacent to the prophage site, not free plasmid genes.",
+          "E": "Packaging of any random host gene describes generalized transduction during lytic growth."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-221_mi021_f07.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "In young children the eustachian tube is shorter, narrower, and more horizontal, allowing nasopharyngeal flora to migrate into the middle ear and impairing drainage, which predisposes to acute otitis media.",
         "whyCorrect": "In young children the eustachian tube is shorter, narrower, and more horizontal, allowing nasopharyngeal flora to migrate into the middle ear and impairing drainage, which predisposes to acute otitis media.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The pediatric eustachian tube is lined by ciliated epithelium; the issue is its short, horizontal anatomy and poor drainage.",
+          "C": "More antimicrobial mucus would protect against infection, not predispose to it.",
+          "D": "Adenoids can obstruct the tube intermittently, but they do not permanently occlude it in all children.",
+          "E": "A longer, more vertical tube is the adult configuration, which drains better and protects against otitis media."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-001_mi032_f05.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "A vaginal epithelial cell coated with adherent bacteria (obscuring its borders) is a clue cell, the microscopic hallmark of bacterial vaginosis, typically due to Gardnerella vaginalis overgrowth.",
         "whyCorrect": "A vaginal epithelial cell coated with adherent bacteria (obscuring its borders) is a clue cell, the microscopic hallmark of bacterial vaginosis, typically due to Gardnerella vaginalis overgrowth.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Gonococcal urethritis is diagnosed by intracellular gram-negative diplococci in neutrophils, not bacteria-coated epithelial cells.",
+          "B": "Chlamydial cervicitis is diagnosed by NAAT; chlamydiae are obligate intracellular and do not stud the epithelial surface.",
+          "C": "Candidiasis shows budding yeast and pseudohyphae on KOH prep, not coccobacilli coating epithelial cells.",
+          "E": "Trichomoniasis shows motile flagellated protozoa on wet mount, not clue cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-012_mi032_f03.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The thick, white, curd-like plaque with erythema and pruritus is characteristic of vulvovaginal candidiasis caused by the yeast Candida albicans, which overgrows when normal vaginal flora is disrupted.",
         "whyCorrect": "The thick, white, curd-like plaque with erythema and pruritus is characteristic of vulvovaginal candidiasis caused by the yeast Candida albicans, which overgrows when normal vaginal flora is disrupted.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Gardnerella causes bacterial vaginosis with thin, gray, fishy discharge and little itching or inflammation.",
+          "B": "Chlamydia typically causes mucopurulent cervicitis or no symptoms, not intense vulvar itching with white plaques.",
+          "C": "Trichomonas causes frothy yellow-green discharge with a strawberry cervix, not thick white curd-like plaques.",
+          "E": "Gonorrhea causes purulent cervical discharge, not pruritic vulvar erythema with white plaques."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-160_mi032_f01.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Oral thrush is an overgrowth of Candida spp. in the oral cavity, presenting as a wipeable white plaque; it is often triggered by antibiotics, inhaled steroids, dentures, or immunosuppression.",
         "whyCorrect": "Oral thrush is an overgrowth of Candida spp. in the oral cavity, presenting as a wipeable white plaque; it is often triggered by antibiotics, inhaled steroids, dentures, or immunosuppression.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "S. pyogenes causes exudative pharyngitis of the tonsils, not wipeable white plaques coating the tongue and mucosa.",
+          "C": "Diphtheria forms an adherent gray pseudomembrane on the pharynx that bleeds when scraped, not a wipeable white coating.",
+          "D": "HSV causes painful vesicles and ulcers in the mouth, not a white plaque coating.",
+          "E": "EBV causes oral hairy leukoplakia, white lesions on the lateral tongue that cannot be scraped off."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-161_mi032_f02.png",

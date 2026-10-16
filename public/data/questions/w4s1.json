@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Broad-based budding of large yeast with a thick, doubly-refractile wall is the hallmark of Blastomyces dermatitidis. Histoplasma is small and intracellular with narrow-based budding, Cryptococcus is encapsulated, and Candida forms pseudohyphae.",
         "whyCorrect": "Broad-based budding of large yeast with a thick, doubly-refractile wall is the hallmark of Blastomyces dermatitidis. Histoplasma is small and intracellular with narrow-based budding, Cryptococcus is encapsulated, and Candida forms pseudohyphae.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Coccidioides forms large spherules filled with endospores in tissue, not budding yeast cells.",
+          "B": "Candida forms small budding yeasts with pseudohyphae and true hyphae, not large thick-walled yeasts with broad-based buds.",
+          "D": "Histoplasma is a tiny 2-5 micrometer yeast inside macrophages with narrow-based budding.",
+          "E": "Cryptococcus is a narrow-based budding yeast surrounded by a thick polysaccharide capsule."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-066_mi036_f05.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Oral thrush is overgrowth of Candida albicans, part of the normal flora that flourishes when local or systemic immunity is suppressed (e.g., inhaled steroids, HIV). It is a yeast, not a mold or bacterium, and forms removable white pseudomembranous plaques.",
         "whyCorrect": "Oral thrush is overgrowth of Candida albicans, part of the normal flora that flourishes when local or systemic immunity is suppressed (e.g., inhaled steroids, HIV). It is a yeast, not a mold or bacterium, and forms removable white pseudomembranous plaques.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Histoplasma is an endemic dimorphic fungus that can cause oral ulcers in disseminated disease, but it is not normal flora that overgrows with inhaled steroids.",
+          "B": "Streptococcus pyogenes causes exudative pharyngitis, not white mucosal plaques associated with inhaled corticosteroid use.",
+          "D": "HSV causes painful vesicles and ulcers from viral reactivation, not overgrowth of a commensal organism.",
+          "E": "Aspergillus fumigatus is a mold that causes pulmonary and sinus disease, not oral thrush."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-166_mi036_f09.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The membrane sterol shown is ergosterol. Polyenes such as amphotericin B bind ergosterol and punch pores in the membrane, causing lethal ion leakage. Echinocandins act on glucan synthase in the wall, azoles and allylamines block ergosterol synthesis, and griseofulvin disrupts microtubules.",
         "whyCorrect": "The membrane sterol shown is ergosterol. Polyenes such as amphotericin B bind ergosterol and punch pores in the membrane, causing lethal ion leakage. Echinocandins act on glucan synthase in the wall, azoles and allylamines block ergosterol synthesis, and griseofulvin disrupts microtubules.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Allylamines such as terbinafine inhibit squalene epoxidase to block ergosterol synthesis rather than binding existing ergosterol to form pores.",
+          "B": "Griseofulvin disrupts fungal microtubules and mitosis and accumulates in keratin; it does not bind membrane sterols.",
+          "D": "Echinocandins inhibit beta-1,3-glucan synthase in the cell wall, not membrane ergosterol.",
+          "E": "Azoles inhibit lanosterol 14-alpha-demethylase, blocking ergosterol synthesis rather than binding ergosterol to create pores."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-197_mi036_f06.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Candida is dimorphic (though not thermally dimorphic), so patient samples show both yeast and hyphal/pseudohyphal forms. Aspergillus exists only as septate hyphae, and Cryptococcus as encapsulated yeast.",
         "whyCorrect": "Candida is dimorphic (though not thermally dimorphic), so patient samples show both yeast and hyphal/pseudohyphal forms. Aspergillus exists only as septate hyphae, and Cryptococcus as encapsulated yeast.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Histoplasma appears in tissue only as tiny intracellular yeasts within macrophages, without pseudohyphae.",
+          "B": "Cryptococcus appears as encapsulated budding yeast and does not form pseudohyphae in patient samples.",
+          "C": "Aspergillus appears only as septate hyphae with acute-angle branching and has no yeast phase.",
+          "D": "Blastomyces appears in tissue as large broad-based budding yeast, without pseudohyphae."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-067_mi037_f06.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Germ tube formation in serum at 37C is a rapid, near-specific identifier for Candida albicans; most other Candida species and non-Candida fungi do not form germ tubes under these conditions.",
         "whyCorrect": "Germ tube formation in serum at 37C is a rapid, near-specific identifier for Candida albicans; most other Candida species and non-Candida fungi do not form germ tubes under these conditions.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Histoplasma is a thermally dimorphic fungus identified by tiny intracellular yeasts and tuberculate macroconidia, not germ tubes in serum.",
+          "B": "Candida glabrata does not form germ tubes or pseudohyphae and exists only as small yeast cells.",
+          "D": "Cryptococcus neoformans is an encapsulated yeast that does not form germ tubes, and it is identified by India ink, capsular antigen, or urease.",
+          "E": "Aspergillus fumigatus is a mold that grows as septate hyphae from conidia, not a yeast forming germ tubes in serum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-068_mi037_f07.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "A mass-like opacification of the sinus in an immunocompromised host, with potential bony destruction, suggests invasive fungal sinusitis; Aspergillus can colonize and invade the sinuses when host defenses are impaired.",
         "whyCorrect": "A mass-like opacification of the sinus in an immunocompromised host, with potential bony destruction, suggests invasive fungal sinusitis; Aspergillus can colonize and invade the sinuses when host defenses are impaired.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acute bacterial sinusitis causes mucosal thickening and air-fluid levels, typically in an immunocompetent host, without mass-like invasion or bony destruction.",
+          "B": "Allergic rhinitis causes nasal mucosal swelling and does not produce a soft-tissue mass filling a sinus.",
+          "C": "Benign nasal polyps can opacify sinuses but expand and remodel bone rather than invade it, and they are not linked to immunocompromise.",
+          "E": "Sinonasal squamous cell carcinoma can destroy bone, but its setting differs; mass-like opacification in an immunocompromised host points to invasive fungal disease."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-069_mi037_f10.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Aspergillus can grow within pre-existing lung cavities (e.g., from prior TB) to form a mobile fungus ball, or aspergilloma, typically requiring surgery plus antifungals for treatment.",
         "whyCorrect": "Aspergillus can grow within pre-existing lung cavities (e.g., from prior TB) to form a mobile fungus ball, or aspergilloma, typically requiring surgery plus antifungals for treatment.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hydatid cysts are fluid-filled cysts from Echinococcus tapeworm larvae, not mold colonization of a preexisting TB cavity.",
+          "B": "A pyogenic lung abscess is a cavity with an air-fluid level formed by bacterial infection, often after aspiration, not a fungus ball of septate hyphae.",
+          "C": "Bronchogenic carcinoma can cavitate, especially squamous cell, but it is a malignant growth rather than a mold colonizing an old cavity.",
+          "E": "A pulmonary infarct is a wedge-shaped area of necrosis from embolic occlusion, not a fungus ball within a preexisting cavity."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-070_mi037_f11.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Aspergillus species exist only as molds (septate hyphae) and never form a single-celled yeast phase, which is one feature distinguishing them from Candida in clinical specimens.",
         "whyCorrect": "Aspergillus species exist only as molds (septate hyphae) and never form a single-celled yeast phase, which is one feature distinguishing them from Candida in clinical specimens.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A yeast-only form describes organisms such as Cryptococcus or Candida glabrata, which form creamy colonies rather than pigmented filamentous molds.",
+          "C": "Thermally dimorphic fungi such as Histoplasma and Blastomyces are molds in the environment but yeasts in tissue; Aspergillus never converts to yeast.",
+          "D": "Encapsulated budding yeast is the tissue form of Cryptococcus, not the hyphal form of Aspergillus.",
+          "E": "Spherules with endospores are the tissue form of Coccidioides, not of Aspergillus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-071_mi037_f15.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Giant thick-walled spherules filled with endospores are the diagnostic tissue form of Coccidioides.",
         "whyCorrect": "Giant thick-walled spherules filled with endospores are the diagnostic tissue form of Coccidioides.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Histoplasmosis shows tiny 2-5 micrometer yeasts packed inside macrophages, not giant spherules containing endospores.",
+          "B": "Blastomycosis shows large thick-walled yeasts with single broad-based buds, without internal endospores.",
+          "C": "Aspergillosis shows septate hyphae with acute-angle branching in tissue, not round spherules.",
+          "D": "Cryptococcosis shows narrow-based budding yeasts with thick mucoid capsules, not spherules filled with endospores."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-013_mi038_f15.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Acute pulmonary histoplasmosis can produce a nodular pneumonia with adenopathy resembling miliary TB; imaging alone is not diagnostic and requires laboratory confirmation.",
         "whyCorrect": "Acute pulmonary histoplasmosis can produce a nodular pneumonia with adenopathy resembling miliary TB; imaging alone is not diagnostic and requires laboratory confirmation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sarcoidosis causes bilateral hilar adenopathy and perilymphatic nodules, but it is noninfectious and not tied to river-valley exposure.",
+          "C": "Blastomycosis is also endemic near the Ohio-Mississippi and Great Lakes regions, but it usually causes consolidation or mass-like lesions rather than a diffuse miliary nodular pattern with adenopathy.",
+          "D": "Miliary TB can look identical on imaging, but the endemic river-valley exposure points to histoplasmosis, the mimic the stem asks about.",
+          "E": "Metastatic carcinoma can produce multiple nodules, but it is not linked to an endemic region and typically shows variably sized nodules in an older patient."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-072_mi038_f05.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Cavitation and adenopathy in chronic pulmonary histoplasmosis can closely mimic tuberculosis, so identification and ruling out other causes is essential.",
         "whyCorrect": "Cavitation and adenopathy in chronic pulmonary histoplasmosis can closely mimic tuberculosis, so identification and ruling out other causes is essential.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lobar pneumonia shows homogeneous consolidation of a lobe with air bronchograms, not thick-walled cavities in a chronic smoker.",
+          "B": "Pleural effusion appears as dependent opacity blunting the costophrenic angle with a meniscus, not as cavities within lung opacities.",
+          "C": "Pneumothorax shows a visible pleural line with absent lung markings beyond it, not cavitary lesions within opacified lung.",
+          "E": "Pulmonary embolism usually produces a normal radiograph or a peripheral wedge-shaped opacity, not chronic upper-lobe cavitation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-073_mi038_f06.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Tiny (2-5 um) yeasts with narrow-based budding are characteristic of Histoplasma; Blastomyces shows broad-based budding and Cryptococcus has a wide capsule.",
         "whyCorrect": "Tiny (2-5 um) yeasts with narrow-based budding are characteristic of Histoplasma; Blastomyces shows broad-based budding and Cryptococcus has a wide capsule.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Cryptococcus also has narrow-based budding but is larger, 5-10 micrometers, and surrounded by a prominent capsule.",
+          "C": "Blastomyces is a large, 8-15 micrometer yeast with thick walls and broad-based budding.",
+          "D": "Candida forms budding yeast with pseudohyphae and hyphae, not tiny intracellular yeasts without filaments.",
+          "E": "Coccidioides forms large spherules filled with endospores in tissue, not budding yeasts."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-074_mi038_f08.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The mold form of Histoplasma has both microconidia and distinctive large macroconidia (giant suns next to tiny microconidia); Blastomyces has conidia but no macroconidia.",
         "whyCorrect": "The mold form of Histoplasma has both microconidia and distinctive large macroconidia (giant suns next to tiny microconidia); Blastomyces has conidia but no macroconidia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Blastomyces mold produces small pear-shaped conidia on short stalks but lacks large tuberculate macroconidia.",
+          "C": "Aspergillus fumigatus forms septate hyphae with conidiophores bearing chains of conidia from a vesicle, not tuberculate macroconidia.",
+          "D": "Coccidioides mold produces barrel-shaped arthroconidia alternating with empty cells, not tuberculate macroconidia.",
+          "E": "Sporothrix mold forms thin hyphae with rosettes of small conidia in a flowerlike pattern, not large tuberculate macroconidia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-075_mi038_f09.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The mold form of Coccidioides produces alternating barrel-shaped arthroconidia with clear cells between them, giving a bracelet-like appearance.",
         "whyCorrect": "The mold form of Coccidioides produces alternating barrel-shaped arthroconidia with clear cells between them, giving a bracelet-like appearance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Aspergillus fumigatus forms septate hyphae with conidiophores ending in a vesicle bearing chains of conidia, not barrel-shaped arthroconidia.",
+          "C": "Blastomyces mold produces small conidia on short stalks off thin hyphae, not alternating barrel-shaped units.",
+          "D": "Rhizopus forms broad, nonseptate ribbon-like hyphae with sporangia on sporangiophores, not arthroconidia.",
+          "E": "Histoplasma mold produces tuberculate macroconidia with small microconidia, not alternating barrel-shaped arthroconidia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-076_mi038_f14.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "A precipitin line between a test well and the antigen well signals antigen-antibody complex formation, a positive result; wells that pass by one another without a line are negative.",
         "whyCorrect": "A precipitin line between a test well and the antigen well signals antigen-antibody complex formation, a positive result; wells that pass by one another without a line are negative.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Antigen excess would weaken or shift the precipitin line, but a visible line itself shows that antigen and antibody met at equivalence.",
+          "B": "A negative sample shows no precipitin line between its well and the antigen well; a visible line indicates antibody is present.",
+          "D": "A clear precipitin line is interpretable on its own and does not need PCR confirmation.",
+          "E": "Contamination does not produce a specific precipitin line aligned with the antigen well; the line reflects antigen-antibody complexes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-077_mi038_f18.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Cryptococcus has a very large polysaccharide capsule that excludes stain, creating a clear halo around the yeast.",
         "whyCorrect": "Cryptococcus has a very large polysaccharide capsule that excludes stain, creating a clear halo around the yeast.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A germ tube is a hyphal outgrowth from Candida albicans yeast in serum, not a clear halo around the cell.",
+          "C": "An endospore-filled spherule is the tissue form of Coccidioides, a large round structure packed with endospores, not a single yeast with a halo.",
+          "D": "A broad-based bud describes Blastomyces division and does not create a clear zone around the yeast.",
+          "E": "Tuberculate macroconidia are spiked spores of the Histoplasma mold phase, not yeast surrounded by a halo."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-078_mi038_f19.png",
@@ -630,7 +710,7 @@
       "id": "mipic-079",
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "stem": "These brain MRIs from a 64-year-old show space-occupying nodular lesions (arrows). Among the endemic fungi, which is the most likely cause of this CNS involvement (meningitis and mass-like lesions)?",
+      "stem": "These brain MRIs from a 64-year-old show space-occupying nodular lesions (arrows). Which fungus is the most likely cause of this CNS involvement (meningitis and mass-like lesions)?",
       "choices": [
         {
           "label": "A",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Although all these fungi can disseminate to the CNS, Cryptococcus is by far the most likely to infect the central nervous system, causing meningitis and cryptococcomas.",
         "whyCorrect": "Although all these fungi can disseminate to the CNS, Cryptococcus is by far the most likely to infect the central nervous system, causing meningitis and cryptococcomas.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aspergillus can cause brain abscesses by angioinvasion in neutropenic patients, but it is a ubiquitous mold rather than an endemic fungus and is not the classic cause of fungal meningitis.",
+          "B": "Histoplasma can involve the CNS in disseminated disease, but CNS histoplasmosis is uncommon compared with cryptococcal meningitis and cryptococcomas.",
+          "D": "Coccidioides causes chronic basilar meningitis in a minority of disseminated cases, but overall Cryptococcus is far more often the fungal cause of meningitis with mass lesions.",
+          "E": "Blastomyces disseminates mainly to skin, bone, and the genitourinary tract; CNS involvement is uncommon."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-079_mi038_f20.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "India ink is a classic negative stain for CSF: the thick capsule of Cryptococcus excludes the ink, producing a clear halo around each yeast on a dark background.",
         "whyCorrect": "India ink is a classic negative stain for CSF: the thick capsule of Cryptococcus excludes the ink, producing a clear halo around each yeast on a dark background.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "GMS silver stain colors fungal walls black in tissue sections; Histoplasma appears as tiny intracellular yeasts, not haloed yeasts on a dark ink background.",
+          "B": "Gram stain is a positive stain in which Candida stains purple, and Candida lacks the thick capsule that creates a clear halo.",
+          "D": "Mucicarmine stains capsular polysaccharide red and is classically used for Cryptococcus in tissue; Blastomyces has no capsule, and mucicarmine is not a negative stain.",
+          "E": "KOH dissolves keratin and host cells to reveal fungal elements in skin or nail scrapings; Coccidioides appears as spherules, not haloed yeasts in CSF."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-080_mi038_f22.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Disseminated histoplasmosis spreads via the reticuloendothelial system in patients with severe immunosuppression and can seed the skin among many organ systems.",
         "whyCorrect": "Disseminated histoplasmosis spreads via the reticuloendothelial system in patients with severe immunosuppression and can seed the skin among many organ systems.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sporothrix usually causes lymphocutaneous nodules after thorn inoculation; it is not a classic endemic fungus that disseminates through the reticuloendothelial system in AIDS.",
+          "B": "Cryptococcus can cause molluscum-like skin papules in AIDS, but it is a ubiquitous fungus found worldwide rather than an endemic dimorphic fungus, and it typically presents with meningitis.",
+          "C": "Blastomyces can disseminate to skin, forming verrucous lesions, but it typically affects immunocompetent hosts and is not the classic opportunist in profound T-cell deficiency.",
+          "E": "Coccidioides can disseminate to skin, bone, and meninges in AIDS, but widespread papules from reticuloendothelial spread in profound T-cell deficiency classically point to Histoplasma."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-167_mi038_f07.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Erythema nodosum reflects the immune system's response to fungal antigens leaking into the blood, not spread of the organism to the skin; it can also occur with non-infectious causes such as Crohn disease.",
         "whyCorrect": "Erythema nodosum reflects the immune system's response to fungal antigens leaking into the blood, not spread of the organism to the skin; it can also occur with non-infectious causes such as Crohn disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Amphotericin B causes infusion reactions with fever and chills and nephrotoxicity, not tender shin nodules.",
+          "C": "Direct dissemination produces verrucous plaques, ulcers, or abscesses containing organisms, whereas erythema nodosum lesions contain no fungus.",
+          "D": "Septic emboli produce petechiae, Janeway lesions, or infarcts, not tender inflammatory nodules on the shins.",
+          "E": "Kaposi sarcoma lesions are violaceous vascular tumors caused by HHV-8 in immunosuppressed patients, not tender nodules after coccidioidomycosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-168_mi038_f16.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "This is the range of Blastomyces, which favors decomposing leaves/wood and forms large yeast with characteristic broad-based budding.",
         "whyCorrect": "This is the range of Blastomyces, which favors decomposing leaves/wood and forms large yeast with characteristic broad-based budding.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Barrel-shaped arthroconidia are the infectious mold form of Coccidioides, not a tissue yeast form of Blastomyces.",
+          "B": "An encapsulated yeast with an India-ink halo is Cryptococcus, which is associated with pigeon droppings and is not restricted to this endemic range.",
+          "D": "Spherules with endospores are the tissue form of Coccidioides, endemic to the arid Southwest, not to the Ohio-Mississippi and Great Lakes region.",
+          "E": "Narrow-based budding yeast describes Histoplasma, which overlaps this range but is linked to bird and bat droppings."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-229_mi038_f10.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "This is the range of Coccidioides (Valley Fever); its mold form fragments into barrel-shaped arthroconidia that are inhaled and then convert to spherules in tissue.",
         "whyCorrect": "This is the range of Coccidioides (Valley Fever); its mold form fragments into barrel-shaped arthroconidia that are inhaled and then convert to spherules in tissue.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Germ tubes are hyphal outgrowths from Candida albicans in serum, not inhaled infectious particles of an endemic mold.",
+          "B": "Broad-based budding yeast is the tissue form of Blastomyces in the Ohio-Mississippi and Great Lakes region, not the inhaled form of a desert fungus.",
+          "C": "Encapsulated yeast describes Cryptococcus, which is inhaled as small yeasts or spores from pigeon droppings, not arthroconidia from desert soil.",
+          "E": "Tuberculate macroconidia are produced by the mold phase of Histoplasma in river-valley soil, not by Coccidioides."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-230_mi038_f13.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "Polyenes such as amphotericin B bind ergosterol and create pores in the fungal membrane, increasing permeability and causing lethal leakage of intracellular contents. The other options correspond to azoles, echinocandins, griseofulvin, and flucytosine respectively.",
         "whyCorrect": "Polyenes such as amphotericin B bind ergosterol and create pores in the fungal membrane, increasing permeability and causing lethal leakage of intracellular contents. The other options correspond to azoles, echinocandins, griseofulvin, and flucytosine respectively.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Beta-glucan synthase inhibition in the cell wall is the action of echinocandins such as caspofungin, not polyenes.",
+          "B": "Blocking lanosterol-to-ergosterol conversion (14-alpha-demethylase) is how azoles work, reducing ergosterol synthesis rather than binding existing ergosterol.",
+          "C": "Disruption of microtubules during mitosis is the action of griseofulvin, which concentrates in keratin.",
+          "E": "Incorporation into fungal nucleic acids is the action of flucytosine, converted to 5-fluorouracil within fungal cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-198_mi039_f02.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "Amphotericin B causes decreased renal perfusion via vasoconstriction plus direct tubular damage, leading to renal tubular acidosis, potassium and magnesium wasting, and reduced erythropoietin (anemia). The distractors describe mechanisms not responsible for its nephrotoxicity.",
         "whyCorrect": "Amphotericin B causes decreased renal perfusion via vasoconstriction plus direct tubular damage, leading to renal tubular acidosis, potassium and magnesium wasting, and reduced erythropoietin (anemia). The distractors describe mechanisms not responsible for its nephrotoxicity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Amphotericin B does not cause osmotic diuresis; it causes vasoconstriction and direct tubular toxicity leading to potassium and magnesium wasting.",
+          "B": "Amphotericin B toxicity is not immune-mediated; immune-complex deposition is the mechanism of conditions such as post-streptococcal glomerulonephritis.",
+          "C": "CYP450 inhibition is characteristic of azoles and causes drug interactions, not nephrotoxicity from amphotericin B.",
+          "E": "Crystal precipitation in tubules occurs with drugs such as acyclovir, sulfonamides, and methotrexate, not amphotericin B."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-199_mi039_f04.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "The green molecules are ergosterol, the fungal analog of cholesterol. Because ergosterol is unique to fungal membranes and absent in humans, it (and its synthesis) is exploited for selective toxicity by polyenes and azoles.",
         "whyCorrect": "The green molecules are ergosterol, the fungal analog of cholesterol. Because ergosterol is unique to fungal membranes and absent in humans, it (and its synthesis) is exploited for selective toxicity by polyenes and azoles.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Ergosterol is embedded in the membrane and is not a receptor for host antibodies; antifungal immunity relies mainly on cell-mediated responses and neutrophils.",
+          "C": "Beta-glucan is polymerized by glucan synthase in the cell wall, targeted by echinocandins; ergosterol is a membrane sterol, not that enzyme.",
+          "D": "Drug efflux is performed by membrane transporter proteins, not ergosterol; efflux pumps contribute to azole resistance.",
+          "E": "Aerobic energy is generated in fungal mitochondria; ergosterol maintains membrane fluidity and integrity but does not produce ATP."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-231_mi039_f01.png",

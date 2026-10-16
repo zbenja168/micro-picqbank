@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The retained crystal violet (purple) color indicates a Gram-positive organism, and the arrangement in chains is characteristic of Streptococcus, distinguishing it from the grape-like clusters of Staphylococcus.",
         "whyCorrect": "The retained crystal violet (purple) color indicates a Gram-positive organism, and the arrangement in chains is characteristic of Streptococcus, distinguishing it from the grape-like clusters of Staphylococcus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Neisseria are gram-negative and stain pink as pairs, not purple chains.",
+          "C": "Bacillus species are rods, not spherical cocci.",
+          "D": "Staphylococci form grape-like clusters rather than chains.",
+          "E": "E. coli is a gram-negative rod that stains pink."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-021_mi001_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The PYR (pyrrolidonyl arylamidase) test is positive for S. pyogenes and Enterococcus spp., which hydrolyze the substrate to produce a pink/cherry-red color.",
         "whyCorrect": "The PYR (pyrrolidonyl arylamidase) test is positive for S. pyogenes and Enterococcus spp., which hydrolyze the substrate to produce a pink/cherry-red color.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "S. pneumoniae and viridans streptococci are PYR negative and are separated by optochin and bile solubility.",
+          "C": "S. gallolyticus (formerly S. bovis) is PYR negative and identified by bile esculin positivity without growth in 6.5% NaCl.",
+          "D": "S. agalactiae is PYR negative and identified by bacitracin resistance, CAMP test and hippurate hydrolysis.",
+          "E": "S. aureus is identified by catalase and coagulase tests, not PYR."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-022_mi001_f11.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "S. pyogenes (GAS) is the most common bacterial cause of pharyngitis, presenting with fever, tonsillar erythema, palatal petechiae, and cervical lymphadenopathy.",
         "whyCorrect": "S. pyogenes (GAS) is the most common bacterial cause of pharyngitis, presenting with fever, tonsillar erythema, palatal petechiae, and cervical lymphadenopathy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "S. pneumoniae causes pneumonia, otitis and meningitis but is not a common cause of pharyngitis.",
+          "B": "S. agalactiae (group B) causes neonatal sepsis and meningitis, not childhood pharyngitis.",
+          "D": "Enterococcus causes UTIs and endocarditis, not tonsillopharyngitis.",
+          "E": "Viridans streptococci are normal oral flora linked to dental caries and endocarditis, not exudative pharyngitis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-124_mi001_f04.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Impetigo is a superficial epidermal infection caused most often by S. aureus and S. pyogenes; S. pyogenes causes the nonbullous form.",
         "whyCorrect": "Impetigo is a superficial epidermal infection caused most often by S. aureus and S. pyogenes; S. pyogenes causes the nonbullous form.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Enterococcus causes UTIs and endocarditis, not impetigo.",
+          "C": "S. agalactiae causes neonatal infections and some adult soft-tissue infections, but not classic honey-crusted impetigo.",
+          "D": "S. gallolyticus is associated with endocarditis and colon cancer, not skin infection.",
+          "E": "S. pneumoniae causes respiratory and invasive infections, not impetigo."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-125_mi001_f05.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Scarlet fever, including the strawberry tongue, results from systemic release of the erythrogenic toxins SPE-A and SPE-C, which are acquired by S. pyogenes via lysogenic conversion.",
         "whyCorrect": "Scarlet fever, including the strawberry tongue, results from systemic release of the erythrogenic toxins SPE-A and SPE-C, which are acquired by S. pyogenes via lysogenic conversion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Streptolysin O is a hemolysin that elicits ASO antibodies; it does not cause the scarlet fever rash.",
+          "C": "Hyaluronidase helps the organism spread through tissue but does not cause the rash or strawberry tongue.",
+          "D": "M protein is antiphagocytic and linked to rheumatic fever, not the erythrogenic rash.",
+          "E": "Streptokinase activates plasminogen to dissolve clots and is not responsible for scarlet fever findings."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-126_mi001_f08.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Scarlet fever's blanching sandpaper rash with circumoral pallor is caused by erythrogenic toxins produced by S. pyogenes.",
         "whyCorrect": "Scarlet fever's blanching sandpaper rash with circumoral pallor is caused by erythrogenic toxins produced by S. pyogenes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Enterococcus faecium causes UTIs and bacteremia and does not produce erythrogenic toxins.",
+          "C": "S. pneumoniae does not produce erythrogenic toxins or cause scarlet fever.",
+          "D": "S. epidermidis is a skin commensal that infects devices and does not cause a toxin-mediated rash.",
+          "E": "Viridans streptococci cause caries and endocarditis, not scarlet fever."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-127_mi001_f09.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Rusty sputum is a classic finding in pneumococcal pneumonia, the most common cause of community-acquired bacterial pneumonia.",
         "whyCorrect": "Rusty sputum is a classic finding in pneumococcal pneumonia, the most common cause of community-acquired bacterial pneumonia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "S. pyogenes rarely causes pneumonia and is not linked to rust-colored sputum.",
+          "B": "S. agalactiae causes neonatal pneumonia and sepsis but not the classic rusty sputum of lobar pneumonia.",
+          "C": "Viridans streptococci cause endocarditis and dental infections, not lobar pneumonia with rusty sputum.",
+          "D": "Enterococcus faecalis causes UTIs and endocarditis, not community-acquired pneumonia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-128_mi001_f12.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The elongated rods retain the crystal violet stain (appearing dark blue/purple), identifying them as Gram-positive bacilli, consistent with Clostridia among the surrounding red blood cells.",
         "whyCorrect": "The elongated rods retain the crystal violet stain (appearing dark blue/purple), identifying them as Gram-positive bacilli, consistent with Clostridia among the surrounding red blood cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Acid-fast bacilli require a Ziehl-Neelsen stain and are aerobic (mycobacteria), not anaerobic Gram-positive rods.",
+          "C": "Spirochetes are thin, helical organisms that stain poorly with Gram stain, unlike these thick rods.",
+          "D": "Gram-positive cocci in clusters are round staphylococci, not elongated rods.",
+          "E": "Gram-negative bacilli stain pink, whereas these rods retain crystal violet."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-023_mi002_f01.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "C. perfringens classically produces a double (target) zone of hemolysis on blood agar, an inner complete zone from theta-toxin and an outer partial zone from alpha-toxin (a lecithinase).",
         "whyCorrect": "C. perfringens classically produces a double (target) zone of hemolysis on blood agar, an inner complete zone from theta-toxin and an outer partial zone from alpha-toxin (a lecithinase).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Green pigment production is a Pseudomonas feature, not the zoning pattern around C. perfringens colonies.",
+          "B": "Gamma-hemolysis means no lysis, whereas C. perfringens shows two distinct hemolytic zones.",
+          "D": "Alpha-hemolysis alone gives a single green zone; C. perfringens produces an inner complete and outer partial zone.",
+          "E": "Swarming across the plate is characteristic of Proteus and Clostridium tetani, not the C. perfringens target pattern."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-024_mi002_f02.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The terminal structures are endospores, dormant forms that allow the organism to survive harsh conditions such as heat, drying, and chemical disinfection until favorable anaerobic conditions return.",
         "whyCorrect": "The terminal structures are endospores, dormant forms that allow the organism to survive harsh conditions such as heat, drying, and chemical disinfection until favorable anaerobic conditions return.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Spores are dormant and do not secrete exotoxins; toxins are produced by vegetative cells.",
+          "B": "Spores do not enzymatically inactivate antibiotics; they survive because they are metabolically inactive.",
+          "C": "Endospores do not enhance motility; they are dormant, nonmotile structures.",
+          "D": "Adhesion to host epithelium is mediated by pili and adhesins, not terminal spores."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-025_mi002_f03.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The purple (crystal-violet retaining) rod-shaped bacteria identify Listeria monocytogenes as a Gram-positive, facultative intracellular rod that often grows in short chains or pairs resembling Streptococcus.",
         "whyCorrect": "The purple (crystal-violet retaining) rod-shaped bacteria identify Listeria monocytogenes as a Gram-positive, facultative intracellular rod that often grows in short chains or pairs resembling Streptococcus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Gram-negative diplococci are pink paired cocci such as Neisseria, not purple rods.",
+          "C": "Gram-positive cocci in clusters are round staphylococci, not rods.",
+          "D": "Acid-fast bacilli stain red with carbol fuchsin; Listeria is not acid-fast.",
+          "E": "Gram-negative rods stain pink, whereas these rods retain crystal violet."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-026_mi003_f01.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "By invading host cells, escaping the phagosome, and spreading directly cell-to-cell via actin-based motility, L. monocytogenes remains largely intracellular. This shields it from circulating antibodies and explains why cell-mediated immunity is critical for control, so patients with defective cellular immunity are at highest risk.",
         "whyCorrect": "By invading host cells, escaping the phagosome, and spreading directly cell-to-cell via actin-based motility, L. monocytogenes remains largely intracellular. This shields it from circulating antibodies and explains why cell-mediated immunity is critical for control, so patients with defective cellular immunity are at highest risk.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Intracellular pathogens depend on host cell machinery and nutrients rather than being independent of them.",
+          "B": "Listeria does not form endospores, and endospores do not result from an intracellular lifecycle.",
+          "C": "Listeria is not known for a protective polysaccharide capsule; its key strategy is intracellular spread.",
+          "E": "Gastric acid tolerance helps the organism survive ingestion but is not the advantage of the intracellular cell-to-cell lifecycle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-129_mi003_f03.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "L. monocytogenes is inherently resistant to fluoroquinolones, cephalosporins, macrolides, and tetracyclines through efflux pumps, enzymatic inactivation, reduced uptake, and target modification. Ampicillin (often with gentamicin) remains the treatment of choice.",
         "whyCorrect": "L. monocytogenes is inherently resistant to fluoroquinolones, cephalosporins, macrolides, and tetracyclines through efflux pumps, enzymatic inactivation, reduced uptake, and target modification. Ampicillin (often with gentamicin) remains the treatment of choice.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tetracycline is not a recommended treatment for invasive listeriosis.",
+          "B": "Cephalexin is a cephalosporin, and Listeria is intrinsically resistant to cephalosporins.",
+          "D": "Azithromycin is not used as definitive therapy for invasive Listeria infection.",
+          "E": "Ciprofloxacin is not reliably active against Listeria and is not a recommended treatment."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-190_mi003_f04.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The widespread epidermal detachment with mucosal and periorificial involvement is characteristic of the SJS/TEN spectrum, a rare but life-threatening hypersensitivity reaction; affected patients must avoid the offending fluoroquinolone permanently.",
         "whyCorrect": "The widespread epidermal detachment with mucosal and periorificial involvement is characteristic of the SJS/TEN spectrum, a rare but life-threatening hypersensitivity reaction; affected patients must avoid the offending fluoroquinolone permanently.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A fixed drug eruption is one or a few sharply demarcated dusky-violaceous plaques that recur at the same site on re-exposure, not extensive facial epidermal detachment with mucosal crusting.",
+          "C": "Acute generalized exanthematous pustulosis produces sheets of tiny sterile nonfollicular pustules on an erythematous base, usually in flexures, without full-thickness epidermal sloughing or prominent mucosal crusting.",
+          "D": "A morbilliform drug rash is a common, benign symmetric eruption of erythematous macules and papules on the trunk; it lacks mucosal involvement and epidermal detachment.",
+          "E": "Erythema multiforme minor causes targetoid acral lesions, usually after HSV, with little or no mucosal involvement and no widespread epidermal detachment."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-130_mi005_f04.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "The core is the quinolone ring; adding a fluorine atom (seen on nalidixic acid's successors) yields the fluoroquinolones, which have broader gram-negative coverage and stronger binding to type II topoisomerases than the parent quinolone.",
         "whyCorrect": "The core is the quinolone ring; adding a fluorine atom (seen on nalidixic acid's successors) yields the fluoroquinolones, which have broader gram-negative coverage and stronger binding to type II topoisomerases than the parent quinolone.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Sulfonamides are structural analogs of PABA built on a sulfanilamide core that inhibit dihydropteroate synthase; they do not share the bicyclic quinolone ring shown.",
+          "C": "Macrolides are large macrocyclic lactone rings with attached sugars that block the 50S ribosome, structurally unrelated to the small bicyclic quinolone core.",
+          "D": "Beta-lactams are defined by a four-membered beta-lactam ring (often fused to a thiazolidine or dihydrothiazine) and inhibit transpeptidases, not a fluorinated bicyclic quinolone core.",
+          "E": "Aminoglycosides are amino sugars linked glycosidically to an aminocyclitol ring and target the 30S ribosome; they have no aromatic bicyclic core."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-191_mi005_f01.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The stepwise reduction from 4 to 0 braids shows topoisomerase IV passing one duplex through another to separate (decatenate) the two completed bacterial chromosomes; DNA gyrase performs the related task of managing negative supercoils.",
         "whyCorrect": "The stepwise reduction from 4 to 0 braids shows topoisomerase IV passing one duplex through another to separate (decatenate) the two completed bacterial chromosomes; DNA gyrase performs the related task of managing negative supercoils.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Leading-strand synthesis is performed by DNA polymerase III adding nucleotides 5' to 3'; it does not involve cutting and passing duplexes to reduce interlinked crossings.",
+          "B": "Proofreading is the 3' to 5' exonuclease activity of DNA polymerase that removes misincorporated bases; topoisomerases do not edit base mismatches.",
+          "D": "Adenine methylation is carried out by methyltransferases such as Dam for mismatch-repair strand recognition and restriction protection, not by type II topoisomerases unlinking chromosomes.",
+          "E": "RNA primers are removed by DNA polymerase I's 5' to 3' exonuclease (or RNase H), a step in Okazaki fragment maturation unrelated to separating interlinked daughter chromosomes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-203_mi005_f02.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Fluoroquinolones trap the enzyme after it has nicked DNA, preventing religation; the resulting persistent double-strand breaks stop DNA synthesis and produce a bactericidal effect.",
         "whyCorrect": "Fluoroquinolones trap the enzyme after it has nicked DNA, preventing religation; the resulting persistent double-strand breaks stop DNA synthesis and produce a bactericidal effect.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Folate synthesis is disrupted by sulfonamides and trimethoprim acting on dihydropteroate synthase and dihydrofolate reductase, not by drugs binding a topoisomerase on the replicating chromosome.",
+          "C": "Membrane depolarization is the mechanism of daptomycin, which inserts into the gram-positive cytoplasmic membrane, rather than an enzyme bound to chromosomal DNA.",
+          "D": "Blocking peptide bond formation at the 50S peptidyl transferase is the action of chloramphenicol and related ribosomal inhibitors, not of fluoroquinolones trapping DNA gyrase.",
+          "E": "Inhibiting peptidoglycan cross-linking is how beta-lactams act on penicillin-binding proteins at the cell wall, far from the chromosomal topoisomerase targeted here."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-204_mi005_f03.png",

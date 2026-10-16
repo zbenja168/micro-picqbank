@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Cord factor (trehalose dimycolate) causes M. tuberculosis to grow in the characteristic serpentine cords seen here and is toxic to mammalian cells while inhibiting neutrophil migration.",
         "whyCorrect": "Cord factor (trehalose dimycolate) causes M. tuberculosis to grow in the characteristic serpentine cords seen here and is toxic to mammalian cells while inhibiting neutrophil migration.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Lipoteichoic acid is a gram-positive cell-envelope polymer that triggers inflammation via TLR2; it is not the mycobacterial glycolipid that produces serpentine cording.",
+          "C": "A hyaluronic acid capsule is the antiphagocytic capsule of Streptococcus pyogenes, which is nonimmunogenic because it resembles host tissue; it does not arrange bacilli in cords.",
+          "D": "Protein A of S. aureus binds the Fc portion of IgG to block opsonization; it plays no role in the parallel cording of mycobacteria.",
+          "E": "Lipoarabinomannan is a mycobacterial cell-wall glycolipid that modulates macrophage responses and is detected in urine assays, but cording is attributed to trehalose dimycolate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-007_mi017_f04.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Mycobacteria have a lipid-rich, mycolic acid cell wall that will not take up the Gram stain, so the Ziehl-Neelsen (acid-fast) stain is required; retained pink color identifies acid-fast bacilli.",
         "whyCorrect": "Mycobacteria have a lipid-rich, mycolic acid cell wall that will not take up the Gram stain, so the Ziehl-Neelsen (acid-fast) stain is required; retained pink color identifies acid-fast bacilli.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A thick peptidoglycan layer is what makes gram-positive bacteria retain crystal violet in the routine Gram stain, so it would not require a special stain.",
+          "B": "Capsules are shown with India ink or the Quellung reaction; the capsule does not prevent Gram staining or explain retention of carbol fuchsin after acid-alcohol.",
+          "D": "Endospores resist staining and are shown with malachite green (Schaeffer-Fulton); mycobacteria do not form spores, and their acid-fastness comes from mycolic acids.",
+          "E": "Organisms with no cell wall, such as Mycoplasma, are invisible on Gram stain and do not retain acid-fast stain, unlike these pink bacilli."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-049_mi017_f01.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Mycobacterium tuberculosis is a very slow grower on Lowenstein-Jensen medium, with detection taking up to 10 days or several weeks, reflecting its long doubling time.",
         "whyCorrect": "Mycobacterium tuberculosis is a very slow grower on Lowenstein-Jensen medium, with detection taking up to 10 days or several weeks, reflecting its long doubling time.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Growth in about 24 hours is typical of fast-growing pathogens such as E. coli or staphylococci, not M. tuberculosis with its doubling time of roughly 15-20 hours.",
+          "C": "Two to three days fits slower routine organisms or rapidly growing mycobacteria, but M. tuberculosis takes weeks to form visible colonies on Lowenstein-Jensen medium.",
+          "D": "Visible colonies never appear within a few hours for any clinical bacterium; M. tuberculosis is one of the slowest-growing pathogens cultured.",
+          "E": "No bacterium forms visible colonies within an hour; M. tuberculosis needs several weeks of incubation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-050_mi017_f02.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The high mycolic acid content of the mycobacterial cell wall gives colonies their rough, waxy, buff appearance, distinct from the smooth colonies of typical bacteria.",
         "whyCorrect": "The high mycolic acid content of the mycobacterial cell wall gives colonies their rough, waxy, buff appearance, distinct from the smooth colonies of typical bacteria.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Escherichia coli forms smooth, moist, gray colonies within a day, not dry, rough, buff, waxy colonies.",
+          "C": "Staphylococcus aureus forms smooth, glistening, golden colonies overnight, without the rough, dry, waxy texture caused by mycolic acids.",
+          "D": "Streptococcus pyogenes forms small, gray-white, beta-hemolytic colonies on blood agar, not rough, buff, waxy growth.",
+          "E": "Neisseria meningitidis forms smooth, moist, gray colonies on chocolate agar, unlike the dry, cauliflower-like mycobacterial colonies."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-051_mi017_f03.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Primary TB typically shows a peripheral parenchymal (Ghon) focus with prominent hilar lymphadenopathy, unlike the apical cavitation of reactivation disease.",
         "whyCorrect": "Primary TB typically shows a peripheral parenchymal (Ghon) focus with prominent hilar lymphadenopathy, unlike the apical cavitation of reactivation disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bilateral upper-lobe cavitation is typical of reactivation (secondary) TB in adults, where well-oxygenated apices favor bacillary growth, not of primary infection.",
+          "B": "Calcified pleural plaques are a marker of asbestos exposure, not a feature of primary tuberculosis.",
+          "C": "Diffuse fine miliary nodules indicate hematogenous dissemination; they can complicate primary TB but are not its most characteristic radiographic feature.",
+          "D": "Lobar consolidation with air bronchograms is the classic appearance of typical bacterial pneumonia such as pneumococcus, not the Ghon focus with hilar adenopathy of primary TB."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-052_mi017_f10.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Reactivation TB characteristically produces cavitary disease in the well-oxygenated apices/upper lobes of the lungs.",
         "whyCorrect": "Reactivation TB characteristically produces cavitary disease in the well-oxygenated apices/upper lobes of the lungs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The costophrenic angles are where pleural effusions blunt the lung base, not where reactivation TB cavitates; the bases are less oxygenated.",
+          "B": "The right middle lobe is not a preferred site of reactivation TB; disease there is classically from bronchial compression by enlarged nodes (middle lobe syndrome) rather than apical cavitation.",
+          "D": "The lingula is part of the left upper lobe but lies anteriorly and inferiorly; reactivation favors the apical and posterior upper-lobe segments.",
+          "E": "The lower lobes are typical for aspiration pneumonia and the primary Ghon focus, not reactivation TB, which favors the higher-oxygen apices."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-053_mi017_f11.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "A positive PPD is a type IV reaction: memory T cells sensitized by prior infection are recruited to the injection site, release cytokines, and cause induration over 48-72 hours.",
         "whyCorrect": "A positive PPD is a type IV reaction: memory T cells sensitized by prior infection are recruited to the injection site, release cytokines, and cause induration over 48-72 hours.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A non-immune irritant reaction would appear in anyone exposed, including unsensitized people; PPD induration reflects antigen-specific memory T-cell responses.",
+          "B": "Type I hypersensitivity is IgE-mediated mast cell degranulation that produces a wheal within minutes, not induration peaking at 48-72 hours.",
+          "C": "Type II hypersensitivity involves antibodies binding fixed cell-surface antigens, as in hemolytic anemia; it does not explain delayed induration after intradermal antigen.",
+          "E": "Type III hypersensitivity is immune-complex deposition, like the Arthus reaction peaking at 4-12 hours, and is antibody- rather than T-cell-mediated."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-054_mi017_f15.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Granuloma formation is driven by cell-mediated (type IV) immunity: T cells recruit and organize macrophages (including multinucleated giant cells) around the infection, walling it off with central caseous necrosis.",
         "whyCorrect": "Granuloma formation is driven by cell-mediated (type IV) immunity: T cells recruit and organize macrophages (including multinucleated giant cells) around the infection, walling it off with central caseous necrosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Type III immune-complex deposition causes vasculitis and glomerulonephritis by activating complement, not organized collections of macrophages and giant cells.",
+          "B": "Neutrophil-driven abscesses are liquefied pus cavities from acute pyogenic infection, not organized epithelioid macrophage aggregates with caseous centers.",
+          "D": "Type II cytotoxicity is antibody binding to cell-surface antigens with complement or ADCC-mediated destruction, not granuloma formation.",
+          "E": "Type I hypersensitivity is IgE-triggered mast cell degranulation producing immediate allergic responses, not the organization of macrophages around persistent antigen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-141_mi017_f06.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The Ghon complex (a peripheral parenchymal Ghon focus plus caseating hilar nodes) develops during primary tuberculosis infection.",
         "whyCorrect": "The Ghon complex (a peripheral parenchymal Ghon focus plus caseating hilar nodes) develops during primary tuberculosis infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Progressive fibrocavitary disease shows upper-lobe cavitation with fibrosis, not a small peripheral focus paired with hilar nodes.",
+          "C": "Reactivation TB arises in previously sensitized hosts and presents with apical cavitary lesions, usually without prominent hilar lymph node involvement.",
+          "D": "Miliary dissemination produces innumerable tiny nodules throughout the lungs from hematogenous spread, not a single peripheral lesion with hilar nodes.",
+          "E": "Latent infection may leave no visible lesion or only a calcified Ranke complex; the depicted active focus with involved hilar nodes is the primary Ghon complex."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-142_mi017_f08.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Miliary tuberculosis results when bacilli seed the bloodstream and disseminate widely, producing tiny nodules throughout the lungs and other organs.",
         "whyCorrect": "Miliary tuberculosis results when bacilli seed the bloodstream and disseminate widely, producing tiny nodules throughout the lungs and other organs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lymphatic spread confined to one hilum would enlarge hilar nodes, not scatter innumerable uniform nodules throughout both lungs.",
+          "B": "Bronchial spread from a cavity produces patchy acinar or tree-in-bud nodules in dependent or adjacent segments, not a uniform millet-seed distribution.",
+          "C": "Contiguous pleural extension causes pleural thickening or effusion and subpleural disease, not nodules evenly distributed through the parenchyma.",
+          "E": "Aspiration of gastric contents causes chemical pneumonitis or dependent consolidation in the lower lobes or posterior upper lobes, not innumerable uniform tan nodules."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-143_mi017_f13.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "IL-12 from infected macrophages activates NK cells and drives Th1 differentiation; the resulting IFN-gamma activates macrophages to kill the intracellular mycobacteria, the core of cell-mediated defense.",
         "whyCorrect": "IL-12 from infected macrophages activates NK cells and drives Th1 differentiation; the resulting IFN-gamma activates macrophages to kill the intracellular mycobacteria, the core of cell-mediated defense.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Large-scale antibody production by plasma cells is driven by Th2 and T follicular helper help, and antibodies are ineffective against bacilli hidden inside macrophages.",
+          "B": "Mast cell degranulation and histamine release reflect IgE-mediated type I responses, not IL-12-driven Th1 immunity.",
+          "C": "Eosinophil recruitment against helminths is a Th2 response mediated by IL-5, the opposite arm from the IL-12/IFN-gamma Th1 axis shown.",
+          "D": "Complement-mediated lysis requires membrane attack complex insertion into exposed outer membranes, and mycobacteria within macrophages are not cleared this way."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-213_mi017_f05.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "In roughly 90% of immunocompetent patients, primary infection is contained within a latent granuloma, and the patient remains asymptomatic for years.",
         "whyCorrect": "In roughly 90% of immunocompetent patients, primary infection is contained within a latent granuloma, and the patient remains asymptomatic for years.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Miliary dissemination is an uncommon outcome, seen mainly in infants, the elderly, or immunocompromised hosts, not the usual result in immunocompetent people.",
+          "B": "Tuberculous meningitis is a rare, severe complication of hematogenous spread, mostly in young children or immunocompromised patients, not the typical outcome.",
+          "D": "Cavitary disease is the hallmark of reactivation TB years later, not of primary infection in an immunocompetent host.",
+          "E": "Immune control takes weeks to develop, and viable bacilli persist in granulomas for years, so sterilization within 24 hours does not occur."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-214_mi017_f14.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The delayed-type (type IV) reaction is driven by sensitized T cells that recognize injected antigen and recruit macrophages, producing the palpable induration.",
         "whyCorrect": "The delayed-type (type IV) reaction is driven by sensitized T cells that recognize injected antigen and recruit macrophages, producing the palpable induration.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Complement proteins mediate immune-complex and antibody-triggered injury, not the T-cell- and macrophage-driven induration of a delayed-type reaction.",
+          "B": "IgE-armed mast cells cause immediate wheal-and-flare reactions within minutes, not induration that develops over 48-72 hours.",
+          "C": "Neutrophils forming pus characterize acute pyogenic infection or Arthus reactions; the PPD lesion is a lymphocyte and macrophage infiltrate.",
+          "E": "Circulating antibodies mediate type I-III reactions; a positive PPD can occur without antibody and depends on sensitized T cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-215_mi017_f16.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Chlamydia species replicate inside a membrane-bound endosome (inclusion) within the host-cell cytoplasm, which enlarges as the bacteria multiply and can eventually dominate the cell volume.",
         "whyCorrect": "Chlamydia species replicate inside a membrane-bound endosome (inclusion) within the host-cell cytoplasm, which enlarges as the bacteria multiply and can eventually dominate the cell volume.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Negri bodies are eosinophilic cytoplasmic inclusions of rabies virus in neurons, seen as dense masses rather than a membrane-bound vacuole packed with bacterial particles.",
+          "B": "Mycoplasma usually attaches to the outer surface of host cells rather than growing in a single large cytoplasmic membrane-bound vacuole.",
+          "C": "A mitotic nucleus would show condensed chromosomes without an intact surrounding membrane, not a vacuole full of uniform small particles.",
+          "E": "A phagolysosome contains heterogeneous degraded material, whereas the chlamydial inclusion avoids lysosomal fusion and fills with uniform elementary and reticulate bodies."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-008_mi018_f05.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "At the end of the chlamydial cycle, reticulate bodies convert back to elementary bodies and the infected cell lyses, releasing infectious elementary bodies that go on to infect neighboring cells.",
         "whyCorrect": "At the end of the chlamydial cycle, reticulate bodies convert back to elementary bodies and the infected cell lyses, releasing infectious elementary bodies that go on to infect neighboring cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Sporulation forms a single resistant endospore inside a Bacillus or Clostridium cell; it is not a release of many particles from a lysing host cell.",
+          "C": "Enveloped virions bud individually through the host membrane without lysing the cell, whereas Chlamydia exits by bursting the cell or by extrusion.",
+          "D": "Phagocytosis is the uptake of particles into a cell, the reverse of particles bursting out at the end of an intracellular cycle.",
+          "E": "A biofilm is an extracellular matrix-encased community on a surface, not release of infectious particles from a ruptured host cell."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-009_mi018_f08.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Legionella pneumophila is a facultative intracellular pathogen taken up by macrophages via coiling phagocytosis; it then inhibits phagosome-lysosome fusion, allowing it to persist and replicate inside the phagocyte.",
         "whyCorrect": "Legionella pneumophila is a facultative intracellular pathogen taken up by macrophages via coiling phagocytosis; it then inhibits phagosome-lysosome fusion, allowing it to persist and replicate inside the phagocyte.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Catalase protects organisms such as S. aureus and Nocardia from peroxide, but Legionella's key survival strategy is blocking phagosome-lysosome fusion.",
+          "C": "Urease-mediated acid neutralization is how Helicobacter pylori survives gastric acid, not how Legionella persists within macrophages.",
+          "D": "Escaping into the cytosol with a pore-forming toxin is the strategy of Listeria (listeriolysin O); Legionella stays in a modified vacuole.",
+          "E": "An antiphagocytic capsule prevents uptake in the first place, but the bacterium shown is already inside the phagocyte and survives there."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-010_mi018_f09.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Mycoplasma pneumoniae causes atypical ('walking') pneumonia in which lung involvement on imaging is characteristically streaky/patchy interstitial infiltrates that appear worse than the patient's mild symptoms, rather than the dense lobar consolidation of typical bacterial pneumonia.",
         "whyCorrect": "Mycoplasma pneumoniae causes atypical ('walking') pneumonia in which lung involvement on imaging is characteristically streaky/patchy interstitial infiltrates that appear worse than the patient's mild symptoms, rather than the dense lobar consolidation of typical bacterial pneumonia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A large pleural effusion with a meniscus sign suggests parapneumonic effusion or empyema, which are uncommon with Mycoplasma's mild walking pneumonia.",
+          "B": "Dense lobar consolidation is typical pneumococcal pneumonia with abrupt high fever and productive cough, not the mild subacute dry-cough illness described.",
+          "D": "An upper-lobe cavitary lesion suggests reactivation TB, anaerobic abscess, or S. aureus, not Mycoplasma infection in a young adult.",
+          "E": "Bilateral hilar lymphadenopathy is classic for sarcoidosis or some fungal infections, not Mycoplasma pneumonia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-055_mi018_f01.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Mycoplasma pneumoniae lacks a cell wall entirely, so it has no fixed shape and appears pleomorphic; the absence of peptidoglycan also makes cell-wall-active antibiotics (beta-lactams) ineffective.",
         "whyCorrect": "Mycoplasma pneumoniae lacks a cell wall entirely, so it has no fixed shape and appears pleomorphic; the absence of peptidoglycan also makes cell-wall-active antibiotics (beta-lactams) ineffective.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A waxy mycolic-acid coat belongs to mycobacteria, which keep a rod shape and a peptidoglycan layer.",
+          "B": "A polysaccharide capsule is an outer coat that resists phagocytosis but gives no structural rigidity, and encapsulated organisms with cell walls remain beta-lactam targets.",
+          "C": "An LPS-containing outer membrane belongs to gram-negative bacteria, which still have peptidoglycan and fixed shapes, and many are beta-lactam susceptible.",
+          "D": "A thick peptidoglycan layer is a gram-positive feature that confers a fixed shape and is the target of beta-lactams, the opposite of pleomorphism and resistance."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-056_mi018_f03.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Mycoplasma is unique among bacteria in incorporating sterols such as cholesterol into its membrane and therefore requires sterol-supplemented media to grow; the resulting colonies show the classic fried-egg morphology.",
         "whyCorrect": "Mycoplasma is unique among bacteria in incorporating sterols such as cholesterol into its membrane and therefore requires sterol-supplemented media to grow; the resulting colonies show the classic fried-egg morphology.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Elevated CO2 enhances growth of capnophiles such as Neisseria and Haemophilus, but it is not the lipid supplement needed for fried-egg Mycoplasma colonies.",
+          "C": "Hemin (factor X) is required by Haemophilus, which forms small gray colonies on chocolate agar, not fried-egg colonies.",
+          "D": "Cysteine and iron are required by Legionella on BCYE agar, not by Mycoplasma.",
+          "E": "NAD (factor V) is a Haemophilus requirement, not a lipid, and does not explain fried-egg colonies."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-057_mi018_f04.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "The urine antigen test detects only L. pneumophila serogroup 1; because that serogroup causes about 90% of cases it remains very useful, but PCR or culture is needed to catch the other serogroups.",
         "whyCorrect": "The urine antigen test detects only L. pneumophila serogroup 1; because that serogroup causes about 90% of cases it remains very useful, but PCR or culture is needed to catch the other serogroups.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The test does detect L. pneumophila, specifically serogroup 1, which causes most cases; it is not blind to all serogroups.",
+          "B": "Cross-reactivity with pneumococcus is not its key limitation; a separate pneumococcal urine antigen test exists for S. pneumoniae.",
+          "C": "Legionella urinary antigen often becomes positive within the first days of illness and can persist for weeks, so it is not delayed to three weeks.",
+          "D": "The assay uses urine, not sputum, which is an advantage because many patients with Legionnaires' disease have little sputum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-058_mi018_f10.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "Legionella pneumophila requires cysteine and iron, supplied by buffered charcoal yeast extract (BCYE) agar; because it stains poorly with Gram stain, a silver stain is used to visualize it in tissue or sputum.",
         "whyCorrect": "Legionella pneumophila requires cysteine and iron, supplied by buffered charcoal yeast extract (BCYE) agar; because it stains poorly with Gram stain, a silver stain is used to visualize it in tissue or sputum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cholesterol and sterols are required by Mycoplasma, which lacks a cell wall, not by Legionella.",
+          "B": "Mannitol and high salt make up mannitol salt agar, which selects for staphylococci, not BCYE agar.",
+          "C": "Cystine-tellurite medium (Tinsdale agar) is used to grow Corynebacterium diphtheriae, which forms black colonies with brown halos.",
+          "E": "Hemin and NAD (factors X and V) are required by Haemophilus influenzae, which grows on chocolate agar, not BCYE."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-059_mi018_f11.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "Chlamydia are obligate intracellular bacteria historically mistaken for viruses because they cannot generate sufficient ATP and rely on host-cell energy; the cycle alternates infectious elementary bodies with replicating reticulate bodies inside the inclusion.",
         "whyCorrect": "Chlamydia are obligate intracellular bacteria historically mistaken for viruses because they cannot generate sufficient ATP and rely on host-cell energy; the cycle alternates infectious elementary bodies with replicating reticulate bodies inside the inclusion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Chlamydiae do not need host cholesterol to build a cell wall; sterol dependence is a feature of Mycoplasma membranes, and chlamydial obligate parasitism reflects energy dependence.",
+          "C": "Elementary bodies survive extracellular conditions to spread infection; Chlamydia is not killed by oxygen, and its intracellular dependence relates to ATP.",
+          "D": "Chlamydiae have their own DNA polymerase and replicate their genomes by binary fission as reticulate bodies.",
+          "E": "Chlamydiae have their own 70S ribosomes and synthesize proteins, which is why macrolides and tetracyclines are effective."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-216_mi018_f07.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "The immature nymph is small and easily overlooked, so it typically remains attached long enough (36-48 h) to transmit Borrelia burgdorferi. The larger adult forms are usually noticed and removed before transmission.",
         "whyCorrect": "The immature nymph is small and easily overlooked, so it typically remains attached long enough (36-48 h) to transmit Borrelia burgdorferi. The larger adult forms are usually noticed and removed before transmission.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Adult females can transmit Borrelia, but their larger size means they are usually noticed and removed before the 36-48 hours of attachment needed for transmission.",
+          "B": "Adult males feed briefly or not at all and rarely stay attached long enough to transmit Lyme disease.",
+          "D": "Larvae hatch uninfected because Borrelia is not passed transovarially; they acquire it from their first blood meal on infected mice.",
+          "E": "Eggs do not feed and do not carry Borrelia, so an egg mass cannot transmit Lyme disease."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-060_mi019_f01.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "Erythema migrans, the bull's-eye rash, appears in 70-80% of Lyme disease patients during stage 1 and is the hallmark early sign of Borrelia burgdorferi infection.",
         "whyCorrect": "Erythema migrans, the bull's-eye rash, appears in 70-80% of Lyme disease patients during stage 1 and is the hallmark early sign of Borrelia burgdorferi infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Tinea corporis forms annular plaques with central clearing, but the border is scaly and raised, and it spreads slowly over weeks without systemic features.",
+          "C": "Bacterial cellulitis is a warm, tender, poorly demarcated spreading erythema without central clearing or a target pattern.",
+          "D": "Ehrlichiosis typically causes fever, leukopenia, thrombocytopenia, and elevated transaminases; rash is uncommon and is not a target lesion.",
+          "E": "Rocky Mountain spotted fever causes a petechial rash that begins on wrists and ankles and spreads centripetally, not a single expanding bull's-eye lesion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-144_mi019_f03.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "The figure shows the many morphologies the Lyme disease rash can take. All are manifestations of infection by the spirochete Borrelia burgdorferi; the rash may also be absent entirely.",
         "whyCorrect": "The figure shows the many morphologies the Lyme disease rash can take. All are manifestations of infection by the spirochete Borrelia burgdorferi; the rash may also be absent entirely.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Rickettsia rickettsii causes a centripetal maculopapular to petechial rash from vasculitis, not the expanding annular erythema migrans variants shown.",
+          "C": "Treponema pallidum causes a painless chancre and then a diffuse copper-colored rash including palms and soles in secondary syphilis, not erythema migrans.",
+          "D": "Ehrlichia chaffeensis infects monocytes and causes a febrile illness with cytopenias; rash is uncommon and not bull's-eye.",
+          "E": "Leptospira interrogans causes fever, conjunctival suffusion, and in severe cases Weil disease with jaundice and renal failure, not erythema migrans variants."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-145_mi019_f04.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "Rickettsia rickettsii invades endothelial cells lining blood vessels, producing a vasculitis that manifests as the centripetal maculopapular (and later petechial) rash of Rocky Mountain spotted fever.",
         "whyCorrect": "Rickettsia rickettsii invades endothelial cells lining blood vessels, producing a vasculitis that manifests as the centripetal maculopapular (and later petechial) rash of Rocky Mountain spotted fever.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mononuclear phagocytes are infected by Ehrlichia chaffeensis, which forms morulae and rarely causes rash; R. rickettsii targets endothelium.",
+          "B": "Red blood cells are infected by Babesia and Plasmodium, causing hemolysis rather than a vasculitic rash.",
+          "C": "Hepatocytes are the target of hepatitis viruses and of the liver stage of malaria, not of rickettsiae causing a vasculitic rash.",
+          "E": "Peripheral neurons are invaded by viruses such as rabies, HSV, and VZV; rickettsial rash arises from endothelial infection and leaky vessels."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-146_mi019_f08.png",

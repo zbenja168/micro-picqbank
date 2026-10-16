@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The image shows Kaposi sarcoma, a vascular tumor of endothelial cells caused by HHV-8 (KSHV). It classically arises in immunocompromised patients, especially those with advanced HIV, appearing as red-purple skin nodules.",
         "whyCorrect": "The image shows Kaposi sarcoma, a vascular tumor of endothelial cells caused by HHV-8 (KSHV). It classically arises in immunocompromised patients, especially those with advanced HIV, appearing as red-purple skin nodules.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Molluscum contagiosum causes small, pearly umbilicated papules, which can be widespread in AIDS, not violaceous vascular nodules and plaques.",
+          "C": "HPV causes warts and anogenital cancers, not red-purple vascular tumors of endothelial cells.",
+          "D": "EBV causes oral hairy leukoplakia and B-cell lymphomas in HIV, not violaceous cutaneous vascular nodules.",
+          "E": "CMV causes retinitis, colitis, and esophagitis in advanced HIV, not violaceous skin nodules."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-157_mi027_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Early after exposure HIV replicates rapidly and seeds lymphoid tissue, producing a burst of viremia with a sharp fall in CD4 counts. As cytotoxic T cells and antibodies develop, viremia drops to a set point and CD4 counts partially recover, giving the long clinical-latency plateau before the terminal AIDS decline.",
         "whyCorrect": "Early after exposure HIV replicates rapidly and seeds lymphoid tissue, producing a burst of viremia with a sharp fall in CD4 counts. As cytotoxic T cells and antibodies develop, viremia drops to a set point and CD4 counts partially recover, giving the long clinical-latency plateau before the terminal AIDS decline.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Loss of proviral DNA from memory cells would lower measurable virus, and the latent reservoir persists for life; it does not cause an early spike in plasma RNA.",
+          "B": "Opportunistic infections appear years later when CD4 counts fall below 200, not in the first weeks after HIV exposure.",
+          "C": "Maternal antibodies confound HIV antibody tests in infants, but they cannot produce a spike in plasma viral RNA, which is measured by nucleic acid testing.",
+          "E": "The curve depicts untreated infection; antiretroviral therapy lowers viral load rather than causing an early peak."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-158_mi028_f01.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "With repeated use the needle tip becomes dull and develops barbs. Users may lick or reuse needles, and this damage combined with sharing greatly increases physical tissue injury and the risk of transmitting HIV and other bloodborne pathogens.",
         "whyCorrect": "With repeated use the needle tip becomes dull and develops barbs. Users may lick or reuse needles, and this damage combined with sharing greatly increases physical tissue injury and the risk of transmitting HIV and other bloodborne pathogens.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "No protective oxide coating forms that would prevent infection; reused needles carry blood and microbes and become damaged with each use.",
+          "B": "Repeated use does not sterilize a needle; it accumulates blood residue and microorganisms, increasing infection risk.",
+          "C": "Reuse and sharing increase rather than decrease HIV transmission, because blood remains in the needle and syringe.",
+          "E": "The needle tip becomes dull and barbed with each use, making injection more traumatic rather than easier."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-225_mi027_f02.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The blocked step is integration of viral DNA into the host genome, catalyzed by integrase. Dolutegravir is an integrase strand transfer inhibitor (INSTI) that acts here. Enfuvirtide is a fusion/entry inhibitor, tenofovir is an NRTI, efavirenz is an NNRTI (both act at reverse transcription), and ritonavir is a protease inhibitor/pharmacokinetic booster.",
         "whyCorrect": "The blocked step is integration of viral DNA into the host genome, catalyzed by integrase. Dolutegravir is an integrase strand transfer inhibitor (INSTI) that acts here. Enfuvirtide is a fusion/entry inhibitor, tenofovir is an NRTI, efavirenz is an NNRTI (both act at reverse transcription), and ritonavir is a protease inhibitor/pharmacokinetic booster.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Efavirenz is an NNRTI that binds reverse transcriptase noncompetitively, blocking synthesis of viral DNA rather than its integration.",
+          "B": "Tenofovir is a nucleotide reverse transcriptase inhibitor that terminates viral DNA chain synthesis, a step before integration.",
+          "C": "Enfuvirtide binds gp41 to block fusion of the viral envelope with the host membrane at entry, long before integration.",
+          "E": "Ritonavir is a protease inhibitor used mainly as a CYP3A4 booster; protease acts after integration during virion maturation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-196_mi030_f02.png",

@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Dermatophytes feed on keratin found only in the stratum corneum, hair, and nails, so they remain limited to keratinized superficial layers and rarely cause deep or systemic disease.",
         "whyCorrect": "Dermatophytes feed on keratin found only in the stratum corneum, hair, and nails, so they remain limited to keratinized superficial layers and rarely cause deep or systemic disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Dermatophytes are extracellular molds that grow in keratinized dead layers, not obligate intracellular organisms of basal cells.",
+          "C": "Dermal blood vessels do not form a barrier walling off fungus; dermatophytes stay superficial because they depend on keratin and are inhibited by factors in living tissue.",
+          "D": "Melanocyte pigment does not kill dermatophytes; melanin protects against UV damage and has no direct antifungal action here.",
+          "E": "Serum and tissue factors such as transferrin may limit fungal growth in living tissue, but the main reason dermatophytes stay superficial is their dependence on keratin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-014_mi040_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "A Wood's lamp causes some dermatophytes (e.g., Microsporum canis) to fluoresce, but many do not, so a negative test cannot exclude a fungal infection.",
         "whyCorrect": "A Wood's lamp causes some dermatophytes (e.g., Microsporum canis) to fluoresce, but many do not, so a negative test cannot exclude a fungal infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Wood's lamp fluorescence reflects pigments made by certain fungi or bacteria and does not indicate a viral coinfection.",
+          "B": "Many dermatophytes, including most Trichophyton species, do not fluoresce, so a negative test cannot exclude fungal infection.",
+          "D": "Some bacteria fluoresce, such as Corynebacterium minutissimum in erythrasma with coral-red color, but fluorescence does not confirm a bacterial cause by itself.",
+          "E": "Only some dermatophytes, mainly certain Microsporum species, fluoresce; most Trichophyton do not, so the test is not fully diagnostic."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-081_mi040_f15.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Epidermophyton produces smooth, club-shaped macroconidia in clusters and characteristically lacks microconidia.",
         "whyCorrect": "Epidermophyton produces smooth, club-shaped macroconidia in clusters and characteristically lacks microconidia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sporothrix is a dimorphic fungus whose mold forms thin hyphae with rosette-like clusters of small conidia, not club-shaped macroconidia.",
+          "C": "Malassezia is a lipophilic yeast that shows spaghetti-and-meatballs on KOH and does not produce macroconidia.",
+          "D": "Trichophyton produces abundant microconidia, with macroconidia that are cigar-shaped, thin-walled, and often rare.",
+          "E": "Microsporum produces rough-walled, spindle-shaped macroconidia and some microconidia, not smooth club-shaped clusters without microconidia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-082_mi040_f16.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Trichophyton is distinguished by cigar-shaped macroconidia, numerous microconidia, and sometimes coiled or spiraled hyphae.",
         "whyCorrect": "Trichophyton is distinguished by cigar-shaped macroconidia, numerous microconidia, and sometimes coiled or spiraled hyphae.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Malassezia is a yeast that forms spaghetti-and-meatballs hyphae and spores, not conidia.",
+          "C": "Epidermophyton has smooth club-shaped macroconidia in clusters and lacks microconidia.",
+          "D": "Microsporum has rough-walled, spindle-shaped macroconidia that are thick-walled, unlike the smooth cigar-shaped macroconidia shown.",
+          "E": "Candida is a yeast that forms pseudohyphae and germ tubes and is not a dermatophyte with macroconidia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-083_mi040_f17.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Microsporum is identified by rough-walled, spindle-shaped macroconidia, in contrast to the smooth macroconidia of Epidermophyton.",
         "whyCorrect": "Microsporum is identified by rough-walled, spindle-shaped macroconidia, in contrast to the smooth macroconidia of Epidermophyton.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Epidermophyton macroconidia are smooth and club-shaped, and microconidia are absent.",
+          "B": "Sporothrix produces thin hyphae with rosettes of small conidia and lacks rough spindle-shaped macroconidia.",
+          "C": "Malassezia is a lipophilic yeast seen as spaghetti-and-meatballs on KOH, without macroconidia.",
+          "D": "Trichophyton macroconidia are smooth, thin-walled, and cigar-shaped, not rough-walled spindles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-084_mi040_f18.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Sabouraud dextrose agar has a low pH (~5.6) that inhibits most bacterial growth, making it selective for fungi.",
         "whyCorrect": "Sabouraud dextrose agar has a low pH (~5.6) that inhibits most bacterial growth, making it selective for fungi.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Thayer-Martin is chocolate agar with antibiotics such as vancomycin, colistin, and nystatin to select for pathogenic Neisseria; its nystatin inhibits fungi.",
+          "B": "Chocolate agar is an enriched, nonselective medium for fastidious bacteria such as Haemophilus and Neisseria, not the fungal medium of choice.",
+          "D": "MacConkey agar uses bile salts and crystal violet to select for gram-negative bacteria, not fungi.",
+          "E": "Blood agar is a nonselective enriched medium used to assess hemolysis; it does not inhibit bacteria to favor fungi."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-085_mi040_f19.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Malassezia in a KOH prep shows clustered yeast cells (meatballs) with short hyphae (spaghetti), the classic 'spaghetti and meatballs' appearance.",
         "whyCorrect": "Malassezia in a KOH prep shows clustered yeast cells (meatballs) with short hyphae (spaghetti), the classic 'spaghetti and meatballs' appearance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An India ink halo is the clear capsule around Cryptococcus on a negative stain, not clustered yeasts with short hyphae.",
+          "B": "A chain of pearls describes nodules tracking along lymphatics in sporotrichosis, not a KOH microscopy pattern.",
+          "D": "Sulfur granules are yellow aggregates of filamentous bacteria in Actinomyces abscesses, not yeast and short hyphae on KOH.",
+          "E": "Germ tubes are hyphal outgrowths from Candida albicans incubated in serum, not clusters of yeast mixed with short hyphae."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-086_mi040_f21.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Asteroid bodies are star-shaped structures surrounding the yeast within giant cells of granulomas, seen in sporotrichosis, especially disseminated disease.",
         "whyCorrect": "Asteroid bodies are star-shaped structures surrounding the yeast within giant cells of granulomas, seen in sporotrichosis, especially disseminated disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Psammoma bodies are laminated concentric calcifications in papillary thyroid carcinoma, meningioma, and serous ovarian tumors, not star-shaped material around yeast.",
+          "B": "Negri bodies are eosinophilic cytoplasmic inclusions in neurons infected with rabies virus, not a radiating halo around a fungus in a giant cell.",
+          "C": "Molluscum bodies are large eosinophilic intracytoplasmic inclusions in keratinocytes infected with molluscum contagiosum virus.",
+          "D": "Schaumann bodies are laminated calcium and protein concretions in giant cells of sarcoidosis, not radiating material surrounding a yeast."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-087_mi040_f24.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The classic ring shape with an active scaly border and central clearing is produced as the dermatophyte spreads outward while the immune response clears the center.",
         "whyCorrect": "The classic ring shape with an active scaly border and central clearing is produced as the dermatophyte spreads outward while the immune response clears the center.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Granuloma annulare forms annular rings of smooth skin-colored to pink papules without scale, often on the hands and feet.",
+          "B": "Erythema migrans is an expanding red patch at a tick bite site, usually without the scaly advancing border of a dermatophyte infection.",
+          "D": "Nummular eczema forms coin-shaped, uniformly scaly or crusted plaques without central clearing.",
+          "E": "Psoriasis forms well-demarcated plaques with thick silvery scale across the whole surface, usually on extensor surfaces, not rings with central clearing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-169_mi040_f03.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Scaly patches with patchy alopecia and broken hairs (black dots) in a child are characteristic of dermatophyte scalp infection, tinea capitis.",
         "whyCorrect": "Scaly patches with patchy alopecia and broken hairs (black dots) in a child are characteristic of dermatophyte scalp infection, tinea capitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Alopecia areata causes smooth, round patches of hair loss without scale or inflammation, often with exclamation-point hairs.",
+          "B": "Trichotillomania causes irregular patches of hairs broken at varying lengths from pulling, without scale or inflammation.",
+          "C": "Seborrheic dermatitis causes greasy yellow scale on the scalp (cradle cap in infants) without patches of broken hairs.",
+          "D": "Discoid lupus causes scarring alopecia with atrophy, follicular plugging, and dyspigmentation, typically in adults rather than children."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-170_mi040_f04.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Tinea capitis is most frequently caused by Trichophyton and Microsporum species; Epidermophyton does not infect hair.",
         "whyCorrect": "Tinea capitis is most frequently caused by Trichophyton and Microsporum species; Epidermophyton does not infect hair.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Malassezia causes tinea versicolor and seborrheic dermatitis, and Candida infects moist skin and mucosa; neither is a dermatophyte causing tinea capitis.",
+          "B": "Staphylococcus and Streptococcus cause impetigo and folliculitis on the scalp, but they are bacteria, not dermatophytes.",
+          "C": "Epidermophyton infects skin and nails but not hair, and Sporothrix is a dimorphic fungus causing lymphocutaneous infection, not tinea capitis.",
+          "E": "Aspergillus and Fusarium are molds causing invasive infections in immunocompromised hosts or keratitis, not scalp dermatophytosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-171_mi040_f05.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Tinea barbae is a dermatophyte infection of the beard region, typically acquired from animals and presenting with itchy, red, crusting lesions and hair loss.",
         "whyCorrect": "Tinea barbae is a dermatophyte infection of the beard region, typically acquired from animals and presenting with itchy, red, crusting lesions and hair loss.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pseudofolliculitis barbae is an inflammatory reaction to ingrown hairs after shaving, with papules but not crusting and hair loss from infection.",
+          "B": "Bacterial folliculitis, often S. aureus (sycosis barbae), causes follicular pustules but lacks the animal exposure and dermatophyte-associated hair loss.",
+          "C": "Perioral dermatitis causes small papules around the mouth that spare the vermilion border and is often linked to topical steroids.",
+          "D": "Acne vulgaris causes comedones, papules, and pustules, primarily during adolescence, not crusted beard-area lesions with hair loss."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-172_mi040_f06.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Livestock such as cattle harbor zoophilic dermatophytes (e.g., Trichophyton verrucosum) that can be transmitted to farmers and animal workers.",
         "whyCorrect": "Livestock such as cattle harbor zoophilic dermatophytes (e.g., Trichophyton verrucosum) that can be transmitted to farmers and animal workers.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Zoophilic dermatophytes such as Trichophyton verrucosum readily infect humans who handle affected animals, so the animal does not prove noncontagiousness.",
+          "C": "Dermatophytes do not require a definitive host for sexual reproduction, which, when it occurs, happens in the environment rather than in an animal.",
+          "D": "Dermatophytes stay confined to keratinized skin and hair; ringworm lesions do not indicate systemic dissemination.",
+          "E": "Dermatophytes are not dimorphic in any host; they grow as hyphae and arthroconidia in keratinized tissue."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-173_mi040_f07.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Microsporum canis is a zoophilic dermatophyte commonly transmitted from cats and dogs, making it a frequent cause of tinea corporis in pet owners.",
         "whyCorrect": "Microsporum canis is a zoophilic dermatophyte commonly transmitted from cats and dogs, making it a frequent cause of tinea corporis in pet owners.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Malassezia globosa causes tinea versicolor with hypo- or hyperpigmented scaly patches, not an expanding red ring acquired from pets.",
+          "B": "Epidermophyton floccosum is anthropophilic, spread person to person and causing tinea cruris and pedis, not acquired from pets.",
+          "C": "Sporothrix schenckii causes lymphocutaneous nodules after thorn injuries, though cats can transmit it; it does not cause annular tinea corporis.",
+          "D": "Candida albicans causes intertrigo with satellite pustules in moist folds, not an expanding annular plaque on the trunk."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-174_mi040_f08.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Tinea cruris (jock itch) affects the groin and inner thighs with an advancing scaly border and characteristically spares the scrotum, unlike candidal infection.",
         "whyCorrect": "Tinea cruris (jock itch) affects the groin and inner thighs with an advancing scaly border and characteristically spares the scrotum, unlike candidal infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Candidal intertrigo typically involves the scrotum and shows bright red macerated skin with satellite pustules.",
+          "B": "Contact dermatitis follows the shape of the irritant or allergen exposure and lacks a scaly advancing border sparing the scrotum.",
+          "C": "Erythrasma, caused by Corynebacterium minutissimum, is a uniform brown-red patch without an active border and fluoresces coral-red under Wood's lamp.",
+          "D": "Inverse psoriasis forms smooth, sharply demarcated, glossy red plaques in folds, usually without scale or central clearing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-175_mi040_f09.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The interdigital form is the most common presentation of athlete's foot, with macerated, scaly skin predominantly between the toes.",
         "whyCorrect": "The interdigital form is the most common presentation of athlete's foot, with macerated, scaly skin predominantly between the toes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Onychomycosis involves the nails, with thickening and discoloration, not the toe-web skin.",
+          "C": "The ulcerative form is a severe extension of interdigital disease with erosions and ulcers, often with secondary bacterial infection.",
+          "D": "The vesiculobullous form produces tense blisters on the instep or sole rather than maceration between toes.",
+          "E": "The moccasin form produces chronic diffuse scaling and hyperkeratosis over the sole and sides of the foot."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-176_mi040_f10.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "The vesiculobullous form presents with painful, itchy blisters on the soles that are often intensely red and swollen.",
         "whyCorrect": "The vesiculobullous form presents with painful, itchy blisters on the soles that are often intensely red and swollen.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The moccasin form produces chronic diffuse dry scaling and hyperkeratosis over the soles, not tense blisters.",
+          "C": "The interdigital form produces maceration and scaling between the toes rather than blisters on the sole.",
+          "D": "Impetigo is a bacterial infection with honey-colored crusts or flaccid bullae, not a dermatophyte infection.",
+          "E": "Onychomycosis is a nail infection causing thickening and discoloration, not blisters on the foot."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-177_mi040_f12.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Tinea unguium (onychomycosis) is a dermatophyte nail infection causing thick, discolored, brittle nails that are often resistant to topical therapy.",
         "whyCorrect": "Tinea unguium (onychomycosis) is a dermatophyte nail infection causing thick, discolored, brittle nails that are often resistant to topical therapy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Subungual melanoma causes a longitudinal pigmented band that may spread onto the nail fold (Hutchinson sign), not thickened crumbling nails.",
+          "B": "Psoriatic nail dystrophy shows pitting, oil-drop spots, and onycholysis, usually with skin or joint psoriasis.",
+          "D": "Chronic trauma can thicken nails but typically affects a single nail in a pattern matching the injury, without the crumbling debris of fungal infection.",
+          "E": "Lichen planus of the nail causes thinning, longitudinal ridging, and pterygium formation rather than thickened crumbling nails."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-178_mi040_f13.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Intertrigo is inflammation of skin folds caused by friction, moisture, and irritation, and it can predispose to secondary bacterial and fungal infection.",
         "whyCorrect": "Intertrigo is inflammation of skin folds caused by friction, moisture, and irritation, and it can predispose to secondary bacterial and fungal infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Allergic contact dermatitis follows exposure to an allergen in a pattern matching contact, not specifically where skin rubs against skin.",
+          "B": "Hidradenitis suppurativa causes painful nodules, abscesses, and sinus tracts in the axillae and groin, not superficial macerated inflammation.",
+          "C": "Tinea corporis causes annular plaques with a scaly border and central clearing on the trunk or limbs, not friction-driven maceration in folds.",
+          "D": "Cellulitis is a deeper spreading bacterial infection with warmth, tenderness, and swelling, not superficial inflammation confined to skin folds."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-179_mi040_f14.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Malassezia overgrowth causes hypo- or hyperpigmented, finely scaly patches on the trunk that become obvious after sun exposure tans the surrounding skin.",
         "whyCorrect": "Malassezia overgrowth causes hypo- or hyperpigmented, finely scaly patches on the trunk that become obvious after sun exposure tans the surrounding skin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Post-inflammatory hypopigmentation follows previous skin inflammation and lacks fine scale and fungal elements.",
+          "B": "Pityriasis rosea starts with a herald patch followed by oval patches in a Christmas-tree pattern, and it resolves in weeks.",
+          "C": "Tinea corporis forms annular plaques with an active scaly border and central clearing, not patches of altered pigmentation that appear after tanning.",
+          "E": "Vitiligo causes complete depigmentation from melanocyte loss, with smooth, nonscaly patches."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-180_mi040_f20.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "Sporothrix schenckii inoculated through the skin produces a papule that ulcerates and spreads along lymphatic channels as a chain of nodules ('chain of pearls').",
         "whyCorrect": "Sporothrix schenckii inoculated through the skin produces a papule that ulcerates and spreads along lymphatic channels as a chain of nodules ('chain of pearls').",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Nocardiosis can rarely cause lymphocutaneous spread, but it is a partially acid-fast filamentous bacterium and more often causes pulmonary or brain abscesses.",
+          "C": "Cutaneous anthrax causes a painless papule that becomes a black eschar surrounded by edema, not a chain of nodules along lymphatics.",
+          "D": "Cat-scratch disease causes a papule at the scratch site with regional lymphadenopathy, not ascending nodules along lymphatic channels.",
+          "E": "Cutaneous leishmaniasis causes a chronic ulcer at a sandfly bite site; sporotrichoid spread can occur but is uncommon."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-181_mi040_f22.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "Brushes, combs, and hats are inanimate fomites that carry shed skin and hair laden with dermatophyte arthrospores, allowing indirect person-to-person transmission.",
         "whyCorrect": "Brushes, combs, and hats are inanimate fomites that carry shed skin and hair laden with dermatophyte arthrospores, allowing indirect person-to-person transmission.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dermatophytes do not complete sexual reproduction on combs or brushes; these objects carry spores passively.",
+          "C": "A biological vector is a living organism in which the pathogen develops or multiplies, as with mosquitoes; inanimate objects cannot amplify the fungus.",
+          "D": "Keratinase is an enzyme produced by dermatophytes themselves, not supplied by household objects.",
+          "E": "Dermatophytes do not have a definitive host; they reproduce asexually by arthroconidia in keratinized tissue."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-232_mi040_f02.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "Cestodes (tapeworms) have a scolex (head) and a chain of segments called proglottids; each mature proglottid is hermaphroditic, containing both male and female organs.",
         "whyCorrect": "Cestodes (tapeworms) have a scolex (head) and a chain of segments called proglottids; each mature proglottid is hermaphroditic, containing both male and female organs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Somites are embryonic blocks of paraxial mesoderm in vertebrates, not reproductive segments of tapeworms.",
+          "C": "Merozoites are asexual forms of Plasmodium released from hepatocytes or red cells, not helminth segments.",
+          "D": "Metameres are the repeating segments of annelids and arthropods; in tapeworms the specific term for hermaphroditic segments is proglottid.",
+          "E": "Sporocysts are larval stages of trematodes that develop in snails, not segments of a cestode."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-002_mi041_f12.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "Adult schistosomes (blood flukes) are unusual among trematodes in having separate sexes; the male's gynecophoral canal holds the female during continuous mating.",
         "whyCorrect": "Adult schistosomes (blood flukes) are unusual among trematodes in having separate sexes; the male's gynecophoral canal holds the female during continuous mating.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The acetabulum is the ventral sucker of flukes used for attachment, not the groove holding the female.",
+          "C": "The rostellum is a projection on the scolex of some tapeworms that bears hooks, not a fluke structure.",
+          "D": "A buccal capsule is the mouth cavity of hookworms with teeth or cutting plates, not a fluke body groove.",
+          "E": "The genital pore is the opening of the reproductive tract, not the long groove in which the female lies."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-015_mi041_f16.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "Definitive diagnosis of scabies is made by scraping a burrow and identifying the Sarcoptes scabiei mite, its eggs, or fecal pellets microscopically.",
         "whyCorrect": "Definitive diagnosis of scabies is made by scraping a burrow and identifying the Sarcoptes scabiei mite, its eggs, or fecal pellets microscopically.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Louse nits are oval eggs cemented to hair shafts, found by inspecting hair, not mites with eggs in a skin-burrow scraping.",
+          "B": "Cutaneous larva migrans is caused by hookworm larvae migrating in skin; diagnosis is clinical by the serpiginous track, and larvae are rarely recovered.",
+          "D": "Demodex mites live in hair follicles and are elongated with a long tail, unlike the round Sarcoptes mite found in burrows.",
+          "E": "Giardia trophozoites are intestinal protozoa found in stool, not skin scrapings."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-088_mi041_f04.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "Giardia lamblia is a flagellated protozoan; its paired nuclei and flagella produce the classic 'owl-face' trophozoite that causes fatty, foul-smelling diarrhea.",
         "whyCorrect": "Giardia lamblia is a flagellated protozoan; its paired nuclei and flagella produce the classic 'owl-face' trophozoite that causes fatty, foul-smelling diarrhea.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pseudopods are used by amebae such as Entamoeba histolytica, not by Giardia.",
+          "B": "Muscular body-wall contraction is how multicellular worms move; Giardia is a single-celled protozoan.",
+          "C": "Cilia propel Balantidium coli, the only ciliate pathogen of humans, not Giardia.",
+          "D": "Sporozoans such as Plasmodium and Toxoplasma lack locomotor organelles, but Giardia is actively motile with flagella."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-089_mi041_f05.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "Balantidium coli is the only ciliate known to infect humans; the fuzzy edge is thousands of cilia. It is transmitted fecal-orally and can cause dysentery.",
         "whyCorrect": "Balantidium coli is the only ciliate known to infect humans; the fuzzy edge is thousands of cilia. It is transmitted fecal-orally and can cause dysentery.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Gliding motility belongs to apicomplexan sporozoites and tachyzoites; Balantidium swims rapidly with cilia.",
+          "C": "An undulating membrane plus flagella is characteristic of Trichomonas and trypanosomes, not the fringe of tiny structures shown.",
+          "D": "Pseudopods are used by amebae such as Entamoeba; Balantidium is ciliated.",
+          "E": "Flagella are few and long, as in Giardia and Trichomonas, whereas the fuzzy border of thousands of short structures is cilia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-090_mi041_f06.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "Scabies mites tunnel through the epidermis, producing serpiginous burrow lines; lesions favor finger webs, wrists, waistline, and genitals and itch worst at night.",
         "whyCorrect": "Scabies mites tunnel through the epidermis, producing serpiginous burrow lines; lesions favor finger webs, wrists, waistline, and genitals and itch worst at night.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Annular scaling plaques are the rings of tinea corporis, not linear tunnels in finger webs.",
+          "B": "Vesicular dermatomal eruptions are herpes zoster, painful rather than itchy and limited to one dermatome.",
+          "C": "Petechial hemorrhagic rash reflects bleeding from thrombocytopenia or vasculitis, not mites burrowing in the epidermis.",
+          "D": "Target lesions such as erythema migrans are expanding annular patches, not short wavy burrow tunnels."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-182_mi041_f03.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "Mosquitoes are the deadliest animal to humans because they act as biological vectors, spreading malaria, arboviruses, filariasis, and other pathogens that kill millions annually.",
         "whyCorrect": "Mosquitoes are the deadliest animal to humans because they act as biological vectors, spreading malaria, arboviruses, filariasis, and other pathogens that kill millions annually.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Burrowing and causing intense hypersensitivity is the behavior of Sarcoptes scabiei mites, not mosquitoes, and is not deadly.",
+          "B": "Mechanical transmission on the body surface describes houseflies carrying pathogens; mosquitoes are biological vectors in which pathogens develop.",
+          "C": "Mosquitoes feed externally and do not multiply within human tissue; endoparasites such as helminths live inside the host.",
+          "D": "Mosquito saliva contains anticoagulants and vasodilators, not a lethal neurotoxin; deaths come from the pathogens they transmit."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-233_mi041_f01.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "Scabies is caused by Sarcoptes scabiei, an ectoparasitic mite that only superficially burrows into the epidermis rather than invading deeper tissues; the itch is a Type I hypersensitivity reaction.",
         "whyCorrect": "Scabies is caused by Sarcoptes scabiei, an ectoparasitic mite that only superficially burrows into the epidermis rather than invading deeper tissues; the itch is a Type I hypersensitivity reaction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Protozoan endoparasites are single-celled organisms living inside the host, whereas the scabies mite is a multicellular arthropod in superficial epidermis.",
+          "C": "Helminth endoparasites are worms living within internal organs or tissues, not arthropods burrowing in the stratum corneum.",
+          "D": "Ciliates and flagellates are single-celled protozoa, not eight-legged arthropods.",
+          "E": "Blood flukes such as Schistosoma are trematodes living in veins, not mites in the epidermis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-234_mi041_f02.png",
@@ -1203,7 +1353,12 @@
       "explanation": {
         "summary": "Female phlebotomine sandflies transmit Leishmania spp.; mosquitoes transmit malaria and reduviid bugs transmit Chagas disease.",
         "whyCorrect": "Female phlebotomine sandflies transmit Leishmania spp.; mosquitoes transmit malaria and reduviid bugs transmit Chagas disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Malaria is transmitted by female Anopheles mosquitoes, which are larger than sandflies.",
+          "B": "African sleeping sickness is transmitted by the tsetse fly, a large biting fly.",
+          "D": "Toxoplasmosis is acquired by ingesting oocysts from cat feces or tissue cysts in undercooked meat, not via an insect vector.",
+          "E": "Chagas disease is transmitted by reduviid (kissing) bugs, which deposit Trypanosoma cruzi in feces near the bite."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-003_mi042_f13.png",
@@ -1242,7 +1397,12 @@
       "explanation": {
         "summary": "N. fowleri uniquely exists as trophozoite, transient flagellate, and cyst forms; it causes primary amebic meningoencephalitis.",
         "whyCorrect": "N. fowleri uniquely exists as trophozoite, transient flagellate, and cyst forms; it causes primary amebic meningoencephalitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Trichomonas vaginalis exists only as a flagellated trophozoite with no cyst stage, and it causes vaginitis, not CNS infection.",
+          "B": "Leishmania donovani alternates between amastigotes and promastigotes and causes visceral leishmaniasis, not an ameboflagellate meningoencephalitis.",
+          "C": "Entamoeba histolytica has trophozoite and cyst stages but no flagellated form, and it causes colitis and liver abscess.",
+          "D": "Toxoplasma gondii forms tachyzoites, bradyzoite cysts, and oocysts, none of which are flagellated or free-living amebae."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-016_mi042_f02.png",
@@ -1281,7 +1441,12 @@
       "explanation": {
         "summary": "T. gondii persists as bradyzoite-filled tissue cysts that reactivate when cell-mediated immunity wanes.",
         "whyCorrect": "T. gondii persists as bradyzoite-filled tissue cysts that reactivate when cell-mediated immunity wanes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Trichomonas vaginalis lives on genitourinary mucosa as trophozoites and forms no tissue cysts.",
+          "C": "Leishmania donovani lives as amastigotes within macrophages of the spleen, liver, and marrow, not in latent tissue cysts.",
+          "D": "Naegleria fowleri cysts form in the environment, and the organism causes acute fatal meningoencephalitis rather than latent infection that reactivates.",
+          "E": "Giardia cysts are excreted in stool and transmit infection; Giardia does not form latent tissue cysts."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-017_mi042_f05.png",
@@ -1320,7 +1485,12 @@
       "explanation": {
         "summary": "Motile amebic trophozoites in CSF after warm freshwater exposure indicate N. fowleri primary amebic meningoencephalitis.",
         "whyCorrect": "Motile amebic trophozoites in CSF after warm freshwater exposure indicate N. fowleri primary amebic meningoencephalitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Trypanosoma brucei is a flagellated trypomastigote transmitted by tsetse flies, causing slowly progressive sleeping sickness, not acute illness after swimming.",
+          "B": "Toxoplasma causes ring-enhancing brain lesions in immunocompromised hosts and is not acquired by freshwater swimming.",
+          "D": "Acanthamoeba causes subacute to chronic granulomatous amebic encephalitis in immunocompromised hosts or keratitis in contact lens users, not rapid PAM after swimming.",
+          "E": "Cryptococcus is an encapsulated yeast causing subacute meningitis, not a motile amebic trophozoite."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-091_mi042_f04.png",
@@ -1359,7 +1529,12 @@
       "explanation": {
         "summary": "Multiple ring-enhancing brain lesions in an AIDS patient are classic for reactivated cerebral toxoplasmosis.",
         "whyCorrect": "Multiple ring-enhancing brain lesions in an AIDS patient are classic for reactivated cerebral toxoplasmosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Leishmania infantum causes visceral leishmaniasis with fever, hepatosplenomegaly, and pancytopenia, not ring-enhancing brain lesions.",
+          "C": "Naegleria fowleri causes fulminant meningoencephalitis after freshwater exposure, not multiple ring-enhancing lesions in AIDS.",
+          "D": "Trypanosoma cruzi causes cardiomyopathy and megaviscera; reactivation in AIDS can rarely cause brain lesions, but toxoplasmosis is far more common.",
+          "E": "Trichomonas vaginalis is a genitourinary pathogen with no CNS involvement."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-092_mi042_f07.png",
@@ -1398,7 +1573,12 @@
       "explanation": {
         "summary": "The classic triad of chorioretinitis, hydrocephalus, and diffuse intracranial calcifications points to congenital toxoplasmosis.",
         "whyCorrect": "The classic triad of chorioretinitis, hydrocephalus, and diffuse intracranial calcifications points to congenital toxoplasmosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Congenital syphilis causes rhinitis (snuffles), skin lesions, hepatosplenomegaly, and bone changes, not chorioretinitis with hydrocephalus and diffuse calcifications.",
+          "B": "Congenital rubella causes cataracts, sensorineural deafness, and heart defects.",
+          "C": "Neonatal HSV is usually acquired at delivery and causes skin vesicles, encephalitis, or disseminated disease, not the toxoplasmosis triad.",
+          "D": "Congenital CMV causes periventricular calcifications with microcephaly and sensorineural hearing loss rather than diffuse calcifications with hydrocephalus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-093_mi042_f08.png",
@@ -1437,7 +1617,12 @@
       "explanation": {
         "summary": "The motile, pear-shaped trophozoite with an undulating membrane is T. vaginalis, which causes trichomoniasis and colpitis macularis (strawberry cervix).",
         "whyCorrect": "The motile, pear-shaped trophozoite with an undulating membrane is T. vaginalis, which causes trichomoniasis and colpitis macularis (strawberry cervix).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bacterial vaginosis is a shift toward Gardnerella and anaerobes producing clue cells and fishy odor, without flagellated organisms on wet mount.",
+          "C": "Primary amebic meningoencephalitis is caused by Naegleria fowleri after freshwater exposure, not a genitourinary flagellate.",
+          "D": "A skin ulcer at a bite site suggests cutaneous leishmaniasis or similar vector-borne infections, not a sexually transmitted flagellate.",
+          "E": "Vulvovaginal candidiasis shows budding yeast and pseudohyphae with thick white discharge, not pear-shaped motile flagellates."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-094_mi042_f11.png",
@@ -1476,7 +1661,12 @@
       "explanation": {
         "summary": "A clue cell (epithelial cell coated with adherent bacteria) indicates bacterial vaginosis, associated with Gardnerella vaginalis.",
         "whyCorrect": "A clue cell (epithelial cell coated with adherent bacteria) indicates bacterial vaginosis, associated with Gardnerella vaginalis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Candida albicans shows budding yeast and pseudohyphae on KOH, not epithelial cells coated with bacteria.",
+          "B": "Neisseria gonorrhoeae appears as intracellular gram-negative diplococci within neutrophils, not adherent bacteria on squamous cells.",
+          "C": "Lactobacilli dominate normal vaginal flora and are depleted in bacterial vaginosis; they do not coat epithelial cells as clue cells.",
+          "D": "Trichomonas vaginalis appears as motile pear-shaped flagellates on wet mount, not bacteria covering epithelial cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-095_mi042_f12.png",
@@ -1515,7 +1705,12 @@
       "explanation": {
         "summary": "Amastigotes bearing a nucleus and kinetoplast inside marrow macrophages confirm visceral leishmaniasis; Histoplasma yeasts lack a kinetoplast.",
         "whyCorrect": "Amastigotes bearing a nucleus and kinetoplast inside marrow macrophages confirm visceral leishmaniasis; Histoplasma yeasts lack a kinetoplast.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Chagas disease shows amastigotes in cardiac muscle and trypomastigotes in blood, not amastigotes in marrow macrophages with this visceral picture.",
+          "C": "Malaria parasites infect red blood cells, forming ring forms and schizonts, and lack a kinetoplast.",
+          "D": "Histoplasma yeasts also fill macrophages but have no kinetoplast and show a clear halo from retracted cytoplasm.",
+          "E": "Toxoplasma tachyzoites are crescent-shaped and lack a kinetoplast, and they are not typically found filling marrow macrophages."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-096_mi042_f18.png",
@@ -1554,7 +1749,12 @@
       "explanation": {
         "summary": "A painless ulcer with a raised, indurated border at a sandfly-bite site after travel to Latin America is classic cutaneous leishmaniasis.",
         "whyCorrect": "A painless ulcer with a raised, indurated border at a sandfly-bite site after travel to Latin America is classic cutaneous leishmaniasis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Naegleria fowleri causes fatal meningoencephalitis after freshwater exposure, not a skin ulcer at a bite site.",
+          "B": "Plasmodium falciparum causes cyclic fevers and severe malaria from red cell infection, not a localized chronic skin ulcer.",
+          "C": "Toxoplasma gondii causes lymphadenopathy or CNS and eye disease, not a crusted ulcer at a bite site.",
+          "E": "Trichomonas vaginalis causes sexually transmitted vaginitis or urethritis, not skin ulcers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-183_mi042_f01.png",
@@ -1593,7 +1793,12 @@
       "explanation": {
         "summary": "The strawberry cervix with frothy malodorous discharge and elevated pH is characteristic of T. vaginalis.",
         "whyCorrect": "The strawberry cervix with frothy malodorous discharge and elevated pH is characteristic of T. vaginalis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Candida causes thick, white, curd-like discharge with normal vaginal pH below 4.5, not frothy discharge and strawberry cervix.",
+          "C": "Chlamydia trachomatis causes mucopurulent cervicitis that is often asymptomatic, without frothy discharge or punctate cervical hemorrhages.",
+          "D": "Gardnerella-associated bacterial vaginosis causes thin gray fishy discharge with pH above 4.5, but the cervix is not inflamed and no strawberry pattern is seen.",
+          "E": "Neisseria gonorrhoeae causes purulent cervicitis with friable cervix, not frothy discharge with punctate strawberry hemorrhages."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-184_mi042_f10.png",
@@ -1632,7 +1837,12 @@
       "explanation": {
         "summary": "A chronic, relatively painless ulcer with a raised, rolled border at a sandfly-bite site is cutaneous leishmaniasis.",
         "whyCorrect": "A chronic, relatively painless ulcer with a raised, rolled border at a sandfly-bite site is cutaneous leishmaniasis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Basal cell carcinoma is a slow-growing pearly papule with rolled borders and telangiectasias in sun-exposed skin, not an ulcer after a sandfly bite.",
+          "B": "Sporotrichosis forms an ulcerating nodule with nodules ascending along lymphatics after thorn or soil inoculation.",
+          "D": "Visceral leishmaniasis (kala-azar) causes fever, hepatosplenomegaly, and pancytopenia from systemic infection, not a localized skin ulcer.",
+          "E": "Cutaneous anthrax causes a painless black eschar with surrounding edema within days, not a chronic ulcer with a raised border weeks later."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-185_mi042_f15.png",
@@ -1671,7 +1881,12 @@
       "explanation": {
         "summary": "Visceral leishmaniasis (kala-azar), from L. donovani/L. infantum, causes hepatosplenomegaly, fever, wasting, and pancytopenia.",
         "whyCorrect": "Visceral leishmaniasis (kala-azar), from L. donovani/L. infantum, causes hepatosplenomegaly, fever, wasting, and pancytopenia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Congenital toxoplasmosis presents in newborns with chorioretinitis, hydrocephalus, and intracranial calcifications, and it is not a form of leishmaniasis.",
+          "B": "Primary amebic meningoencephalitis is a rapidly fatal Naegleria brain infection after freshwater exposure, not a chronic wasting illness with splenomegaly.",
+          "C": "Mucocutaneous leishmaniasis destroys nasal and oral mucosa years after a skin ulcer and does not cause massive splenomegaly.",
+          "D": "Cutaneous leishmaniasis is a localized skin ulcer at the sandfly bite, without fever, wasting, or organomegaly."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-186_mi042_f16.png",
@@ -1710,7 +1925,12 @@
       "explanation": {
         "summary": "Mucocutaneous leishmaniasis (often L. braziliensis) destroys nasopharyngeal mucosa years after the primary cutaneous lesion.",
         "whyCorrect": "Mucocutaneous leishmaniasis (often L. braziliensis) destroys nasopharyngeal mucosa years after the primary cutaneous lesion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Visceral leishmaniasis infects macrophages of the spleen, liver, and marrow, causing fever, hepatosplenomegaly, and pancytopenia rather than mucosal destruction.",
+          "B": "Cutaneous leishmaniasis is the initial localized skin ulcer; the late spread to destroy nasal and oral mucosa defines the mucocutaneous form.",
+          "D": "Granulomatosis with polyangiitis can destroy the nasal septum, but it is an ANCA-associated vasculitis that also involves the lungs and kidneys, without a prior parasitic skin ulcer.",
+          "E": "Lepromatous leprosy can cause nasal collapse but with diffuse skin infiltration, nodules, and nerve involvement, not a previously healed ulcer followed by mucosal destruction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-187_mi042_f17.png",
@@ -1749,7 +1969,12 @@
       "explanation": {
         "summary": "N. fowleri ascends the olfactory nerve and crosses the cribriform plate to cause primary amebic meningoencephalitis.",
         "whyCorrect": "N. fowleri ascends the olfactory nerve and crosses the cribriform plate to cause primary amebic meningoencephalitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Naegleria does not seed the brain hematogenously from the lungs; it enters through the nasal mucosa and climbs directly along olfactory nerves.",
+          "B": "The ameba does not travel up the spinal cord; it reaches the frontal lobes through the cribriform plate.",
+          "C": "Naegleria infection is not acquired by ingestion, and it does not cross the blood-brain barrier from the gut.",
+          "D": "The facial nerve is not the portal; Naegleria enters through the nose, not the middle ear, and follows olfactory fibers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-235_mi042_f03.png",
@@ -1788,7 +2013,12 @@
       "explanation": {
         "summary": "Felids are the definitive host of T. gondii and shed oocysts in feces; humans are intermediate hosts.",
         "whyCorrect": "Felids are the definitive host of T. gondii and shed oocysts in feces; humans are intermediate hosts.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Humans are intermediate hosts that harbor tachyzoites and tissue cysts but do not shed oocysts.",
+          "C": "Cattle and other livestock are intermediate hosts whose undercooked meat can transmit tissue cysts, but sexual reproduction occurs only in felids.",
+          "D": "Female sandflies are vectors for Leishmania, not part of the Toxoplasma life cycle.",
+          "E": "Freshwater snails are intermediate hosts for schistosomes and other flukes, not for Toxoplasma."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-236_mi042_f06.png",
@@ -1827,7 +2057,12 @@
       "explanation": {
         "summary": "The invasive, rapidly replicating form that lyses host cells during acute infection is the tachyzoite; bradyzoites are the latent cyst form.",
         "whyCorrect": "The invasive, rapidly replicating form that lyses host cells during acute infection is the tachyzoite; bradyzoites are the latent cyst form.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Promastigotes are the flagellated forms of Leishmania found in the sandfly gut, not a Toxoplasma stage.",
+          "C": "Oocysts are environmentally resistant forms shed in cat feces, not the intracellular form that replicates and lyses host cells.",
+          "D": "Bradyzoites are slowly dividing forms within latent tissue cysts that do not cause rapid cell lysis.",
+          "E": "Amastigotes are the intracellular forms of Leishmania and Trypanosoma cruzi, not Toxoplasma."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-237_mi042_f09.png",

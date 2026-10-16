@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "H. influenzae cannot lyse RBCs itself and requires exogenous factor X (hematin) and factor V (NAD), which is why it grows only on media containing lysed blood, such as chocolate agar.",
         "whyCorrect": "H. influenzae cannot lyse RBCs itself and requires exogenous factor X (hematin) and factor V (NAD), which is why it grows only on media containing lysed blood, such as chocolate agar.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Coagulase is a Staphylococcus aureus virulence enzyme that clots plasma; it is not a growth factor, and only factor V of this pair is required by Haemophilus.",
+          "C": "Oxidase is an enzyme detected by a colorimetric test, not a growth factor; Haemophilus needs NAD (factor V) along with hematin, not oxidase.",
+          "D": "Catalase is a bacterial enzyme that breaks down hydrogen peroxide, not a nutrient released from lysed red cells; NAD is the missing second requirement.",
+          "E": "Optochin and bacitracin are inhibitory disks used to identify streptococci (S. pneumoniae and group A strep), not nutrients that support Haemophilus growth."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-027_mi006_f03.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The agar is browned by heating blood, which lyses RBCs and frees factor X (hematin) and factor V (NAD). On intact blood agar these factors remain inside RBCs, so H. influenzae cannot grow.",
         "whyCorrect": "The agar is browned by heating blood, which lyses RBCs and frees factor X (hematin) and factor V (NAD). On intact blood agar these factors remain inside RBCs, so H. influenzae cannot grow.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Chocolate agar has no effect on IgA protease, which is a mucosal virulence factor that cleaves host IgA; it is irrelevant to growth on culture media.",
+          "B": "Plain chocolate agar is a nonselective enriched medium; selective antibiotic-containing versions such as Thayer-Martin target Neisseria, and the brown color comes from heated, lysed blood.",
+          "D": "CO2 is supplied by the incubator atmosphere or a candle jar, not by the agar; the browned medium works because heating releases factors X and V.",
+          "E": "Mannitol is the fermentable sugar in mannitol salt agar used for staphylococci; chocolate agar does not rely on mannitol, and Haemophilus growth depends on hematin and NAD."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-028_mi006_f04.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "A dense neutrophil-rich purulent exudate blanketing the meninges is the hallmark of acute pyogenic bacterial meningitis, as caused by H. influenzae or N. meningitidis; viral meningitis produces a lymphocytic, non-purulent picture.",
         "whyCorrect": "A dense neutrophil-rich purulent exudate blanketing the meninges is the hallmark of acute pyogenic bacterial meningitis, as caused by H. influenzae or N. meningitidis; viral meningitis produces a lymphocytic, non-purulent picture.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tuberculous meningitis produces a gelatinous, gray basal exudate with granulomas and cranial nerve entrapment, evolving subacutely, rather than the thick creamy neutrophilic pus of acute pyogenic infection.",
+          "C": "Viral meningitis causes a lymphocytic inflammation that leaves the meninges grossly near-normal or slightly congested, without a thick purulent exudate.",
+          "D": "A cerebral infarct is a localized area of softening and discoloration in a vascular territory of the parenchyma, not a diffuse purulent coating of the meninges.",
+          "E": "Subarachnoid hemorrhage coats the basal cisterns with dark red blood, typically from a ruptured berry aneurysm, rather than a yellow-green purulent exudate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-131_mi006_f07.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Enteropathogenic E. coli efface the microvilli and induce localized actin polymerization, forming characteristic actin pedestals beneath the attached bacteria, disrupting absorption.",
         "whyCorrect": "Enteropathogenic E. coli efface the microvilli and induce localized actin polymerization, forming characteristic actin pedestals beneath the attached bacteria, disrupting absorption.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Myosin heavy chain is a motor protein that moves along actin filaments; the pedestal itself is built from polymerized actin recruited by EPEC's Tir receptor.",
+          "C": "Spectrin is the submembrane cytoskeleton that maintains red cell shape; it is not the polymer that EPEC rearranges to build attaching-and-effacing pedestals.",
+          "D": "Keratins are intermediate filaments providing mechanical strength in epithelia; they are not rapidly polymerized beneath attached bacteria to form pedestals.",
+          "E": "Tubulin forms microtubules used in intracellular transport and mitosis; EPEC pedestals are actin-based structures nucleated via N-WASP and Arp2/3."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-004_mi007_f09.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "This is MacConkey agar, a selective (bile salts/crystal violet inhibit gram-positives) and differential medium. Lactose fermenters produce acid that lowers the pH and turns the neutral-red indicator pink, while non-fermenters remain colorless.",
         "whyCorrect": "This is MacConkey agar, a selective (bile salts/crystal violet inhibit gram-positives) and differential medium. Lactose fermenters produce acid that lowers the pH and turns the neutral-red indicator pink, while non-fermenters remain colorless.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "TCBS agar is used to isolate Vibrio species, which form yellow colonies from sucrose fermentation on a green medium, not pink lactose-fermenter colonies.",
+          "B": "EMB agar is also selective and differential for lactose fermenters, but positives appear dark purple to black, with E. coli showing a green metallic sheen, not pink.",
+          "C": "Sheep blood agar is a nonselective enriched medium used to assess hemolysis; it has no lactose and neutral-red indicator to turn colonies pink.",
+          "E": "Hektoen enteric agar is green, with non-fermenters such as Shigella appearing green-blue and Salmonella showing black centers from H2S; fermenters turn salmon-orange, not the pink-versus-pale pattern described."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-029_mi007_f01.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The dichotomous flowchart separates gram-negative organisms step by step using biochemical properties (lactose fermentation, oxidase, indole, etc.) to arrive at a species-level identification.",
         "whyCorrect": "The dichotomous flowchart separates gram-negative organisms step by step using biochemical properties (lactose fermentation, oxidase, indole, etc.) to arrive at a species-level identification.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Resistance mechanisms are assessed by susceptibility testing (disk diffusion, MIC) and genotypic assays, not by a dichotomous key of lactose, oxidase, and indole reactions.",
+          "C": "Hemolysis is graded simply by inspecting the zone around colonies on blood agar; it does not require a multistep biochemical decision tree.",
+          "D": "Sepsis severity is staged with clinical scores such as SOFA using vital signs and lab values, not microbial biochemical reactions.",
+          "E": "Antibody cross-reactivity between serotypes is mapped with serologic assays such as agglutination, not with a flowchart of metabolic tests."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-030_mi007_f02.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "On eosin-methylene blue (EMB) agar, vigorous lactose fermentation by E. coli precipitates the dyes to produce the characteristic green metallic sheen, distinguishing it from other Enterobacteriaceae.",
         "whyCorrect": "On eosin-methylene blue (EMB) agar, vigorous lactose fermentation by E. coli precipitates the dyes to produce the characteristic green metallic sheen, distinguishing it from other Enterobacteriaceae.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Salmonella does not ferment lactose, so it forms colorless or transparent colonies on EMB agar with no metallic sheen.",
+          "C": "Klebsiella ferments lactose but forms large, mucoid, pink-purple colonies on EMB without the green metallic sheen from vigorous acid production.",
+          "D": "Proteus is a non-lactose fermenter that produces pale colonies and is known for swarming motility, not a metallic sheen.",
+          "E": "Enterobacter ferments lactose but usually yields mucoid pink-purple colonies with dark centers on EMB, lacking the classic green sheen of E. coli."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-031_mi007_f03.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Complete lysis of erythrocytes producing a clear, colorless zone is beta hemolysis. Among Enterobacteriaceae only E. coli is beta-hemolytic.",
         "whyCorrect": "Complete lysis of erythrocytes producing a clear, colorless zone is beta hemolysis. Among Enterobacteriaceae only E. coli is beta-hemolytic.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Alpha hemolysis is partial lysis that oxidizes hemoglobin to a greenish discoloration around colonies, as with S. pneumoniae and viridans streptococci, not a clear transparent zone.",
+          "C": "Alpha-prime hemolysis shows a small zone of intact red cells next to the colony surrounded by a wider ring of complete lysis, not uniform clearing right up to the growth.",
+          "D": "Gamma hemolysis means no lysis, so the agar around colonies keeps its unchanged red color, as with Enterococcus.",
+          "E": "Synergistic hemolysis, such as the arrowhead in the CAMP test, appears only where two organisms' products intersect, not as clearing around a single colony."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-032_mi007_f04.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Growth radiating away from the inoculation stab indicates motility, mediated by flagella. Confinement to the stab line (right) indicates a nonmotile organism.",
         "whyCorrect": "Growth radiating away from the inoculation stab indicates motility, mediated by flagella. Confinement to the stab line (right) indicates a nonmotile organism.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "H2S production in motility or SIM media is shown by a black precipitate from iron sulfide, not by diffuse spreading of growth away from the stab line.",
+          "B": "A strict anaerobe would grow only in the deep, oxygen-poor part of the tube; the left tube's growth radiates laterally along the whole stab line.",
+          "C": "Sugar fermentation is read as a color change of a pH indicator, not as cloudy growth spreading outward from the inoculation track.",
+          "D": "A capsule affects colony mucoidness and phagocytosis resistance but does not let bacteria move through semisolid agar away from the stab."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-033_mi007_f05.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The indole test detects tryptophanase; a red ring after adding Kovac's reagent marks an indole-positive organism, a key trait separating E. coli (positive) from K. pneumoniae (negative).",
         "whyCorrect": "The indole test detects tryptophanase; a red ring after adding Kovac's reagent marks an indole-positive organism, a key trait separating E. coli (positive) from K. pneumoniae (negative).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Nitrate reduction is detected by adding sulfanilic acid and alpha-naphthylamine, which turn the whole broth red, not by Kovac's reagent forming a surface ring.",
+          "B": "Catalase is detected by immediate bubbling when hydrogen peroxide is added to colonies, not by a pink ring at the top of a broth tube.",
+          "D": "Urease is detected by a pink-magenta color throughout urea agar as ammonia raises the pH, not by a reagent-layer ring at the surface.",
+          "E": "Lactose fermentation is shown by acid changing a pH indicator in the medium, such as pink colonies on MacConkey, not a red ring after adding reagent."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-034_mi008_f04.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "K. pneumoniae has a large polysaccharide capsule that gives its colonies a characteristic mucoid, slimy appearance; the pink color reflects lactose fermentation on MacConkey agar.",
         "whyCorrect": "K. pneumoniae has a large polysaccharide capsule that gives its colonies a characteristic mucoid, slimy appearance; the pink color reflects lactose fermentation on MacConkey agar.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Peritrichous flagella cause swarming in Proteus, spreading thin film across the agar; Klebsiella is nonmotile and forms discrete domed colonies.",
+          "B": "Biofilm matrix is mostly polysaccharide and protein with some extracellular DNA, and it is not what gives individual Klebsiella colonies their glistening mucoid look.",
+          "C": "Klebsiella and other Enterobacteriaceae do not form endospores; spores are made by Bacillus and Clostridium and do not make colonies slimy.",
+          "D": "Prodigiosin is the red pigment of Serratia marcescens; Klebsiella colonies are pink on MacConkey only because lactose fermentation acidifies the medium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-035_mi008_f05.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Proteus mirabilis is strongly motile with peritrichous flagella; alternating cycles of swarming and consolidation across the agar create the concentric bull's-eye rings.",
         "whyCorrect": "Proteus mirabilis is strongly motile with peritrichous flagella; alternating cycles of swarming and consolidation across the agar create the concentric bull's-eye rings.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Prodigiosin gives Serratia colonies a red color, not concentric rings of spreading growth across the plate.",
+          "B": "A thick capsule makes colonies mucoid and dome-shaped, as in Klebsiella, but does not drive the cyclical outward migration that forms bull's-eye rings.",
+          "C": "Twitching motility via type IV pili produces short jerky surface movement, as in Pseudomonas and Neisseria, without forming swarming concentric rings.",
+          "E": "Hemolysins clear red cells around colonies on blood agar but do not move bacteria outward; the rings reflect the organism's own flagellar migration."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-036_mi008_f08.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Serratia marcescens produces prodigiosin, a red pigment; pyocyanin (blue-green) is made by Pseudomonas and staphyloxanthin (gold) by S. aureus.",
         "whyCorrect": "Serratia marcescens produces prodigiosin, a red pigment; pyocyanin (blue-green) is made by Pseudomonas and staphyloxanthin (gold) by S. aureus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pyocyanin is the blue-green, redox-active pigment of Pseudomonas aeruginosa, not the red pigment of Serratia.",
+          "C": "Melanin is a brown-black pigment produced by organisms such as Cryptococcus and some molds; it does not give colonies a bright red color.",
+          "D": "Violacein is a purple pigment made by Chromobacterium violaceum, not the red pigment of Serratia marcescens.",
+          "E": "Staphyloxanthin is the golden carotenoid pigment of Staphylococcus aureus that resists oxidative killing; it is not red."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-037_mi008_f09.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The flowchart applies sequential biochemical reactions (lactose, motility, urease, indole, and others) to differentiate genera within the Enterobacteriaceae family.",
         "whyCorrect": "The flowchart applies sequential biochemical reactions (lactose, motility, urease, indole, and others) to differentiate genera within the Enterobacteriaceae family.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Sepsis is scored clinically with tools such as SOFA or qSOFA using organ-dysfunction data, not with biochemical reactions like lactose and urease.",
+          "C": "Anticoagulant choice depends on indication, renal function, and bleeding risk; motility and urease tests play no role.",
+          "D": "Antifungal susceptibility is measured by MIC testing of fungal isolates, not by bacterial lactose, motility, and urease reactions.",
+          "E": "Malignancy staging uses TNM criteria from imaging and pathology, unrelated to microbial biochemical tests."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-038_mi008_f10.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Urease-producing organisms alkalinize the urine and generate ammonia, precipitating struvite (magnesium ammonium phosphate), which can grow into a branching staghorn calculus.",
         "whyCorrect": "Urease-producing organisms alkalinize the urine and generate ammonia, precipitating struvite (magnesium ammonium phosphate), which can grow into a branching staghorn calculus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cystine stones form from an inherited defect in renal reabsorption of dibasic amino acids, show hexagonal crystals, and arise in acidic urine, not from urease-producing infection.",
+          "B": "Uric acid stones form in persistently acidic urine, as with gout or tumor lysis, and are radiolucent; alkaline infected urine prevents them.",
+          "D": "Calcium oxalate is the most common stone overall, linked to hypercalciuria and hyperoxaluria, but it is not produced by urease-driven alkalinization and rarely forms staghorns.",
+          "E": "Brushite (calcium hydrogen phosphate) stones occur in mildly acidic to neutral urine with hypercalciuria, not from ammonia-generating urease infection forming magnesium ammonium phosphate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-132_mi008_f06.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The three components shown (O-specific polysaccharide, core polysaccharide, and lipid A) make up lipopolysaccharide, the endotoxin of the gram-negative outer membrane. Lipid A drives the inflammatory/septic response.",
         "whyCorrect": "The three components shown (O-specific polysaccharide, core polysaccharide, and lipid A) make up lipopolysaccharide, the endotoxin of the gram-negative outer membrane. Lipid A drives the inflammatory/septic response.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Peptidoglycan is a mesh of alternating NAG-NAM sugars cross-linked by peptides forming the cell wall; it lacks an O-antigen chain and a lipid A anchor in the outer membrane.",
+          "C": "Mycolic acids are very long branched fatty acids in the mycobacterial cell envelope, not a three-part sugar-plus-lipid molecule of gram-negative outer membranes.",
+          "D": "Lipoteichoic acid is a gram-positive polymer of glycerol or ribitol phosphate anchored in the cytoplasmic membrane; gram-negative bacteria lack it.",
+          "E": "Teichoic acid is a gram-positive cell-wall polymer attached to peptidoglycan, not an outer-membrane molecule with O-antigen, core, and lipid A regions."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-205_mi007_f07.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Enterohemorrhagic E. coli releases Shiga-like toxin, which removes an adenine from the 28S rRNA of the 60S ribosomal subunit, inhibiting protein synthesis and causing cell death; systemic spread underlies hemolytic uremic syndrome.",
         "whyCorrect": "Enterohemorrhagic E. coli releases Shiga-like toxin, which removes an adenine from the 28S rRNA of the 60S ribosomal subunit, inhibiting protein synthesis and causing cell death; systemic spread underlies hemolytic uremic syndrome.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cleaving SNARE proteins is how botulinum and tetanus toxins act, as zinc proteases that block neurotransmitter release; it does not kill enterocytes.",
+          "C": "Lecithinase (alpha toxin) of Clostridium perfringens degrades membrane phospholipids causing myonecrosis and hemolysis, not E. coli enterocyte death.",
+          "D": "ADP-ribosylating EF-2 is the mechanism of diphtheria toxin and Pseudomonas exotoxin A; Shiga-like toxin instead depurinates 28S rRNA.",
+          "E": "Raising cAMP via Gs activation is the mechanism of cholera toxin and the heat-labile toxin of ETEC, which causes secretory diarrhea without killing the cell."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-206_mi007_f10.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "The diagram shows antibodies against the acetylcholine receptor preventing ACh from activating the postsynaptic membrane, the defining mechanism of myasthenia gravis. Aminoglycosides can antagonize ACh receptors and cause neuromuscular blockade that compounds this deficit, so they are used cautiously in these patients.",
         "whyCorrect": "The diagram shows antibodies against the acetylcholine receptor preventing ACh from activating the postsynaptic membrane, the defining mechanism of myasthenia gravis. Aminoglycosides can antagonize ACh receptors and cause neuromuscular blockade that compounds this deficit, so they are used cautiously in these patients.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "ALS is degeneration of upper and lower motor neurons, causing mixed spasticity and atrophy, without autoantibodies blocking postsynaptic ACh receptors.",
+          "C": "Guillain-Barre syndrome is an autoimmune attack on peripheral nerve myelin or axons, causing ascending weakness and areflexia, not receptor blockade at the junction.",
+          "D": "Botulism results from a toxin that cleaves SNARE proteins and blocks presynaptic ACh release; it does not involve autoantibodies at the postsynaptic receptor.",
+          "E": "Lambert-Eaton syndrome involves antibodies against presynaptic voltage-gated calcium channels, reducing ACh release, and weakness improves with repeated use rather than worsening."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-133_mi012_f02.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "The panels depict nephrotoxicity, ototoxicity, and fetal harm, the hallmark adverse effects of aminoglycosides. Ototoxicity results from aminoglycoside inhibition of mitochondrial ribosomes in cochlear and vestibular hair cells, causing cell death; cochlear loss is irreversible while vestibular cells can partly regenerate.",
         "whyCorrect": "The panels depict nephrotoxicity, ototoxicity, and fetal harm, the hallmark adverse effects of aminoglycosides. Ototoxicity results from aminoglycoside inhibition of mitochondrial ribosomes in cochlear and vestibular hair cells, causing cell death; cochlear loss is irreversible while vestibular cells can partly regenerate.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Aminoglycoside ototoxicity is a direct drug effect on hair-cell mitochondria, not an immune-mediated attack on the organ of Corti as in autoimmune inner-ear disease.",
+          "C": "Aminoglycosides do not act by chelating endolymph calcium; hair cells die because the drug inhibits their mitochondrial ribosomes, generating oxidative injury.",
+          "D": "No autoantibodies against the stria vascularis are involved; loop diuretics, not aminoglycosides, primarily disturb strial function, and aminoglycoside injury targets hair cells.",
+          "E": "Prestin is the outer hair cell motor protein, and salicylates rather than aminoglycosides interfere with it, causing reversible hearing loss."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-192_mi012_f01.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "The panels show macrolide adverse effects: diarrhea, QT prolongation, nausea, and vomiting. By prolonging the QT interval, macrolides increase the risk of torsades de pointes, so they are avoided with other QT-prolonging agents and in patients with cardiovascular disease.",
         "whyCorrect": "The panels show macrolide adverse effects: diarrhea, QT prolongation, nausea, and vomiting. By prolonging the QT interval, macrolides increase the risk of torsades de pointes, so they are avoided with other QT-prolonging agents and in patients with cardiovascular disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Complete heart block is an AV conduction failure from nodal or His-Purkinje disease, not a result of prolonged ventricular repolarization.",
+          "B": "Wolff-Parkinson-White tachycardia uses an accessory pathway with a short PR and delta wave, a congenital conduction anomaly unrelated to QT prolongation.",
+          "C": "Atrial fibrillation arises from chaotic atrial activity, usually with atrial dilation or structural disease, not from delayed ventricular repolarization.",
+          "D": "A ventricular escape rhythm is a slow backup pacemaker that appears when higher pacemakers fail, not a triggered arrhythmia from a long QT."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-193_mi012_f04.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "The figure shows linezolid adverse effects: bone marrow suppression, peripheral neuropathy, and serotonin syndrome. Linezolid is a reversible MAO inhibitor, so co-administration with serotonergic drugs such as SSRIs or SNRIs can raise serotonin levels and precipitate serotonin syndrome.",
         "whyCorrect": "The figure shows linezolid adverse effects: bone marrow suppression, peripheral neuropathy, and serotonin syndrome. Linezolid is a reversible MAO inhibitor, so co-administration with serotonergic drugs such as SSRIs or SNRIs can raise serotonin levels and precipitate serotonin syndrome.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Linezolid does not act directly on postsynaptic 5-HT receptors as triptans or buspirone do; it raises serotonin by inhibiting its breakdown via MAO.",
+          "C": "Linezolid does not block the serotonin transporter; SSRIs do, and combining them with linezolid's MAO inhibition is what precipitates serotonin syndrome.",
+          "D": "Linezolid does not activate tryptophan hydroxylase, the rate-limiting enzyme of serotonin synthesis; its effect is reduced degradation of serotonin.",
+          "E": "SNRIs such as venlafaxine block serotonin and norepinephrine reuptake; linezolid lacks this transporter action and works as a weak reversible MAO inhibitor."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-194_mi012_f05.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "The figure shows the 70S bacterial ribosome composed of a 30S and 50S subunit, with the A (acceptor), P (peptidyl), and E (exit) tRNA-binding sites and rRNA. Aminoglycosides and tetracyclines are 30S subunit inhibitors, whereas macrolides, clindamycin, chloramphenicol, and linezolid act on the 50S subunit.",
         "whyCorrect": "The figure shows the 70S bacterial ribosome composed of a 30S and 50S subunit, with the A (acceptor), P (peptidyl), and E (exit) tRNA-binding sites and rRNA. Aminoglycosides and tetracyclines are 30S subunit inhibitors, whereas macrolides, clindamycin, chloramphenicol, and linezolid act on the 50S subunit.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The peptidyl transferase center is a catalytic site within the 50S subunit's 23S rRNA, targeted by chloramphenicol and linezolid, not a subunit and not the site of aminoglycosides.",
+          "B": "The 50S subunit is the target of macrolides, clindamycin, chloramphenicol, and linezolid; aminoglycosides and tetracyclines bind the 30S subunit.",
+          "C": "The 60S subunit belongs to the eukaryotic 80S ribosome, which is why ribosomal antibiotics spare host cytoplasmic protein synthesis.",
+          "E": "70S is the whole assembled bacterial ribosome, not a subunit; aminoglycosides and tetracyclines specifically bind the 30S subunit's 16S rRNA."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-207_mi011_f01.png",

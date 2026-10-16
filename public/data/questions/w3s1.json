@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Viral load rises rapidly and peaks well before antibodies become detectable, so early in infection serology (IgM or IgG) is falsely negative. A nucleic acid amplification test such as RT-PCR detects viral RNA at this early high-viral-load stage, making it the most reliable confirmatory test in the first week.",
         "whyCorrect": "Viral load rises rapidly and peaks well before antibodies become detectable, so early in infection serology (IgM or IgG) is falsely negative. A nucleic acid amplification test such as RT-PCR detects viral RNA at this early high-viral-load stage, making it the most reliable confirmatory test in the first week.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "IgG rises late, often two or more weeks after exposure, and indicates past infection or vaccination, so it is falsely negative early in the illness.",
+          "B": "IgM appears only after roughly a week or more, so it often misses infection in the first week when viral load peaks.",
+          "C": "A convalescent titer is drawn weeks after illness to confirm infection retrospectively and cannot confirm active infection in the first week.",
+          "D": "Complement fixation is an older antibody-detection serology that shares the same delay as other antibody tests and is not used to diagnose acute COVID-19."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-061_mi023_f03.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The middle and right particles are enveloped viruses surrounded by a lipid bilayer derived from host membrane. Alcohol dissolves this lipid envelope, destroying infectivity, whereas the naked (non-enveloped) virus on the left lacks an envelope and is comparatively resistant.",
         "whyCorrect": "The middle and right particles are enveloped viruses surrounded by a lipid bilayer derived from host membrane. Alcohol dissolves this lipid envelope, destroying infectivity, whereas the naked (non-enveloped) virus on the left lacks an envelope and is comparatively resistant.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An icosahedral capsid is a protein shell that is also present in non-enveloped viruses, which resist alcohol; the capsid does not explain the susceptibility.",
+          "B": "Every virus has a nucleic acid core, so it does not distinguish the alcohol-sensitive particles from the resistant naked virus.",
+          "D": "Glycoprotein spikes are anchored in the envelope and are lost when alcohol dissolves the lipid, but the vulnerable target is the lipid bilayer itself.",
+          "E": "A helical nucleocapsid describes the internal symmetry of some viruses and is not what alcohol attacks; the protective factor removed is the lipid envelope."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-222_mi023_f01.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "CMV massively enlarges infected cells (cyto = cell, megalo = large) and produces a large basophilic intranuclear inclusion with a surrounding clear halo, the classic 'owl's eye' inclusion.",
         "whyCorrect": "CMV massively enlarges infected cells (cyto = cell, megalo = large) and produces a large basophilic intranuclear inclusion with a surrounding clear halo, the classic 'owl's eye' inclusion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "EBV infects B cells and causes atypical lymphocytosis, but it does not produce giant cells with single owl's-eye intranuclear inclusions in tissue.",
+          "B": "RSV forms multinucleated syncytia with cytoplasmic inclusions, not a single enlarged cell with an intranuclear inclusion and halo.",
+          "C": "HSV produces multinucleated giant cells with Cowdry A inclusions and nuclear molding, without the massive cytomegaly of an owl's-eye cell.",
+          "E": "VZV produces multinucleated giant cells similar to HSV on Tzanck smear, not single enlarged cells with owl's-eye intranuclear inclusions."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-011_mi025_f03.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Multinucleated giant cells (Tzanck cells) on a smear indicate infection by an alpha-herpesvirus: HSV-1, HSV-2, or VZV.",
         "whyCorrect": "Multinucleated giant cells (Tzanck cells) on a smear indicate infection by an alpha-herpesvirus: HSV-1, HSV-2, or VZV.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Papillomaviruses cause koilocytes, squamous cells with perinuclear halos and wrinkled nuclei, not multinucleated giant cells.",
+          "C": "Poxviruses form eosinophilic cytoplasmic inclusions, such as the Henderson-Patterson bodies of molluscum, not multinucleated giant cells.",
+          "D": "Enteroviruses cause cell rounding and lysis in culture, not Tzanck-positive multinucleated cells from a vesicle base.",
+          "E": "Adenoviruses produce smudge cells with basophilic intranuclear inclusions, not multinucleated giant cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-062_mi024_f09.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Congenital CMV characteristically causes periventricular intracranial calcifications. This contrasts with Toxoplasma, which tends to cause diffuse scattered intracranial calcifications.",
         "whyCorrect": "Congenital CMV characteristically causes periventricular intracranial calcifications. This contrasts with Toxoplasma, which tends to cause diffuse scattered intracranial calcifications.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Congenital Zika causes severe microcephaly with calcifications typically at the cortical-subcortical junction, not in a periventricular distribution.",
+          "C": "Neonatal HSV usually presents with skin vesicles or encephalitis acquired at delivery; any calcifications are scattered and follow necrosis, not periventricular.",
+          "D": "Congenital rubella causes cataracts, deafness, and heart defects; periventricular calcification is not its characteristic imaging finding.",
+          "E": "Congenital toxoplasmosis causes diffuse, scattered parenchymal calcifications with hydrocephalus and chorioretinitis, rather than a periventricular pattern."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-063_mi025_f05.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Painful, grouped genital vesicles that ulcerate are the hallmark of genital herpes, most often caused by HSV-2.",
         "whyCorrect": "Painful, grouped genital vesicles that ulcerate are the hallmark of genital herpes, most often caused by HSV-2.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Chlamydia trachomatis serovars L1-L3 cause lymphogranuloma venereum, with a small transient painless ulcer followed by tender inguinal adenopathy, not grouped vesicles.",
+          "C": "Haemophilus ducreyi causes chancroid, a painful deep ulcer with a ragged purulent base and suppurative nodes, not clustered vesicles.",
+          "D": "Treponema pallidum produces a single painless indurated chancre with clean base, not painful grouped vesicles.",
+          "E": "HPV causes painless genital warts (condylomata acuminata), which are papillomatous, not vesicular or ulcerating."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-147_mi024_f03.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Primary herpetic gingivostomatitis, with painful vesicles and ulceration involving the gingiva and oral mucosa, is most commonly caused by initial HSV-1 infection.",
         "whyCorrect": "Primary herpetic gingivostomatitis, with painful vesicles and ulceration involving the gingiva and oral mucosa, is most commonly caused by initial HSV-1 infection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "HSV-2 can infect the mouth, but primary gingivostomatitis in young children is classically from HSV-1 acquired through oral contact.",
+          "B": "Coxsackievirus A causes herpangina with vesicles on the posterior palate and tonsillar pillars, sparing the gingiva, or hand-foot-and-mouth disease.",
+          "C": "Measles causes Koplik spots, tiny white spots on buccal mucosa before the rash, not painful vesicles with swollen gums.",
+          "E": "Candida causes removable white plaques (thrush) on an erythematous base, not painful vesicles with gingival swelling."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-148_mi024_f04.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Herpetic keratitis is most commonly caused by HSV-1 and is a leading infectious cause of corneal blindness.",
         "whyCorrect": "Herpetic keratitis is most commonly caused by HSV-1 and is a leading infectious cause of corneal blindness.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "CMV causes retinitis in severely immunocompromised patients, with hemorrhagic necrosis of the retina, not dendritic corneal ulcers.",
+          "B": "Chlamydia trachomatis causes follicular conjunctivitis and scarring trachoma, not dendritic ulcers, and it is a bacterium rather than a virus.",
+          "D": "Adenovirus causes epidemic keratoconjunctivitis with subepithelial infiltrates and pink eye, not branching dendritic ulcers.",
+          "E": "VZV can cause keratitis in herpes zoster ophthalmicus, with pseudodendrites, but HSV-1 is far more common and forms true dendrites with terminal bulbs."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-149_mi024_f05.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Neonatal herpes is most often acquired from an HSV-2 shedding maternal genital tract during delivery and classically presents with vesicular lesions around the eyes and mouth.",
         "whyCorrect": "Neonatal herpes is most often acquired from an HSV-2 shedding maternal genital tract during delivery and classically presents with vesicular lesions around the eyes and mouth.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Congenital rubella is acquired transplacentally and causes cataracts, deafness, and heart defects, not vesicles appearing days after vaginal delivery.",
+          "B": "Congenital CMV causes petechiae, hepatosplenomegaly, and periventricular calcifications, not clustered vesicles after delivery.",
+          "C": "HSV-1 can cause neonatal herpes, especially with new maternal genital HSV-1, but HSV-2 shedding at delivery is the classic and most common source.",
+          "D": "Neonatal varicella follows maternal chickenpox near delivery and produces a generalized rash at various stages, not facial vesicles from birth-canal exposure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-150_mi024_f06.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Herpetic whitlow is an HSV infection of the finger, historically common in healthcare workers before routine glove use and spread by autoinoculation.",
         "whyCorrect": "Herpetic whitlow is an HSV infection of the finger, historically common in healthcare workers before routine glove use and spread by autoinoculation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Sporothrix schenckii causes nodules ascending along lymphatics after a thorn injury, not painful grouped vesicles on a fingertip.",
+          "C": "HPV causes common warts with rough keratotic papules, not acute painful vesicles from autoinoculation.",
+          "D": "Staphylococcus aureus causes paronychia or felon, with pus-filled abscesses, rather than clustered clear vesicles; incising a herpetic whitlow is contraindicated.",
+          "E": "Candida causes chronic paronychia in wet-work occupations, with swelling and nail dystrophy, not acute vesicles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-151_mi024_f07.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Herpes gladiatorum is a cutaneous HSV infection spread by direct skin contact in contact-sport athletes such as wrestlers.",
         "whyCorrect": "Herpes gladiatorum is a cutaneous HSV infection spread by direct skin contact in contact-sport athletes such as wrestlers.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Molluscum contagiosum spreads by contact in athletes but forms firm, pearly umbilicated papules, not clustered vesicles.",
+          "C": "Tinea corporis gladiatorum forms scaly annular plaques with central clearing, not grouped vesicles.",
+          "D": "VZV reactivation causes dermatomal vesicles, and primary varicella causes a generalized rash; neither is spread by mat contact in this way.",
+          "E": "Staphylococcus aureus causes impetigo with honey-crusted lesions or bullae, not grouped vesicles on an erythematous base."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-152_mi024_f08.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Chicken pox is caused by primary VZV infection, with lesions evolving through macule, papule, vesicle, and crust stages.",
         "whyCorrect": "Chicken pox is caused by primary VZV infection, with lesions evolving through macule, papule, vesicle, and crust stages.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Coxsackievirus causes hand-foot-and-mouth disease or herpangina, with oval vesicles on hands, feet, and mouth, not generalized lesions evolving to crusted ulcers.",
+          "C": "HSV-1 causes localized grouped vesicles, usually around the mouth, not a generalized childhood exanthem progressing through these stages.",
+          "D": "Measles causes a confluent maculopapular rash spreading from the hairline downward, without vesicles or crusts.",
+          "E": "Smallpox lesions also evolve through these stages but form deep pustules that are synchronous and centrifugal; the disease was eradicated in 1980."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-153_mi024_f10.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "VZV can produce a vesicular enanthem on the oral mucosa (including the soft palate) in addition to the widespread skin rash of chicken pox.",
         "whyCorrect": "VZV can produce a vesicular enanthem on the oral mucosa (including the soft palate) in addition to the widespread skin rash of chicken pox.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "HSV-1 primary infection causes gingivostomatitis involving the gingiva and anterior mouth, not a generalized vesicular skin exanthem.",
+          "B": "Measles produces Koplik spots on buccal mucosa and a maculopapular rather than vesicular rash.",
+          "D": "CMV in children is usually asymptomatic or causes a mononucleosis-like illness, not a vesicular exanthem with palatal vesicles.",
+          "E": "Coxsackievirus A causes herpangina and hand-foot-and-mouth disease, with lesions limited to the mouth, hands, feet, and buttocks rather than a generalized vesicular exanthem."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-154_mi024_f12.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "A painful dermatomal vesicular rash respecting the midline is shingles, caused by reactivation of latent varicella zoster virus in a sensory ganglion.",
         "whyCorrect": "A painful dermatomal vesicular rash respecting the midline is shingles, caused by reactivation of latent varicella zoster virus in a sensory ganglion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Impetigo forms honey-crusted erosions, often around the nose and mouth, caused by S. aureus or S. pyogenes, and does not follow a dermatome.",
+          "B": "Recurrent HSV-1 forms a small cluster of vesicles at the same site, usually the lip, rather than a band covering a whole dermatome.",
+          "D": "Contact dermatitis is itchy and follows the shape of the contact exposure, not a painful dermatomal distribution.",
+          "E": "Cellulitis is diffuse, warm, tender erythema without grouped vesicles and does not follow a dermatome or stop at the midline."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-155_mi024_f13.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "The non-scrapable, corrugated white plaque on the lateral tongue is oral hairy leukoplakia, an EBV-driven lesion classically seen in HIV/AIDS and other severely immunosuppressed patients. Unlike thrush (Candida), it cannot be scraped off.",
         "whyCorrect": "The non-scrapable, corrugated white plaque on the lateral tongue is oral hairy leukoplakia, an EBV-driven lesion classically seen in HIV/AIDS and other severely immunosuppressed patients. Unlike thrush (Candida), it cannot be scraped off.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "HPV causes oral papillomas and some oropharyngeal cancers, not corrugated white plaques on the lateral tongue in immunosuppressed patients.",
+          "C": "CMV causes oral ulcers, retinitis, and colitis in AIDS, not non-scrapable hairy leukoplakia.",
+          "D": "Candida causes thrush, white plaques that can be scraped off to reveal a red base, and it is a fungus rather than a virus.",
+          "E": "HSV-1 causes painful vesicles and ulcers on the lips and mouth, not a painless, corrugated white plaque."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-156_mi025_f01.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Herpesviruses use retrograde axonal transport to reach sensory ganglia where they establish latency, then travel back down (anterograde) upon reactivation to produce lesions at the original mucocutaneous site.",
         "whyCorrect": "Herpesviruses use retrograde axonal transport to reach sensory ganglia where they establish latency, then travel back down (anterograde) upon reactivation to produce lesions at the original mucocutaneous site.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Papillomaviruses infect basal epithelial cells and persist there; they do not travel along sensory axons to establish latency in ganglia.",
+          "C": "Picornaviruses such as poliovirus can spread through nerves, but they cause acute infection without latency and reactivation cycles between skin and ganglia.",
+          "D": "Retroviruses integrate into host chromosomes, mainly in CD4 T cells, and do not use axonal transport to ganglia for latency.",
+          "E": "Orthomyxoviruses cause acute respiratory infection and are cleared; they do not establish latency in sensory ganglia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-223_mi024_f02.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Acyclovir and related guanosine analogs are prodrugs that must first be monophosphorylated by virus-specific thymidine kinase before host kinases complete activation to the triphosphate that blocks viral nucleic acid synthesis. This dependence on the viral enzyme underlies both the drug's selectivity and the resistance seen when thymidine kinase is mutated.",
         "whyCorrect": "Acyclovir and related guanosine analogs are prodrugs that must first be monophosphorylated by virus-specific thymidine kinase before host kinases complete activation to the triphosphate that blocks viral nucleic acid synthesis. This dependence on the viral enzyme underlies both the drug's selectivity and the resistance seen when thymidine kinase is mutated.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Reverse transcriptase is an HIV and hepatitis B enzyme, not part of herpesvirus acyclovir activation.",
+          "C": "Viral DNA polymerase is the target that acyclovir triphosphate inhibits, not the enzyme that performs the first phosphorylation.",
+          "D": "Host cell kinases add the second and third phosphates, but they cannot perform the first step efficiently, which is why uninfected cells are spared.",
+          "E": "Viral protease cleaves polyproteins and has no role in phosphorylating nucleoside analogs."
+        }
       },
       "difficulty": "medium",
       "imageRef": "mipic-224_mi026_f01.png",
