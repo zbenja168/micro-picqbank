@@ -5,22 +5,22 @@
       "name": "Session 1",
       "topics": [
         {
-          "id": "bacterial-structure-growth-and-staining",
+          "id": "bacterial-structure-growth-and-staining-2026",
           "name": "Bacterial Structure, Growth, and Staining",
-          "sourceFile": "brick",
-          "questionCount": 4
-        },
-        {
-          "id": "bacterial-reproduction-and-genetics",
-          "name": "Bacterial Reproduction and Genetics",
-          "sourceFile": "brick",
+          "sourceFile": "Micro Brick 53",
           "questionCount": 5
         },
         {
-          "id": "normal-flora-role-in-health-and-disease",
+          "id": "bacterial-reproduction-and-genetics-2026",
+          "name": "Bacterial Reproduction and Genetics",
+          "sourceFile": "Micro Brick 54",
+          "questionCount": 3
+        },
+        {
+          "id": "normal-flora-role-in-health-and-disease-2026",
           "name": "Normal Flora: Role in Health and Disease",
-          "sourceFile": "brick",
-          "questionCount": 4
+          "sourceFile": "Micro Brick 55",
+          "questionCount": 10
         }
       ],
       "week": 1,
@@ -32,40 +32,22 @@
       "name": "Session 2",
       "topics": [
         {
-          "id": "gram-positive-and-negative-algorithms",
+          "id": "gram-positive-and-negative-algorithms-2026",
           "name": "Gram-Positive and Negative Algorithms",
-          "sourceFile": "brick",
-          "questionCount": 9
+          "sourceFile": "Micro Brick 56",
+          "questionCount": 19
         },
         {
-          "id": "staphylococci",
+          "id": "staphylococci-2026",
           "name": "Staphylococci",
-          "sourceFile": "brick",
-          "questionCount": 5
+          "sourceFile": "Micro Brick 57",
+          "questionCount": 7
         },
         {
-          "id": "cephalosporins",
-          "name": "Cephalosporins",
-          "sourceFile": "brick",
-          "questionCount": 2
-        },
-        {
-          "id": "carbapenems",
-          "name": "Carbapenems",
-          "sourceFile": "brick",
-          "questionCount": 3
-        },
-        {
-          "id": "vancomycin-and-bacitracin",
-          "name": "Vancomycin and Bacitracin",
-          "sourceFile": "brick",
-          "questionCount": 1
-        },
-        {
-          "id": "penicillins",
-          "name": "Penicillins",
-          "sourceFile": "brick",
-          "questionCount": 4
+          "id": "streptococci-and-enterococci-2026",
+          "name": "Streptococci and Enterococci",
+          "sourceFile": "Micro Brick 58",
+          "questionCount": 8
         }
       ],
       "week": 1,
@@ -77,28 +59,28 @@
       "name": "Session 1",
       "topics": [
         {
-          "id": "streptococci-and-enterococci",
-          "name": "Streptococci and Enterococci",
-          "sourceFile": "brick",
-          "questionCount": 7
+          "id": "neisseria-meningitidis-and-haemophilus-influenzae-2026",
+          "name": "Neisseria meningitidis and Haemophilus influenzae",
+          "sourceFile": "Micro Brick 59",
+          "questionCount": 5
         },
         {
-          "id": "clostridia",
+          "id": "clostridia-2026",
           "name": "Clostridia",
-          "sourceFile": "brick",
-          "questionCount": 3
+          "sourceFile": "Micro Brick 60",
+          "questionCount": 6
         },
         {
-          "id": "listeria-monocytogenes",
-          "name": "Listeria Monocytogenes",
-          "sourceFile": "brick",
-          "questionCount": 3
+          "id": "listeria-monocytogenes-2026",
+          "name": "Listeria monocytogenes",
+          "sourceFile": "Micro Brick 61",
+          "questionCount": 1
         },
         {
-          "id": "fluoroquinolones",
-          "name": "Fluoroquinolones",
-          "sourceFile": "brick",
-          "questionCount": 4
+          "id": "antibiotic-stewardship-2026",
+          "name": "Antibiotic Stewardship",
+          "sourceFile": "Micro Brick 63",
+          "questionCount": 2
         }
       ],
       "week": 2,
@@ -110,22 +92,28 @@
       "name": "Session 2",
       "topics": [
         {
-          "id": "neisseria-and-haemophilus",
-          "name": "Neisseria and Haemophilus",
-          "sourceFile": "brick",
-          "questionCount": 3
+          "id": "enterobacteriaceae-part-1-of-2-2026",
+          "name": "Enterobacteriaceae (Part 1 of 2)",
+          "sourceFile": "Micro Brick 64",
+          "questionCount": 6
         },
         {
-          "id": "enterobacteriaceae",
-          "name": "Enterobacteriaceae",
-          "sourceFile": "brick",
-          "questionCount": 14
+          "id": "enterobacteriaceae-part-2-of-2-2026",
+          "name": "Enterobacteriaceae (Part 2 of 2)",
+          "sourceFile": "Micro Brick 65",
+          "questionCount": 9
         },
         {
-          "id": "protein-synthesis-inhibitors",
-          "name": "Protein Synthesis Inhibitors",
-          "sourceFile": "brick",
-          "questionCount": 5
+          "id": "salmonella-shigella-and-campylobacter-spp-2026",
+          "name": "Salmonella, Shigella, and Campylobacter spp.",
+          "sourceFile": "Micro Brick 66",
+          "questionCount": 6
+        },
+        {
+          "id": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+          "name": "Pseudomonas species and other closely related bacteria",
+          "sourceFile": "Micro Brick 67",
+          "questionCount": 22
         }
       ],
       "week": 2,
@@ -137,49 +125,16 @@
       "name": "Session 3",
       "topics": [
         {
-          "id": "salmonella-shigella-and-campylobacter",
-          "name": "Salmonella, Shigella, and Campylobacter",
-          "sourceFile": "brick",
-          "questionCount": 6
-        },
-        {
-          "id": "pseudomonas-and-related-bacteria",
-          "name": "Pseudomonas and Related Bacteria",
-          "sourceFile": "brick",
+          "id": "atypical-bacteria-2026",
+          "name": "Atypical Bacteria",
+          "sourceFile": "Micro Brick 68",
           "questionCount": 11
         },
         {
-          "id": "sulfonamides",
-          "name": "Sulfonamides",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ],
-      "week": 2,
-      "weekName": "Week 2",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "w2s4",
-      "name": "Session 4",
-      "topics": [
-        {
-          "id": "mycobacterium-tuberculosis-and-mac",
-          "name": "Mycobacterium Tuberculosis and MAC",
-          "sourceFile": "brick",
-          "questionCount": 13
-        },
-        {
-          "id": "atypical-bacteria",
-          "name": "Atypical Bacteria",
-          "sourceFile": "brick",
-          "questionCount": 9
-        },
-        {
-          "id": "bacterial-tick-borne-diseases",
-          "name": "Bacterial Tick-Borne Diseases",
-          "sourceFile": "brick",
-          "questionCount": 4
+          "id": "bacterial-tick-borne-diseases-2026",
+          "name": "Bacterial Tick-borne Diseases",
+          "sourceFile": "Micro Brick 69",
+          "questionCount": 5
         }
       ],
       "week": 2,
@@ -329,7 +284,64 @@
       "week": 4,
       "weekName": "Week 4",
       "weekSubtitle": ""
+    },
+    {
+      "id": "more",
+      "name": "More topics",
+      "topics": [
+        {
+          "id": "cephalosporins",
+          "name": "Cephalosporins",
+          "sourceFile": "brick",
+          "questionCount": 2
+        },
+        {
+          "id": "carbapenems",
+          "name": "Carbapenems",
+          "sourceFile": "brick",
+          "questionCount": 3
+        },
+        {
+          "id": "vancomycin-and-bacitracin",
+          "name": "Vancomycin and Bacitracin",
+          "sourceFile": "brick",
+          "questionCount": 1
+        },
+        {
+          "id": "penicillins",
+          "name": "Penicillins",
+          "sourceFile": "brick",
+          "questionCount": 4
+        },
+        {
+          "id": "fluoroquinolones",
+          "name": "Fluoroquinolones",
+          "sourceFile": "brick",
+          "questionCount": 4
+        },
+        {
+          "id": "protein-synthesis-inhibitors",
+          "name": "Protein Synthesis Inhibitors",
+          "sourceFile": "brick",
+          "questionCount": 5
+        },
+        {
+          "id": "sulfonamides",
+          "name": "Sulfonamides",
+          "sourceFile": "brick",
+          "questionCount": 4
+        },
+        {
+          "id": "mycobacterium-tuberculosis-and-mac",
+          "name": "Mycobacterium Tuberculosis and MAC",
+          "sourceFile": "brick",
+          "questionCount": 13
+        }
+      ],
+      "week": 5,
+      "weekName": "More",
+      "weekSubtitle": "Topics outside the class schedule"
     }
   ],
-  "totalQuestions": 246
+  "totalQuestions": 284
 }

@@ -3,582 +3,10 @@
   "categoryName": "Session 3",
   "questions": [
     {
-      "id": "mipic-041",
-      "topicId": "salmonella-shigella-and-campylobacter",
-      "topicName": "Salmonella, Shigella, and Campylobacter",
-      "stem": "On this MacConkey agar plate the colonies of the enteric pathogen remain pale/colorless rather than pink. What does this colony appearance indicate about the organism?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It ferments lactose strongly"
-        },
-        {
-          "label": "B",
-          "text": "It is gram-positive"
-        },
-        {
-          "label": "C",
-          "text": "It does not ferment lactose"
-        },
-        {
-          "label": "D",
-          "text": "It produces beta-hemolysis"
-        },
-        {
-          "label": "E",
-          "text": "It is oxidase positive"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Colorless (non-pink) colonies on MacConkey agar indicate a non-lactose fermenter. Salmonella spp. are gram-negative, lactose-non-fermenting rods, which appear pale against the pink lactose-fermenting background flora.",
-        "whyCorrect": "Colorless (non-pink) colonies on MacConkey agar indicate a non-lactose fermenter. Salmonella spp. are gram-negative, lactose-non-fermenting rods, which appear pale against the pink lactose-fermenting background flora.",
-        "whyWrongByChoice": {
-          "A": "Strong lactose fermenters acidify MacConkey agar and form pink-red colonies, the opposite of the pale colonies shown.",
-          "B": "MacConkey agar contains bile salts and crystal violet that inhibit gram-positive organisms, so colonies growing on it are gram-negative.",
-          "D": "Hemolysis cannot be assessed on MacConkey agar because it contains no red blood cells; beta hemolysis is read on blood agar.",
-          "E": "Oxidase status is determined by a separate reagent test, not colony color on MacConkey; Salmonella and other Enterobacteriaceae are oxidase negative."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-041_mi013_f05.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-042",
-      "topicId": "salmonella-shigella-and-campylobacter",
-      "topicName": "Salmonella, Shigella, and Campylobacter",
-      "stem": "This triple sugar iron (TSI) agar tube shows an acidic (yellow) butt after inoculation with the enteric pathogen. Which two metabolic activities of Salmonella does the TSI reaction classically demonstrate?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Oxidase and catalase activity"
-        },
-        {
-          "label": "B",
-          "text": "Nitrate reduction and indole formation"
-        },
-        {
-          "label": "C",
-          "text": "Urease activity and gas production"
-        },
-        {
-          "label": "D",
-          "text": "Glucose fermentation and H2S production"
-        },
-        {
-          "label": "E",
-          "text": "Lactose and sucrose fermentation only"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "On TSI agar, Salmonella ferments glucose (yellow, acidic butt) and produces H2S, which reacts with iron salts to form a black precipitate. This distinguishes it from Shigella, which does not produce H2S.",
-        "whyCorrect": "On TSI agar, Salmonella ferments glucose (yellow, acidic butt) and produces H2S, which reacts with iron salts to form a black precipitate. This distinguishes it from Shigella, which does not produce H2S.",
-        "whyWrongByChoice": {
-          "A": "Oxidase and catalase are tested with separate reagents on colonies; TSI agar reports sugar fermentation and H2S, and Salmonella is oxidase negative.",
-          "B": "Nitrate reduction and indole are detected in nitrate broth and tryptone broth with specific reagents, not on a TSI slant.",
-          "C": "Urease activity is tested on urea agar, and Salmonella is urease negative; TSI shows glucose fermentation in the butt and H2S blackening.",
-          "E": "A yellow slant and butt would indicate lactose or sucrose fermentation; Salmonella ferments only glucose, leaving an alkaline red slant over an acidic butt."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-042_mi013_f06.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-043",
-      "topicId": "salmonella-shigella-and-campylobacter",
-      "topicName": "Salmonella, Shigella, and Campylobacter",
-      "stem": "This Gram stain shows small, curved, comma- or seagull-shaped pink-staining bacilli. These morphologic features are characteristic of which organism?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Shigella sonnei"
-        },
-        {
-          "label": "B",
-          "text": "Staphylococcus aureus"
-        },
-        {
-          "label": "C",
-          "text": "Escherichia coli"
-        },
-        {
-          "label": "D",
-          "text": "Salmonella enterica"
-        },
-        {
-          "label": "E",
-          "text": "Campylobacter jejuni"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Campylobacter spp. are gram-negative, comma- or S-shaped (seagull-shaped) rods, distinguishing them from the straight rods of Salmonella and Shigella. They are also oxidase positive and grow optimally at 42 degrees C.",
-        "whyCorrect": "Campylobacter spp. are gram-negative, comma- or S-shaped (seagull-shaped) rods, distinguishing them from the straight rods of Salmonella and Shigella. They are also oxidase positive and grow optimally at 42 degrees C.",
-        "whyWrongByChoice": {
-          "A": "Shigella sonnei is a straight gram-negative rod, not a curved, comma- or seagull-shaped organism.",
-          "B": "Staphylococcus aureus is a gram-positive coccus that stains purple and grows in grapelike clusters, not pink curved rods.",
-          "C": "Escherichia coli is a straight, plump gram-negative rod without the curved seagull morphology.",
-          "D": "Salmonella enterica is a straight gram-negative rod; the curved, seagull-shaped form points to Campylobacter."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-043_mi013_f08.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-134",
-      "topicId": "salmonella-shigella-and-campylobacter",
-      "topicName": "Salmonella, Shigella, and Campylobacter",
-      "stem": "This gross specimen, shown with a centimeter ruler, is an abnormally small organ studded with dark infarcts. Loss of this organ's function predisposes patients to disseminated Salmonella infection. Which organ is shown?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Lymph node"
-        },
-        {
-          "label": "B",
-          "text": "Liver"
-        },
-        {
-          "label": "C",
-          "text": "Kidney"
-        },
-        {
-          "label": "D",
-          "text": "Spleen"
-        },
-        {
-          "label": "E",
-          "text": "Pancreas"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "The specimen is a shrunken, infarcted spleen (autosplenectomy). Functional asplenia, as in sickle cell disease, impairs clearance of encapsulated and intracellular organisms and markedly increases the risk of disseminated salmonellosis.",
-        "whyCorrect": "The specimen is a shrunken, infarcted spleen (autosplenectomy). Functional asplenia, as in sickle cell disease, impairs clearance of encapsulated and intracellular organisms and markedly increases the risk of disseminated salmonellosis.",
-        "whyWrongByChoice": {
-          "A": "A lymph node is a small bean-shaped organ with a hilum and does not show the shrunken, multiply infarcted mass typical of autosplenectomy.",
-          "B": "The liver is a large organ, not abnormally small and studded with infarcts, and its dual blood supply makes infarction rare.",
-          "C": "Renal infarcts in sickle cell disease affect the medulla (papillary necrosis), and the kidney is not the organ whose loss impairs clearance of encapsulated organisms and Salmonella.",
-          "E": "The pancreas is an elongated retroperitoneal gland that is not infarcted in sickle cell disease, and its loss does not cause susceptibility to Salmonella bacteremia."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-134_mi013_f03.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-135",
-      "topicId": "salmonella-shigella-and-campylobacter",
-      "topicName": "Salmonella, Shigella, and Campylobacter",
-      "stem": "This faint, blanching maculopapular eruption on the trunk is a classic transient finding of which systemic infection?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Shigellosis"
-        },
-        {
-          "label": "B",
-          "text": "Reactive arthritis"
-        },
-        {
-          "label": "C",
-          "text": "Nontyphoidal Salmonella gastroenteritis"
-        },
-        {
-          "label": "D",
-          "text": "Campylobacter enteritis"
-        },
-        {
-          "label": "E",
-          "text": "Typhoid fever"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Rose spots, a transient maculopapular rash on the trunk, are characteristic of typhoidal salmonellosis (typhoid fever). This finding does not occur with nontyphoidal Salmonella infection.",
-        "whyCorrect": "Rose spots, a transient maculopapular rash on the trunk, are characteristic of typhoidal salmonellosis (typhoid fever). This finding does not occur with nontyphoidal Salmonella infection.",
-        "whyWrongByChoice": {
-          "A": "Shigellosis causes fever, cramps, and bloody dysentery but does not produce a transient blanching truncal rash like rose spots.",
-          "B": "Reactive arthritis presents with arthritis, urethritis, and conjunctivitis and may cause keratoderma blennorrhagicum on palms and soles, not faint truncal rose spots.",
-          "C": "Nontyphoidal Salmonella gastroenteritis is a self-limited diarrheal illness without rose spots, which are specific to systemic typhoidal disease.",
-          "D": "Campylobacter enteritis causes bloody diarrhea and can trigger Guillain-Barre syndrome, but it does not produce rose spots."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-135_mi013_f04.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-208",
-      "topicId": "salmonella-shigella-and-campylobacter",
-      "topicName": "Salmonella, Shigella, and Campylobacter",
-      "stem": "Panels A and B diagram this needle-like apparatus spanning both bacterial membranes, and panel C shows it by electron microscopy. What is its primary function for the bacterium?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Rotating to provide flagellar motility"
-        },
-        {
-          "label": "B",
-          "text": "Conjugative transfer of plasmid DNA"
-        },
-        {
-          "label": "C",
-          "text": "Injecting effector proteins into the host cell"
-        },
-        {
-          "label": "D",
-          "text": "Exporting lipopolysaccharide to the surface"
-        },
-        {
-          "label": "E",
-          "text": "Assembling the peptidoglycan cell wall"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "The structure is a Type III secretion system, a syringe-like injectisome that spans both membranes of gram-negative bacteria and translocates effector proteins directly into host cells to promote invasion and block phagocytic killing.",
-        "whyCorrect": "The structure is a Type III secretion system, a syringe-like injectisome that spans both membranes of gram-negative bacteria and translocates effector proteins directly into host cells to promote invasion and block phagocytic killing.",
-        "whyWrongByChoice": {
-          "A": "A flagellum is a long helical filament driven by a rotary motor at its base; the short, hollow needle shown is built for protein injection, not propulsion.",
-          "B": "Plasmid conjugation uses a sex (F) pilus and type IV secretion machinery, not the type III injectisome that targets host cells.",
-          "D": "LPS reaches the outer membrane via the Lpt transport pathway, not a needle that projects outward to contact host cells.",
-          "E": "Peptidoglycan is assembled by penicillin-binding proteins in the periplasm, not by a needle complex that penetrates host membranes."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-208_mi013_f02.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-044",
-      "topicId": "pseudomonas-and-related-bacteria",
-      "topicName": "Pseudomonas and Related Bacteria",
-      "stem": "This electron micrograph shows a rod-shaped bacterium bearing a single appendage extending from one pole. What structure is this and what function does it provide?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "An axial filament for corkscrew motion"
-        },
-        {
-          "label": "B",
-          "text": "A fimbria used only for adhesion"
-        },
-        {
-          "label": "C",
-          "text": "A polar spore for dormancy"
-        },
-        {
-          "label": "D",
-          "text": "A single polar flagellum providing motility"
-        },
-        {
-          "label": "E",
-          "text": "A sex pilus mediating conjugation"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Pseudomonas spp. are motile by a single polar flagellum, which drives their characteristic swimming motility and helps them reach and colonize surfaces.",
-        "whyCorrect": "Pseudomonas spp. are motile by a single polar flagellum, which drives their characteristic swimming motility and helps them reach and colonize surfaces.",
-        "whyWrongByChoice": {
-          "A": "Axial filaments (endoflagella) lie in the periplasm of spirochetes like Treponema and Borrelia, wrapping the cell body rather than protruding from one pole of a rod.",
-          "B": "Fimbriae are numerous short, thin hairlike adhesins covering the cell surface, not a single long whip-like polar appendage.",
-          "C": "Spores are dormant internal structures formed by Bacillus and Clostridium, not external appendages, and Pseudomonas does not sporulate.",
-          "E": "A sex pilus is a straight tube that connects donor to recipient during conjugation; it does not provide swimming motility like this whip-like flagellum."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-044_mi014_f02.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-045",
-      "topicId": "pseudomonas-and-related-bacteria",
-      "topicName": "Pseudomonas and Related Bacteria",
-      "stem": "Colonies growing on this agar plate produce a diffusing blue-green discoloration of the medium. Which pigment is chiefly responsible for this color and is directly toxic to host cells?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Pyoverdine"
-        },
-        {
-          "label": "B",
-          "text": "Bilirubin"
-        },
-        {
-          "label": "C",
-          "text": "Melanin"
-        },
-        {
-          "label": "D",
-          "text": "Prodigiosin"
-        },
-        {
-          "label": "E",
-          "text": "Pyocyanin"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Pyocyanin is a blue pigment produced by P. aeruginosa that is toxic to cells including leukocytes and epithelial cells, and together with yellow pyoverdine gives colonies their blue-to-aqua color.",
-        "whyCorrect": "Pyocyanin is a blue pigment produced by P. aeruginosa that is toxic to cells including leukocytes and epithelial cells, and together with yellow pyoverdine gives colonies their blue-to-aqua color.",
-        "whyWrongByChoice": {
-          "A": "Pyoverdine is a yellow-green fluorescent siderophore of Pseudomonas that scavenges iron; it is not the blue, directly cytotoxic redox pigment.",
-          "B": "Bilirubin is a host heme-breakdown product, not a bacterial pigment diffusing from colonies into agar.",
-          "C": "Melanin is a brown-black pigment of organisms such as Cryptococcus that protects against oxidants; it does not produce blue-green discoloration.",
-          "D": "Prodigiosin is the red pigment of Serratia marcescens, not a blue-green diffusible pigment."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-045_mi014_f04.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-046",
-      "topicId": "pseudomonas-and-related-bacteria",
-      "topicName": "Pseudomonas and Related Bacteria",
-      "stem": "This agar plate shows bacterial growth with a diffuse aqua-green discoloration spreading through the medium. This colony appearance and pigmentation is most characteristic of which organism?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Klebsiella pneumoniae"
-        },
-        {
-          "label": "B",
-          "text": "Staphylococcus aureus"
-        },
-        {
-          "label": "C",
-          "text": "Escherichia coli"
-        },
-        {
-          "label": "D",
-          "text": "Pseudomonas aeruginosa"
-        },
-        {
-          "label": "E",
-          "text": "Salmonella enterica"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Pseudomonas colonies characteristically show an aqua-to-green color from pyocyanin and pyoverdine; it is a non-lactose-fermenting, oxidase-positive gram-negative rod.",
-        "whyCorrect": "Pseudomonas colonies characteristically show an aqua-to-green color from pyocyanin and pyoverdine; it is a non-lactose-fermenting, oxidase-positive gram-negative rod.",
-        "whyWrongByChoice": {
-          "A": "Klebsiella pneumoniae forms large, mucoid, lactose-fermenting colonies without producing a diffusible blue-green pigment.",
-          "B": "Staphylococcus aureus colonies are golden-yellow from staphyloxanthin, a nondiffusing pigment, not aqua-green.",
-          "C": "Escherichia coli forms gray, nonpigmented colonies on routine media and does not discolor the agar green.",
-          "E": "Salmonella enterica forms nonpigmented colonies; it may show black centers from H2S on selective media but does not produce aqua-green pigment."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-046_mi014_f16.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-047",
-      "topicId": "pseudomonas-and-related-bacteria",
-      "topicName": "Pseudomonas and Related Bacteria",
-      "stem": "This split plate compares two strains of the same organism, one dry and one glistening and slimy. Overproduction of which substance accounts for the slimy (mucoid) phenotype on the right?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Lipopolysaccharide endotoxin"
-        },
-        {
-          "label": "B",
-          "text": "Peptidoglycan cross-links"
-        },
-        {
-          "label": "C",
-          "text": "Streptococcal M protein"
-        },
-        {
-          "label": "D",
-          "text": "An alginate capsule"
-        },
-        {
-          "label": "E",
-          "text": "The pigment pyocyanin"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Mucoid strains, characteristic of cystic fibrosis isolates, overproduce an alginate capsule that can absorb hundreds of times its weight in water and helps the bacteria adhere to and colonize mucus.",
-        "whyCorrect": "Mucoid strains, characteristic of cystic fibrosis isolates, overproduce an alginate capsule that can absorb hundreds of times its weight in water and helps the bacteria adhere to and colonize mucus.",
-        "whyWrongByChoice": {
-          "A": "LPS is present in both strains as an outer-membrane component and does not account for the slimy mucoid phenotype; overproduced alginate does.",
-          "B": "Peptidoglycan cross-links form the rigid cell wall beneath the outer membrane and do not create an extracellular slimy coat.",
-          "C": "M protein is an antiphagocytic surface protein of Streptococcus pyogenes, not a Pseudomonas product that makes colonies mucoid.",
-          "E": "Pyocyanin is a blue-green pigment that colors the agar; it does not make colonies glistening and slimy."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-047_mi014_f17.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-048",
-      "topicId": "pseudomonas-and-related-bacteria",
-      "topicName": "Pseudomonas and Related Bacteria",
-      "stem": "This Gram stain from a ventilator-associated pneumonia isolate shows pink-staining organisms that are short and plump rather than long rods. What is the shape and Gram reaction depicted?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Gram-negative coccobacilli"
-        },
-        {
-          "label": "B",
-          "text": "Gram-positive rods with spores"
-        },
-        {
-          "label": "C",
-          "text": "Gram-positive cocci in clusters"
-        },
-        {
-          "label": "D",
-          "text": "Gram-negative diplococci"
-        },
-        {
-          "label": "E",
-          "text": "Gram-negative spiral rods"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Acinetobacter spp. appear as gram-negative coccobacilli (a shape between a sphere and a rod), are non-motile and oxidase-negative, and are a common cause of ventilator-associated pneumonia.",
-        "whyCorrect": "Acinetobacter spp. appear as gram-negative coccobacilli (a shape between a sphere and a rod), are non-motile and oxidase-negative, and are a common cause of ventilator-associated pneumonia.",
-        "whyWrongByChoice": {
-          "B": "Gram-positive rods with spores stain purple and are long bacilli such as Bacillus or Clostridium, unlike the short pink coccobacilli shown.",
-          "C": "Gram-positive cocci in clusters stain purple and are round, as with Staphylococcus, not pink plump short rods.",
-          "D": "Gram-negative diplococci are kidney-bean pairs such as Neisseria and Moraxella; Acinetobacter can look paired but is a plump coccobacillus.",
-          "E": "Gram-negative spiral rods are curved or helical, like Campylobacter or Helicobacter, rather than short plump coccobacilli."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-048_mi014_f19.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-136",
-      "topicId": "pseudomonas-and-related-bacteria",
-      "topicName": "Pseudomonas and Related Bacteria",
-      "stem": "A ventilated ICU patient develops the eye finding shown, with a corneal infiltrate and surrounding conjunctival injection. Which organism is the most likely cause of this rapidly progressive keratitis?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Staphylococcus aureus"
-        },
-        {
-          "label": "B",
-          "text": "Streptococcus pneumoniae"
-        },
-        {
-          "label": "C",
-          "text": "Herpes simplex virus"
-        },
-        {
-          "label": "D",
-          "text": "Pseudomonas aeruginosa"
-        },
-        {
-          "label": "E",
-          "text": "Acinetobacter baumannii"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Pseudomonas aeruginosa is a leading cause of severe, rapidly progressive bacterial keratitis, especially with contact lens use or contaminated solutions; its proteases and toxins drive aggressive corneal destruction.",
-        "whyCorrect": "Pseudomonas aeruginosa is a leading cause of severe, rapidly progressive bacterial keratitis, especially with contact lens use or contaminated solutions; its proteases and toxins drive aggressive corneal destruction.",
-        "whyWrongByChoice": {
-          "A": "Staphylococcus aureus causes bacterial keratitis, but it is generally less fulminant; the rapidly destructive picture in a ventilated patient points to Pseudomonas.",
-          "B": "Streptococcus pneumoniae can cause corneal ulcers after trauma, but it is not the classic cause of rapidly melting keratitis in ventilated ICU patients.",
-          "C": "HSV keratitis produces dendritic epithelial ulcers seen with fluorescein and recurs, rather than an acute suppurative infiltrate with rapid progression.",
-          "E": "Acinetobacter is an ICU pathogen of ventilator pneumonia and wounds but is not a classic cause of rapidly progressive suppurative keratitis."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-136_mi014_f01.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-137",
-      "topicId": "pseudomonas-and-related-bacteria",
-      "topicName": "Pseudomonas and Related Bacteria",
-      "stem": "A patient develops the itchy, tender red papules and pustules shown over the trunk two days after using a poorly maintained hot tub. Which organism is the most likely cause?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Streptococcus pyogenes"
-        },
-        {
-          "label": "B",
-          "text": "Pseudomonas aeruginosa"
-        },
-        {
-          "label": "C",
-          "text": "Staphylococcus aureus"
-        },
-        {
-          "label": "D",
-          "text": "Malassezia furfur"
-        },
-        {
-          "label": "E",
-          "text": "Candida albicans"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Hot tub folliculitis is caused by Pseudomonas contaminating warm water; the bacteria enter hair follicles through microabrasions, producing follicular papules and pustules that usually resolve without complications.",
-        "whyCorrect": "Hot tub folliculitis is caused by Pseudomonas contaminating warm water; the bacteria enter hair follicles through microabrasions, producing follicular papules and pustules that usually resolve without complications.",
-        "whyWrongByChoice": {
-          "A": "Streptococcus pyogenes causes impetigo, cellulitis, and erysipelas, not follicular pustules arising after hot tub exposure.",
-          "C": "Staphylococcus aureus is the usual cause of ordinary folliculitis, but onset after a poorly maintained hot tub implicates Pseudomonas, which thrives in warm water.",
-          "D": "Malassezia furfur causes pityrosporum folliculitis and tinea versicolor, typically with humidity or occlusion, not acutely after a contaminated hot tub.",
-          "E": "Candida albicans causes satellite pustules in moist intertriginous areas, not truncal follicular papules after hot tub use."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-137_mi014_f06.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-138",
-      "topicId": "pseudomonas-and-related-bacteria",
-      "topicName": "Pseudomonas and Related Bacteria",
-      "stem": "A diabetic patient presents with the plantar ulcer shown after a puncture injury. Deep infection here can extend to underlying bone. Which gram-negative organism is a classic cause of such foot infections and osteomyelitis?",
+      "id": "mipic-356",
+      "topicId": "atypical-bacteria-2026",
+      "topicName": "Atypical Bacteria",
+      "stem": "A 19-year-old college student has had a gradually worsening dry, non-productive cough, low-grade fever, and headache for 2 weeks but feels well enough to attend class. His chest X-ray is shown, with streaky, patchy interstitial infiltrates that look worse than his symptoms suggest. Which organism is the most likely cause?",
       "choices": [
         {
           "label": "A",
@@ -586,342 +14,550 @@
         },
         {
           "label": "B",
-          "text": "Neisseria gonorrhoeae"
+          "text": "Streptococcus pneumoniae"
         },
         {
           "label": "C",
-          "text": "Pseudomonas aeruginosa"
+          "text": "Mycoplasma pneumoniae"
         },
         {
           "label": "D",
           "text": "Haemophilus influenzae"
-        },
-        {
-          "label": "E",
-          "text": "Bordetella pertussis"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Pseudomonas is a well-known cause of foot infections in diabetics, especially after puncture wounds through footwear, and can seed bone and joints to cause osteomyelitis.",
-        "whyCorrect": "Pseudomonas is a well-known cause of foot infections in diabetics, especially after puncture wounds through footwear, and can seed bone and joints to cause osteomyelitis.",
-        "whyWrongByChoice": {
-          "A": "Legionella pneumophila lives in water systems and causes atypical pneumonia, not puncture-wound foot infections or osteomyelitis.",
-          "B": "Neisseria gonorrhoeae can cause septic arthritis in young sexually active adults, but not plantar ulcers or puncture-associated foot osteomyelitis.",
-          "D": "Haemophilus influenzae causes otitis, sinusitis, epiglottitis, and meningitis, not diabetic foot infections after a puncture.",
-          "E": "Bordetella pertussis causes whooping cough by colonizing ciliated respiratory epithelium and has no role in foot infections."
-        }
+        "summary": "M. pneumoniae is the leading cause of atypical ('walking') pneumonia in children and young adults: gradual onset, dry cough, mild symptoms, and patchy interstitial infiltrates that often look more severe than the patient appears. S. pneumoniae causes a lobar pneumonia with productive, rust-colored sputum; Legionella affects older or immunocompromised patients and usually gives a lobar pattern with high fever and diarrhea.",
+        "whyCorrect": "M. pneumoniae is the leading cause of atypical ('walking') pneumonia in children and young adults: gradual onset, dry cough, mild symptoms, and patchy interstitial infiltrates that often look more severe than the patient appears. S. pneumoniae causes a lobar pneumonia with productive, rust-colored sputum; Legionella affects older or immunocompromised patients and usually gives a lobar pattern with high fever and diarrhea.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-138_mi014_f10.png",
+      "imageRef": "mipic-356_brick_68_02.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-139",
-      "topicId": "pseudomonas-and-related-bacteria",
-      "topicName": "Pseudomonas and Related Bacteria",
-      "stem": "An immunocompromised infant develops scattered necrotic skin lesions that began as red macules and progressed to pustules, alongside bacteremia. This necrotic skin manifestation of gram-negative sepsis is known as what?",
+      "id": "mipic-357",
+      "topicId": "atypical-bacteria-2026",
+      "topicName": "Atypical Bacteria",
+      "stem": "A child develops the painful blistering skin rash and hemorrhagic erosions of the lips shown here two weeks after a respiratory infection with a dry cough. She took no new medications. Which pathogen is the most frequently identified infectious trigger of this condition?",
       "choices": [
         {
           "label": "A",
-          "text": "Ecthyma gangrenosum"
+          "text": "Legionella pneumophila"
         },
         {
           "label": "B",
-          "text": "Erythema multiforme"
+          "text": "Chlamydia pneumoniae"
         },
         {
           "label": "C",
-          "text": "Stevens-Johnson syndrome"
+          "text": "Mycoplasma pneumoniae"
         },
         {
           "label": "D",
-          "text": "Necrotizing fasciitis"
+          "text": "Chlamydia psittaci"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is Stevens-Johnson syndrome: an immune-mediated reaction causing detachment of the epidermis and mucous membranes, with painful blisters and erosions of the lips, eyes, nose, and genitals. Medications are the most common cause overall, but M. pneumoniae is the most frequently identified infectious trigger, especially in children and adolescents.",
+        "whyCorrect": "This is Stevens-Johnson syndrome: an immune-mediated reaction causing detachment of the epidermis and mucous membranes, with painful blisters and erosions of the lips, eyes, nose, and genitals. Medications are the most common cause overall, but M. pneumoniae is the most frequently identified infectious trigger, especially in children and adolescents.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-357_brick_68_03.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-358",
+      "topicId": "atypical-bacteria-2026",
+      "topicName": "Atypical Bacteria",
+      "stem": "A young adult recovering from a respiratory infection develops painful erosions of the lips and oral mucosa with crusting and involvement of the eye, as shown. Which condition is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stevens-Johnson syndrome"
         },
         {
-          "label": "E",
-          "text": "Erythema nodosum"
+          "label": "B",
+          "text": "Scarlet fever"
+        },
+        {
+          "label": "C",
+          "text": "Impetigo"
+        },
+        {
+          "label": "D",
+          "text": "Herpes labialis"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Ecthyma gangrenosum is a necrotic skin lesion seen with hematogenous dissemination of Pseudomonas; lesions favor the anogenital and axillary areas and evolve from macules to pustules to necrotic ulcers.",
-        "whyCorrect": "Ecthyma gangrenosum is a necrotic skin lesion seen with hematogenous dissemination of Pseudomonas; lesions favor the anogenital and axillary areas and evolve from macules to pustules to necrotic ulcers.",
-        "whyWrongByChoice": {
-          "B": "Erythema multiforme is a hypersensitivity reaction, often to HSV, forming target lesions, not necrotic ulcers with Pseudomonas bacteremia.",
-          "C": "Stevens-Johnson syndrome is a drug-induced mucocutaneous reaction with epidermal detachment, not scattered necrotic lesions from bacteremic seeding.",
-          "D": "Necrotizing fasciitis is a rapidly spreading infection along fascial planes with pain out of proportion, not scattered macules that become necrotic pustules.",
-          "E": "Erythema nodosum is a panniculitis of tender red nodules on the shins, associated with sarcoidosis, TB, and strep, and it does not ulcerate."
-        }
+        "summary": "Stevens-Johnson syndrome is a serious immune-mediated disorder in which the epidermis and mucous membranes detach, producing painful blisters and erosions of the lips, eyes, nose, and genitals. It is triggered most often by medications; among infections, M. pneumoniae is the most common trigger. Its more severe form is toxic epidermal necrolysis.",
+        "whyCorrect": "Stevens-Johnson syndrome is a serious immune-mediated disorder in which the epidermis and mucous membranes detach, producing painful blisters and erosions of the lips, eyes, nose, and genitals. It is triggered most often by medications; among infections, M. pneumoniae is the most common trigger. Its more severe form is toxic epidermal necrolysis.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-139_mi014_f15.png",
+      "imageRef": "mipic-358_brick_68_04.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-209",
-      "topicId": "pseudomonas-and-related-bacteria",
-      "topicName": "Pseudomonas and Related Bacteria",
-      "stem": "A rock pulled from standing water is coated with the slimy green-brown layer shown. What microbial structure best explains how bacteria persist in this environment and resist clearance in patients?",
+      "id": "mipic-359",
+      "topicId": "atypical-bacteria-2026",
+      "topicName": "Atypical Bacteria",
+      "stem": "Colonies from a young adult with 'walking pneumonia' grow on a specialized medium supplemented with sterols and take on the 'fried egg' appearance shown. Which organism is this?",
       "choices": [
         {
           "label": "A",
-          "text": "A viral plaque"
+          "text": "Legionella pneumophila"
         },
         {
           "label": "B",
-          "text": "A crystalline endospore coat"
+          "text": "Chlamydia pneumoniae"
         },
         {
           "label": "C",
-          "text": "A fungal fruiting body"
+          "text": "Streptococcus pneumoniae"
         },
         {
           "label": "D",
-          "text": "A calcified granuloma"
-        },
-        {
-          "label": "E",
-          "text": "A biofilm"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Pseudomonas spp. secrete extracellular polysaccharides and macromolecules to form biofilms, which shield the bacteria from the environment, predators, antibiotics, and the host immune response.",
-        "whyCorrect": "Pseudomonas spp. secrete extracellular polysaccharides and macromolecules to form biofilms, which shield the bacteria from the environment, predators, antibiotics, and the host immune response.",
-        "whyWrongByChoice": {
-          "A": "A viral plaque is a clear zone of lysed cells in a culture monolayer, not a slimy layer coating surfaces in water.",
-          "B": "Endospores are dormant internal structures of Bacillus and Clostridium, not a slimy surface coating that shields communities of Pseudomonas.",
-          "C": "Fungal fruiting bodies are spore-bearing structures of molds, not the bacterial polysaccharide matrix described.",
-          "D": "A calcified granuloma is a host tissue response, such as the Ghon focus of healed TB, not a microbial layer on an environmental surface."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-209_mi014_f03.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-210",
-      "topicId": "pseudomonas-and-related-bacteria",
-      "topicName": "Pseudomonas and Related Bacteria",
-      "stem": "This schematic contrasts a normal airway with the airway of the depicted inherited disease, in which thick mucus lines and blocks the passages. What underlying molecular defect causes the mucus abnormality shown?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A surfactant protein B deficiency"
-        },
-        {
-          "label": "B",
-          "text": "An elastin gene mutation"
-        },
-        {
-          "label": "C",
-          "text": "A dynein arm defect in cilia"
-        },
-        {
-          "label": "D",
-          "text": "A CFTR chloride-channel mutation"
-        },
-        {
-          "label": "E",
-          "text": "An alpha-1 antitrypsin deficiency"
+          "text": "Mycoplasma pneumoniae"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Cystic fibrosis results from a CFTR mutation that impairs chloride and water transport across epithelia, producing thick, sticky mucus that obstructs the airways and creates a niche for Pseudomonas colonization.",
-        "whyCorrect": "Cystic fibrosis results from a CFTR mutation that impairs chloride and water transport across epithelia, producing thick, sticky mucus that obstructs the airways and creates a niche for Pseudomonas colonization.",
-        "whyWrongByChoice": {
-          "A": "Surfactant protein B deficiency causes neonatal respiratory distress from alveolar collapse, not thick mucus plugging the airways.",
-          "B": "Elastin mutations cause supravalvular aortic stenosis or cutis laxa; emphysema-like loss of elastic recoil is not mucus obstruction.",
-          "C": "A dynein arm defect causes primary ciliary dyskinesia with impaired clearance and situs inversus, but mucus composition is normal; thick dehydrated secretions point to CFTR.",
-          "E": "Alpha-1 antitrypsin deficiency causes panacinar emphysema and liver disease from unopposed elastase, not thick mucus filling the airways."
-        }
+        "summary": "M. pneumoniae has no cell wall and has sterols in its membrane, so it needs sterols in the medium and forms 'fried egg' colonies (mnemonic: 'eggs contain cholesterol'). Culture is slow and rarely done; PCR is the preferred diagnostic test.",
+        "whyCorrect": "M. pneumoniae has no cell wall and has sterols in its membrane, so it needs sterols in the medium and forms 'fried egg' colonies (mnemonic: 'eggs contain cholesterol'). Culture is slow and rarely done; PCR is the preferred diagnostic test.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-210_mi014_f13.png",
+      "imageRef": "mipic-359_brick_68_05.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-140",
-      "topicId": "sulfonamides",
-      "topicName": "Sulfonamides",
-      "stem": "A patient develops this widespread skin sloughing after starting a sulfonamide. Which severe cutaneous adverse reaction does this represent?",
+      "id": "mipic-360",
+      "topicId": "atypical-bacteria-2026",
+      "topicName": "Atypical Bacteria",
+      "stem": "This electron micrograph shows a host cell whose cytoplasm is dominated by one large membrane-bound inclusion packed with small bacteria. These obligate intracellular bacteria survive and divide inside the host endosome mainly by doing what?",
       "choices": [
         {
           "label": "A",
-          "text": "Stevens-Johnson syndrome / toxic epidermal necrolysis"
+          "text": "Resisting lysozyme with a thick peptidoglycan wall"
         },
         {
           "label": "B",
-          "text": "Pemphigus vulgaris"
+          "text": "Forming endospores inside the endosome"
         },
         {
           "label": "C",
-          "text": "Erythema multiforme minor"
+          "text": "Preventing lysosome fusion with the endosome"
         },
         {
           "label": "D",
-          "text": "Staphylococcal scalded skin syndrome"
+          "text": "Escaping the endosome into the cytosol"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Chlamydia spp. are taken up into an endosome (the inclusionary body) and block lysosome fusion with it. They then make the endosome their home and divide rapidly until the inclusion fills most of the cell. They lack classic peptidoglycan, and the host cell lyses only after several rounds of division.",
+        "whyCorrect": "Chlamydia spp. are taken up into an endosome (the inclusionary body) and block lysosome fusion with it. They then make the endosome their home and divide rapidly until the inclusion fills most of the cell. They lack classic peptidoglycan, and the host cell lyses only after several rounds of division.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-360_brick_68_06.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-361",
+      "topicId": "atypical-bacteria-2026",
+      "topicName": "Atypical Bacteria",
+      "stem": "Infected cells in culture are stained with iodine, showing the large brown intracytoplasmic inclusions seen here. Which organism forms these inclusions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydia spp."
         },
         {
-          "label": "E",
-          "text": "Bullous pemphigoid"
+          "label": "B",
+          "text": "Mycoplasma pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Legionella pneumophila"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "The photograph shows large-scale epidermal desquamation, the hallmark of Stevens-Johnson syndrome and its more extensive form toxic epidermal necrolysis. These are rare but potentially fatal hypersensitivity reactions to sulfonamides that mandate immediate discontinuation of the drug.",
-        "whyCorrect": "The photograph shows large-scale epidermal desquamation, the hallmark of Stevens-Johnson syndrome and its more extensive form toxic epidermal necrolysis. These are rare but potentially fatal hypersensitivity reactions to sulfonamides that mandate immediate discontinuation of the drug.",
-        "whyWrongByChoice": {
-          "B": "Pemphigus vulgaris is autoimmune, with antibodies against desmoglein 3 forming flaccid intraepidermal bullae over a chronic course, not an acute reaction after starting a sulfonamide.",
-          "C": "Erythema multiforme minor shows targetoid lesions with minimal mucosal involvement and no widespread sloughing, usually triggered by HSV.",
-          "D": "Staphylococcal scalded skin syndrome is toxin-mediated superficial splitting at the granular layer in young children, with mucosa spared, not a drug reaction.",
-          "E": "Bullous pemphigoid is an autoimmune disease of older adults with tense subepidermal bullae and anti-hemidesmosome antibodies, not acute sheet-like sloughing after a drug."
-        }
+        "summary": "Chlamydia spp. are obligate intracellular bacteria that replicate inside an endosome and form large inclusionary bodies. These inclusions can be stained with iodine, Giemsa, or immunofluorescent stains. Chlamydiae do not Gram stain, and in practice PCR (nucleic acid amplification) is the most common way to identify them.",
+        "whyCorrect": "Chlamydia spp. are obligate intracellular bacteria that replicate inside an endosome and form large inclusionary bodies. These inclusions can be stained with iodine, Giemsa, or immunofluorescent stains. Chlamydiae do not Gram stain, and in practice PCR (nucleic acid amplification) is the most common way to identify them.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-140_mi016_f04.png",
+      "imageRef": "mipic-361_brick_68_07.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-195",
-      "topicId": "sulfonamides",
-      "topicName": "Sulfonamides",
-      "stem": "The functional group depicted here forms the shared active core of which class of antibiotics?",
+      "id": "mipic-362",
+      "topicId": "atypical-bacteria-2026",
+      "topicName": "Atypical Bacteria",
+      "stem": "This diagram shows a biphasic life cycle: a small infectious form enters a host cell, converts into a larger form that divides inside an endosome, converts back, and is released when the cell lyses. Which organism has this life cycle?",
       "choices": [
         {
           "label": "A",
-          "text": "Tetracyclines"
+          "text": "Mycoplasma pneumoniae"
         },
         {
           "label": "B",
-          "text": "Aminoglycosides"
+          "text": "Clostridium spp."
         },
         {
           "label": "C",
-          "text": "Sulfonamides"
+          "text": "Chlamydia spp."
         },
         {
           "label": "D",
-          "text": "Fluoroquinolones"
-        },
-        {
-          "label": "E",
-          "text": "Beta-lactams"
+          "text": "Legionella pneumophila"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "The structure shows a central sulfur double-bonded to two oxygens and single-bonded to a nitrogen (the sulfonamide moiety) with variable R groups. This sulfonamide functional group defines the sulfa drug class, which acts as competitive inhibitors of bacterial folate synthesis.",
-        "whyCorrect": "The structure shows a central sulfur double-bonded to two oxygens and single-bonded to a nitrogen (the sulfonamide moiety) with variable R groups. This sulfonamide functional group defines the sulfa drug class, which acts as competitive inhibitors of bacterial folate synthesis.",
-        "whyWrongByChoice": {
-          "A": "Tetracyclines are built on four fused six-membered rings (a naphthacene core) and bind the 30S ribosome; they lack the S(=O)2-N sulfonamide group.",
-          "B": "Aminoglycosides are amino sugars linked to an aminocyclitol ring, with no sulfur-containing functional group at their core.",
-          "D": "Fluoroquinolones share a bicyclic quinolone ring with a carboxylic acid and a fluorine, not a sulfur double-bonded to two oxygens and bonded to nitrogen.",
-          "E": "Beta-lactams are defined by a four-membered cyclic amide (the beta-lactam ring), not a sulfonyl-amide group."
-        }
+        "summary": "Chlamydia alternates between elementary bodies (infectious, tough, spore-like particles that enter target cells) and reticulate bodies (non-infectious, metabolically active forms that replicate by binary fission inside the inclusionary body). Some reticulate bodies convert back to elementary bodies, which are released when the cell lyses and go on to infect neighboring cells.",
+        "whyCorrect": "Chlamydia alternates between elementary bodies (infectious, tough, spore-like particles that enter target cells) and reticulate bodies (non-infectious, metabolically active forms that replicate by binary fission inside the inclusionary body). Some reticulate bodies convert back to elementary bodies, which are released when the cell lyses and go on to infect neighboring cells.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-195_mi016_f01.png",
+      "imageRef": "mipic-362_brick_68_08.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-211",
-      "topicId": "sulfonamides",
-      "topicName": "Sulfonamides",
-      "stem": "This diagram shows where sulfonamides and trimethoprim act within a bacterial cell. What is the basis for their selective toxicity toward bacteria?",
+      "id": "mipic-363",
+      "topicId": "atypical-bacteria-2026",
+      "topicName": "Atypical Bacteria",
+      "stem": "This scanning electron micrograph shows a Chlamydia-infected cell lysing at the end of the bacterium's developmental cycle. Which form of the organism is released to infect neighboring cells?",
       "choices": [
         {
           "label": "A",
-          "text": "The drug is only activated by bacterial beta-lactamase"
+          "text": "Morulae"
         },
         {
           "label": "B",
-          "text": "Human cells rapidly efflux the drug via P-glycoprotein"
+          "text": "Elementary bodies"
         },
         {
           "label": "C",
-          "text": "Human cells cannot synthesize folate, so they lack the targeted enzyme"
+          "text": "Reticulate bodies"
         },
         {
           "label": "D",
-          "text": "Bacterial ribosomes bind the drug but human ribosomes do not"
-        },
-        {
-          "label": "E",
-          "text": "Sulfonamides cannot cross the human cell membrane"
+          "text": "Endospores"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "The schematic shows PABA being converted through DHF to THF inside the bacterium, with sulfonamides blocking the folate-synthesis step. Mammalian cells lack dihydropteroate synthase and obtain preformed folate from the diet, so blocking de novo folate synthesis harms bacteria selectively.",
-        "whyCorrect": "The schematic shows PABA being converted through DHF to THF inside the bacterium, with sulfonamides blocking the folate-synthesis step. Mammalian cells lack dihydropteroate synthase and obtain preformed folate from the diet, so blocking de novo folate synthesis harms bacteria selectively.",
-        "whyWrongByChoice": {
-          "A": "Sulfonamides are active drugs that need no activation, and beta-lactamases inactivate rather than activate drugs, destroying penicillins and cephalosporins.",
-          "B": "P-glycoprotein efflux is not the basis of sulfonamide selectivity; human cells are spared because they take up dietary folate and lack dihydropteroate synthase.",
-          "D": "Ribosomal selectivity explains protein synthesis inhibitors such as aminoglycosides and macrolides; sulfonamides and trimethoprim act on folate-pathway enzymes, not ribosomes.",
-          "E": "Sulfonamides readily enter human cells and tissues; their selectivity comes from targeting an enzyme humans do not have, not from exclusion by the membrane."
-        }
+        "summary": "After several rounds of division, some reticulate bodies convert back into elementary bodies. The infected cell then lyses and releases these infectious, spore-like elementary bodies, which attach to and enter neighboring cells. Reticulate bodies are non-infectious and replicate only inside the inclusion.",
+        "whyCorrect": "After several rounds of division, some reticulate bodies convert back into elementary bodies. The infected cell then lyses and releases these infectious, spore-like elementary bodies, which attach to and enter neighboring cells. Reticulate bodies are non-infectious and replicate only inside the inclusion.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-211_mi016_f02.png",
+      "imageRef": "mipic-363_brick_68_09.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-212",
-      "topicId": "sulfonamides",
-      "topicName": "Sulfonamides",
-      "stem": "Based on the two enzyme-blocking points shown in this pathway, why does pairing a sulfonamide with trimethoprim produce a synergistic, bactericidal effect?",
+      "id": "mipic-364",
+      "topicId": "atypical-bacteria-2026",
+      "topicName": "Atypical Bacteria",
+      "stem": "This electron micrograph shows a human phagocyte taking up a bacterium by wrapping it in concentric, spiraling layers of membrane. What is this distinctive uptake process called?",
       "choices": [
         {
           "label": "A",
-          "text": "The combination inhibits bacterial DNA gyrase in addition to folate synthesis"
+          "text": "Zipper-type phagocytosis"
         },
         {
           "label": "B",
-          "text": "Trimethoprim converts the sulfonamide into an active bactericidal metabolite"
+          "text": "Coiling phagocytosis"
         },
         {
           "label": "C",
-          "text": "The two drugs block sequential steps of the same folate pathway"
+          "text": "Clathrin-mediated endocytosis"
         },
         {
           "label": "D",
-          "text": "Trimethoprim prevents efflux of the sulfonamide from the cell"
+          "text": "Macropinocytosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Legionella pneumophila induces coiling phagocytosis when macrophages take it up. Inside the macrophage it prevents the phagosome from fusing with lysosomes, so it can persist and multiply.",
+        "whyCorrect": "Legionella pneumophila induces coiling phagocytosis when macrophages take it up. Inside the macrophage it prevents the phagosome from fusing with lysosomes, so it can persist and multiply.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-364_brick_68_13.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-365",
+      "topicId": "atypical-bacteria-2026",
+      "topicName": "Atypical Bacteria",
+      "stem": "A 62-year-old man has a high fever, cough, watery diarrhea, and hyponatremia after a hotel stay. A sputum Gram stain shows neutrophils but few organisms. The fastidious organism, which requires iron and cysteine, grows on the medium shown. Which organism is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mycoplasma pneumoniae"
         },
         {
-          "label": "E",
-          "text": "Both drugs bind the 30S ribosomal subunit to halt protein synthesis"
+          "label": "B",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Legionella pneumophila"
+        },
+        {
+          "label": "D",
+          "text": "Haemophilus influenzae"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "The flowchart shows sulfonamides inhibiting dihydropteroate synthase and trimethoprim/pyrimethamine inhibiting dihydrofolate reductase, two consecutive steps leading to tetrahydrofolic acid. Blocking both steps sharply reduces THF for nucleotide and protein synthesis, converting two bacteriostatic agents into a bactericidal combination.",
-        "whyCorrect": "The flowchart shows sulfonamides inhibiting dihydropteroate synthase and trimethoprim/pyrimethamine inhibiting dihydrofolate reductase, two consecutive steps leading to tetrahydrofolic acid. Blocking both steps sharply reduces THF for nucleotide and protein synthesis, converting two bacteriostatic agents into a bactericidal combination.",
-        "whyWrongByChoice": {
-          "A": "Neither sulfonamides nor trimethoprim inhibit DNA gyrase, which is the target of fluoroquinolones; both act within the folate pathway.",
-          "B": "Trimethoprim does not metabolize the sulfonamide; each drug is independently active, and the synergy comes from blocking two consecutive enzymes.",
-          "D": "Trimethoprim has no effect on sulfonamide efflux; it inhibits dihydrofolate reductase one step downstream of the sulfonamide target.",
-          "E": "Neither drug binds the 30S ribosome; that is the target of aminoglycosides and tetracyclines, whereas this pair blocks folate synthesis."
-        }
+        "summary": "L. pneumophila is a fastidious gram-negative rod that needs iron and cysteine and grows on buffered charcoal yeast extract (BCYE, 'charcoal') agar. Legionnaires' disease often brings high fever, diarrhea, and hyponatremia, and is acquired from contaminated water sources. A urine antigen test (serotype 1) and PCR give rapid diagnosis.",
+        "whyCorrect": "L. pneumophila is a fastidious gram-negative rod that needs iron and cysteine and grows on buffered charcoal yeast extract (BCYE, 'charcoal') agar. Legionnaires' disease often brings high fever, diarrhea, and hyponatremia, and is acquired from contaminated water sources. A urine antigen test (serotype 1) and PCR give rapid diagnosis.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-212_mi016_f03.png",
+      "imageRef": "mipic-365_brick_68_14.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-366",
+      "topicId": "atypical-bacteria-2026",
+      "topicName": "Atypical Bacteria",
+      "stem": "An elderly patient has severe pneumonia with high fever and diarrhea. The organism stained very poorly on Gram stain, so a silver stain of the sputum was done (shown), revealing dark rods. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydia pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Legionella pneumophila"
+        },
+        {
+          "label": "D",
+          "text": "Mycoplasma pneumoniae"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Legionella has a gram-negative structure but stains very poorly with the Gram stain; a silver stain can be used on sputum. Mycoplasma has no cell wall and Chlamydia is obligately intracellular, so neither shows up as rods free in sputum.",
+        "whyCorrect": "Legionella has a gram-negative structure but stains very poorly with the Gram stain; a silver stain can be used on sputum. Mycoplasma has no cell wall and Chlamydia is obligately intracellular, so neither shows up as rods free in sputum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-366_brick_68_15.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-367",
+      "topicId": "bacterial-tick-borne-diseases-2026",
+      "topicName": "Bacterial Tick-borne Diseases",
+      "stem": "The tick species shown here at its different life stages has mice as the reservoir of the pathogen it carries. The small, easily missed nymph is the usual culprit in spring and summer, and it must stay attached for 36-48 hours to transmit the bacterium. Which bacterium is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Chlamydia psittaci"
+        },
+        {
+          "label": "C",
+          "text": "Rickettsia rickettsii"
+        },
+        {
+          "label": "D",
+          "text": "Legionella pneumophila"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The blacklegged (deer) tick, Ixodes scapularis, transmits B. burgdorferi, the cause of Lyme disease, from its mouse reservoir. Nymphs are small and go unnoticed, so they usually transmit the disease; adults are easily seen and removed. Removing the tick promptly, before 36-48 hours of attachment, rarely results in disease. R. rickettsii is carried mainly by Dermacentor ticks.",
+        "whyCorrect": "The blacklegged (deer) tick, Ixodes scapularis, transmits B. burgdorferi, the cause of Lyme disease, from its mouse reservoir. Nymphs are small and go unnoticed, so they usually transmit the disease; adults are easily seen and removed. Removing the tick promptly, before 36-48 hours of attachment, rarely results in disease. R. rickettsii is carried mainly by Dermacentor ticks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-367_brick_69_01.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-368",
+      "topicId": "bacterial-tick-borne-diseases-2026",
+      "topicName": "Bacterial Tick-borne Diseases",
+      "stem": "A hiker from the northeastern United States has fatigue, fever, and joint aches, along with the slowly expanding rash shown, which has a central clearing. Which organism causes this rash?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Ehrlichia chaffeensis"
+        },
+        {
+          "label": "C",
+          "text": "Rickettsia rickettsii"
+        },
+        {
+          "label": "D",
+          "text": "Mycoplasma pneumoniae"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Erythema migrans is a red rash that expands from the bite site and can take on a bull's-eye appearance. It is pathognomonic for early localized (stage 1) Lyme disease, caused by B. burgdorferi, but appears in only 70-80% of patients. The RMSF rash, by contrast, is maculopapular, starts on the wrists and ankles, and spreads to the trunk.",
+        "whyCorrect": "Erythema migrans is a red rash that expands from the bite site and can take on a bull's-eye appearance. It is pathognomonic for early localized (stage 1) Lyme disease, caused by B. burgdorferi, but appears in only 70-80% of patients. The RMSF rash, by contrast, is maculopapular, starts on the wrists and ankles, and spreads to the trunk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-368_brick_69_03.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-369",
+      "topicId": "bacterial-tick-borne-diseases-2026",
+      "topicName": "Bacterial Tick-borne Diseases",
+      "stem": "Two patients with different skin tones each develop a single expanding red lesion at the site of a recent tick bite, along with fever, fatigue, and swollen lymph nodes. The lesions are shown. Which stage of disease do these findings represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early localized Lyme disease"
+        },
+        {
+          "label": "B",
+          "text": "Early disseminated Lyme disease"
+        },
+        {
+          "label": "C",
+          "text": "Late disseminated Lyme disease"
+        },
+        {
+          "label": "D",
+          "text": "Post-treatment Lyme disease syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A single erythema migrans at the bite site, with fever, fatigue, and adenopathy, appearing days to a month after the bite, is stage 1 (early localized) Lyme disease. Stage 2 brings multiple rashes, meningitis, facial palsy, and heart block. Stage 3 brings chronic large-joint arthritis and neurologic symptoms. The rash can be hard to see on darker skin.",
+        "whyCorrect": "A single erythema migrans at the bite site, with fever, fatigue, and adenopathy, appearing days to a month after the bite, is stage 1 (early localized) Lyme disease. Stage 2 brings multiple rashes, meningitis, facial palsy, and heart block. Stage 3 brings chronic large-joint arthritis and neurologic symptoms. The rash can be hard to see on darker skin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-369_brick_69_05.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-370",
+      "topicId": "bacterial-tick-borne-diseases-2026",
+      "topicName": "Bacterial Tick-borne Diseases",
+      "stem": "In July, a patient from Arkansas has fever, severe headache, and myalgia. Two days later, the maculopapular rash shown appears on the wrists and ankles and spreads toward the trunk. He recalls a tick bite while hiking. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rickettsia rickettsii"
+        },
+        {
+          "label": "B",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "C",
+          "text": "Mycoplasma pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Ehrlichia chaffeensis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Rocky Mountain spotted fever, caused by R. rickettsii, presents with the triad of fever, headache, and rash. The maculopapular rash starts around the wrists, ankles, palms, and soles and spreads to the trunk, usually 2-4 days after the fever. R. rickettsii infects endothelial cells and causes widespread vasculitis. It is transmitted mainly by the American dog tick and is the most common fatal tick-borne disease in the U.S.",
+        "whyCorrect": "Rocky Mountain spotted fever, caused by R. rickettsii, presents with the triad of fever, headache, and rash. The maculopapular rash starts around the wrists, ankles, palms, and soles and spreads to the trunk, usually 2-4 days after the fever. R. rickettsii infects endothelial cells and causes widespread vasculitis. It is transmitted mainly by the American dog tick and is the most common fatal tick-borne disease in the U.S.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-370_brick_69_08.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-371",
+      "topicId": "bacterial-tick-borne-diseases-2026",
+      "topicName": "Bacterial Tick-borne Diseases",
+      "stem": "A park ranger has fever, headache, and myalgia 10 days after a tick bite, along with leukopenia and thrombocytopenia. A peripheral smear shows the mulberry-shaped cluster of bacteria (arrow) inside a mononuclear phagocyte. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydia pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Rickettsia rickettsii"
+        },
+        {
+          "label": "C",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "D",
+          "text": "Ehrlichia chaffeensis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ehrlichia spp. are small, gram-negative, obligate intracellular bacteria with a tropism for monocytes and macrophages. Clusters of bacteria inside cell vacuoles form mulberry-like aggregates called morulae. These help distinguish ehrlichiosis from Lyme disease and RMSF, but they are not reliable enough for diagnosis on their own; serology usually confirms it. Ehrlichiosis is spread by the lone star tick and the blacklegged tick.",
+        "whyCorrect": "Ehrlichia spp. are small, gram-negative, obligate intracellular bacteria with a tropism for monocytes and macrophages. Clusters of bacteria inside cell vacuoles form mulberry-like aggregates called morulae. These help distinguish ehrlichiosis from Lyme disease and RMSF, but they are not reliable enough for diagnosis on their own; serology usually confirms it. Ehrlichiosis is spread by the lone star tick and the blacklegged tick.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-371_brick_69_09.jpg",
       "tags": [
         "picture"
       ]

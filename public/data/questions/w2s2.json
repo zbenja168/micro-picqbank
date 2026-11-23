@@ -3,274 +3,45 @@
   "categoryName": "Session 2",
   "questions": [
     {
-      "id": "mipic-027",
-      "topicId": "neisseria-and-haemophilus",
-      "topicName": "Neisseria and Haemophilus",
-      "stem": "The organism shown is a fastidious gram-negative coccobacillus that will not grow unless the culture medium is enriched. Which two accessory factors, released from lysed red blood cells, does it require?",
+      "id": "mipic-313",
+      "topicId": "enterobacteriaceae-part-1-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "stem": "A gram-negative rod from a urine culture is streaked onto eosin methylene blue (EMB) agar and produces the colonies shown. Which organism is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "Factor X (hematin) and Factor V (NAD)"
+          "text": "Klebsiella pneumoniae"
         },
         {
           "label": "B",
-          "text": "Factor V (NAD) and coagulase"
+          "text": "Proteus mirabilis"
         },
         {
           "label": "C",
-          "text": "Factor X (hematin) and oxidase"
+          "text": "Escherichia coli"
         },
         {
           "label": "D",
-          "text": "Hemin and catalase"
-        },
-        {
-          "label": "E",
-          "text": "Optochin and bacitracin"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "H. influenzae cannot lyse RBCs itself and requires exogenous factor X (hematin) and factor V (NAD), which is why it grows only on media containing lysed blood, such as chocolate agar.",
-        "whyCorrect": "H. influenzae cannot lyse RBCs itself and requires exogenous factor X (hematin) and factor V (NAD), which is why it grows only on media containing lysed blood, such as chocolate agar.",
-        "whyWrongByChoice": {
-          "B": "Coagulase is a Staphylococcus aureus virulence enzyme that clots plasma; it is not a growth factor, and only factor V of this pair is required by Haemophilus.",
-          "C": "Oxidase is an enzyme detected by a colorimetric test, not a growth factor; Haemophilus needs NAD (factor V) along with hematin, not oxidase.",
-          "D": "Catalase is a bacterial enzyme that breaks down hydrogen peroxide, not a nutrient released from lysed red cells; NAD is the missing second requirement.",
-          "E": "Optochin and bacitracin are inhibitory disks used to identify streptococci (S. pneumoniae and group A strep), not nutrients that support Haemophilus growth."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-027_mi006_f03.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-028",
-      "topicId": "neisseria-and-haemophilus",
-      "topicName": "Neisseria and Haemophilus",
-      "stem": "H. influenzae grows on the brown agar plate shown but fails to grow on standard sheep blood agar. Why does this brown medium support its growth?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It neutralizes the IgA protease of the organism"
-        },
-        {
-          "label": "B",
-          "text": "It contains antibiotics that selectively favor Haemophilus"
-        },
-        {
-          "label": "C",
-          "text": "Heating lyses the red blood cells, releasing factors X and V"
-        },
-        {
-          "label": "D",
-          "text": "It supplies the 5% CO2 required for growth"
-        },
-        {
-          "label": "E",
-          "text": "It provides mannitol as a fermentable carbon source"
+          "text": "Salmonella spp."
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "The agar is browned by heating blood, which lyses RBCs and frees factor X (hematin) and factor V (NAD). On intact blood agar these factors remain inside RBCs, so H. influenzae cannot grow.",
-        "whyCorrect": "The agar is browned by heating blood, which lyses RBCs and frees factor X (hematin) and factor V (NAD). On intact blood agar these factors remain inside RBCs, so H. influenzae cannot grow.",
-        "whyWrongByChoice": {
-          "A": "Chocolate agar has no effect on IgA protease, which is a mucosal virulence factor that cleaves host IgA; it is irrelevant to growth on culture media.",
-          "B": "Plain chocolate agar is a nonselective enriched medium; selective antibiotic-containing versions such as Thayer-Martin target Neisseria, and the brown color comes from heated, lysed blood.",
-          "D": "CO2 is supplied by the incubator atmosphere or a candle jar, not by the agar; the browned medium works because heating releases factors X and V.",
-          "E": "Mannitol is the fermentable sugar in mannitol salt agar used for staphylococci; chocolate agar does not rely on mannitol, and Haemophilus growth depends on hematin and NAD."
-        }
+        "summary": "On EMB agar, lactose fermenters generally stain black, but E. coli is the exception: it forms colonies with a distinctive green metallic sheen. Klebsiella also ferments lactose but lacks the sheen; Proteus, Salmonella and Shigella are non-lactose fermenters.",
+        "whyCorrect": "On EMB agar, lactose fermenters generally stain black, but E. coli is the exception: it forms colonies with a distinctive green metallic sheen. Klebsiella also ferments lactose but lacks the sheen; Proteus, Salmonella and Shigella are non-lactose fermenters.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-028_mi006_f04.png",
+      "imageRef": "mipic-313_brick_64_03.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-131",
-      "topicId": "neisseria-and-haemophilus",
-      "topicName": "Neisseria and Haemophilus",
-      "stem": "This ventral surface of the brain is covered by a thick purulent exudate over the meninges. This gross finding is most characteristic of which condition?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Tuberculous granulomatous meningitis"
-        },
-        {
-          "label": "B",
-          "text": "Acute bacterial meningitis"
-        },
-        {
-          "label": "C",
-          "text": "Viral (aseptic) meningitis"
-        },
-        {
-          "label": "D",
-          "text": "Cerebral infarction"
-        },
-        {
-          "label": "E",
-          "text": "Subarachnoid hemorrhage"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "A dense neutrophil-rich purulent exudate blanketing the meninges is the hallmark of acute pyogenic bacterial meningitis, as caused by H. influenzae or N. meningitidis; viral meningitis produces a lymphocytic, non-purulent picture.",
-        "whyCorrect": "A dense neutrophil-rich purulent exudate blanketing the meninges is the hallmark of acute pyogenic bacterial meningitis, as caused by H. influenzae or N. meningitidis; viral meningitis produces a lymphocytic, non-purulent picture.",
-        "whyWrongByChoice": {
-          "A": "Tuberculous meningitis produces a gelatinous, gray basal exudate with granulomas and cranial nerve entrapment, evolving subacutely, rather than the thick creamy neutrophilic pus of acute pyogenic infection.",
-          "C": "Viral meningitis causes a lymphocytic inflammation that leaves the meninges grossly near-normal or slightly congested, without a thick purulent exudate.",
-          "D": "A cerebral infarct is a localized area of softening and discoloration in a vascular territory of the parenchyma, not a diffuse purulent coating of the meninges.",
-          "E": "Subarachnoid hemorrhage coats the basal cisterns with dark red blood, typically from a ruptured berry aneurysm, rather than a yellow-green purulent exudate."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-131_mi006_f07.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-004",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "These electron micrographs show bacteria perched atop raised, cup-like projections of the intestinal epithelial surface. Rearrangement of which host cytoskeletal protein forms these pedestals?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Actin"
-        },
-        {
-          "label": "B",
-          "text": "Myosin heavy chain"
-        },
-        {
-          "label": "C",
-          "text": "Spectrin"
-        },
-        {
-          "label": "D",
-          "text": "Keratin"
-        },
-        {
-          "label": "E",
-          "text": "Tubulin"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Enteropathogenic E. coli efface the microvilli and induce localized actin polymerization, forming characteristic actin pedestals beneath the attached bacteria, disrupting absorption.",
-        "whyCorrect": "Enteropathogenic E. coli efface the microvilli and induce localized actin polymerization, forming characteristic actin pedestals beneath the attached bacteria, disrupting absorption.",
-        "whyWrongByChoice": {
-          "B": "Myosin heavy chain is a motor protein that moves along actin filaments; the pedestal itself is built from polymerized actin recruited by EPEC's Tir receptor.",
-          "C": "Spectrin is the submembrane cytoskeleton that maintains red cell shape; it is not the polymer that EPEC rearranges to build attaching-and-effacing pedestals.",
-          "D": "Keratins are intermediate filaments providing mechanical strength in epithelia; they are not rapidly polymerized beneath attached bacteria to form pedestals.",
-          "E": "Tubulin forms microtubules used in intracellular transport and mitosis; EPEC pedestals are actin-based structures nucleated via N-WASP and Arp2/3."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-004_mi007_f09.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-029",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "A gram-negative stool isolate was streaked onto this selective, differential agar. Colonies on one half turned the surrounding medium pink while the other half stayed pale. What is the name of this culture medium?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Thiosulfate-citrate-bile salts (TCBS) agar"
-        },
-        {
-          "label": "B",
-          "text": "Eosin methylene blue (EMB) agar"
-        },
-        {
-          "label": "C",
-          "text": "Sheep blood agar"
-        },
-        {
-          "label": "D",
-          "text": "MacConkey agar"
-        },
-        {
-          "label": "E",
-          "text": "Hektoen enteric agar"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "This is MacConkey agar, a selective (bile salts/crystal violet inhibit gram-positives) and differential medium. Lactose fermenters produce acid that lowers the pH and turns the neutral-red indicator pink, while non-fermenters remain colorless.",
-        "whyCorrect": "This is MacConkey agar, a selective (bile salts/crystal violet inhibit gram-positives) and differential medium. Lactose fermenters produce acid that lowers the pH and turns the neutral-red indicator pink, while non-fermenters remain colorless.",
-        "whyWrongByChoice": {
-          "A": "TCBS agar is used to isolate Vibrio species, which form yellow colonies from sucrose fermentation on a green medium, not pink lactose-fermenter colonies.",
-          "B": "EMB agar is also selective and differential for lactose fermenters, but positives appear dark purple to black, with E. coli showing a green metallic sheen, not pink.",
-          "C": "Sheep blood agar is a nonselective enriched medium used to assess hemolysis; it has no lactose and neutral-red indicator to turn colonies pink.",
-          "E": "Hektoen enteric agar is green, with non-fermenters such as Shigella appearing green-blue and Salmonella showing black centers from H2S; fermenters turn salmon-orange, not the pink-versus-pale pattern described."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-029_mi007_f01.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-030",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "A microbiology lab uses the branching decision tree shown here, sorting organisms by sequential biochemical reactions. What is the primary purpose of this algorithm?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "To predict antibiotic resistance mechanisms"
-        },
-        {
-          "label": "B",
-          "text": "To identify gram-negative bacterial species"
-        },
-        {
-          "label": "C",
-          "text": "To grade hemolysis patterns on blood agar"
-        },
-        {
-          "label": "D",
-          "text": "To stage the severity of sepsis"
-        },
-        {
-          "label": "E",
-          "text": "To map antibody cross-reactivity between serotypes"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "The dichotomous flowchart separates gram-negative organisms step by step using biochemical properties (lactose fermentation, oxidase, indole, etc.) to arrive at a species-level identification.",
-        "whyCorrect": "The dichotomous flowchart separates gram-negative organisms step by step using biochemical properties (lactose fermentation, oxidase, indole, etc.) to arrive at a species-level identification.",
-        "whyWrongByChoice": {
-          "A": "Resistance mechanisms are assessed by susceptibility testing (disk diffusion, MIC) and genotypic assays, not by a dichotomous key of lactose, oxidase, and indole reactions.",
-          "C": "Hemolysis is graded simply by inspecting the zone around colonies on blood agar; it does not require a multistep biochemical decision tree.",
-          "D": "Sepsis severity is staged with clinical scores such as SOFA using vital signs and lab values, not microbial biochemical reactions.",
-          "E": "Antibody cross-reactivity between serotypes is mapped with serologic assays such as agglutination, not with a flowchart of metabolic tests."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-030_mi007_f02.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-031",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "A gram-negative bacillus was streaked onto this agar and its colonies developed a striking green metallic sheen. Which organism characteristically produces this appearance?",
+      "id": "mipic-314",
+      "topicId": "enterobacteriaceae-part-1-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "stem": "A gram-negative enteric rod grown on blood agar shows clearing of the agar around its colonies, as shown. Among the major Enterobacteriaceae, which organism characteristically produces this hemolytic pattern?",
       "choices": [
         {
           "label": "A",
@@ -278,351 +49,384 @@
         },
         {
           "label": "B",
-          "text": "Salmonella enterica"
-        },
-        {
-          "label": "C",
           "text": "Klebsiella pneumoniae"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Proteus mirabilis"
         },
         {
-          "label": "E",
-          "text": "Enterobacter cloacae"
+          "label": "D",
+          "text": "Serratia marcescens"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "On eosin-methylene blue (EMB) agar, vigorous lactose fermentation by E. coli precipitates the dyes to produce the characteristic green metallic sheen, distinguishing it from other Enterobacteriaceae.",
-        "whyCorrect": "On eosin-methylene blue (EMB) agar, vigorous lactose fermentation by E. coli precipitates the dyes to produce the characteristic green metallic sheen, distinguishing it from other Enterobacteriaceae.",
-        "whyWrongByChoice": {
-          "B": "Salmonella does not ferment lactose, so it forms colorless or transparent colonies on EMB agar with no metallic sheen.",
-          "C": "Klebsiella ferments lactose but forms large, mucoid, pink-purple colonies on EMB without the green metallic sheen from vigorous acid production.",
-          "D": "Proteus is a non-lactose fermenter that produces pale colonies and is known for swarming motility, not a metallic sheen.",
-          "E": "Enterobacter ferments lactose but usually yields mucoid pink-purple colonies with dark centers on EMB, lacking the classic green sheen of E. coli."
-        }
+        "summary": "The image shows beta hemolysis (complete clearing of red cells around the colonies). Among the Enterobacteriaceae covered, only E. coli is beta-hemolytic, although hemolysis is not normally used to tell family members apart.",
+        "whyCorrect": "The image shows beta hemolysis (complete clearing of red cells around the colonies). Among the Enterobacteriaceae covered, only E. coli is beta-hemolytic, although hemolysis is not normally used to tell family members apart.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-031_mi007_f03.png",
+      "imageRef": "mipic-314_brick_64_04.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-032",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "This blood agar plate shows a zone of complete, transparent clearing of the red blood cells immediately surrounding the bacterial growth. What type of hemolysis is depicted?",
+      "id": "mipic-315",
+      "topicId": "enterobacteriaceae-part-1-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "stem": "A non-lactose-fermenting gram-negative rod is inoculated into triple sugar iron (TSI) agar, giving the result shown (red slant, black butt). Which pair of Enterobacteriaceae characteristically produces this black precipitate?",
       "choices": [
         {
           "label": "A",
-          "text": "Beta hemolysis"
+          "text": "E. coli and Enterobacter"
         },
         {
           "label": "B",
-          "text": "Alpha hemolysis"
+          "text": "Salmonella and Proteus"
         },
         {
           "label": "C",
-          "text": "Alpha-prime (wide-zone) hemolysis"
+          "text": "E. coli and Klebsiella"
         },
         {
           "label": "D",
-          "text": "Gamma (non-) hemolysis"
-        },
-        {
-          "label": "E",
-          "text": "Synergistic hemolysis"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Complete lysis of erythrocytes producing a clear, colorless zone is beta hemolysis. Among Enterobacteriaceae only E. coli is beta-hemolytic.",
-        "whyCorrect": "Complete lysis of erythrocytes producing a clear, colorless zone is beta hemolysis. Among Enterobacteriaceae only E. coli is beta-hemolytic.",
-        "whyWrongByChoice": {
-          "B": "Alpha hemolysis is partial lysis that oxidizes hemoglobin to a greenish discoloration around colonies, as with S. pneumoniae and viridans streptococci, not a clear transparent zone.",
-          "C": "Alpha-prime hemolysis shows a small zone of intact red cells next to the colony surrounded by a wider ring of complete lysis, not uniform clearing right up to the growth.",
-          "D": "Gamma hemolysis means no lysis, so the agar around colonies keeps its unchanged red color, as with Enterococcus.",
-          "E": "Synergistic hemolysis, such as the arrowhead in the CAMP test, appears only where two organisms' products intersect, not as clearing around a single colony."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-032_mi007_f04.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-033",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "In this stab-culture test, the tube on the left shows diffuse growth spreading outward from the central inoculation line into the surrounding agar, whereas the right tube stays confined to the stab track. What property of the left organism does this demonstrate?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It produces hydrogen sulfide gas"
-        },
-        {
-          "label": "B",
-          "text": "It is a strict anaerobe"
-        },
-        {
-          "label": "C",
-          "text": "It ferments the sugar in the agar"
-        },
-        {
-          "label": "D",
-          "text": "It possesses a protective capsule"
-        },
-        {
-          "label": "E",
-          "text": "It is motile"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Growth radiating away from the inoculation stab indicates motility, mediated by flagella. Confinement to the stab line (right) indicates a nonmotile organism.",
-        "whyCorrect": "Growth radiating away from the inoculation stab indicates motility, mediated by flagella. Confinement to the stab line (right) indicates a nonmotile organism.",
-        "whyWrongByChoice": {
-          "A": "H2S production in motility or SIM media is shown by a black precipitate from iron sulfide, not by diffuse spreading of growth away from the stab line.",
-          "B": "A strict anaerobe would grow only in the deep, oxygen-poor part of the tube; the left tube's growth radiates laterally along the whole stab line.",
-          "C": "Sugar fermentation is read as a color change of a pH indicator, not as cloudy growth spreading outward from the inoculation track.",
-          "D": "A capsule affects colony mucoidness and phagocytosis resistance but does not let bacteria move through semisolid agar away from the stab."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-033_mi007_f05.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-034",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "A reagent is added to these two culture tubes and the right tube develops a red-pink ring at the surface. What does this positive result indicate about the organism?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It reduces nitrate to nitrite"
-        },
-        {
-          "label": "B",
-          "text": "It produces catalase, releasing oxygen from peroxide"
-        },
-        {
-          "label": "C",
-          "text": "It produces tryptophanase"
-        },
-        {
-          "label": "D",
-          "text": "It produces urease, splitting urea into ammonia"
-        },
-        {
-          "label": "E",
-          "text": "It ferments lactose to produce acid"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "The indole test detects tryptophanase; a red ring after adding Kovac's reagent marks an indole-positive organism, a key trait separating E. coli (positive) from K. pneumoniae (negative).",
-        "whyCorrect": "The indole test detects tryptophanase; a red ring after adding Kovac's reagent marks an indole-positive organism, a key trait separating E. coli (positive) from K. pneumoniae (negative).",
-        "whyWrongByChoice": {
-          "A": "Nitrate reduction is detected by adding sulfanilic acid and alpha-naphthylamine, which turn the whole broth red, not by Kovac's reagent forming a surface ring.",
-          "B": "Catalase is detected by immediate bubbling when hydrogen peroxide is added to colonies, not by a pink ring at the top of a broth tube.",
-          "D": "Urease is detected by a pink-magenta color throughout urea agar as ammonia raises the pH, not by a reagent-layer ring at the surface.",
-          "E": "Lactose fermentation is shown by acid changing a pH indicator in the medium, such as pink colonies on MacConkey, not a red ring after adding reagent."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-034_mi008_f04.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-035",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "This K. pneumoniae growth on MacConkey agar shows pink, glistening, dome-shaped colonies with a slimy appearance. What feature is chiefly responsible for that mucoid look?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Peritrichous flagella causing swarming"
-        },
-        {
-          "label": "B",
-          "text": "An extracellular-DNA-only biofilm"
-        },
-        {
-          "label": "C",
-          "text": "Endospore formation"
-        },
-        {
-          "label": "D",
-          "text": "Production of a red pigment (prodigiosin)"
-        },
-        {
-          "label": "E",
-          "text": "A prominent polysaccharide capsule"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "K. pneumoniae has a large polysaccharide capsule that gives its colonies a characteristic mucoid, slimy appearance; the pink color reflects lactose fermentation on MacConkey agar.",
-        "whyCorrect": "K. pneumoniae has a large polysaccharide capsule that gives its colonies a characteristic mucoid, slimy appearance; the pink color reflects lactose fermentation on MacConkey agar.",
-        "whyWrongByChoice": {
-          "A": "Peritrichous flagella cause swarming in Proteus, spreading thin film across the agar; Klebsiella is nonmotile and forms discrete domed colonies.",
-          "B": "Biofilm matrix is mostly polysaccharide and protein with some extracellular DNA, and it is not what gives individual Klebsiella colonies their glistening mucoid look.",
-          "C": "Klebsiella and other Enterobacteriaceae do not form endospores; spores are made by Bacillus and Clostridium and do not make colonies slimy.",
-          "D": "Prodigiosin is the red pigment of Serratia marcescens; Klebsiella colonies are pink on MacConkey only because lactose fermentation acidifies the medium."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-035_mi008_f05.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-036",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "This agar plate shows concentric rings spreading outward in a bull's-eye pattern from the inoculation site. What bacterial property produces this appearance?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Red pigment (prodigiosin) production"
-        },
-        {
-          "label": "B",
-          "text": "Capsule-mediated mucoid spreading"
-        },
-        {
-          "label": "C",
-          "text": "Twitching motility via type IV pili"
-        },
-        {
-          "label": "D",
-          "text": "Swarming motility"
-        },
-        {
-          "label": "E",
-          "text": "Diffusion of a hemolysin only"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Proteus mirabilis is strongly motile with peritrichous flagella; alternating cycles of swarming and consolidation across the agar create the concentric bull's-eye rings.",
-        "whyCorrect": "Proteus mirabilis is strongly motile with peritrichous flagella; alternating cycles of swarming and consolidation across the agar create the concentric bull's-eye rings.",
-        "whyWrongByChoice": {
-          "A": "Prodigiosin gives Serratia colonies a red color, not concentric rings of spreading growth across the plate.",
-          "B": "A thick capsule makes colonies mucoid and dome-shaped, as in Klebsiella, but does not drive the cyclical outward migration that forms bull's-eye rings.",
-          "C": "Twitching motility via type IV pili produces short jerky surface movement, as in Pseudomonas and Neisseria, without forming swarming concentric rings.",
-          "E": "Hemolysins clear red cells around colonies on blood agar but do not move bacteria outward; the rings reflect the organism's own flagellar migration."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-036_mi008_f08.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-037",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "Colonies on this agar plate display a striking red coloration typical of Serratia marcescens. What is the name of this pigment?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Pyocyanin"
-        },
-        {
-          "label": "B",
-          "text": "Prodigiosin"
-        },
-        {
-          "label": "C",
-          "text": "Melanin"
-        },
-        {
-          "label": "D",
-          "text": "Violacein"
-        },
-        {
-          "label": "E",
-          "text": "Staphyloxanthin"
+          "text": "Shigella and Klebsiella"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Serratia marcescens produces prodigiosin, a red pigment; pyocyanin (blue-green) is made by Pseudomonas and staphyloxanthin (gold) by S. aureus.",
-        "whyCorrect": "Serratia marcescens produces prodigiosin, a red pigment; pyocyanin (blue-green) is made by Pseudomonas and staphyloxanthin (gold) by S. aureus.",
-        "whyWrongByChoice": {
-          "A": "Pyocyanin is the blue-green, redox-active pigment of Pseudomonas aeruginosa, not the red pigment of Serratia.",
-          "C": "Melanin is a brown-black pigment produced by organisms such as Cryptococcus and some molds; it does not give colonies a bright red color.",
-          "D": "Violacein is a purple pigment made by Chromobacterium violaceum, not the red pigment of Serratia marcescens.",
-          "E": "Staphyloxanthin is the golden carotenoid pigment of Staphylococcus aureus that resists oxidative killing; it is not red."
-        }
+        "summary": "The black precipitate is ferrous sulfide, formed when H2S reacts with the ferrous ions in TSI agar. Salmonella, Proteus and Citrobacter produce H2S; E. coli and K. pneumoniae do not, and Shigella is H2S negative.",
+        "whyCorrect": "The black precipitate is ferrous sulfide, formed when H2S reacts with the ferrous ions in TSI agar. Salmonella, Proteus and Citrobacter produce H2S; E. coli and K. pneumoniae do not, and Shigella is H2S negative.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-037_mi008_f09.png",
+      "imageRef": "mipic-315_brick_64_05.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-038",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "This laboratory schematic branches on tests such as lactose fermentation, motility, and urease production. What is its primary purpose?",
+      "id": "mipic-316",
+      "topicId": "enterobacteriaceae-part-1-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "stem": "The molecule shown is found in the outer membrane of gram-negative bacteria such as E. coli. What is the clinical use of its variable, repeating outermost (leftmost) segment?",
       "choices": [
         {
           "label": "A",
-          "text": "To identify members of the Enterobacteriaceae"
+          "text": "Anchoring the molecule in the inner (cytoplasmic) membrane"
         },
         {
           "label": "B",
-          "text": "To score the severity of sepsis"
+          "text": "Serotyping E. coli strains to track outbreaks"
         },
         {
           "label": "C",
-          "text": "To select an anticoagulant regimen"
+          "text": "Providing motility"
         },
         {
           "label": "D",
-          "text": "To grade antifungal susceptibility"
+          "text": "Mediating attachment to uroepithelial cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is lipopolysaccharide (LPS), an endotoxin that can drive inflammation and sepsis. Its O-specific polysaccharide (O antigen) varies from strain to strain. Together with the flagellar H antigen, it is used to serotype strains such as O157:H7 and trace outbreaks.",
+        "whyCorrect": "This is lipopolysaccharide (LPS), an endotoxin that can drive inflammation and sepsis. Its O-specific polysaccharide (O antigen) varies from strain to strain. Together with the flagellar H antigen, it is used to serotype strains such as O157:H7 and trace outbreaks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-316_brick_64_06.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-317",
+      "topicId": "enterobacteriaceae-part-1-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "stem": "An infant in a developing country has noninflammatory watery diarrhea. Electron micrographs of the small-bowel brush border show bacteria sitting on raised actin pedestals with loss of the surrounding microvilli, as shown. Which E. coli pathotype is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterotoxigenic E. coli (ETEC)"
         },
         {
-          "label": "E",
-          "text": "To stage a malignancy"
+          "label": "B",
+          "text": "Enteropathogenic E. coli (EPEC)"
+        },
+        {
+          "label": "C",
+          "text": "Enteroinvasive E. coli (EIEC)"
+        },
+        {
+          "label": "D",
+          "text": "Uropathogenic E. coli (UPEC)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "EPEC attaches to the small-intestinal brush border and causes attaching-and-effacing lesions: microvilli are lost and actin pedestals form. This disrupts absorption and causes watery, noninflammatory diarrhea, mostly in infants in developing countries. ETEC acts through enterotoxins, and EIEC invades the colon.",
+        "whyCorrect": "EPEC attaches to the small-intestinal brush border and causes attaching-and-effacing lesions: microvilli are lost and actin pedestals form. This disrupts absorption and causes watery, noninflammatory diarrhea, mostly in infants in developing countries. ETEC acts through enterotoxins, and EIEC invades the colon.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-317_brick_64_08.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-318",
+      "topicId": "enterobacteriaceae-part-1-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "stem": "The toxin released by the organism shown can enter the circulation and damage glomerular endothelial cells. Which clinical triad results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fever, watery diarrhea, and hypokalemia"
+        },
+        {
+          "label": "B",
+          "text": "Hematuria, hypertension, and edema"
+        },
+        {
+          "label": "C",
+          "text": "Hemolytic anemia, thrombocytopenia, and acute kidney failure"
+        },
+        {
+          "label": "D",
+          "text": "Fever, neck stiffness, and altered mental status"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "EHEC (e.g., O157:H7) releases Shiga toxin. Damage to the glomerular endothelium causes platelet aggregation and microthrombi that fragment red cells. The result is hemolytic uremic syndrome: microangiopathic hemolytic anemia, thrombocytopenia and acute kidney failure.",
+        "whyCorrect": "EHEC (e.g., O157:H7) releases Shiga toxin. Damage to the glomerular endothelium causes platelet aggregation and microthrombi that fragment red cells. The result is hemolytic uremic syndrome: microangiopathic hemolytic anemia, thrombocytopenia and acute kidney failure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-318_brick_64_09.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-319",
+      "topicId": "enterobacteriaceae-part-2-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "stem": "A man with alcohol use disorder develops fever and a cough productive of thick, blood-tinged sputum after an episode of vomiting. Serial chest x-rays show a dense right upper lobe consolidation that progresses to a large cavity (arrows). Sputum grows a lactose-fermenting, nonmotile, indole-negative gram-negative rod. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Klebsiella pneumoniae"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "K. pneumoniae causes pneumonia in people with alcohol use disorder, who are prone to aspiration, and in hospitalized patients. Severe cases become necrotizing and form cavities. The large mucoid capsule produces the classic thick, bloody 'red currant jelly' sputum.",
+        "whyCorrect": "K. pneumoniae causes pneumonia in people with alcohol use disorder, who are prone to aspiration, and in hospitalized patients. Severe cases become necrotizing and form cavities. The large mucoid capsule produces the classic thick, bloody 'red currant jelly' sputum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-319_brick_65_04.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-320",
+      "topicId": "enterobacteriaceae-part-2-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "stem": "Two lactose-fermenting gram-negative rods are each tested with the assay shown. The left tube is negative and the right tube shows a red layer after reagent is added. Which organism most likely gave the right-hand result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "B",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Enterobacter spp."
+        },
+        {
+          "label": "D",
+          "text": "Escherichia coli"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is the indole test: a red color after reagent is added means the organism produced indole from tryptophan. E. coli is indole positive. K. pneumoniae, Enterobacter and P. mirabilis are indole negative, which helps separate E. coli from the other lactose fermenters.",
+        "whyCorrect": "This is the indole test: a red color after reagent is added means the organism produced indole from tryptophan. E. coli is indole positive. K. pneumoniae, Enterobacter and P. mirabilis are indole negative, which helps separate E. coli from the other lactose fermenters.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-320_brick_65_05.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-321",
+      "topicId": "enterobacteriaceae-part-2-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "stem": "A sputum culture on MacConkey agar grows the pink, very slimy colonies shown. The organism is a nonmotile, indole-negative gram-negative rod. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella spp."
+        },
+        {
+          "label": "D",
+          "text": "Proteus mirabilis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pink color means lactose fermentation. The thick, slimy look comes from the large mucoid capsule of K. pneumoniae. Being nonmotile and indole negative separates it from E. coli, and Proteus, Salmonella and Shigella do not ferment lactose.",
+        "whyCorrect": "The pink color means lactose fermentation. The thick, slimy look comes from the large mucoid capsule of K. pneumoniae. Being nonmotile and indole negative separates it from E. coli, and Proteus, Salmonella and Shigella do not ferment lactose.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-321_brick_65_06.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-322",
+      "topicId": "enterobacteriaceae-part-2-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "stem": "A urine isolate grows the pink, dry, non-mucoid colonies shown on MacConkey agar. The organism is motile and indole positive. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Serratia spp."
+        },
+        {
+          "label": "C",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "D",
+          "text": "Proteus mirabilis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pink colonies on MacConkey mean a fast lactose fermenter. Motility, a positive indole test and the absence of the slimy mucoid capsule point to E. coli rather than K. pneumoniae.",
+        "whyCorrect": "Pink colonies on MacConkey mean a fast lactose fermenter. Motility, a positive indole test and the absence of the slimy mucoid capsule point to E. coli rather than K. pneumoniae.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-322_brick_65_07.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-323",
+      "topicId": "enterobacteriaceae-part-2-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "stem": "During a urinary tract infection, an organism uses the enzyme reaction shown, which raises urine pH. Which type of kidney stone is most strongly linked to this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Struvite (ammonium magnesium phosphate)"
+        },
+        {
+          "label": "B",
+          "text": "Cystine"
+        },
+        {
+          "label": "C",
+          "text": "Uric acid"
+        },
+        {
+          "label": "D",
+          "text": "Calcium oxalate"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "The flowchart applies sequential biochemical reactions (lactose, motility, urease, indole, and others) to differentiate genera within the Enterobacteriaceae family.",
-        "whyCorrect": "The flowchart applies sequential biochemical reactions (lactose, motility, urease, indole, and others) to differentiate genera within the Enterobacteriaceae family.",
-        "whyWrongByChoice": {
-          "B": "Sepsis is scored clinically with tools such as SOFA or qSOFA using organ-dysfunction data, not with biochemical reactions like lactose and urease.",
-          "C": "Anticoagulant choice depends on indication, renal function, and bleeding risk; motility and urease tests play no role.",
-          "D": "Antifungal susceptibility is measured by MIC testing of fungal isolates, not by bacterial lactose, motility, and urease reactions.",
-          "E": "Malignancy staging uses TNM criteria from imaging and pathology, unrelated to microbial biochemical tests."
-        }
+        "summary": "Urease splits urea into ammonia and CO2, making the urine alkaline. Calcium-containing compounds then precipitate, and the ammonia forms struvite, which can grow into large staghorn calculi. Proteus mirabilis is the classic urease producer.",
+        "whyCorrect": "Urease splits urea into ammonia and CO2, making the urine alkaline. Calcium-containing compounds then precipitate, and the ammonia forms struvite, which can grow into large staghorn calculi. Proteus mirabilis is the classic urease producer.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-038_mi008_f10.png",
+      "imageRef": "mipic-323_brick_65_08.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-132",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "This abdominal radiograph shows a large branching stone filling the renal collecting system. In a patient with a urease-producing urinary infection, what is the typical composition of this stone?",
+      "id": "mipic-324",
+      "topicId": "enterobacteriaceae-part-2-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "stem": "A woman with recurrent urinary tract infections has an abdominal x-ray showing large branching radiopaque calculi filling the left renal collecting system, as shown. Her urine is alkaline and grows a swarming, non-lactose-fermenting, urease-positive gram-negative rod. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serratia marcescens"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "D",
+          "text": "Klebsiella pneumoniae"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The x-ray shows staghorn calculi. P. mirabilis produces urease, which alkalinizes the urine and leads to struvite stones that can branch like deer antlers. Its swarming motility and lack of lactose fermentation identify it in the lab.",
+        "whyCorrect": "The x-ray shows staghorn calculi. P. mirabilis produces urease, which alkalinizes the urine and leads to struvite stones that can branch like deer antlers. Its swarming motility and lack of lactose fermentation identify it in the lab.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-324_brick_65_09.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-325",
+      "topicId": "enterobacteriaceae-part-2-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "stem": "The branched stone shown was surgically removed from a renal pelvis in a patient with recurrent UTIs. What is the most likely composition of this stone?",
       "choices": [
         {
           "label": "A",
@@ -630,342 +434,1075 @@
         },
         {
           "label": "B",
-          "text": "Uric acid"
+          "text": "Ammonium magnesium phosphate (struvite)"
         },
         {
           "label": "C",
-          "text": "Struvite"
+          "text": "Uric acid"
         },
         {
           "label": "D",
           "text": "Calcium oxalate"
-        },
-        {
-          "label": "E",
-          "text": "Calcium phosphate (brushite)"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Urease-producing organisms alkalinize the urine and generate ammonia, precipitating struvite (magnesium ammonium phosphate), which can grow into a branching staghorn calculus.",
-        "whyCorrect": "Urease-producing organisms alkalinize the urine and generate ammonia, precipitating struvite (magnesium ammonium phosphate), which can grow into a branching staghorn calculus.",
-        "whyWrongByChoice": {
-          "A": "Cystine stones form from an inherited defect in renal reabsorption of dibasic amino acids, show hexagonal crystals, and arise in acidic urine, not from urease-producing infection.",
-          "B": "Uric acid stones form in persistently acidic urine, as with gout or tumor lysis, and are radiolucent; alkaline infected urine prevents them.",
-          "D": "Calcium oxalate is the most common stone overall, linked to hypercalciuria and hyperoxaluria, but it is not produced by urease-driven alkalinization and rarely forms staghorns.",
-          "E": "Brushite (calcium hydrogen phosphate) stones occur in mildly acidic to neutral urine with hypercalciuria, not from ammonia-generating urease infection forming magnesium ammonium phosphate."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-132_mi008_f06.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-205",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "This schematic divides a gram-negative outer-membrane molecule into three linked regions: a distal repeating sugar chain, a core sugar segment, and a membrane-embedded lipid anchor. What molecule is depicted?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Lipopolysaccharide"
-        },
-        {
-          "label": "B",
-          "text": "Peptidoglycan"
-        },
-        {
-          "label": "C",
-          "text": "Mycolic acid"
-        },
-        {
-          "label": "D",
-          "text": "Lipoteichoic acid"
-        },
-        {
-          "label": "E",
-          "text": "Teichoic acid"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "The three components shown (O-specific polysaccharide, core polysaccharide, and lipid A) make up lipopolysaccharide, the endotoxin of the gram-negative outer membrane. Lipid A drives the inflammatory/septic response.",
-        "whyCorrect": "The three components shown (O-specific polysaccharide, core polysaccharide, and lipid A) make up lipopolysaccharide, the endotoxin of the gram-negative outer membrane. Lipid A drives the inflammatory/septic response.",
-        "whyWrongByChoice": {
-          "B": "Peptidoglycan is a mesh of alternating NAG-NAM sugars cross-linked by peptides forming the cell wall; it lacks an O-antigen chain and a lipid A anchor in the outer membrane.",
-          "C": "Mycolic acids are very long branched fatty acids in the mycobacterial cell envelope, not a three-part sugar-plus-lipid molecule of gram-negative outer membranes.",
-          "D": "Lipoteichoic acid is a gram-positive polymer of glycerol or ribitol phosphate anchored in the cytoplasmic membrane; gram-negative bacteria lack it.",
-          "E": "Teichoic acid is a gram-positive cell-wall polymer attached to peptidoglycan, not an outer-membrane molecule with O-antigen, core, and lipid A regions."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-205_mi007_f07.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-206",
-      "topicId": "enterobacteriaceae",
-      "topicName": "Enterobacteriaceae",
-      "stem": "This diagram shows an E. coli strain adhering to the colonic brush border and releasing a toxin. That toxin kills the enterocyte by which molecular mechanism?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Cleaving SNARE proteins to block neurotransmitter release"
-        },
-        {
-          "label": "B",
-          "text": "Cleaving 28S rRNA of the 60S ribosomal subunit"
-        },
-        {
-          "label": "C",
-          "text": "Degrading membrane phospholipids via lecithinase"
-        },
-        {
-          "label": "D",
-          "text": "ADP-ribosylating elongation factor 2 (EF-2)"
-        },
-        {
-          "label": "E",
-          "text": "Raising intracellular cAMP via Gs activation"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Enterohemorrhagic E. coli releases Shiga-like toxin, which removes an adenine from the 28S rRNA of the 60S ribosomal subunit, inhibiting protein synthesis and causing cell death; systemic spread underlies hemolytic uremic syndrome.",
-        "whyCorrect": "Enterohemorrhagic E. coli releases Shiga-like toxin, which removes an adenine from the 28S rRNA of the 60S ribosomal subunit, inhibiting protein synthesis and causing cell death; systemic spread underlies hemolytic uremic syndrome.",
-        "whyWrongByChoice": {
-          "A": "Cleaving SNARE proteins is how botulinum and tetanus toxins act, as zinc proteases that block neurotransmitter release; it does not kill enterocytes.",
-          "C": "Lecithinase (alpha toxin) of Clostridium perfringens degrades membrane phospholipids causing myonecrosis and hemolysis, not E. coli enterocyte death.",
-          "D": "ADP-ribosylating EF-2 is the mechanism of diphtheria toxin and Pseudomonas exotoxin A; Shiga-like toxin instead depurinates 28S rRNA.",
-          "E": "Raising cAMP via Gs activation is the mechanism of cholera toxin and the heat-labile toxin of ETEC, which causes secretory diarrhea without killing the cell."
-        }
+        "summary": "This is a staghorn calculus, a branching stone shaped like deer horns. Staghorn calculi are struvite stones that form when urease-producing bacteria such as Proteus mirabilis alkalinize the urine and generate ammonia. They can get so large that surgery is needed to remove them.",
+        "whyCorrect": "This is a staghorn calculus, a branching stone shaped like deer horns. Staghorn calculi are struvite stones that form when urease-producing bacteria such as Proteus mirabilis alkalinize the urine and generate ammonia. They can get so large that surgery is needed to remove them.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-206_mi007_f10.png",
+      "imageRef": "mipic-325_brick_65_10.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-133",
-      "topicId": "protein-synthesis-inhibitors",
-      "topicName": "Protein Synthesis Inhibitors",
-      "stem": "This schematic of the neuromuscular junction shows autoantibodies blocking the binding of the neurotransmitter to its postsynaptic receptor. This pathophysiology is characteristic of which condition?",
+      "id": "mipic-326",
+      "topicId": "enterobacteriaceae-part-2-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "stem": "A gram-negative rod from a hospitalized, immunocompromised patient is a slow lactose fermenter, motile and urease negative, and its colonies have the color shown. Which organism is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "Myasthenia gravis"
+          "text": "Proteus mirabilis"
         },
         {
           "label": "B",
-          "text": "Amyotrophic lateral sclerosis"
+          "text": "Klebsiella pneumoniae"
         },
         {
           "label": "C",
-          "text": "Guillain-Barre syndrome"
+          "text": "Serratia spp."
         },
         {
           "label": "D",
-          "text": "Botulism"
+          "text": "Citrobacter spp."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Some Serratia species produce a red pigment (prodigiosin), which distinguishes Serratia from Citrobacter, the other slow lactose fermenter. Not all Serratia strains are pigmented. Serratia mainly causes opportunistic infections in hospitalized or immunocompromised patients.",
+        "whyCorrect": "Some Serratia species produce a red pigment (prodigiosin), which distinguishes Serratia from Citrobacter, the other slow lactose fermenter. Not all Serratia strains are pigmented. Serratia mainly causes opportunistic infections in hospitalized or immunocompromised patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-326_brick_65_11.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-327",
+      "topicId": "enterobacteriaceae-part-2-of-2-2026",
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "stem": "The pinkish-orange discoloration along the grout of the bathroom tiles shown is a biofilm. Its pigment reveals which environmental gram-negative rod?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serratia spp."
         },
         {
-          "label": "E",
-          "text": "Lambert-Eaton myasthenic syndrome"
+          "label": "B",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "D",
+          "text": "Escherichia coli"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "The diagram shows antibodies against the acetylcholine receptor preventing ACh from activating the postsynaptic membrane, the defining mechanism of myasthenia gravis. Aminoglycosides can antagonize ACh receptors and cause neuromuscular blockade that compounds this deficit, so they are used cautiously in these patients.",
-        "whyCorrect": "The diagram shows antibodies against the acetylcholine receptor preventing ACh from activating the postsynaptic membrane, the defining mechanism of myasthenia gravis. Aminoglycosides can antagonize ACh receptors and cause neuromuscular blockade that compounds this deficit, so they are used cautiously in these patients.",
-        "whyWrongByChoice": {
-          "B": "ALS is degeneration of upper and lower motor neurons, causing mixed spasticity and atrophy, without autoantibodies blocking postsynaptic ACh receptors.",
-          "C": "Guillain-Barre syndrome is an autoimmune attack on peripheral nerve myelin or axons, causing ascending weakness and areflexia, not receptor blockade at the junction.",
-          "D": "Botulism results from a toxin that cleaves SNARE proteins and blocks presynaptic ACh release; it does not involve autoantibodies at the postsynaptic receptor.",
-          "E": "Lambert-Eaton syndrome involves antibodies against presynaptic voltage-gated calcium channels, reducing ACh release, and weakness improves with repeated use rather than worsening."
-        }
+        "summary": "Serratia is widespread in soil and water. Pigment-producing strains make a red pigment, which shows when a biofilm, such as the pink film on shower grout, contains Serratia.",
+        "whyCorrect": "Serratia is widespread in soil and water. Pigment-producing strains make a red pigment, which shows when a biofilm, such as the pink film on shower grout, contains Serratia.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-133_mi012_f02.png",
+      "imageRef": "mipic-327_brick_65_12.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-192",
-      "topicId": "protein-synthesis-inhibitors",
-      "topicName": "Protein Synthesis Inhibitors",
-      "stem": "This figure summarizes the major adverse reactions of one class of protein synthesis inhibitors. By what mechanism does the depicted inner-ear toxicity most likely occur?",
+      "id": "mipic-328",
+      "topicId": "salmonella-shigella-and-campylobacter-spp-2026",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "stem": "Salmonella, Shigella and Campylobacter all use the needle-like structure shown, which spans the inner and outer membranes of the gram-negative cell envelope. What is its function?",
       "choices": [
         {
           "label": "A",
-          "text": "Inhibition of mitochondrial protein synthesis in hair cells"
+          "text": "Pumping antibiotics out of the bacterial cytoplasm"
         },
         {
           "label": "B",
-          "text": "Immune-mediated destruction of the organ of Corti"
+          "text": "Injecting bacterial effector proteins directly into host cells"
         },
         {
           "label": "C",
-          "text": "Chelation of endolymph calcium disrupting hair-cell transduction"
+          "text": "Propelling the bacterium through the intestinal mucus"
         },
         {
           "label": "D",
-          "text": "Autoantibodies directed against the stria vascularis"
+          "text": "Transferring plasmid DNA to another bacterium by conjugation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is a type III secretion system (T3SS). Its needle injects effector proteins into host cells, which promotes bacterial entry (for example through M cells) and intracellular survival. Motility comes from flagella, and DNA transfer happens through conjugation.",
+        "whyCorrect": "This is a type III secretion system (T3SS). Its needle injects effector proteins into host cells, which promotes bacterial entry (for example through M cells) and intracellular survival. Motility comes from flagella, and DNA transfer happens through conjugation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-328_brick_66_03.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-329",
+      "topicId": "salmonella-shigella-and-campylobacter-spp-2026",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "stem": "The small, scarred spleen shown, with multiple dark infarcts, came from a patient with sickle cell anemia. Loss of splenic function puts this patient at increased risk of disseminated infection, including osteomyelitis, from which enteric pathogen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nontyphoidal Salmonella spp."
         },
         {
-          "label": "E",
-          "text": "Blockade of the outer hair cell prestin motor protein"
+          "label": "B",
+          "text": "Shigella sonnei"
+        },
+        {
+          "label": "C",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "D",
+          "text": "Enterotoxigenic E. coli"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "The panels depict nephrotoxicity, ototoxicity, and fetal harm, the hallmark adverse effects of aminoglycosides. Ototoxicity results from aminoglycoside inhibition of mitochondrial ribosomes in cochlear and vestibular hair cells, causing cell death; cochlear loss is irreversible while vestibular cells can partly regenerate.",
-        "whyCorrect": "The panels depict nephrotoxicity, ototoxicity, and fetal harm, the hallmark adverse effects of aminoglycosides. Ototoxicity results from aminoglycoside inhibition of mitochondrial ribosomes in cochlear and vestibular hair cells, causing cell death; cochlear loss is irreversible while vestibular cells can partly regenerate.",
-        "whyWrongByChoice": {
-          "B": "Aminoglycoside ototoxicity is a direct drug effect on hair-cell mitochondria, not an immune-mediated attack on the organ of Corti as in autoimmune inner-ear disease.",
-          "C": "Aminoglycosides do not act by chelating endolymph calcium; hair cells die because the drug inhibits their mitochondrial ribosomes, generating oxidative injury.",
-          "D": "No autoantibodies against the stria vascularis are involved; loop diuretics, not aminoglycosides, primarily disturb strial function, and aminoglycoside injury targets hair cells.",
-          "E": "Prestin is the outer hair cell motor protein, and salicylates rather than aminoglycosides interfere with it, causing reversible hearing loss."
-        }
+        "summary": "Recurrent splenic infarction in sickle cell disease leads to functional asplenia. Patients without a working spleen are at higher risk of disseminated salmonellosis, with rare complications such as septicemia, osteomyelitis, septic arthritis and meningitis.",
+        "whyCorrect": "Recurrent splenic infarction in sickle cell disease leads to functional asplenia. Patients without a working spleen are at higher risk of disseminated salmonellosis, with rare complications such as septicemia, osteomyelitis, septic arthritis and meningitis.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-192_mi012_f01.png",
+      "imageRef": "mipic-329_brick_66_04.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-193",
-      "topicId": "protein-synthesis-inhibitors",
-      "topicName": "Protein Synthesis Inhibitors",
-      "stem": "This figure summarizes the adverse reactions of one antibiotic class, including a cardiac effect. The depicted prolongation of cardiac repolarization predisposes patients to which arrhythmia?",
+      "id": "mipic-330",
+      "topicId": "salmonella-shigella-and-campylobacter-spp-2026",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "stem": "A traveler returning from South Asia has had a week of fever, headache, malaise, constipation and hepatosplenomegaly. He has the transient maculopapular truncal rash shown. Which organism is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "Complete (third-degree) heart block"
+          "text": "Campylobacter jejuni"
         },
         {
           "label": "B",
-          "text": "Wolff-Parkinson-White tachycardia"
+          "text": "Salmonella enterica serotype Typhi"
         },
         {
           "label": "C",
-          "text": "Atrial fibrillation"
+          "text": "Shigella dysenteriae"
         },
         {
           "label": "D",
-          "text": "Ventricular escape rhythm"
-        },
-        {
-          "label": "E",
-          "text": "Torsades de pointes"
+          "text": "Salmonella enterica serotype Enteritidis"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "The panels show macrolide adverse effects: diarrhea, QT prolongation, nausea, and vomiting. By prolonging the QT interval, macrolides increase the risk of torsades de pointes, so they are avoided with other QT-prolonging agents and in patients with cardiovascular disease.",
-        "whyCorrect": "The panels show macrolide adverse effects: diarrhea, QT prolongation, nausea, and vomiting. By prolonging the QT interval, macrolides increase the risk of torsades de pointes, so they are avoided with other QT-prolonging agents and in patients with cardiovascular disease.",
-        "whyWrongByChoice": {
-          "A": "Complete heart block is an AV conduction failure from nodal or His-Purkinje disease, not a result of prolonged ventricular repolarization.",
-          "B": "Wolff-Parkinson-White tachycardia uses an accessory pathway with a short PR and delta wave, a congenital conduction anomaly unrelated to QT prolongation.",
-          "C": "Atrial fibrillation arises from chaotic atrial activity, usually with atrial dilation or structural disease, not from delayed ventricular repolarization.",
-          "D": "A ventricular escape rhythm is a slow backup pacemaker that appears when higher pacemakers fail, not a triggered arrhythmia from a long QT."
-        }
+        "summary": "Typhoid fever, caused by S. Typhi (and S. Paratyphi), presents with fever, constitutional symptoms, constipation or diarrhea, and possible bacteremia with hepatosplenomegaly. A transient maculopapular rash on the trunk is distinctive and does not occur in nontyphoidal salmonellosis. S. Typhi has only human reservoirs.",
+        "whyCorrect": "Typhoid fever, caused by S. Typhi (and S. Paratyphi), presents with fever, constitutional symptoms, constipation or diarrhea, and possible bacteremia with hepatosplenomegaly. A transient maculopapular rash on the trunk is distinctive and does not occur in nontyphoidal salmonellosis. S. Typhi has only human reservoirs.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-193_mi012_f04.png",
+      "imageRef": "mipic-330_brick_66_05.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-194",
-      "topicId": "protein-synthesis-inhibitors",
-      "topicName": "Protein Synthesis Inhibitors",
-      "stem": "These panels depict the adverse reactions of this drug, including a risk of serotonin syndrome. This risk exists because the drug also acts as what?",
+      "id": "mipic-331",
+      "topicId": "salmonella-shigella-and-campylobacter-spp-2026",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "stem": "A stool isolate from a patient who ate undercooked chicken is grown on the bottom half of the MacConkey plate shown, beside a pink lactose fermenter on the top half. The isolate is motile and produces H2S. Which organism is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "A reversible monoamine oxidase inhibitor"
+          "text": "Salmonella spp."
         },
         {
           "label": "B",
-          "text": "A postsynaptic serotonin (5-HT) receptor agonist"
+          "text": "Shigella spp."
         },
         {
           "label": "C",
-          "text": "A selective serotonin reuptake inhibitor"
+          "text": "Klebsiella pneumoniae"
         },
         {
           "label": "D",
-          "text": "An activator of tryptophan hydroxylase"
-        },
-        {
-          "label": "E",
-          "text": "A serotonin-norepinephrine reuptake inhibitor"
+          "text": "Escherichia coli"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "The figure shows linezolid adverse effects: bone marrow suppression, peripheral neuropathy, and serotonin syndrome. Linezolid is a reversible MAO inhibitor, so co-administration with serotonergic drugs such as SSRIs or SNRIs can raise serotonin levels and precipitate serotonin syndrome.",
-        "whyCorrect": "The figure shows linezolid adverse effects: bone marrow suppression, peripheral neuropathy, and serotonin syndrome. Linezolid is a reversible MAO inhibitor, so co-administration with serotonergic drugs such as SSRIs or SNRIs can raise serotonin levels and precipitate serotonin syndrome.",
-        "whyWrongByChoice": {
-          "B": "Linezolid does not act directly on postsynaptic 5-HT receptors as triptans or buspirone do; it raises serotonin by inhibiting its breakdown via MAO.",
-          "C": "Linezolid does not block the serotonin transporter; SSRIs do, and combining them with linezolid's MAO inhibition is what precipitates serotonin syndrome.",
-          "D": "Linezolid does not activate tryptophan hydroxylase, the rate-limiting enzyme of serotonin synthesis; its effect is reduced degradation of serotonin.",
-          "E": "SNRIs such as venlafaxine block serotonin and norepinephrine reuptake; linezolid lacks this transporter action and works as a weak reversible MAO inhibitor."
-        }
+        "summary": "The bottom colonies are colorless, so the organism does not ferment lactose. A motile, H2S-producing non-lactose fermenter linked to poultry is Salmonella. Shigella is nonmotile and H2S negative, and E. coli and Klebsiella ferment lactose (pink).",
+        "whyCorrect": "The bottom colonies are colorless, so the organism does not ferment lactose. A motile, H2S-producing non-lactose fermenter linked to poultry is Salmonella. Shigella is nonmotile and H2S negative, and E. coli and Klebsiella ferment lactose (pink).",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-194_mi012_f05.png",
+      "imageRef": "mipic-331_brick_66_06.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-207",
-      "topicId": "protein-synthesis-inhibitors",
-      "topicName": "Protein Synthesis Inhibitors",
-      "stem": "This labeled schematic depicts a bacterial ribosome with its subunits and functional sites. Which ribosomal subunit is the primary target of aminoglycoside and tetracycline antibiotics?",
+      "id": "mipic-332",
+      "topicId": "salmonella-shigella-and-campylobacter-spp-2026",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "stem": "A motile, oxidase-negative, non-lactose-fermenting gram-negative rod from a patient with bloody diarrhea gives the triple sugar iron (TSI) result shown: red slant, yellow butt and a black precipitate. Which organism is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "The peptidyl transferase center"
+          "text": "Klebsiella pneumoniae"
         },
         {
           "label": "B",
-          "text": "The 50S subunit"
+          "text": "Shigella spp."
         },
         {
           "label": "C",
-          "text": "The 60S subunit"
+          "text": "Escherichia coli"
         },
         {
           "label": "D",
-          "text": "The 30S subunit"
-        },
-        {
-          "label": "E",
-          "text": "The 70S rRNA core"
+          "text": "Salmonella spp."
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "The figure shows the 70S bacterial ribosome composed of a 30S and 50S subunit, with the A (acceptor), P (peptidyl), and E (exit) tRNA-binding sites and rRNA. Aminoglycosides and tetracyclines are 30S subunit inhibitors, whereas macrolides, clindamycin, chloramphenicol, and linezolid act on the 50S subunit.",
-        "whyCorrect": "The figure shows the 70S bacterial ribosome composed of a 30S and 50S subunit, with the A (acceptor), P (peptidyl), and E (exit) tRNA-binding sites and rRNA. Aminoglycosides and tetracyclines are 30S subunit inhibitors, whereas macrolides, clindamycin, chloramphenicol, and linezolid act on the 50S subunit.",
-        "whyWrongByChoice": {
-          "A": "The peptidyl transferase center is a catalytic site within the 50S subunit's 23S rRNA, targeted by chloramphenicol and linezolid, not a subunit and not the site of aminoglycosides.",
-          "B": "The 50S subunit is the target of macrolides, clindamycin, chloramphenicol, and linezolid; aminoglycosides and tetracyclines bind the 30S subunit.",
-          "C": "The 60S subunit belongs to the eukaryotic 80S ribosome, which is why ribosomal antibiotics spare host cytoplasmic protein synthesis.",
-          "E": "70S is the whole assembled bacterial ribosome, not a subunit; aminoglycosides and tetracyclines specifically bind the 30S subunit's 16S rRNA."
-        }
+        "summary": "The yellow butt shows glucose fermentation (acid), and the black precipitate shows H2S production. Salmonella ferments glucose, makes H2S and is motile. Shigella shows no black precipitate and is nonmotile, which separates the two.",
+        "whyCorrect": "The yellow butt shows glucose fermentation (acid), and the black precipitate shows H2S production. Salmonella ferments glucose, makes H2S and is motile. Shigella shows no black precipitate and is nonmotile, which separates the two.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-207_mi011_f01.png",
+      "imageRef": "mipic-332_brick_66_07.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-333",
+      "topicId": "salmonella-shigella-and-campylobacter-spp-2026",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "stem": "A patient has fever, abdominal cramping and diarrhea a few days after eating undercooked poultry. A stool Gram stain shows the organisms seen here. Two weeks later she develops ascending leg weakness. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "B",
+          "text": "Enterohemorrhagic E. coli"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella spp."
+        },
+        {
+          "label": "D",
+          "text": "Shigella spp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The stain shows gram-negative curved, comma- or S-shaped rods. That shape separates Campylobacter from Salmonella and Shigella, which are straight rods. C. jejuni is the most common cause of bacterial diarrhea in the U.S. and the most common cause of Guillain-Barre syndrome.",
+        "whyCorrect": "The stain shows gram-negative curved, comma- or S-shaped rods. That shape separates Campylobacter from Salmonella and Shigella, which are straight rods. C. jejuni is the most common cause of bacterial diarrhea in the U.S. and the most common cause of Guillain-Barre syndrome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-333_brick_66_09.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-334",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "A patient develops the severe eye infection shown after using artificial tears from a product later recalled for bacterial contamination. Green pus is present. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acinetobacter baumannii"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Severe keratitis with green pus after contaminated eye drops points to P. aeruginosa; the green color reflects its pigment production. A 2023 artificial-tear recall involved an extensively drug-resistant Pseudomonas strain that caused vision loss and deaths.",
+        "whyCorrect": "Severe keratitis with green pus after contaminated eye drops points to P. aeruginosa; the green color reflects its pigment production. A 2023 artificial-tear recall involved an extensively drug-resistant Pseudomonas strain that caused vision loss and deaths.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-334_brick_67_02.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-335",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "The electron micrograph shows a gram-negative, non-spore-forming bacillus with a single polar flagellum, isolated from a hospitalized patient. Which organism best fits this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Acinetobacter baumannii"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "D",
+          "text": "Klebsiella pneumoniae"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pseudomonas spp. are gram-negative, non-spore-forming bacilli that are motile by a single polar flagellum. Acinetobacter, by contrast, is a non-motile coccobacillus.",
+        "whyCorrect": "Pseudomonas spp. are gram-negative, non-spore-forming bacilli that are motile by a single polar flagellum. Acinetobacter, by contrast, is a non-motile coccobacillus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-335_brick_67_03.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-336",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "These blue-green colonies grew from a burn wound of a hospitalized patient. Which pigment produced by this organism is blue and toxic to leukocytes and epithelial cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exotoxin A"
+        },
+        {
+          "label": "B",
+          "text": "Pyocyanin"
+        },
+        {
+          "label": "C",
+          "text": "Alginate"
+        },
+        {
+          "label": "D",
+          "text": "Pyoverdine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "P. aeruginosa makes two pigments that give its colonies a blue-to-aqua color. Pyocyanin is the blue pigment that is toxic to cells, including leukocytes. Pyoverdine is the yellow, fluorescent, iron-binding pigment.",
+        "whyCorrect": "P. aeruginosa makes two pigments that give its colonies a blue-to-aqua color. Pyocyanin is the blue pigment that is toxic to cells, including leukocytes. Pyoverdine is the yellow, fluorescent, iron-binding pigment.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-336_brick_67_05.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-337",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "A broth culture of a gram-negative, oxidase-positive bacillus glows yellow-green under UV light, as shown. Which bacterial product causes this fluorescence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyoverdine"
+        },
+        {
+          "label": "B",
+          "text": "Exotoxin A"
+        },
+        {
+          "label": "C",
+          "text": "Alginate"
+        },
+        {
+          "label": "D",
+          "text": "Pyocyanin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pyoverdine is a yellow, fluorescent pigment of P. aeruginosa that binds iron. It makes Pseudomonas cultures and infected tissue fluoresce under UV light. Pyocyanin is the blue, cell-toxic pigment.",
+        "whyCorrect": "Pyoverdine is a yellow, fluorescent pigment of P. aeruginosa that binds iron. It makes Pseudomonas cultures and infected tissue fluoresce under UV light. Pyocyanin is the blue, cell-toxic pigment.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-337_brick_67_06.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-338",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "A healthy adult develops the tender, itchy red papules and pustules centered on hair follicles shown here after soaking in a poorly maintained hot tub. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Acinetobacter baumannii"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hot tub folliculitis is caused by water-loving Pseudomonas spp. that enter skin opened up by prolonged soaking. Papules and pustules cluster around hair follicles. It usually resolves on its own but can recur if the water source is not properly maintained.",
+        "whyCorrect": "Hot tub folliculitis is caused by water-loving Pseudomonas spp. that enter skin opened up by prolonged soaking. Papules and pustules cluster around hair follicles. It usually resolves on its own but can recur if the water source is not properly maintained.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-338_brick_67_07.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-339",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "An elderly patient with diabetes has severe ear pain, purulent discharge, and the destructive ear canal infection shown, along with hoarseness and difficulty swallowing. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hot tub folliculitis caused by Pseudomonas aeruginosa"
+        },
+        {
+          "label": "B",
+          "text": "Malignant otitis externa caused by Pseudomonas aeruginosa"
+        },
+        {
+          "label": "C",
+          "text": "Acute otitis media caused by Streptococcus pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Acute otitis media caused by Moraxella catarrhalis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In diabetic or immunocompromised patients, Pseudomonas otitis externa can invade deeper tissue and bone (malignant otitis externa). Involvement of cranial nerves IX-XII causes trouble swallowing, hoarseness, and difficulty speaking. This is a life-threatening infection.",
+        "whyCorrect": "In diabetic or immunocompromised patients, Pseudomonas otitis externa can invade deeper tissue and bone (malignant otitis externa). Involvement of cranial nerves IX-XII causes trouble swallowing, hoarseness, and difficulty speaking. This is a life-threatening infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-339_brick_67_08.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-340",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "A patient with large third-degree burns develops spreading, darkening, necrotic skin over the injured limb, as shown, with greenish discoloration of the wound. Which organism is a classic cause of this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Large third-degree burns are typically infected by Pseudomonas spp., which colonize necrotic tissue and damage the host with their virulence factors. Burn-induced neutropenia raises the risk of dissemination, and septicemia is a common complication.",
+        "whyCorrect": "Large third-degree burns are typically infected by Pseudomonas spp., which colonize necrotic tissue and damage the host with their virulence factors. Burn-induced neutropenia raises the risk of dissemination, and septicemia is a common complication.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-340_brick_67_09.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-341",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "A wound in a patient with severe burns glows when examined under UV light, as shown. Which organism most likely infects this wound?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "C",
+          "text": "Acinetobacter baumannii"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "P. aeruginosa produces pyoverdine, a fluorescent pigment, so infected burn tissue can glow under UV light. Pseudomonas is a common cause of infection in large third-degree burns.",
+        "whyCorrect": "P. aeruginosa produces pyoverdine, a fluorescent pigment, so infected burn tissue can glow under UV light. Pseudomonas is a common cause of infection in large third-degree burns.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-341_brick_67_10.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-342",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "A patient who stepped on a nail develops a deep wound with the greenish purulent drainage shown. Which organism does the green pus most suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acinetobacter baumannii"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Greenish purulent drainage suggests P. aeruginosa because of its pigments. Puncture injuries such as stepping on a nail can carry the organism into deep tissue and cause osteomyelitis.",
+        "whyCorrect": "Greenish purulent drainage suggests P. aeruginosa because of its pigments. Puncture injuries such as stepping on a nail can carry the organism into deep tissue and cause osteomyelitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-342_brick_67_11.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-343",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "The ulcer shown is on the foot of a patient with diabetes. Besides S. aureus and streptococci, which gram-negative bacillus is among the most common causes of complicated infections of such ulcers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Legionella pneumophila"
+        },
+        {
+          "label": "B",
+          "text": "Bordetella pertussis"
+        },
+        {
+          "label": "C",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Diabetic foot infections are often polymicrobial. S. aureus and streptococci are important pathogens, and P. aeruginosa appears in more complicated infections. Mixed and antibiotic-resistant infections make treatment difficult.",
+        "whyCorrect": "Diabetic foot infections are often polymicrobial. S. aureus and streptococci are important pathogens, and P. aeruginosa appears in more complicated infections. Mixed and antibiotic-resistant infections make treatment difficult.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-343_brick_67_12.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-344",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "Poor cleaning or replacement of the item shown is a classic risk factor for a sight-threatening corneal infection by which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acinetobacter baumannii"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "D",
+          "text": "Haemophilus influenzae"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pseudomonas spp. are common in the environment and can build up in contaminated contact lens cases and solution, then infect the eye, usually after a corneal abrasion. Pseudomonas keratitis often causes permanent damage.",
+        "whyCorrect": "Pseudomonas spp. are common in the environment and can build up in contaminated contact lens cases and solution, then infect the eye, usually after a corneal abrasion. Pseudomonas keratitis often causes permanent damage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-344_brick_67_13.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-345",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "A patient has the corneal infection shown, caused by a gram-negative, oxidase-positive bacillus. Which history most strongly predisposes to this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Soaking in a poorly maintained hot tub"
+        },
+        {
+          "label": "B",
+          "text": "Poor cleaning or replacement of contact lenses"
+        },
+        {
+          "label": "C",
+          "text": "Stepping on a nail"
+        },
+        {
+          "label": "D",
+          "text": "Mechanical ventilation in the ICU"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pseudomonas keratitis usually follows corneal abrasion or other eye trauma, and contaminated contact lenses or lens solution are a classic source. These infections commonly cause permanent damage.",
+        "whyCorrect": "Pseudomonas keratitis usually follows corneal abrasion or other eye trauma, and contaminated contact lenses or lens solution are a classic source. These infections commonly cause permanent damage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-345_brick_67_14.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-346",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "The illustration contrasts a normal airway with the thick, sticky mucus of an autosomal recessive CFTR disease. Which organism, often as mucoid strains, is most associated with chronic lung infection and progressive lung destruction in this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "B",
+          "text": "Acinetobacter baumannii"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Haemophilus influenzae"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In cystic fibrosis, thick mucus lets bacteria colonize deep in the lungs. Mucoid, alginate-producing P. aeruginosa is classically linked to chronic CF lung infection, inflammation, and progressive lung destruction. Respiratory failure from chronic infection is the most common cause of death in CF.",
+        "whyCorrect": "In cystic fibrosis, thick mucus lets bacteria colonize deep in the lungs. Mucoid, alginate-producing P. aeruginosa is classically linked to chronic CF lung infection, inflammation, and progressive lung destruction. Respiratory failure from chronic infection is the most common cause of death in CF.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-346_brick_67_17.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-347",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "Two strains of Pseudomonas are grown on the plate shown. The glistening, slimy strain on the right was most likely isolated from which patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A healthy hot tub user with folliculitis"
+        },
+        {
+          "label": "B",
+          "text": "A child with acute otitis media"
+        },
+        {
+          "label": "C",
+          "text": "A swimmer with otitis externa"
+        },
+        {
+          "label": "D",
+          "text": "A patient with cystic fibrosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mucoid strains of P. aeruginosa make an alginate capsule that helps them adhere to and colonize mucus. They are classically isolated from the lungs of cystic fibrosis patients with chronic infection.",
+        "whyCorrect": "Mucoid strains of P. aeruginosa make an alginate capsule that helps them adhere to and colonize mucus. They are classically isolated from the lungs of cystic fibrosis patients with chronic infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-347_brick_67_18.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-348",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "A child with Pseudomonas bacteremia develops the dark, necrotic skin lesions on the face shown here. What is the name of these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hot tub folliculitis"
+        },
+        {
+          "label": "B",
+          "text": "Impetigo"
+        },
+        {
+          "label": "C",
+          "text": "Ecthyma gangrenosum"
+        },
+        {
+          "label": "D",
+          "text": "Erythema migrans"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ecthyma gangrenosum is a necrotic skin lesion seen with bloodstream spread of Pseudomonas spp. It is a fairly unique presentation of Pseudomonas septicemia, although its absence does not exclude Pseudomonas infection.",
+        "whyCorrect": "Ecthyma gangrenosum is a necrotic skin lesion seen with bloodstream spread of Pseudomonas spp. It is a fairly unique presentation of Pseudomonas septicemia, although its absence does not exclude Pseudomonas infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-348_brick_67_19.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-349",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "A child with septicemia has the scattered lesions shown, some with dark necrotic centers. Which organism classically causes this bloodstream-associated skin finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ecthyma gangrenosum is classically linked to hematogenous spread of Pseudomonas spp. Most Pseudomonas infections look like those of other bacteria, but this lesion is a fairly distinctive clue to Pseudomonas septicemia.",
+        "whyCorrect": "Ecthyma gangrenosum is classically linked to hematogenous spread of Pseudomonas spp. Most Pseudomonas infections look like those of other bacteria, but this lesion is a fairly distinctive clue to Pseudomonas septicemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-349_brick_67_20.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-350",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "The lesions shown in a child with Pseudomonas septicemia began as red macules or papules. If they progress, what do they finally become?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Expanding target-like rings"
+        },
+        {
+          "label": "B",
+          "text": "Vesicles in a dermatomal band"
+        },
+        {
+          "label": "C",
+          "text": "Honey-crusted plaques"
+        },
+        {
+          "label": "D",
+          "text": "Necrotic ulcers"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ecthyma gangrenosum starts as a red macule or papule, develops into pustules and bullae, and finally forms a necrotic ulcer. It accompanies hematogenous spread of Pseudomonas spp.",
+        "whyCorrect": "Ecthyma gangrenosum starts as a red macule or papule, develops into pustules and bullae, and finally forms a necrotic ulcer. It accompanies hematogenous spread of Pseudomonas spp.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-350_brick_67_21.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-351",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "This close-up shows a necrotic skin ulcer in a patient with Pseudomonas bacteremia. In which body areas does this lesion most commonly appear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Face and scalp"
+        },
+        {
+          "label": "B",
+          "text": "Anogenital and axillary areas"
+        },
+        {
+          "label": "C",
+          "text": "Hair follicles of the trunk"
+        },
+        {
+          "label": "D",
+          "text": "Palms and soles"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ecthyma gangrenosum, the necrotic lesion of Pseudomonas septicemia, can appear almost anywhere but most often involves the anogenital and axillary areas.",
+        "whyCorrect": "Ecthyma gangrenosum, the necrotic lesion of Pseudomonas septicemia, can appear almost anywhere but most often involves the anogenital and axillary areas.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-351_brick_67_22.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-352",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "An infant has a cloudy, infected left cornea and necrotic skin lesions on the face, as shown. A single disseminated infection explains both findings. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Disseminated Pseudomonas infection can cause both keratitis and ecthyma gangrenosum, the necrotic skin lesion of Pseudomonas bacteremia.",
+        "whyCorrect": "Disseminated Pseudomonas infection can cause both keratitis and ecthyma gangrenosum, the necrotic skin lesion of Pseudomonas bacteremia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-352_brick_67_23.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-353",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "A sputum sample from a ventilated ICU patient grows the aqua-green colonies shown. The organism is a gram-negative bacillus that does not ferment lactose and is oxidase-positive. Which organism is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Acinetobacter baumannii"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pseudomonas spp. are gram-negative, non-lactose-fermenting, oxidase-positive bacilli whose colonies are aqua or green because of pyocyanin and pyoverdine. Lactose fermentation would point to E. coli or K. pneumoniae, and an oxidase-negative result to Salmonella or Shigella. Acinetobacter colonies are colorless or creamy.",
+        "whyCorrect": "Pseudomonas spp. are gram-negative, non-lactose-fermenting, oxidase-positive bacilli whose colonies are aqua or green because of pyocyanin and pyoverdine. Lactose fermentation would point to E. coli or K. pneumoniae, and an oxidase-negative result to Salmonella or Shigella. Acinetobacter colonies are colorless or creamy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-353_brick_67_24.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-354",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "Two P. aeruginosa isolates are shown side by side. Which bacterial product gives the right-hand isolate its slimy appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyocyanin"
+        },
+        {
+          "label": "B",
+          "text": "Pyoverdine"
+        },
+        {
+          "label": "C",
+          "text": "Alginate"
+        },
+        {
+          "label": "D",
+          "text": "Exotoxin A"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mucoid strains make an alginate capsule, a polysaccharide that absorbs many times its weight in water and helps the bacteria cling to and colonize mucus. These strains are classically associated with chronic cystic fibrosis lung infection.",
+        "whyCorrect": "Mucoid strains make an alginate capsule, a polysaccharide that absorbs many times its weight in water and helps the bacteria cling to and colonize mucus. These strains are classically associated with chronic cystic fibrosis lung infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-354_brick_67_25.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-355",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria-2026",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "A ventilated ICU patient has pneumonia. Gram stain of a respiratory sample shows the organisms indicated, which are between rods and spheres in shape. The isolate is non-motile, oxidase-negative, forms colorless colonies, and is resistant to carbapenems. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "B",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "D",
+          "text": "Acinetobacter baumannii"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Acinetobacter spp. are gram-negative coccobacilli that are non-motile and oxidase-negative, with colorless or creamy colonies. A. baumannii is a leading cause of ventilator-associated pneumonia and often shows multidrug resistance, including carbapenem resistance. Pseudomonas is a motile, oxidase-positive, pigmented bacillus.",
+        "whyCorrect": "Acinetobacter spp. are gram-negative coccobacilli that are non-motile and oxidase-negative, with colorless or creamy colonies. A. baumannii is a leading cause of ventilator-associated pneumonia and often shows multidrug resistance, including carbapenem resistance. Pseudomonas is a motile, oxidase-positive, pigmented bacillus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-355_brick_67_27.jpg",
       "tags": [
         "picture"
       ]

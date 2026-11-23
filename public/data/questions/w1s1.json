@@ -3,98 +3,80 @@
   "categoryName": "Session 1",
   "questions": [
     {
-      "id": "mipic-005",
-      "topicId": "bacterial-structure-growth-and-staining",
+      "id": "mipic-247",
+      "topicId": "bacterial-structure-growth-and-staining-2026",
       "topicName": "Bacterial Structure, Growth, and Staining",
-      "stem": "This electron micrograph shows a single bacterium with one long, thin whip-like appendage extending from one pole. What is the primary function of that appendage?",
+      "stem": "This Gram-stained smear contains violet cocci in clusters and pink rods. Why do the violet cocci retain the crystal violet stain?",
       "choices": [
         {
           "label": "A",
-          "text": "Motility"
+          "text": "A polysaccharide capsule binds the crystal violet"
         },
         {
           "label": "B",
-          "text": "Transfer of plasmid DNA between cells"
+          "text": "Thick peptidoglycan cell wall retains the crystal violet-iodide complex"
         },
         {
           "label": "C",
-          "text": "Attachment to host epithelial surfaces"
+          "text": "An outer membrane rich in lipopolysaccharide traps the dye"
         },
         {
           "label": "D",
-          "text": "Uptake of nutrients across the membrane"
-        },
-        {
-          "label": "E",
-          "text": "Secretion of exotoxins"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "The polar filament is a flagellum, a protein cylinder anchored in the cell envelope that rotates to propel the bacterium; adhesion is a role of pili/fimbriae, and conjugative transfer uses sex pili.",
-        "whyCorrect": "The polar filament is a flagellum, a protein cylinder anchored in the cell envelope that rotates to propel the bacterium; adhesion is a role of pili/fimbriae, and conjugative transfer uses sex pili.",
-        "whyWrongByChoice": {
-          "B": "Plasmid transfer uses a sex pilus, a shorter rigid appendage that forms a mating bridge, not a long whip-like flagellum.",
-          "C": "Attachment to epithelium is the role of pili and fimbriae, which are short and numerous rather than a single long polar filament.",
-          "D": "Nutrient uptake occurs through membrane transporters and porins, not through a flagellum.",
-          "E": "Exotoxins are released through dedicated secretion systems; a flagellum's function is propulsion."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-005_mi010_f01.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-006",
-      "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining",
-      "stem": "This labeled schematic depicts a cell whose genetic material sits free in the cytoplasm as a single loop rather than inside a membrane-bound compartment. What type of cell is illustrated?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A plant cell"
-        },
-        {
-          "label": "B",
-          "text": "A prokaryotic cell"
-        },
-        {
-          "label": "C",
-          "text": "A eukaryotic animal cell"
-        },
-        {
-          "label": "D",
-          "text": "An enveloped virus particle"
-        },
-        {
-          "label": "E",
-          "text": "A fungal cell"
+          "text": "Mycolic acids in the cell wall resist acid-alcohol decolorization"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "The absence of a nucleus with the nucleoid/circular DNA free in the cytoplasm, plus a capsule, cell wall, pili and flagellum, identifies this as a prokaryotic bacterial cell.",
-        "whyCorrect": "The absence of a nucleus with the nucleoid/circular DNA free in the cytoplasm, plus a capsule, cell wall, pili and flagellum, identifies this as a prokaryotic bacterial cell.",
-        "whyWrongByChoice": {
-          "A": "Plant cells are eukaryotic, with a nucleus, chloroplasts and a large vacuole, which this cell lacks.",
-          "C": "Animal cells have a membrane-bound nucleus and organelles and no cell wall, unlike the free circular DNA shown.",
-          "D": "Viruses are not cells; they have no cytoplasm, ribosomes or cell wall and cannot replicate alone.",
-          "E": "Fungal cells are eukaryotic, with a nucleus and chitin-containing walls."
-        }
+        "summary": "Gram-positive bacteria (here Staphylococcus, violet) have thick peptidoglycan walls that hold the crystal violet-iodide complex after decolorization. Gram-negative bacteria (here E. coli, pink) have a thin peptidoglycan layer, lose the violet dye and take up the safranin counterstain.",
+        "whyCorrect": "Gram-positive bacteria (here Staphylococcus, violet) have thick peptidoglycan walls that hold the crystal violet-iodide complex after decolorization. Gram-negative bacteria (here E. coli, pink) have a thin peptidoglycan layer, lose the violet dye and take up the safranin counterstain.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-006_mi010_f02.png",
+      "imageRef": "mipic-247_brick_53_02.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-039",
-      "topicId": "bacterial-structure-growth-and-staining",
+      "id": "mipic-248",
+      "topicId": "bacterial-structure-growth-and-staining-2026",
       "topicName": "Bacterial Structure, Growth, and Staining",
-      "stem": "In this Ziehl-Neelsen (acid-fast) preparation, the background and most cells stain blue while a few slender, curved organisms remain bright red. What cell-wall component allows those red organisms to retain the carbol fuchsin after acid-alcohol washing?",
+      "stem": "A sputum smear stained with carbol fuchsin, washed with acid alcohol, and counterstained with methylene blue shows the red rods seen here. Which cell wall component explains their staining?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mycolic acids"
+        },
+        {
+          "label": "B",
+          "text": "Teichoic acids"
+        },
+        {
+          "label": "C",
+          "text": "Lipopolysaccharide"
+        },
+        {
+          "label": "D",
+          "text": "Thick peptidoglycan"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is an acid-fast (Ziehl-Neelsen) stain. Acid-fast organisms such as Mycobacteria (and Nocardia) have large amounts of mycolic acids in their cell walls that resist acid-alcohol decolorization, so they stay bright red against the blue background.",
+        "whyCorrect": "This is an acid-fast (Ziehl-Neelsen) stain. Acid-fast organisms such as Mycobacteria (and Nocardia) have large amounts of mycolic acids in their cell walls that resist acid-alcohol decolorization, so they stay bright red against the blue background.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-248_brick_53_03.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-249",
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "stem": "In this preparation the background is stained dark and each bacterium is surrounded by a clear halo. What does the clear halo represent?",
       "choices": [
         {
           "label": "A",
@@ -102,395 +84,279 @@
         },
         {
           "label": "B",
-          "text": "Peptidoglycan"
+          "text": "Endospore"
         },
         {
           "label": "C",
-          "text": "Mycolic acid"
+          "text": "Peptidoglycan cell wall"
         },
         {
           "label": "D",
-          "text": "Teichoic acid"
+          "text": "Outer membrane"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Capsules do not bind most dyes, so they are shown by negative staining of the background with India ink (or nigrosine). The capsule appears as a clear halo around each cell. Capsules can contribute to a bacterium's ability to cause disease.",
+        "whyCorrect": "Capsules do not bind most dyes, so they are shown by negative staining of the background with India ink (or nigrosine). The capsule appears as a clear halo around each cell. Capsules can contribute to a bacterium's ability to cause disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-249_brick_53_04.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-250",
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "stem": "A Gram stain shows the violet cocci arranged as shown (arrow). Which genus most typically has this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus"
         },
         {
-          "label": "E",
-          "text": "Lipopolysaccharide"
+          "label": "B",
+          "text": "Neisseria"
+        },
+        {
+          "label": "C",
+          "text": "Escherichia"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gram-positive cocci arranged in chains (short single-file lines) are characteristic of Streptococcus species. Staphylococcus forms grape-like clusters, Neisseria are gram-negative diplococci, E. coli is a gram-negative rod, and Mycobacteria are acid-fast rods.",
+        "whyCorrect": "Gram-positive cocci arranged in chains (short single-file lines) are characteristic of Streptococcus species. Staphylococcus forms grape-like clusters, Neisseria are gram-negative diplococci, E. coli is a gram-negative rod, and Mycobacteria are acid-fast rods.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-250_brick_53_05.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-251",
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "stem": "A Gram stain shows violet cocci grouped as shown (arrows). Which genus most typically has this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia"
+        },
+        {
+          "label": "C",
+          "text": "Neisseria"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gram-positive cocci that bunch together like grapes (clusters) are characteristic of Staphylococcus species. Streptococci form chains, Neisseria are gram-negative diplococci, E. coli is a gram-negative rod, and Nocardia forms branching filaments.",
+        "whyCorrect": "Gram-positive cocci that bunch together like grapes (clusters) are characteristic of Staphylococcus species. Streptococci form chains, Neisseria are gram-negative diplococci, E. coli is a gram-negative rod, and Nocardia forms branching filaments.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-251_brick_53_06.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-252",
+      "topicId": "bacterial-reproduction-and-genetics-2026",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "stem": "The diagram shows a gene flanked by mobile DNA sequences moving from a plasmid into the bacterial chromosome. Clinically, genes moved this way most often encode what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capsule polysaccharide"
+        },
+        {
+          "label": "B",
+          "text": "Flagellin"
+        },
+        {
+          "label": "C",
+          "text": "Ribosomal RNA"
+        },
+        {
+          "label": "D",
+          "text": "Antibiotic resistance"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Transposons must flank both sides of a gene to move it. They let DNA jump within the genome and between plasmids and chromosomal DNA, often carrying drug-resistance genes such as beta-lactamase. Once the gene is in the chromosome, all future progeny of that bacterium carry it.",
+        "whyCorrect": "Transposons must flank both sides of a gene to move it. They let DNA jump within the genome and between plasmids and chromosomal DNA, often carrying drug-resistance genes such as beta-lactamase. Once the gene is in the chromosome, all future progeny of that bacterium carry it.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-252_brick_54_01.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-253",
+      "topicId": "bacterial-reproduction-and-genetics-2026",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "stem": "Which horizontal gene transfer mechanism is illustrated, in which a plasmid passes from one bacterium to another through direct physical contact?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binary fission"
+        },
+        {
+          "label": "B",
+          "text": "Transformation"
+        },
+        {
+          "label": "C",
+          "text": "Conjugation"
+        },
+        {
+          "label": "D",
+          "text": "Transduction"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Acid-fast organisms such as Mycobacteria have waxy mycolic acids in their walls that resist decolorization by acid-alcohol, so they hold the red carbol fuchsin while other cells take up the methylene blue counterstain.",
-        "whyCorrect": "Acid-fast organisms such as Mycobacteria have waxy mycolic acids in their walls that resist decolorization by acid-alcohol, so they hold the red carbol fuchsin while other cells take up the methylene blue counterstain.",
-        "whyWrongByChoice": {
-          "A": "A polysaccharide capsule does not retain carbol fuchsin through acid-alcohol and is shown with India ink or Quellung tests.",
-          "B": "Peptidoglycan retains crystal violet in the Gram stain, but alone it does not resist acid-alcohol decolorization.",
-          "D": "Teichoic acid is a gram-positive wall component that does not confer acid-fastness.",
-          "E": "LPS is a gram-negative outer-membrane component; gram-negative cells decolorize and take up the blue counterstain."
-        }
+        "summary": "In conjugation, an F+ bacterium uses the sex pilus encoded by its F plasmid to form a mating bridge with an F- cell. A single strand of the plasmid is transferred and copied, so both cells end up F+. No chromosomal DNA is transferred. Conjugation is the most common horizontal gene transfer mechanism and spreads plasmid-borne antibiotic resistance.",
+        "whyCorrect": "In conjugation, an F+ bacterium uses the sex pilus encoded by its F plasmid to form a mating bridge with an F- cell. A single strand of the plasmid is transferred and copied, so both cells end up F+. No chromosomal DNA is transferred. Conjugation is the most common horizontal gene transfer mechanism and spreads plasmid-borne antibiotic resistance.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-039_mi010_f08.png",
+      "imageRef": "mipic-253_brick_54_02.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-040",
-      "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining",
-      "stem": "This smear shows paired, kidney-bean-shaped diplococci that stain pink/red and lie within a host neutrophil. Why do these organisms take the pink color rather than staining purple?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "They are coated in waxy mycolic acids"
-        },
-        {
-          "label": "B",
-          "text": "Their wall is rich in teichoic acids"
-        },
-        {
-          "label": "C",
-          "text": "They possess only a thick polysaccharide capsule"
-        },
-        {
-          "label": "D",
-          "text": "They have a thick peptidoglycan cell wall"
-        },
-        {
-          "label": "E",
-          "text": "Their envelope has only a thin peptidoglycan layer"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Gram-negative diplococci lose the crystal violet during decolorization because their thin peptidoglycan sits between inner and outer membranes, so they take up the pink safranin counterstain.",
-        "whyCorrect": "Gram-negative diplococci lose the crystal violet during decolorization because their thin peptidoglycan sits between inner and outer membranes, so they take up the pink safranin counterstain.",
-        "whyWrongByChoice": {
-          "A": "Mycolic acids make organisms acid-fast and poorly Gram-staining; Neisseria lacks them.",
-          "B": "Teichoic acids are found in gram-positive walls, which retain purple crystal violet.",
-          "C": "A capsule does not determine Gram reaction; the thin peptidoglycan and outer membrane make these diplococci pink.",
-          "D": "A thick peptidoglycan wall retains crystal violet and would make the organisms purple."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-040_mi010_f10.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-217",
-      "topicId": "bacterial-reproduction-and-genetics",
+      "id": "mipic-254",
+      "topicId": "bacterial-reproduction-and-genetics-2026",
       "topicName": "Bacterial Reproduction and Genetics",
-      "stem": "This schematic shows mobile DNA elements flanking a gene, allowing it to move between plasmid and chromosomal DNA. Which clinically important trait is most commonly carried between bacteria by these elements?",
+      "stem": "In this variant of conjugation the F plasmid is integrated into the donor chromosome. Compared with standard F+ x F- conjugation, what can the recipient receive?",
       "choices": [
         {
           "label": "A",
-          "text": "Photosynthesis genes"
+          "text": "Bacteriophage DNA packaged in a capsid"
         },
         {
           "label": "B",
-          "text": "Flagellar assembly genes"
+          "text": "A fragment of the donor's chromosomal DNA"
         },
         {
           "label": "C",
-          "text": "Ribosomal RNA genes"
+          "text": "Only a complete copy of the F plasmid"
         },
         {
           "label": "D",
-          "text": "Sporulation genes"
-        },
-        {
-          "label": "E",
-          "text": "Antibiotic resistance genes"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Transposons frequently carry drug-resistance genes; when a resistance gene is flanked on both sides by transposon sequences it can be cut out and inserted elsewhere, spreading resistance between plasmids and chromosomes.",
-        "whyCorrect": "Transposons frequently carry drug-resistance genes; when a resistance gene is flanked on both sides by transposon sequences it can be cut out and inserted elsewhere, spreading resistance between plasmids and chromosomes.",
-        "whyWrongByChoice": {
-          "A": "Photosynthesis genes are not a clinically important cargo of transposons in human pathogens.",
-          "B": "Flagellar assembly genes are chromosomal housekeeping genes, not the typical cargo of transposons.",
-          "C": "rRNA genes are essential chromosomal genes and are not commonly mobilized between bacteria.",
-          "D": "Sporulation genes are large chromosomal programs, not the typical cargo of these mobile elements."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-217_mi021_f02.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-218",
-      "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics",
-      "stem": "In the process shown, a donor bacterium extends a sex pilus to a recipient and transfers plasmid DNA. What is the essential requirement for this form of horizontal gene transfer?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Exposure to ultraviolet light"
-        },
-        {
-          "label": "B",
-          "text": "Endospore formation"
-        },
-        {
-          "label": "C",
-          "text": "Uptake of naked DNA from the environment"
-        },
-        {
-          "label": "D",
-          "text": "Direct cell-to-cell contact"
-        },
-        {
-          "label": "E",
-          "text": "A bacteriophage vector"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Conjugation requires physical contact: the F+ donor forms a sex pilus and mating bridge with the F- recipient and transfers a single strand of the F plasmid, converting the recipient into a donor. No chromosomal DNA and no external vector is involved.",
-        "whyCorrect": "Conjugation requires physical contact: the F+ donor forms a sex pilus and mating bridge with the F- recipient and transfers a single strand of the F plasmid, converting the recipient into a donor. No chromosomal DNA and no external vector is involved.",
-        "whyWrongByChoice": {
-          "A": "Ultraviolet light causes DNA damage and mutation; it is not required for conjugation.",
-          "B": "Endospore formation is a dormancy strategy and has no role in plasmid transfer.",
-          "C": "Uptake of naked environmental DNA is transformation, which requires no pilus or partner cell.",
-          "E": "A bacteriophage vector is used in transduction, not in pilus-mediated conjugation."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-218_mi021_f03.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-219",
-      "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics",
-      "stem": "Here the donor's F plasmid has integrated into its chromosome before conjugation with a recipient. Compared with standard F+ conjugation, what is the key consequence of this donor state?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "No DNA transfer occurs"
-        },
-        {
-          "label": "B",
-          "text": "Flanking chromosomal (donor) DNA is transferred"
-        },
-        {
-          "label": "C",
-          "text": "Ribosomes are transferred to the recipient"
-        },
-        {
-          "label": "D",
-          "text": "Only the intact free plasmid is transferred"
-        },
-        {
-          "label": "E",
-          "text": "The recipient cell is lysed"
+          "text": "The donor's entire chromosome"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "In an Hfr (high-frequency recombination) donor the F plasmid is integrated in the chromosome, so transfer starting at the plasmid origin drags adjacent chromosomal genes into the recipient, allowing recombination of donor chromosomal DNA.",
-        "whyCorrect": "In an Hfr (high-frequency recombination) donor the F plasmid is integrated in the chromosome, so transfer starting at the plasmid origin drags adjacent chromosomal genes into the recipient, allowing recombination of donor chromosomal DNA.",
-        "whyWrongByChoice": {
-          "A": "Hfr donors do transfer DNA, often at high frequency; the difference is that chromosomal genes follow the origin.",
-          "C": "Conjugation transfers DNA, not ribosomes or other cytoplasmic machinery.",
-          "D": "Transfer of only the intact free plasmid describes standard F+ conjugation, not an Hfr donor.",
-          "E": "Conjugation does not lyse the recipient; lysis is a consequence of lytic phage infection."
-        }
+        "summary": "In a high-frequency recombination (Hfr) strain, the F plasmid sits in the chromosome. Transfer starts at the plasmid origin and can carry flanking chromosomal DNA into the F- cell, usually only a fragment of the donor chromosome, producing a recombinant recipient. Standard F+ x F- conjugation transfers only the plasmid.",
+        "whyCorrect": "In a high-frequency recombination (Hfr) strain, the F plasmid sits in the chromosome. Transfer starts at the plasmid origin and can carry flanking chromosomal DNA into the F- cell, usually only a fragment of the donor chromosome, producing a recombinant recipient. Standard F+ x F- conjugation transfers only the plasmid.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-219_mi021_f04.png",
+      "imageRef": "mipic-254_brick_54_03.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-220",
-      "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics",
-      "stem": "This sequence shows a lytic phage that mistakenly packages host DNA and delivers it to a new bacterium. How does this mechanism differ from specialized transduction?",
+      "id": "mipic-255",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "A woman has vaginal itching and burning. Speculum exam shows the white plaques seen here. Which organism, part of the normal flora, is the most likely cause?",
       "choices": [
         {
           "label": "A",
-          "text": "Any random fragment of host DNA can be packaged and transferred"
+          "text": "Candida albicans"
         },
         {
           "label": "B",
-          "text": "Transfer requires a sex pilus"
+          "text": "Lactobacillus species"
         },
         {
           "label": "C",
-          "text": "Only the phage's own viral DNA is transferred"
+          "text": "Gardnerella vaginalis"
         },
         {
           "label": "D",
-          "text": "DNA is taken up from the environment"
-        },
-        {
-          "label": "E",
-          "text": "Only DNA adjacent to a prophage integration site is transferred"
+          "text": "Staphylococcus epidermidis"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "In generalized transduction, during lytic growth random pieces of degraded host chromosome are accidentally packaged into phage capsids, so any host gene can be moved to a recipient, unlike specialized transduction which transfers only genes flanking the prophage.",
-        "whyCorrect": "In generalized transduction, during lytic growth random pieces of degraded host chromosome are accidentally packaged into phage capsids, so any host gene can be moved to a recipient, unlike specialized transduction which transfers only genes flanking the prophage.",
-        "whyWrongByChoice": {
-          "B": "A sex pilus is required for conjugation, not for phage-mediated transduction.",
-          "C": "If only viral DNA were transferred, no host genes would move; generalized transduction packages host DNA instead.",
-          "D": "Uptake of DNA from the environment is transformation, not delivery inside a phage capsid.",
-          "E": "Transfer limited to DNA next to a prophage integration site is specialized transduction, the process being contrasted."
-        }
+        "summary": "This is vulvovaginal candidiasis (a vaginal yeast infection). Candida species are normal vaginal and oral flora that can overgrow, for example after antibiotics kill competing bacteria. 'Albicans' means to whiten, matching the white plaques. Gardnerella overgrowth causes bacterial vaginosis instead.",
+        "whyCorrect": "This is vulvovaginal candidiasis (a vaginal yeast infection). Candida species are normal vaginal and oral flora that can overgrow, for example after antibiotics kill competing bacteria. 'Albicans' means to whiten, matching the white plaques. Gardnerella overgrowth causes bacterial vaginosis instead.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-220_mi021_f06.png",
+      "imageRef": "mipic-255_brick_55_02.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-221",
-      "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics",
-      "stem": "In this process a temperate phage integrates into the host chromosome and later excises imprecisely, carrying adjacent bacterial genes into new hosts. Why can only specific bacterial genes be transferred this way?",
+      "id": "mipic-256",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "An infant has the white plaques on the tongue and oral mucosa seen here. Which organism is responsible?",
       "choices": [
         {
           "label": "A",
-          "text": "Transfer requires direct cell-to-cell contact"
+          "text": "Streptococcus mutans"
         },
         {
           "label": "B",
-          "text": "Only DNA flanking the prophage integration site is excised"
+          "text": "Candida albicans"
         },
         {
           "label": "C",
-          "text": "Genes are taken up as naked DNA from the environment"
+          "text": "Actinomyces species"
         },
         {
           "label": "D",
-          "text": "Only free plasmid genes are transferred"
-        },
-        {
-          "label": "E",
-          "text": "Any random host gene can be packaged"
+          "text": "Staphylococcus aureus"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "In specialized transduction the prophage integrates at a specific chromosomal site; imprecise excision picks up only the immediately adjacent bacterial DNA, so just those flanking genes can be carried to the next host.",
-        "whyCorrect": "In specialized transduction the prophage integrates at a specific chromosomal site; imprecise excision picks up only the immediately adjacent bacterial DNA, so just those flanking genes can be carried to the next host.",
-        "whyWrongByChoice": {
-          "A": "Direct cell contact is required for conjugation; transduction uses phage particles.",
-          "C": "Naked DNA uptake is transformation, not phage-mediated transfer.",
-          "D": "Specialized transduction carries chromosomal genes adjacent to the prophage site, not free plasmid genes.",
-          "E": "Packaging of any random host gene describes generalized transduction during lytic growth."
-        }
+        "summary": "This is thrush (oral candidiasis), an overgrowth of Candida in the oral cavity. It is linked to antibiotic use, birth control use, trauma, poorly fitting dentures or immunosuppression. In a patient with no obvious cause, thrush can signal a failing immune system, so check a CBC.",
+        "whyCorrect": "This is thrush (oral candidiasis), an overgrowth of Candida in the oral cavity. It is linked to antibiotic use, birth control use, trauma, poorly fitting dentures or immunosuppression. In a patient with no obvious cause, thrush can signal a failing immune system, so check a CBC.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-221_mi021_f07.png",
+      "imageRef": "mipic-256_brick_55_03.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-001",
-      "topicId": "normal-flora-role-in-health-and-disease",
+      "id": "mipic-257",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
       "topicName": "Normal Flora: Role in Health and Disease",
-      "stem": "This anatomical illustration compares the highlighted tube connecting the middle ear to the nasopharynx in an adult versus a child under 7. What property of this structure in the child explains their increased susceptibility to middle ear infections?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It is shorter, narrower, and more horizontal"
-        },
-        {
-          "label": "B",
-          "text": "It lacks ciliated epithelium entirely"
-        },
-        {
-          "label": "C",
-          "text": "It secretes more antimicrobial mucus"
-        },
-        {
-          "label": "D",
-          "text": "It is permanently occluded by adenoids"
-        },
-        {
-          "label": "E",
-          "text": "It is longer and more vertical"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "In young children the eustachian tube is shorter, narrower, and more horizontal, allowing nasopharyngeal flora to migrate into the middle ear and impairing drainage, which predisposes to acute otitis media.",
-        "whyCorrect": "In young children the eustachian tube is shorter, narrower, and more horizontal, allowing nasopharyngeal flora to migrate into the middle ear and impairing drainage, which predisposes to acute otitis media.",
-        "whyWrongByChoice": {
-          "B": "The pediatric eustachian tube is lined by ciliated epithelium; the issue is its short, horizontal anatomy and poor drainage.",
-          "C": "More antimicrobial mucus would protect against infection, not predispose to it.",
-          "D": "Adenoids can obstruct the tube intermittently, but they do not permanently occlude it in all children.",
-          "E": "A longer, more vertical tube is the adult configuration, which drains better and protects against otitis media."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-001_mi032_f05.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-012",
-      "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease",
-      "stem": "This labeled schematic contrasts normal vaginal epithelial cells with a cell whose surface is studded with bacteria. The stippled cell shown on the right is a diagnostic hallmark of which condition?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Gonococcal urethritis"
-        },
-        {
-          "label": "B",
-          "text": "Chlamydial cervicitis"
-        },
-        {
-          "label": "C",
-          "text": "Vulvovaginal candidiasis"
-        },
-        {
-          "label": "D",
-          "text": "Bacterial vaginosis"
-        },
-        {
-          "label": "E",
-          "text": "Trichomoniasis"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "A vaginal epithelial cell coated with adherent bacteria (obscuring its borders) is a clue cell, the microscopic hallmark of bacterial vaginosis, typically due to Gardnerella vaginalis overgrowth.",
-        "whyCorrect": "A vaginal epithelial cell coated with adherent bacteria (obscuring its borders) is a clue cell, the microscopic hallmark of bacterial vaginosis, typically due to Gardnerella vaginalis overgrowth.",
-        "whyWrongByChoice": {
-          "A": "Gonococcal urethritis is diagnosed by intracellular gram-negative diplococci in neutrophils, not bacteria-coated epithelial cells.",
-          "B": "Chlamydial cervicitis is diagnosed by NAAT; chlamydiae are obligate intracellular and do not stud the epithelial surface.",
-          "C": "Candidiasis shows budding yeast and pseudohyphae on KOH prep, not coccobacilli coating epithelial cells.",
-          "E": "Trichomoniasis shows motile flagellated protozoa on wet mount, not clue cells."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-012_mi032_f03.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-160",
-      "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease",
-      "stem": "This clinical photograph shows the vulvar and vaginal region of a patient presenting with intense itching, erythema, and a thick white plaque. What is the most likely causative organism?",
+      "stem": "The cells on the right are vaginal squamous epithelial cells coated with bacteria. The bacterium most characteristically coating these cells is which organism?",
       "choices": [
         {
           "label": "A",
@@ -498,78 +364,270 @@
         },
         {
           "label": "B",
-          "text": "Chlamydia trachomatis"
-        },
-        {
-          "label": "C",
-          "text": "Trichomonas vaginalis"
-        },
-        {
-          "label": "D",
           "text": "Candida albicans"
         },
         {
-          "label": "E",
-          "text": "Neisseria gonorrhoeae"
+          "label": "C",
+          "text": "Lactobacillus species"
+        },
+        {
+          "label": "D",
+          "text": "Escherichia coli"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "The thick, white, curd-like plaque with erythema and pruritus is characteristic of vulvovaginal candidiasis caused by the yeast Candida albicans, which overgrows when normal vaginal flora is disrupted.",
-        "whyCorrect": "The thick, white, curd-like plaque with erythema and pruritus is characteristic of vulvovaginal candidiasis caused by the yeast Candida albicans, which overgrows when normal vaginal flora is disrupted.",
-        "whyWrongByChoice": {
-          "A": "Gardnerella causes bacterial vaginosis with thin, gray, fishy discharge and little itching or inflammation.",
-          "B": "Chlamydia typically causes mucopurulent cervicitis or no symptoms, not intense vulvar itching with white plaques.",
-          "C": "Trichomonas causes frothy yellow-green discharge with a strawberry cervix, not thick white curd-like plaques.",
-          "E": "Gonorrhea causes purulent cervical discharge, not pruritic vulvar erythema with white plaques."
-        }
+        "summary": "Bacteria-coated vaginal epithelial cells are clue cells, the finding used to diagnose bacterial vaginosis. The coating organisms are small coccobacilli, Gardnerella vaginalis. Lactobacillus is the dominant normal vaginal flora that is displaced in this condition.",
+        "whyCorrect": "Bacteria-coated vaginal epithelial cells are clue cells, the finding used to diagnose bacterial vaginosis. The coating organisms are small coccobacilli, Gardnerella vaginalis. Lactobacillus is the dominant normal vaginal flora that is displaced in this condition.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-160_mi032_f01.png",
+      "imageRef": "mipic-257_brick_55_04.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-161",
-      "topicId": "normal-flora-role-in-health-and-disease",
+      "id": "mipic-258",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
       "topicName": "Normal Flora: Role in Health and Disease",
-      "stem": "This photograph of an open mouth shows a white plaque coating the tongue and oral mucosa in a patient. Overgrowth of which organism produces this appearance?",
+      "stem": "A woman has a thin, grayish vaginal discharge with a fishy odor and little inflammation. A smear shows the large epithelial cells covered in small purple coccobacilli seen here. What is the diagnosis?",
       "choices": [
         {
           "label": "A",
-          "text": "Streptococcus pyogenes"
+          "text": "Gonococcal cervicitis"
         },
         {
           "label": "B",
-          "text": "Candida albicans"
+          "text": "Vulvovaginal candidiasis"
         },
         {
           "label": "C",
-          "text": "Corynebacterium diphtheriae"
+          "text": "Bacterial vaginosis"
         },
         {
           "label": "D",
-          "text": "Herpes simplex virus"
+          "text": "Trichomoniasis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Epithelial cells coated with Gardnerella vaginalis coccobacilli are clue cells, the diagnostic finding of bacterial vaginosis. BV causes a thin gray-white discharge with a fishy smell from released amines and typically less burning, itching and inflammation than vulvovaginal candidiasis.",
+        "whyCorrect": "Epithelial cells coated with Gardnerella vaginalis coccobacilli are clue cells, the diagnostic finding of bacterial vaginosis. BV causes a thin gray-white discharge with a fishy smell from released amines and typically less burning, itching and inflammation than vulvovaginal candidiasis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-258_brick_55_05.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-259",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "The anatomic difference shown between a young child and an adult is a major risk factor for which childhood infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial meningitis"
         },
         {
-          "label": "E",
-          "text": "Epstein-Barr virus"
+          "label": "B",
+          "text": "Acute otitis media"
+        },
+        {
+          "label": "C",
+          "text": "Sinusitis"
+        },
+        {
+          "label": "D",
+          "text": "Pharyngitis"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Oral thrush is an overgrowth of Candida spp. in the oral cavity, presenting as a wipeable white plaque; it is often triggered by antibiotics, inhaled steroids, dentures, or immunosuppression.",
-        "whyCorrect": "Oral thrush is an overgrowth of Candida spp. in the oral cavity, presenting as a wipeable white plaque; it is often triggered by antibiotics, inhaled steroids, dentures, or immunosuppression.",
-        "whyWrongByChoice": {
-          "A": "S. pyogenes causes exudative pharyngitis of the tonsils, not wipeable white plaques coating the tongue and mucosa.",
-          "C": "Diphtheria forms an adherent gray pseudomembrane on the pharynx that bleeds when scraped, not a wipeable white coating.",
-          "D": "HSV causes painful vesicles and ulcers in the mouth, not a white plaque coating.",
-          "E": "EBV causes oral hairy leukoplakia, white lesions on the lateral tongue that cannot be scraped off."
-        }
+        "summary": "In children the Eustachian tube is shorter, narrower and more horizontal than in adults. This is a major anatomic risk factor for acute otitis media, letting nasopharyngeal flora reach the middle ear.",
+        "whyCorrect": "In children the Eustachian tube is shorter, narrower and more horizontal than in adults. This is a major anatomic risk factor for acute otitis media, letting nasopharyngeal flora reach the middle ear.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-161_mi032_f02.png",
+      "imageRef": "mipic-259_brick_55_06.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-260",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "The right-hand image shows a red, bulging tympanic membrane in a febrile child with ear pain. The three most common bacterial causes of this condition are which group?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus, Pseudomonas aeruginosa, Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus epidermidis, Corynebacterium species, Cutibacterium acnes"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pyogenes, Neisseria meningitidis, Listeria monocytogenes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is acute otitis media: an inflamed, bulging eardrum with pus behind it, plus pain and fever. Its three most common bacterial causes are S. pneumoniae, H. influenzae and M. catarrhalis, all normal flora of the nasopharynx.",
+        "whyCorrect": "This is acute otitis media: an inflamed, bulging eardrum with pus behind it, plus pain and fever. Its three most common bacterial causes are S. pneumoniae, H. influenzae and M. catarrhalis, all normal flora of the nasopharynx.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-260_brick_55_07.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-261",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "A 4-month-old infant has fever, a petechial rash and necrosis of the hands and feet, as shown. Which encapsulated organism is classically responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria meningitidis"
+        },
+        {
+          "label": "C",
+          "text": "Moraxella catarrhalis"
+        },
+        {
+          "label": "D",
+          "text": "Haemophilus influenzae"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The lecture shows this image as a 4-month-old with necrosis of the hands and feet due to N. meningitidis. Along with S. pneumoniae and H. influenzae, it is one of the most common causes of serious bacterial infection in children and can be carried as nasopharyngeal flora.",
+        "whyCorrect": "The lecture shows this image as a 4-month-old with necrosis of the hands and feet due to N. meningitidis. Along with S. pneumoniae and H. influenzae, it is one of the most common causes of serious bacterial infection in children and can be carried as nasopharyngeal flora.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-261_brick_55_08.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-262",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "This infant developed the hemorrhagic, necrotic skin lesions shown from a severe Neisseria meningitidis infection at about 4 months of age. Why are infants especially vulnerable at this age?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The infant's normal flora has not yet colonized the nasopharynx"
+        },
+        {
+          "label": "B",
+          "text": "Maternal transplacental IgG has waned before the infant makes adequate antibodies of its own"
+        },
+        {
+          "label": "C",
+          "text": "Breast milk IgA promotes bacterial adherence"
+        },
+        {
+          "label": "D",
+          "text": "Infants lack a complement system until 1 year of age"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Transplacental maternal IgG gives early protection but declines over the first months. Until the infant makes enough antibody of its own, exposure to S. pneumoniae, H. influenzae or N. meningitidis can cause severe infection. This is why Hib and pneumococcal vaccines start at 2 months.",
+        "whyCorrect": "Transplacental maternal IgG gives early protection but declines over the first months. Until the infant makes enough antibody of its own, exposure to S. pneumoniae, H. influenzae or N. meningitidis can cause severe infection. This is why Hib and pneumococcal vaccines start at 2 months.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-262_brick_55_09.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-263",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "This necrotic foot belongs to an infant with an invasive Neisseria meningitidis infection. In carriers, this organism typically lives as normal flora at which site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nasopharynx"
+        },
+        {
+          "label": "B",
+          "text": "Colon"
+        },
+        {
+          "label": "C",
+          "text": "Skin"
+        },
+        {
+          "label": "D",
+          "text": "Vagina"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "S. pneumoniae, H. influenzae and N. meningitidis can be carried as normal flora of the nasopharynx. Encapsulated strains are much more likely to cause invasive disease, such as the meningococcal infection that caused this limb necrosis.",
+        "whyCorrect": "S. pneumoniae, H. influenzae and N. meningitidis can be carried as normal flora of the nasopharynx. Encapsulated strains are much more likely to cause invasive disease, such as the meningococcal infection that caused this limb necrosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-263_brick_55_10.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-264",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "A patient on antibiotics develops severe watery diarrhea and cramping. The colon shows the yellow-white plaques seen here. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Bacteroides fragilis"
+        },
+        {
+          "label": "D",
+          "text": "Enterococcus faecalis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Yellow-white pseudomembranes indicate pseudomembranous colitis from C. difficile, a member of normal lower-GI flora. Antibiotics kill competing flora and let C. difficile overgrow and release toxins. Recurrence is common (20-60%), and fecal transplant can restore normal flora.",
+        "whyCorrect": "Yellow-white pseudomembranes indicate pseudomembranous colitis from C. difficile, a member of normal lower-GI flora. Antibiotics kill competing flora and let C. difficile overgrow and release toxins. Recurrence is common (20-60%), and fecal transplant can restore normal flora.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-264_brick_55_11.jpg",
       "tags": [
         "picture"
       ]

@@ -3,749 +3,491 @@
   "categoryName": "Session 1",
   "questions": [
     {
-      "id": "mipic-021",
-      "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci",
-      "stem": "This Gram stain shows purple-staining cocci arranged in chains. What does this morphology and staining reaction indicate about the organism?",
+      "id": "mipic-299",
+      "topicId": "neisseria-meningitidis-and-haemophilus-influenzae-2026",
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "stem": "CSF from a febrile college student with neck stiffness and a petechial rash shows the Gram stain pictured: red, kidney bean-shaped paired cocci inside neutrophils. Which organism is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "Gram-positive cocci in chains"
+          "text": "Streptococcus agalactiae"
         },
         {
           "label": "B",
-          "text": "Gram-negative diplococci (Neisseria)"
+          "text": "Neisseria meningitidis"
         },
         {
           "label": "C",
-          "text": "Gram-positive rods (Bacillus)"
+          "text": "Streptococcus pneumoniae"
         },
         {
           "label": "D",
-          "text": "Gram-positive cocci in clusters (Staphylococcus)"
-        },
-        {
-          "label": "E",
-          "text": "Gram-negative rods (E. coli)"
+          "text": "Haemophilus influenzae"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "The retained crystal violet (purple) color indicates a Gram-positive organism, and the arrangement in chains is characteristic of Streptococcus, distinguishing it from the grape-like clusters of Staphylococcus.",
-        "whyCorrect": "The retained crystal violet (purple) color indicates a Gram-positive organism, and the arrangement in chains is characteristic of Streptococcus, distinguishing it from the grape-like clusters of Staphylococcus.",
-        "whyWrongByChoice": {
-          "B": "Neisseria are gram-negative and stain pink as pairs, not purple chains.",
-          "C": "Bacillus species are rods, not spherical cocci.",
-          "D": "Staphylococci form grape-like clusters rather than chains.",
-          "E": "E. coli is a gram-negative rod that stains pink."
-        }
+        "summary": "N. meningitidis is a gram-negative (red) diplococcus described as kidney bean-shaped, often seen within neutrophils. S. pneumoniae is a gram-positive lancet-shaped diplococcus, H. influenzae is a gram-negative coccobacillus, and S. agalactiae/S. aureus are gram-positive.",
+        "whyCorrect": "N. meningitidis is a gram-negative (red) diplococcus described as kidney bean-shaped, often seen within neutrophils. S. pneumoniae is a gram-positive lancet-shaped diplococcus, H. influenzae is a gram-negative coccobacillus, and S. agalactiae/S. aureus are gram-positive.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-021_mi001_f01.png",
+      "imageRef": "mipic-299_brick_59_01.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-022",
-      "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci",
-      "stem": "In this test, the reagent turns cherry-red when a substrate is hydrolyzed. A positive result presumptively identifies which organisms?",
+      "id": "mipic-300",
+      "topicId": "neisseria-meningitidis-and-haemophilus-influenzae-2026",
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "stem": "The diagram compares two outer-membrane glycolipids. The right-hand form, lacking the outer repeating polysaccharide chain, is characteristic of which organism in this brick?",
       "choices": [
         {
           "label": "A",
-          "text": "S. pyogenes and Enterococcus spp."
-        },
-        {
-          "label": "B",
-          "text": "S. pneumoniae and viridans streptococci"
-        },
-        {
-          "label": "C",
-          "text": "S. gallolyticus and S. bovis"
-        },
-        {
-          "label": "D",
-          "text": "S. agalactiae only"
-        },
-        {
-          "label": "E",
           "text": "Staphylococcus aureus"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "The PYR (pyrrolidonyl arylamidase) test is positive for S. pyogenes and Enterococcus spp., which hydrolyze the substrate to produce a pink/cherry-red color.",
-        "whyCorrect": "The PYR (pyrrolidonyl arylamidase) test is positive for S. pyogenes and Enterococcus spp., which hydrolyze the substrate to produce a pink/cherry-red color.",
-        "whyWrongByChoice": {
-          "B": "S. pneumoniae and viridans streptococci are PYR negative and are separated by optochin and bile solubility.",
-          "C": "S. gallolyticus (formerly S. bovis) is PYR negative and identified by bile esculin positivity without growth in 6.5% NaCl.",
-          "D": "S. agalactiae is PYR negative and identified by bacitracin resistance, CAMP test and hippurate hydrolysis.",
-          "E": "S. aureus is identified by catalase and coagulase tests, not PYR."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-022_mi001_f11.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-124",
-      "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci",
-      "stem": "This oropharynx shows petechiae, marked erythema, and enlarged tonsils in a child with sore throat and fever. What is the most common bacterial cause of this presentation?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Streptococcus pneumoniae"
         },
         {
           "label": "B",
-          "text": "Streptococcus agalactiae"
+          "text": "Neisseria meningitidis"
         },
         {
           "label": "C",
-          "text": "Streptococcus pyogenes"
+          "text": "Escherichia coli"
         },
         {
           "label": "D",
-          "text": "Enterococcus faecalis"
-        },
-        {
-          "label": "E",
-          "text": "Viridans streptococci"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "S. pyogenes (GAS) is the most common bacterial cause of pharyngitis, presenting with fever, tonsillar erythema, palatal petechiae, and cervical lymphadenopathy.",
-        "whyCorrect": "S. pyogenes (GAS) is the most common bacterial cause of pharyngitis, presenting with fever, tonsillar erythema, palatal petechiae, and cervical lymphadenopathy.",
-        "whyWrongByChoice": {
-          "A": "S. pneumoniae causes pneumonia, otitis and meningitis but is not a common cause of pharyngitis.",
-          "B": "S. agalactiae (group B) causes neonatal sepsis and meningitis, not childhood pharyngitis.",
-          "D": "Enterococcus causes UTIs and endocarditis, not tonsillopharyngitis.",
-          "E": "Viridans streptococci are normal oral flora linked to dental caries and endocarditis, not exudative pharyngitis."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-124_mi001_f04.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-125",
-      "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci",
-      "stem": "This superficial skin lesion shows honey-colored crusting over an erythematous base. Besides Staphylococcus aureus, which organism most commonly causes this infection?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Enterococcus faecalis"
-        },
-        {
-          "label": "B",
-          "text": "Streptococcus pyogenes"
-        },
-        {
-          "label": "C",
-          "text": "Streptococcus agalactiae"
-        },
-        {
-          "label": "D",
-          "text": "Streptococcus gallolyticus"
-        },
-        {
-          "label": "E",
           "text": "Streptococcus pneumoniae"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Impetigo is a superficial epidermal infection caused most often by S. aureus and S. pyogenes; S. pyogenes causes the nonbullous form.",
-        "whyCorrect": "Impetigo is a superficial epidermal infection caused most often by S. aureus and S. pyogenes; S. pyogenes causes the nonbullous form.",
-        "whyWrongByChoice": {
-          "A": "Enterococcus causes UTIs and endocarditis, not impetigo.",
-          "C": "S. agalactiae causes neonatal infections and some adult soft-tissue infections, but not classic honey-crusted impetigo.",
-          "D": "S. gallolyticus is associated with endocarditis and colon cancer, not skin infection.",
-          "E": "S. pneumoniae causes respiratory and invasive infections, not impetigo."
-        }
+        "summary": "The LPS of most gram-negative bacteria contains lipid A, a core polysaccharide, and an O antigen. N. meningitidis LPS lacks the O antigen, producing the shorter lipooligosaccharide (LOS), which acts as an endotoxin that can trigger a cytokine storm. Gram-positive organisms have no outer membrane LPS at all.",
+        "whyCorrect": "The LPS of most gram-negative bacteria contains lipid A, a core polysaccharide, and an O antigen. N. meningitidis LPS lacks the O antigen, producing the shorter lipooligosaccharide (LOS), which acts as an endotoxin that can trigger a cytokine storm. Gram-positive organisms have no outer membrane LPS at all.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-125_mi001_f05.png",
+      "imageRef": "mipic-300_brick_59_02.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-126",
-      "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci",
-      "stem": "This tongue finding, seen in scarlet fever, shows diffuse erythema with prominent hyperplastic papillae. What mediates the systemic rash and this finding?",
+      "id": "mipic-301",
+      "topicId": "neisseria-meningitidis-and-haemophilus-influenzae-2026",
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "stem": "A Gram stain from a child with acute epiglottitis shows the small pink organisms pictured among neutrophils. The organism grows on chocolate agar but not on plain blood agar. Which organism is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "Erythrogenic exotoxins"
+          "text": "Haemophilus influenzae"
         },
         {
           "label": "B",
-          "text": "Streptolysin O"
+          "text": "Streptococcus pneumoniae"
         },
         {
           "label": "C",
-          "text": "Hyaluronidase"
+          "text": "Staphylococcus aureus"
         },
         {
           "label": "D",
-          "text": "M protein"
-        },
-        {
-          "label": "E",
-          "text": "Streptokinase"
+          "text": "Neisseria meningitidis"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Scarlet fever, including the strawberry tongue, results from systemic release of the erythrogenic toxins SPE-A and SPE-C, which are acquired by S. pyogenes via lysogenic conversion.",
-        "whyCorrect": "Scarlet fever, including the strawberry tongue, results from systemic release of the erythrogenic toxins SPE-A and SPE-C, which are acquired by S. pyogenes via lysogenic conversion.",
-        "whyWrongByChoice": {
-          "B": "Streptolysin O is a hemolysin that elicits ASO antibodies; it does not cause the scarlet fever rash.",
-          "C": "Hyaluronidase helps the organism spread through tissue but does not cause the rash or strawberry tongue.",
-          "D": "M protein is antiphagocytic and linked to rheumatic fever, not the erythrogenic rash.",
-          "E": "Streptokinase activates plasminogen to dissolve clots and is not responsible for scarlet fever findings."
-        }
+        "summary": "H. influenzae is a small, nonmotile, gram-negative coccobacillus that requires factors X (hematin) and V (NAD), so it grows on chocolate agar but not on blood agar. It causes epiglottitis, meningitis, otitis media, and pneumonia.",
+        "whyCorrect": "H. influenzae is a small, nonmotile, gram-negative coccobacillus that requires factors X (hematin) and V (NAD), so it grows on chocolate agar but not on blood agar. It causes epiglottitis, meningitis, otitis media, and pneumonia.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-126_mi001_f08.png",
+      "imageRef": "mipic-301_brick_59_03.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-127",
-      "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci",
-      "stem": "This child has a confluent, sandpaper-like erythematous rash that spares the area immediately around the mouth. Toxins from which organism cause this presentation?",
+      "id": "mipic-302",
+      "topicId": "neisseria-meningitidis-and-haemophilus-influenzae-2026",
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "stem": "H. influenzae is grown on the brown medium shown, made by heating blood agar to lyse the red cells. Why does this medium support its growth?",
       "choices": [
         {
           "label": "A",
-          "text": "Enterococcus faecium"
+          "text": "Lysed RBCs supply factors X (hematin) and V (NAD)"
         },
         {
           "label": "B",
-          "text": "Streptococcus pyogenes"
+          "text": "Added antibiotics suppress competing flora"
         },
         {
           "label": "C",
-          "text": "Streptococcus pneumoniae"
+          "text": "Bile salts select for the organism"
         },
         {
           "label": "D",
-          "text": "Staphylococcus epidermidis"
+          "text": "High salt selects for the organism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chocolate agar is blood agar heated to lyse the red cells, releasing factors X and V that fastidious H. influenzae requires. Thayer-Martin agar is chocolate agar with added antibiotics and antifungals, used to select Neisseria from non-sterile sites.",
+        "whyCorrect": "Chocolate agar is blood agar heated to lyse the red cells, releasing factors X and V that fastidious H. influenzae requires. Thayer-Martin agar is chocolate agar with added antibiotics and antifungals, used to select Neisseria from non-sterile sites.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-302_brick_59_04.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-303",
+      "topicId": "neisseria-meningitidis-and-haemophilus-influenzae-2026",
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "stem": "On this blood agar plate, H. influenzae colonies grow only near the S. aureus streak. What explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S. aureus catalase removes toxic hydrogen peroxide"
         },
         {
-          "label": "E",
-          "text": "Viridans streptococci"
+          "label": "B",
+          "text": "Beta-hemolysis by S. aureus releases factors X and V"
+        },
+        {
+          "label": "C",
+          "text": "S. aureus ferments mannitol, acidifying the agar"
+        },
+        {
+          "label": "D",
+          "text": "S. aureus coagulase produces a fibrin scaffold"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Scarlet fever's blanching sandpaper rash with circumoral pallor is caused by erythrogenic toxins produced by S. pyogenes.",
-        "whyCorrect": "Scarlet fever's blanching sandpaper rash with circumoral pallor is caused by erythrogenic toxins produced by S. pyogenes.",
-        "whyWrongByChoice": {
-          "A": "Enterococcus faecium causes UTIs and bacteremia and does not produce erythrogenic toxins.",
-          "C": "S. pneumoniae does not produce erythrogenic toxins or cause scarlet fever.",
-          "D": "S. epidermidis is a skin commensal that infects devices and does not cause a toxin-mediated rash.",
-          "E": "Viridans streptococci cause caries and endocarditis, not scarlet fever."
-        }
+        "summary": "This is the satellite phenomenon. H. influenzae cannot lyse RBCs to obtain X (hematin) and V (NAD) factors, so it cannot grow on plain blood agar, but it grows next to beta-hemolytic bacteria such as S. aureus, which lyse red cells and release those factors.",
+        "whyCorrect": "This is the satellite phenomenon. H. influenzae cannot lyse RBCs to obtain X (hematin) and V (NAD) factors, so it cannot grow on plain blood agar, but it grows next to beta-hemolytic bacteria such as S. aureus, which lyse red cells and release those factors.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-127_mi001_f09.png",
+      "imageRef": "mipic-303_brick_59_05.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-128",
-      "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci",
-      "stem": "This rust-colored sputum sample is characteristic of pneumonia caused by which organism?",
+      "id": "mipic-304",
+      "topicId": "clostridia-2026",
+      "topicName": "Clostridia",
+      "stem": "A Gram stain from a deep, foul-smelling wound shows the large organisms pictured. The isolate grows only anaerobically and is catalase negative. Which genus is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "Streptococcus pyogenes"
+          "text": "Staphylococcus"
         },
         {
           "label": "B",
-          "text": "Streptococcus agalactiae"
+          "text": "Clostridium"
         },
         {
           "label": "C",
-          "text": "Viridans streptococci"
+          "text": "Streptococcus"
         },
         {
           "label": "D",
-          "text": "Enterococcus faecalis"
-        },
-        {
-          "label": "E",
-          "text": "Streptococcus pneumoniae"
+          "text": "Haemophilus"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "Rusty sputum is a classic finding in pneumococcal pneumonia, the most common cause of community-acquired bacterial pneumonia.",
-        "whyCorrect": "Rusty sputum is a classic finding in pneumococcal pneumonia, the most common cause of community-acquired bacterial pneumonia.",
-        "whyWrongByChoice": {
-          "A": "S. pyogenes rarely causes pneumonia and is not linked to rust-colored sputum.",
-          "B": "S. agalactiae causes neonatal pneumonia and sepsis but not the classic rusty sputum of lobar pneumonia.",
-          "C": "Viridans streptococci cause endocarditis and dental infections, not lobar pneumonia with rusty sputum.",
-          "D": "Enterococcus faecalis causes UTIs and endocarditis, not community-acquired pneumonia."
-        }
+        "summary": "Clostridia are large gram-positive (purple), obligately anaerobic rods that are catalase and oxidase negative. Staphylococci and streptococci are gram-positive cocci, and Haemophilus and Neisseria are gram-negative.",
+        "whyCorrect": "Clostridia are large gram-positive (purple), obligately anaerobic rods that are catalase and oxidase negative. Staphylococci and streptococci are gram-positive cocci, and Haemophilus and Neisseria are gram-negative.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-128_mi001_f12.png",
+      "imageRef": "mipic-304_brick_60_01.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-023",
-      "topicId": "clostridia",
+      "id": "mipic-305",
+      "topicId": "clostridia-2026",
       "topicName": "Clostridia",
-      "stem": "Based on the staining reaction and cell morphology shown in this smear from an anaerobic culture, which organism group is depicted?",
+      "stem": "A wound isolate from a patient with crepitus and muscle necrosis grows anaerobically on blood agar with the double zone of hemolysis around each colony shown. Which organism is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "Gram-positive, spore-forming bacilli"
+          "text": "Clostridium botulinum"
         },
         {
           "label": "B",
-          "text": "Acid-fast bacilli"
+          "text": "Clostridium tetani"
         },
         {
           "label": "C",
-          "text": "Spirochetes"
+          "text": "Clostridium perfringens"
         },
         {
           "label": "D",
-          "text": "Gram-positive cocci in clusters"
-        },
-        {
-          "label": "E",
-          "text": "Gram-negative bacilli"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "The elongated rods retain the crystal violet stain (appearing dark blue/purple), identifying them as Gram-positive bacilli, consistent with Clostridia among the surrounding red blood cells.",
-        "whyCorrect": "The elongated rods retain the crystal violet stain (appearing dark blue/purple), identifying them as Gram-positive bacilli, consistent with Clostridia among the surrounding red blood cells.",
-        "whyWrongByChoice": {
-          "B": "Acid-fast bacilli require a Ziehl-Neelsen stain and are aerobic (mycobacteria), not anaerobic Gram-positive rods.",
-          "C": "Spirochetes are thin, helical organisms that stain poorly with Gram stain, unlike these thick rods.",
-          "D": "Gram-positive cocci in clusters are round staphylococci, not elongated rods.",
-          "E": "Gram-negative bacilli stain pink, whereas these rods retain crystal violet."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-023_mi002_f01.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-024",
-      "topicId": "clostridia",
-      "topicName": "Clostridia",
-      "stem": "This blood agar plate inoculated with C. perfringens shows a characteristic pattern surrounding the colonies. What does this pattern represent?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Green pigment production"
-        },
-        {
-          "label": "B",
-          "text": "Gamma-hemolysis (no hemolysis)"
-        },
-        {
-          "label": "C",
-          "text": "A double zone of hemolysis"
-        },
-        {
-          "label": "D",
-          "text": "Alpha-hemolysis only"
-        },
-        {
-          "label": "E",
-          "text": "Swarming motility across the plate"
+          "text": "Clostridioides difficile"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "C. perfringens classically produces a double (target) zone of hemolysis on blood agar, an inner complete zone from theta-toxin and an outer partial zone from alpha-toxin (a lecithinase).",
-        "whyCorrect": "C. perfringens classically produces a double (target) zone of hemolysis on blood agar, an inner complete zone from theta-toxin and an outer partial zone from alpha-toxin (a lecithinase).",
-        "whyWrongByChoice": {
-          "A": "Green pigment production is a Pseudomonas feature, not the zoning pattern around C. perfringens colonies.",
-          "B": "Gamma-hemolysis means no lysis, whereas C. perfringens shows two distinct hemolytic zones.",
-          "D": "Alpha-hemolysis alone gives a single green zone; C. perfringens produces an inner complete and outer partial zone.",
-          "E": "Swarming across the plate is characteristic of Proteus and Clostridium tetani, not the C. perfringens target pattern."
-        }
+        "summary": "C. perfringens produces a characteristic double ring of beta-hemolysis on blood agar, reflecting its multiple toxins. It causes gas gangrene (clostridial myonecrosis), driven mainly by alpha toxin, a lecithinase.",
+        "whyCorrect": "C. perfringens produces a characteristic double ring of beta-hemolysis on blood agar, reflecting its multiple toxins. It causes gas gangrene (clostridial myonecrosis), driven mainly by alpha toxin, a lecithinase.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-024_mi002_f02.png",
+      "imageRef": "mipic-305_brick_60_02.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-025",
-      "topicId": "clostridia",
+      "id": "mipic-306",
+      "topicId": "clostridia-2026",
       "topicName": "Clostridia",
-      "stem": "The terminal swellings that give this stained organism its drumstick appearance confer which property?",
+      "stem": "A stained smear shows rods with round terminal swellings, giving the drumstick appearance pictured. Which genus forms these structures?",
       "choices": [
         {
           "label": "A",
-          "text": "Direct secretion of exotoxin"
+          "text": "Clostridium"
         },
         {
           "label": "B",
-          "text": "Enzymatic inactivation of antibiotics"
+          "text": "Streptococcus"
         },
         {
           "label": "C",
-          "text": "Increased flagellar motility"
+          "text": "Staphylococcus"
         },
         {
           "label": "D",
-          "text": "Enhanced adhesion to host epithelium"
-        },
-        {
-          "label": "E",
-          "text": "Resistance to heat and disinfectants"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "The terminal structures are endospores, dormant forms that allow the organism to survive harsh conditions such as heat, drying, and chemical disinfection until favorable anaerobic conditions return.",
-        "whyCorrect": "The terminal structures are endospores, dormant forms that allow the organism to survive harsh conditions such as heat, drying, and chemical disinfection until favorable anaerobic conditions return.",
-        "whyWrongByChoice": {
-          "A": "Spores are dormant and do not secrete exotoxins; toxins are produced by vegetative cells.",
-          "B": "Spores do not enzymatically inactivate antibiotics; they survive because they are metabolically inactive.",
-          "C": "Endospores do not enhance motility; they are dormant, nonmotile structures.",
-          "D": "Adhesion to host epithelium is mediated by pili and adhesins, not terminal spores."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-025_mi002_f03.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-026",
-      "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria Monocytogenes",
-      "stem": "Based on the staining and morphology of the organism shown in this microscopic field, what is the classic laboratory description of this bacterium?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Gram-positive rod"
-        },
-        {
-          "label": "B",
-          "text": "Gram-negative diplococci"
-        },
-        {
-          "label": "C",
-          "text": "Gram-positive cocci in clusters"
-        },
-        {
-          "label": "D",
-          "text": "Acid-fast bacillus"
-        },
-        {
-          "label": "E",
-          "text": "Gram-negative rod"
+          "text": "Neisseria"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "The purple (crystal-violet retaining) rod-shaped bacteria identify Listeria monocytogenes as a Gram-positive, facultative intracellular rod that often grows in short chains or pairs resembling Streptococcus.",
-        "whyCorrect": "The purple (crystal-violet retaining) rod-shaped bacteria identify Listeria monocytogenes as a Gram-positive, facultative intracellular rod that often grows in short chains or pairs resembling Streptococcus.",
-        "whyWrongByChoice": {
-          "B": "Gram-negative diplococci are pink paired cocci such as Neisseria, not purple rods.",
-          "C": "Gram-positive cocci in clusters are round staphylococci, not rods.",
-          "D": "Acid-fast bacilli stain red with carbol fuchsin; Listeria is not acid-fast.",
-          "E": "Gram-negative rods stain pink, whereas these rods retain crystal violet."
-        }
+        "summary": "Clostridia are spore-forming gram-positive rods, and their spores have a drumstick appearance. Spores let clostridia survive adverse conditions, including oxygen exposure. None of the cocci or gram-negative organisms listed form spores.",
+        "whyCorrect": "Clostridia are spore-forming gram-positive rods, and their spores have a drumstick appearance. Spores let clostridia survive adverse conditions, including oxygen exposure. None of the cocci or gram-negative organisms listed form spores.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-026_mi003_f01.png",
+      "imageRef": "mipic-306_brick_60_03.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-129",
-      "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria Monocytogenes",
-      "stem": "This schematic depicts the pathogenesis of the organism from ingestion through cell-to-cell spread and dissemination. What key advantage does this intracellular lifecycle confer on the pathogen?",
+      "id": "mipic-307",
+      "topicId": "clostridia-2026",
+      "topicName": "Clostridia",
+      "stem": "A man who stepped on a rusty nail develops a fixed grimace (left) and severe arching back spasms (right), as shown. The responsible toxin blocks release of which neurotransmitters?",
       "choices": [
         {
           "label": "A",
-          "text": "Independence from host cell machinery"
+          "text": "Acetylcholine at the neuromuscular junction"
         },
         {
           "label": "B",
-          "text": "Ability to form endospores"
+          "text": "GABA and glycine from inhibitory interneurons"
         },
         {
           "label": "C",
-          "text": "Production of a protective polysaccharide capsule"
+          "text": "Dopamine in the basal ganglia"
         },
         {
           "label": "D",
-          "text": "Evasion of antibody-mediated (humoral) immunity"
+          "text": "Glutamate from motor neurons"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is tetanus (risus sardonicus and opisthotonos). C. tetani tetanospasmin cleaves SNARE proteins in inhibitory interneurons (Renshaw cells), preventing GABA and glycine release and causing spastic paralysis. Botulinum toxin, by contrast, blocks acetylcholine release at the NMJ.",
+        "whyCorrect": "This is tetanus (risus sardonicus and opisthotonos). C. tetani tetanospasmin cleaves SNARE proteins in inhibitory interneurons (Renshaw cells), preventing GABA and glycine release and causing spastic paralysis. Botulinum toxin, by contrast, blocks acetylcholine release at the NMJ.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-307_brick_60_04.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-308",
+      "topicId": "clostridia-2026",
+      "topicName": "Clostridia",
+      "stem": "A teen develops drooping eyelids and dilated pupils (shown), followed by descending weakness, after eating home-canned vegetables. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridium perfringens"
         },
         {
-          "label": "E",
-          "text": "Resistance to gastric acid"
+          "label": "B",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium botulinum"
+        },
+        {
+          "label": "D",
+          "text": "Clostridium tetani"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Botulism: preformed C. botulinum toxin inhibits acetylcholine release at the neuromuscular junction, producing a descending flaccid paralysis that starts with the cranial nerves (ptosis, dilated pupils) and can progress to respiratory failure. It is associated with home-canned foods.",
+        "whyCorrect": "Botulism: preformed C. botulinum toxin inhibits acetylcholine release at the neuromuscular junction, producing a descending flaccid paralysis that starts with the cranial nerves (ptosis, dilated pupils) and can progress to respiratory failure. It is associated with home-canned foods.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-308_brick_60_05.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-309",
+      "topicId": "clostridia-2026",
+      "topicName": "Clostridia",
+      "stem": "A 4-month-old fed honey develops constipation followed by acute, generalized hypotonia, appearing limp as shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infant botulism"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomembranous colitis"
+        },
+        {
+          "label": "C",
+          "text": "Tetanus"
+        },
+        {
+          "label": "D",
+          "text": "Gas gangrene"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Infant botulism (floppy baby syndrome) occurs in infants under 1 year whose immature GI tract lets ingested C. botulinum spores germinate and colonize the bowel. It presents with constipation and then generalized hypotonia. Treatment is botulism immune globulin and supportive (often ventilatory) care, not antibiotics.",
+        "whyCorrect": "Infant botulism (floppy baby syndrome) occurs in infants under 1 year whose immature GI tract lets ingested C. botulinum spores germinate and colonize the bowel. It presents with constipation and then generalized hypotonia. Treatment is botulism immune globulin and supportive (often ventilatory) care, not antibiotics.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-309_brick_60_06.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-310",
+      "topicId": "listeria-monocytogenes-2026",
+      "topicName": "Listeria monocytogenes",
+      "stem": "A 73-year-old man develops vomiting and diarrhea after drinking fresh, unpasteurized farm milk. The micrograph shows the causative organism, a gram-positive facultative intracellular rod, inside a host cell. Which growth property helps this organism persist in refrigerated foods?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Requirement for high CO2 incubation"
+        },
+        {
+          "label": "B",
+          "text": "Requirement for iron-supplemented media"
+        },
+        {
+          "label": "C",
+          "text": "Growth only at 42 C"
+        },
+        {
+          "label": "D",
+          "text": "Growth at refrigerator temperatures (cold enrichment at 4 C)"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "By invading host cells, escaping the phagosome, and spreading directly cell-to-cell via actin-based motility, L. monocytogenes remains largely intracellular. This shields it from circulating antibodies and explains why cell-mediated immunity is critical for control, so patients with defective cellular immunity are at highest risk.",
-        "whyCorrect": "By invading host cells, escaping the phagosome, and spreading directly cell-to-cell via actin-based motility, L. monocytogenes remains largely intracellular. This shields it from circulating antibodies and explains why cell-mediated immunity is critical for control, so patients with defective cellular immunity are at highest risk.",
-        "whyWrongByChoice": {
-          "A": "Intracellular pathogens depend on host cell machinery and nutrients rather than being independent of them.",
-          "B": "Listeria does not form endospores, and endospores do not result from an intracellular lifecycle.",
-          "C": "Listeria is not known for a protective polysaccharide capsule; its key strategy is intracellular spread.",
-          "E": "Gastric acid tolerance helps the organism survive ingestion but is not the advantage of the intracellular cell-to-cell lifecycle."
-        }
+        "summary": "Listeria monocytogenes is a gram-positive, facultative intracellular rod. It grows across a broad range of temperatures, pH and salt, including 4 C ('cold enrichment'; 'Cool Mint Listermean'), so it persists in refrigerated foods such as unpasteurized milk.",
+        "whyCorrect": "Listeria monocytogenes is a gram-positive, facultative intracellular rod. It grows across a broad range of temperatures, pH and salt, including 4 C ('cold enrichment'; 'Cool Mint Listermean'), so it persists in refrigerated foods such as unpasteurized milk.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-129_mi003_f03.png",
+      "imageRef": "mipic-310_brick_61_01.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-190",
-      "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria Monocytogenes",
-      "stem": "This diagram illustrates the general mechanisms by which the organism resists multiple antibiotic classes. Despite this broad inherent resistance, which agent remains the drug of choice for treating infection with this pathogen?",
+      "id": "mipic-311",
+      "topicId": "antibiotic-stewardship-2026",
+      "topicName": "Antibiotic Stewardship",
+      "stem": "Several days after starting an antibiotic, a patient develops the widespread blotchy red rash shown on the back. Which adverse effect of antibiotic therapy does this represent?",
       "choices": [
         {
           "label": "A",
-          "text": "Tetracycline"
+          "text": "Clostridioides difficile infection"
         },
         {
           "label": "B",
-          "text": "Cephalexin"
+          "text": "Selection of resistant organisms"
         },
         {
           "label": "C",
-          "text": "Ampicillin"
+          "text": "Candida overgrowth"
         },
         {
           "label": "D",
-          "text": "Azithromycin"
-        },
-        {
-          "label": "E",
-          "text": "Ciprofloxacin"
+          "text": "Allergic cutaneous drug reaction"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "L. monocytogenes is inherently resistant to fluoroquinolones, cephalosporins, macrolides, and tetracyclines through efflux pumps, enzymatic inactivation, reduced uptake, and target modification. Ampicillin (often with gentamicin) remains the treatment of choice.",
-        "whyCorrect": "L. monocytogenes is inherently resistant to fluoroquinolones, cephalosporins, macrolides, and tetracyclines through efflux pumps, enzymatic inactivation, reduced uptake, and target modification. Ampicillin (often with gentamicin) remains the treatment of choice.",
-        "whyWrongByChoice": {
-          "A": "Tetracycline is not a recommended treatment for invasive listeriosis.",
-          "B": "Cephalexin is a cephalosporin, and Listeria is intrinsically resistant to cephalosporins.",
-          "D": "Azithromycin is not used as definitive therapy for invasive Listeria infection.",
-          "E": "Ciprofloxacin is not reliably active against Listeria and is not a recommended treatment."
-        }
+        "summary": "Antibiotics can cause allergic reactions ranging from mild cutaneous reactions, like this rash, to anaphylaxis. Penicillin allergy is the one most often reported, although many such patients are not truly allergic when properly evaluated. A careful medication and allergy history is part of antibiotic selection.",
+        "whyCorrect": "Antibiotics can cause allergic reactions ranging from mild cutaneous reactions, like this rash, to anaphylaxis. Penicillin allergy is the one most often reported, although many such patients are not truly allergic when properly evaluated. A careful medication and allergy history is part of antibiotic selection.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-190_mi003_f04.png",
+      "imageRef": "mipic-311_brick_63_01.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-130",
-      "topicId": "fluoroquinolones",
-      "topicName": "Fluoroquinolones",
-      "stem": "A pediatric patient develops this severe mucocutaneous reaction with extensive facial epidermal detachment and crusting shortly after starting a fluoroquinolone. Which drug reaction is shown?",
+      "id": "mipic-312",
+      "topicId": "antibiotic-stewardship-2026",
+      "topicName": "Antibiotic Stewardship",
+      "stem": "An adult finishing a course of broad-spectrum antibiotics develops the white oral plaques shown. By what mechanism did the antibiotics predispose to this lesion?",
       "choices": [
         {
           "label": "A",
-          "text": "Fixed drug eruption"
+          "text": "They killed normal bacterial flora, allowing Candida to overgrow"
         },
         {
           "label": "B",
-          "text": "Stevens-Johnson syndrome / toxic epidermal necrolysis"
+          "text": "They selected for antibiotic-resistant Candida"
         },
         {
           "label": "C",
-          "text": "Acute generalized exanthematous pustulosis"
+          "text": "They caused an allergic mucosal reaction"
         },
         {
           "label": "D",
-          "text": "Morbilliform (maculopapular) drug rash"
-        },
-        {
-          "label": "E",
-          "text": "Erythema multiforme minor"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "The widespread epidermal detachment with mucosal and periorificial involvement is characteristic of the SJS/TEN spectrum, a rare but life-threatening hypersensitivity reaction; affected patients must avoid the offending fluoroquinolone permanently.",
-        "whyCorrect": "The widespread epidermal detachment with mucosal and periorificial involvement is characteristic of the SJS/TEN spectrum, a rare but life-threatening hypersensitivity reaction; affected patients must avoid the offending fluoroquinolone permanently.",
-        "whyWrongByChoice": {
-          "A": "A fixed drug eruption is one or a few sharply demarcated dusky-violaceous plaques that recur at the same site on re-exposure, not extensive facial epidermal detachment with mucosal crusting.",
-          "C": "Acute generalized exanthematous pustulosis produces sheets of tiny sterile nonfollicular pustules on an erythematous base, usually in flexures, without full-thickness epidermal sloughing or prominent mucosal crusting.",
-          "D": "A morbilliform drug rash is a common, benign symmetric eruption of erythematous macules and papules on the trunk; it lacks mucosal involvement and epidermal detachment.",
-          "E": "Erythema multiforme minor causes targetoid acral lesions, usually after HSV, with little or no mucosal involvement and no widespread epidermal detachment."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-130_mi005_f04.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-191",
-      "topicId": "fluoroquinolones",
-      "topicName": "Fluoroquinolones",
-      "stem": "These three antibacterial molecules share a common bicyclic core, but the two agents on the right add a substituent (highlighted at the top of the rightmost structure) that greatly broadens their clinical spectrum. To which antibiotic class do the modified agents belong?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Fluoroquinolones"
-        },
-        {
-          "label": "B",
-          "text": "Sulfonamides"
-        },
-        {
-          "label": "C",
-          "text": "Macrolides"
-        },
-        {
-          "label": "D",
-          "text": "Beta-lactams"
-        },
-        {
-          "label": "E",
-          "text": "Aminoglycosides"
+          "text": "They directly suppressed T-cell function"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "The core is the quinolone ring; adding a fluorine atom (seen on nalidixic acid's successors) yields the fluoroquinolones, which have broader gram-negative coverage and stronger binding to type II topoisomerases than the parent quinolone.",
-        "whyCorrect": "The core is the quinolone ring; adding a fluorine atom (seen on nalidixic acid's successors) yields the fluoroquinolones, which have broader gram-negative coverage and stronger binding to type II topoisomerases than the parent quinolone.",
-        "whyWrongByChoice": {
-          "B": "Sulfonamides are structural analogs of PABA built on a sulfanilamide core that inhibit dihydropteroate synthase; they do not share the bicyclic quinolone ring shown.",
-          "C": "Macrolides are large macrocyclic lactone rings with attached sugars that block the 50S ribosome, structurally unrelated to the small bicyclic quinolone core.",
-          "D": "Beta-lactams are defined by a four-membered beta-lactam ring (often fused to a thiazolidine or dihydrothiazine) and inhibit transpeptidases, not a fluorinated bicyclic quinolone core.",
-          "E": "Aminoglycosides are amino sugars linked glycosidically to an aminocyclitol ring and target the 30S ribosome; they have no aromatic bicyclic core."
-        }
+        "summary": "This is oral thrush (oral candidiasis). Antibiotics disrupt the normal bacterial flora that competes with Candida, so the fungus overgrows, producing thrush or vulvovaginal candidiasis. This is one reason to limit antibiotic use to clinically indicated situations.",
+        "whyCorrect": "This is oral thrush (oral candidiasis). Antibiotics disrupt the normal bacterial flora that competes with Candida, so the fungus overgrows, producing thrush or vulvovaginal candidiasis. This is one reason to limit antibiotic use to clinically indicated situations.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-191_mi005_f01.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-203",
-      "topicId": "fluoroquinolones",
-      "topicName": "Fluoroquinolones",
-      "stem": "This schematic depicts a type II topoisomerase acting on interlinked bacterial DNA, progressively reducing the number of braided crossings shown. What enzymatic function is being illustrated?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Synthesis of the leading DNA strand"
-        },
-        {
-          "label": "B",
-          "text": "Proofreading of mismatched bases"
-        },
-        {
-          "label": "C",
-          "text": "Decatenation of daughter chromosomes"
-        },
-        {
-          "label": "D",
-          "text": "Methylation of adenine residues"
-        },
-        {
-          "label": "E",
-          "text": "Removal of RNA primers"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "The stepwise reduction from 4 to 0 braids shows topoisomerase IV passing one duplex through another to separate (decatenate) the two completed bacterial chromosomes; DNA gyrase performs the related task of managing negative supercoils.",
-        "whyCorrect": "The stepwise reduction from 4 to 0 braids shows topoisomerase IV passing one duplex through another to separate (decatenate) the two completed bacterial chromosomes; DNA gyrase performs the related task of managing negative supercoils.",
-        "whyWrongByChoice": {
-          "A": "Leading-strand synthesis is performed by DNA polymerase III adding nucleotides 5' to 3'; it does not involve cutting and passing duplexes to reduce interlinked crossings.",
-          "B": "Proofreading is the 3' to 5' exonuclease activity of DNA polymerase that removes misincorporated bases; topoisomerases do not edit base mismatches.",
-          "D": "Adenine methylation is carried out by methyltransferases such as Dam for mismatch-repair strand recognition and restriction protection, not by type II topoisomerases unlinking chromosomes.",
-          "E": "RNA primers are removed by DNA polymerase I's 5' to 3' exonuclease (or RNase H), a step in Okazaki fragment maturation unrelated to separating interlinked daughter chromosomes."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-203_mi005_f02.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-204",
-      "topicId": "fluoroquinolones",
-      "topicName": "Fluoroquinolones",
-      "stem": "The listed drugs are shown binding an enzyme located on the replicating chromosome inside this bacterial cell. What is the immediate consequence of this drug-enzyme interaction?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Disruption of folate synthesis"
-        },
-        {
-          "label": "B",
-          "text": "Accumulation of double-strand DNA breaks"
-        },
-        {
-          "label": "C",
-          "text": "Depolarization of the cytoplasmic membrane"
-        },
-        {
-          "label": "D",
-          "text": "Blockade of ribosomal peptide bond formation"
-        },
-        {
-          "label": "E",
-          "text": "Inhibition of cell wall peptidoglycan cross-linking"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Fluoroquinolones trap the enzyme after it has nicked DNA, preventing religation; the resulting persistent double-strand breaks stop DNA synthesis and produce a bactericidal effect.",
-        "whyCorrect": "Fluoroquinolones trap the enzyme after it has nicked DNA, preventing religation; the resulting persistent double-strand breaks stop DNA synthesis and produce a bactericidal effect.",
-        "whyWrongByChoice": {
-          "A": "Folate synthesis is disrupted by sulfonamides and trimethoprim acting on dihydropteroate synthase and dihydrofolate reductase, not by drugs binding a topoisomerase on the replicating chromosome.",
-          "C": "Membrane depolarization is the mechanism of daptomycin, which inserts into the gram-positive cytoplasmic membrane, rather than an enzyme bound to chromosomal DNA.",
-          "D": "Blocking peptide bond formation at the 50S peptidyl transferase is the action of chloramphenicol and related ribosomal inhibitors, not of fluoroquinolones trapping DNA gyrase.",
-          "E": "Inhibiting peptidoglycan cross-linking is how beta-lactams act on penicillin-binding proteins at the cell wall, far from the chromosomal topoisomerase targeted here."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-204_mi005_f03.png",
+      "imageRef": "mipic-312_brick_63_02.jpg",
       "tags": [
         "picture"
       ]

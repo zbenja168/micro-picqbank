@@ -1,0 +1,1590 @@
+{
+  "categoryId": "more",
+  "categoryName": "More topics",
+  "questions": [
+    {
+      "id": "mipic-200",
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "stem": "The four-membered ring highlighted in red is the pharmacologically essential core of this cephalosporin. Resistant bacteria most commonly inactivate the drug by producing an enzyme that hydrolyzes this ring. What are those enzymes called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycoside-modifying acetyltransferases"
+        },
+        {
+          "label": "B",
+          "text": "DNA gyrase"
+        },
+        {
+          "label": "C",
+          "text": "Penicillin-binding proteins"
+        },
+        {
+          "label": "D",
+          "text": "β-lactamases"
+        },
+        {
+          "label": "E",
+          "text": "Transpeptidases"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The strained four-membered β-lactam ring is what covalently binds and inhibits transpeptidases. Bacteria resist β-lactam antibiotics chiefly by secreting β-lactamases, enzymes that cleave the amide bond of this ring and render the drug inactive.",
+        "whyCorrect": "The strained four-membered β-lactam ring is what covalently binds and inhibits transpeptidases. Bacteria resist β-lactam antibiotics chiefly by secreting β-lactamases, enzymes that cleave the amide bond of this ring and render the drug inactive.",
+        "whyWrongByChoice": {
+          "A": "Aminoglycoside-modifying enzymes inactivate aminoglycosides by acetylation, phosphorylation or adenylation; they do not act on beta-lactam rings.",
+          "B": "DNA gyrase is a topoisomerase targeted by fluoroquinolones, not an enzyme that degrades antibiotics.",
+          "C": "PBPs are the drug's targets, which the beta-lactam ring binds; they do not hydrolyze it.",
+          "E": "Transpeptidases are PBPs that build cross-links; they are inhibited by, not inactivating, the drug."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-200_mi049_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-244",
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "stem": "This schematic depicts the layered bacterial envelope in which alternating sugar subunits are joined into a rigid meshwork that protects the cell from osmotic lysis. Formation of which bonds within this structure is the step blocked by cephalosporins?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Disulfide bonds between membrane proteins"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen bonds stabilizing the lipid bilayer"
+        },
+        {
+          "label": "C",
+          "text": "Glycosidic bonds between the sugar backbone"
+        },
+        {
+          "label": "D",
+          "text": "Phosphodiester bonds in the plasma membrane"
+        },
+        {
+          "label": "E",
+          "text": "Peptide cross-links formed by transpeptidation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The rigidity of the peptidoglycan wall comes from transpeptidase (penicillin-binding protein) enzymes cross-linking adjacent peptide chains that dangle from the NAM-NAG sugar backbone. Cephalosporins are structural analogs of the D-Ala-D-Ala substrate and covalently inhibit these transpeptidases, halting cross-linking so the growing cell lyses.",
+        "whyCorrect": "The rigidity of the peptidoglycan wall comes from transpeptidase (penicillin-binding protein) enzymes cross-linking adjacent peptide chains that dangle from the NAM-NAG sugar backbone. Cephalosporins are structural analogs of the D-Ala-D-Ala substrate and covalently inhibit these transpeptidases, halting cross-linking so the growing cell lyses.",
+        "whyWrongByChoice": {
+          "A": "Disulfide bonds between membrane proteins are not formed in peptidoglycan cross-linking and are not targeted by cephalosporins.",
+          "B": "Hydrogen bonds in the lipid bilayer are not a cephalosporin target.",
+          "C": "Glycosidic bonds of the NAM-NAG backbone are formed by transglycosylases and cleaved by lysozyme; cephalosporins block peptide cross-linking.",
+          "D": "Phosphodiester bonds are in nucleic acids and phospholipid head groups, not the peptidoglycan cross-links cephalosporins block."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-244_mi049_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-201",
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "stem": "The structure shown in the lower-right quadrant of this comparison differs from the other three antibiotic classes depicted. What structural property distinguishes it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its beta-lactam ring is monocyclic, not fused to a second ring"
+        },
+        {
+          "label": "B",
+          "text": "It has a five-membered thiazolidine ring fused to the beta-lactam"
+        },
+        {
+          "label": "C",
+          "text": "It lacks a beta-lactam ring entirely and acts as a glycopeptide"
+        },
+        {
+          "label": "D",
+          "text": "It contains a six-membered dihydrothiazine ring fused to the beta-lactam"
+        },
+        {
+          "label": "E",
+          "text": "It replaces the beta-lactam ring sulfur with a carbon atom"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Monobactams (lower right) are the only class shown with a solitary, monocyclic beta-lactam ring not fused to a second ring. Penicillins have a fused thiazolidine ring, cephalosporins a fused dihydrothiazine ring, and carbapenems a fused carbon-containing ring. This monocyclic structure underlies aztreonam's minimal cross-reactivity with penicillins.",
+        "whyCorrect": "Monobactams (lower right) are the only class shown with a solitary, monocyclic beta-lactam ring not fused to a second ring. Penicillins have a fused thiazolidine ring, cephalosporins a fused dihydrothiazine ring, and carbapenems a fused carbon-containing ring. This monocyclic structure underlies aztreonam's minimal cross-reactivity with penicillins.",
+        "whyWrongByChoice": {
+          "B": "A fused five-membered thiazolidine ring defines penicillins, not the monocyclic structure in the lower right.",
+          "C": "The highlighted structure still contains a beta-lactam ring; glycopeptides such as vancomycin are entirely different molecules.",
+          "D": "A fused six-membered dihydrothiazine ring defines cephalosporins.",
+          "E": "Replacing the sulfur with carbon in a fused ring describes carbapenems, which remain bicyclic."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-201_mi050_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-202",
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "stem": "Of the three adverse reactions illustrated here for carbapenems and monobactams, the central one is most likely to occur with which specific agent, particularly in renal impairment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aztreonam"
+        },
+        {
+          "label": "B",
+          "text": "Imipenem/cilastatin"
+        },
+        {
+          "label": "C",
+          "text": "Meropenem"
+        },
+        {
+          "label": "D",
+          "text": "Ertapenem"
+        },
+        {
+          "label": "E",
+          "text": "Doripenem"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The central panel depicts seizures. Carbapenems can lower the seizure threshold, but the risk is greatest with imipenem/cilastatin, especially at high doses or when drug accumulates due to renal impairment. Meropenem is preferred clinically because of its lower seizure risk.",
+        "whyCorrect": "The central panel depicts seizures. Carbapenems can lower the seizure threshold, but the risk is greatest with imipenem/cilastatin, especially at high doses or when drug accumulates due to renal impairment. Meropenem is preferred clinically because of its lower seizure risk.",
+        "whyWrongByChoice": {
+          "A": "Aztreonam is a monobactam not known for seizures; its main concerns are rash and GI effects.",
+          "C": "Meropenem has a lower seizure propensity and is preferred over imipenem for CNS infections.",
+          "D": "Ertapenem can cause seizures with accumulation but less often than imipenem/cilastatin.",
+          "E": "Doripenem has a seizure risk comparable to meropenem, not the class-leading risk of imipenem."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-202_mi050_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-245",
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "stem": "This schematic of the bacterial cell envelope highlights an enzyme acting between the NAG-NAM glycan strands. What is the direct consequence when beta-lactams bind that enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peptidoglycan cross-links fail to form"
+        },
+        {
+          "label": "B",
+          "text": "Ribosomal protein synthesis is halted at the 50S subunit"
+        },
+        {
+          "label": "C",
+          "text": "The plasma membrane becomes permeable to protons"
+        },
+        {
+          "label": "D",
+          "text": "The 30S ribosomal subunit is blocked, causing misreading"
+        },
+        {
+          "label": "E",
+          "text": "DNA gyrase is inhibited, blocking chromosome replication"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The enzyme shown (a penicillin-binding protein) is a transpeptidase that cross-links adjacent NAM-NAG peptidoglycan strands. Beta-lactams irreversibly inhibit it, so without cross-linking the wall cannot withstand osmotic pressure and the growing bacterium lyses.",
+        "whyCorrect": "The enzyme shown (a penicillin-binding protein) is a transpeptidase that cross-links adjacent NAM-NAG peptidoglycan strands. Beta-lactams irreversibly inhibit it, so without cross-linking the wall cannot withstand osmotic pressure and the growing bacterium lyses.",
+        "whyWrongByChoice": {
+          "B": "Halting protein synthesis at the 50S subunit is how macrolides, clindamycin and linezolid act, not beta-lactams.",
+          "C": "Increased membrane permeability is the action of daptomycin or polymyxins, not PBP inhibition.",
+          "D": "Blocking the 30S subunit and causing misreading is the aminoglycoside mechanism.",
+          "E": "DNA gyrase inhibition is the fluoroquinolone mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-245_mi050_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-246",
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "stem": "This diagram traces the transport and assembly of peptidoglycan units across the bacterial membrane. Which step in this pathway does bacitracin inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Addition of new sugar units by transglycosylase"
+        },
+        {
+          "label": "B",
+          "text": "Cross-linking of peptide chains by transpeptidase"
+        },
+        {
+          "label": "C",
+          "text": "Binding of the D-alanyl-D-alanine terminus"
+        },
+        {
+          "label": "D",
+          "text": "Autolysin-mediated remodeling at the growth point"
+        },
+        {
+          "label": "E",
+          "text": "Dephosphorylation/regeneration of the bactoprenol lipid carrier"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bacitracin blocks the recycling of the bactoprenol (lipid) carrier, so NAM cannot be joined to it and no new peptidoglycan subunits are transported to the wall. This is an early step, distinct from vancomycin's later D-Ala-D-Ala binding and from the transpeptidase cross-linking targeted by beta-lactams.",
+        "whyCorrect": "Bacitracin blocks the recycling of the bactoprenol (lipid) carrier, so NAM cannot be joined to it and no new peptidoglycan subunits are transported to the wall. This is an early step, distinct from vancomycin's later D-Ala-D-Ala binding and from the transpeptidase cross-linking targeted by beta-lactams.",
+        "whyWrongByChoice": {
+          "A": "Transglycosylation of new sugar units is blocked by vancomycin binding the precursor, not by bacitracin.",
+          "B": "Transpeptidase cross-linking is the target of beta-lactams.",
+          "C": "Binding the D-Ala-D-Ala terminus is vancomycin's mechanism.",
+          "D": "Autolysins remodel the wall and are activated downstream of beta-lactams; bacitracin acts on the lipid carrier."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-246_mi051_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-122",
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "stem": "This colonic finding developed after broad-spectrum penicillin therapy. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Shigella dysenteriae"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella enterica"
+        },
+        {
+          "label": "D",
+          "text": "Escherichia coli O157:H7"
+        },
+        {
+          "label": "E",
+          "text": "Clostridioides difficile"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Antibiotic-associated pseudomembranous colitis results from overgrowth of toxin-producing C. difficile spores after normal flora is disrupted; the yellow-white plaques are the pseudomembranes.",
+        "whyCorrect": "Antibiotic-associated pseudomembranous colitis results from overgrowth of toxin-producing C. difficile spores after normal flora is disrupted; the yellow-white plaques are the pseudomembranes.",
+        "whyWrongByChoice": {
+          "A": "S. aureus can cause enterocolitis, but pseudomembranous colitis after antibiotics is characteristically C. difficile.",
+          "B": "Shigella causes dysentery with mucosal ulceration after fecal-oral exposure, not pseudomembranes after antibiotics.",
+          "C": "Salmonella causes gastroenteritis or typhoid from food exposure, not antibiotic-associated pseudomembranes.",
+          "D": "E. coli O157:H7 causes hemorrhagic colitis and HUS from undercooked beef, not pseudomembranous colitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-122_mi000_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-123",
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "stem": "A patient given aminopenicillin develops this widespread maculopapular eruption. Concurrent infection with which condition classically precipitates it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Influenza A"
+        },
+        {
+          "label": "B",
+          "text": "Primary HIV infection"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcal pharyngitis"
+        },
+        {
+          "label": "D",
+          "text": "Infectious mononucleosis"
+        },
+        {
+          "label": "E",
+          "text": "Acute hepatitis B"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ampicillin or amoxicillin given during EBV mononucleosis produces a characteristic non-allergic maculopapular rash; it does not indicate a true penicillin allergy.",
+        "whyCorrect": "Ampicillin or amoxicillin given during EBV mononucleosis produces a characteristic non-allergic maculopapular rash; it does not indicate a true penicillin allergy.",
+        "whyWrongByChoice": {
+          "A": "Influenza does not classically trigger an aminopenicillin rash.",
+          "B": "Primary HIV infection can cause its own rash but is not the classic precipitant of the ampicillin eruption.",
+          "C": "Streptococcal pharyngitis is often the mistaken diagnosis that leads to amoxicillin; the rash reflects underlying EBV infection.",
+          "E": "Acute hepatitis B can cause a serum sickness-like prodrome but is not linked to the aminopenicillin rash."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-123_mi000_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-188",
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "stem": "The highlighted four-membered ring in this core antibiotic structure allows the drug to act as a structural analogue of which bacterial cell-wall substrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "N-acetylmuramic acid"
+        },
+        {
+          "label": "B",
+          "text": "D-glutamyl-D-glutamate"
+        },
+        {
+          "label": "C",
+          "text": "L-lysyl-L-lysine"
+        },
+        {
+          "label": "D",
+          "text": "meso-diaminopimelic acid"
+        },
+        {
+          "label": "E",
+          "text": "D-Alanyl-D-alanine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The strained beta-lactam ring mimics the D-Ala-D-Ala terminus of the peptidoglycan pentapeptide, letting penicillin covalently bind and irreversibly inhibit transpeptidase (PBP).",
+        "whyCorrect": "The strained beta-lactam ring mimics the D-Ala-D-Ala terminus of the peptidoglycan pentapeptide, letting penicillin covalently bind and irreversibly inhibit transpeptidase (PBP).",
+        "whyWrongByChoice": {
+          "A": "N-acetylmuramic acid is a glycan sugar that carries the peptide side chain; it is not what the beta-lactam ring mimics.",
+          "B": "D-glutamyl-D-glutamate is not the peptidoglycan terminus recognized by transpeptidases.",
+          "C": "L-lysyl-L-lysine is not the substrate imitated by the beta-lactam ring.",
+          "D": "meso-Diaminopimelic acid is a stem-peptide residue in gram-negative peptidoglycan, not the terminal D-Ala-D-Ala that PBPs bind."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-188_mi000_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-189",
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "stem": "These four illustrated panels summarize the principal adverse-effect categories of which antibiotic class?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycosides"
+        },
+        {
+          "label": "B",
+          "text": "Fluoroquinolones"
+        },
+        {
+          "label": "C",
+          "text": "Tetracyclines"
+        },
+        {
+          "label": "D",
+          "text": "Macrolides"
+        },
+        {
+          "label": "E",
+          "text": "Penicillins"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hypersensitivity reactions, diarrhea/C. difficile colitis, interstitial nephritis, and hematologic toxicities are the classic adverse effects associated with penicillin-class beta-lactam therapy.",
+        "whyCorrect": "Hypersensitivity reactions, diarrhea/C. difficile colitis, interstitial nephritis, and hematologic toxicities are the classic adverse effects associated with penicillin-class beta-lactam therapy.",
+        "whyWrongByChoice": {
+          "A": "Aminoglycosides are known for nephrotoxicity, ototoxicity and neuromuscular blockade, not hypersensitivity and hemolysis.",
+          "B": "Fluoroquinolones are known for tendinopathy, QT prolongation, CNS effects and cartilage damage.",
+          "C": "Tetracyclines cause tooth discoloration, photosensitivity and esophagitis.",
+          "D": "Macrolides cause GI motility upset, QT prolongation and CYP3A4 interactions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-189_mi000_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-130",
+      "topicId": "fluoroquinolones",
+      "topicName": "Fluoroquinolones",
+      "stem": "A pediatric patient develops this severe mucocutaneous reaction with extensive facial epidermal detachment and crusting shortly after starting a fluoroquinolone. Which drug reaction is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fixed drug eruption"
+        },
+        {
+          "label": "B",
+          "text": "Stevens-Johnson syndrome / toxic epidermal necrolysis"
+        },
+        {
+          "label": "C",
+          "text": "Acute generalized exanthematous pustulosis"
+        },
+        {
+          "label": "D",
+          "text": "Morbilliform (maculopapular) drug rash"
+        },
+        {
+          "label": "E",
+          "text": "Erythema multiforme minor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The widespread epidermal detachment with mucosal and periorificial involvement is characteristic of the SJS/TEN spectrum, a rare but life-threatening hypersensitivity reaction; affected patients must avoid the offending fluoroquinolone permanently.",
+        "whyCorrect": "The widespread epidermal detachment with mucosal and periorificial involvement is characteristic of the SJS/TEN spectrum, a rare but life-threatening hypersensitivity reaction; affected patients must avoid the offending fluoroquinolone permanently.",
+        "whyWrongByChoice": {
+          "A": "A fixed drug eruption is one or a few sharply demarcated dusky-violaceous plaques that recur at the same site on re-exposure, not extensive facial epidermal detachment with mucosal crusting.",
+          "C": "Acute generalized exanthematous pustulosis produces sheets of tiny sterile nonfollicular pustules on an erythematous base, usually in flexures, without full-thickness epidermal sloughing or prominent mucosal crusting.",
+          "D": "A morbilliform drug rash is a common, benign symmetric eruption of erythematous macules and papules on the trunk; it lacks mucosal involvement and epidermal detachment.",
+          "E": "Erythema multiforme minor causes targetoid acral lesions, usually after HSV, with little or no mucosal involvement and no widespread epidermal detachment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-130_mi005_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-191",
+      "topicId": "fluoroquinolones",
+      "topicName": "Fluoroquinolones",
+      "stem": "These three antibacterial molecules share a common bicyclic core, but the two agents on the right add a substituent (highlighted at the top of the rightmost structure) that greatly broadens their clinical spectrum. To which antibiotic class do the modified agents belong?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluoroquinolones"
+        },
+        {
+          "label": "B",
+          "text": "Sulfonamides"
+        },
+        {
+          "label": "C",
+          "text": "Macrolides"
+        },
+        {
+          "label": "D",
+          "text": "Beta-lactams"
+        },
+        {
+          "label": "E",
+          "text": "Aminoglycosides"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The core is the quinolone ring; adding a fluorine atom (seen on nalidixic acid's successors) yields the fluoroquinolones, which have broader gram-negative coverage and stronger binding to type II topoisomerases than the parent quinolone.",
+        "whyCorrect": "The core is the quinolone ring; adding a fluorine atom (seen on nalidixic acid's successors) yields the fluoroquinolones, which have broader gram-negative coverage and stronger binding to type II topoisomerases than the parent quinolone.",
+        "whyWrongByChoice": {
+          "B": "Sulfonamides are structural analogs of PABA built on a sulfanilamide core that inhibit dihydropteroate synthase; they do not share the bicyclic quinolone ring shown.",
+          "C": "Macrolides are large macrocyclic lactone rings with attached sugars that block the 50S ribosome, structurally unrelated to the small bicyclic quinolone core.",
+          "D": "Beta-lactams are defined by a four-membered beta-lactam ring (often fused to a thiazolidine or dihydrothiazine) and inhibit transpeptidases, not a fluorinated bicyclic quinolone core.",
+          "E": "Aminoglycosides are amino sugars linked glycosidically to an aminocyclitol ring and target the 30S ribosome; they have no aromatic bicyclic core."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-191_mi005_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-203",
+      "topicId": "fluoroquinolones",
+      "topicName": "Fluoroquinolones",
+      "stem": "This schematic depicts a type II topoisomerase acting on interlinked bacterial DNA, progressively reducing the number of braided crossings shown. What enzymatic function is being illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Synthesis of the leading DNA strand"
+        },
+        {
+          "label": "B",
+          "text": "Proofreading of mismatched bases"
+        },
+        {
+          "label": "C",
+          "text": "Decatenation of daughter chromosomes"
+        },
+        {
+          "label": "D",
+          "text": "Methylation of adenine residues"
+        },
+        {
+          "label": "E",
+          "text": "Removal of RNA primers"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The stepwise reduction from 4 to 0 braids shows topoisomerase IV passing one duplex through another to separate (decatenate) the two completed bacterial chromosomes; DNA gyrase performs the related task of managing negative supercoils.",
+        "whyCorrect": "The stepwise reduction from 4 to 0 braids shows topoisomerase IV passing one duplex through another to separate (decatenate) the two completed bacterial chromosomes; DNA gyrase performs the related task of managing negative supercoils.",
+        "whyWrongByChoice": {
+          "A": "Leading-strand synthesis is performed by DNA polymerase III adding nucleotides 5' to 3'; it does not involve cutting and passing duplexes to reduce interlinked crossings.",
+          "B": "Proofreading is the 3' to 5' exonuclease activity of DNA polymerase that removes misincorporated bases; topoisomerases do not edit base mismatches.",
+          "D": "Adenine methylation is carried out by methyltransferases such as Dam for mismatch-repair strand recognition and restriction protection, not by type II topoisomerases unlinking chromosomes.",
+          "E": "RNA primers are removed by DNA polymerase I's 5' to 3' exonuclease (or RNase H), a step in Okazaki fragment maturation unrelated to separating interlinked daughter chromosomes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-203_mi005_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-204",
+      "topicId": "fluoroquinolones",
+      "topicName": "Fluoroquinolones",
+      "stem": "The listed drugs are shown binding an enzyme located on the replicating chromosome inside this bacterial cell. What is the immediate consequence of this drug-enzyme interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Disruption of folate synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Accumulation of double-strand DNA breaks"
+        },
+        {
+          "label": "C",
+          "text": "Depolarization of the cytoplasmic membrane"
+        },
+        {
+          "label": "D",
+          "text": "Blockade of ribosomal peptide bond formation"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of cell wall peptidoglycan cross-linking"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fluoroquinolones trap the enzyme after it has nicked DNA, preventing religation; the resulting persistent double-strand breaks stop DNA synthesis and produce a bactericidal effect.",
+        "whyCorrect": "Fluoroquinolones trap the enzyme after it has nicked DNA, preventing religation; the resulting persistent double-strand breaks stop DNA synthesis and produce a bactericidal effect.",
+        "whyWrongByChoice": {
+          "A": "Folate synthesis is disrupted by sulfonamides and trimethoprim acting on dihydropteroate synthase and dihydrofolate reductase, not by drugs binding a topoisomerase on the replicating chromosome.",
+          "C": "Membrane depolarization is the mechanism of daptomycin, which inserts into the gram-positive cytoplasmic membrane, rather than an enzyme bound to chromosomal DNA.",
+          "D": "Blocking peptide bond formation at the 50S peptidyl transferase is the action of chloramphenicol and related ribosomal inhibitors, not of fluoroquinolones trapping DNA gyrase.",
+          "E": "Inhibiting peptidoglycan cross-linking is how beta-lactams act on penicillin-binding proteins at the cell wall, far from the chromosomal topoisomerase targeted here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-204_mi005_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-133",
+      "topicId": "protein-synthesis-inhibitors",
+      "topicName": "Protein Synthesis Inhibitors",
+      "stem": "This schematic of the neuromuscular junction shows autoantibodies blocking the binding of the neurotransmitter to its postsynaptic receptor. This pathophysiology is characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myasthenia gravis"
+        },
+        {
+          "label": "B",
+          "text": "Amyotrophic lateral sclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Guillain-Barre syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Botulism"
+        },
+        {
+          "label": "E",
+          "text": "Lambert-Eaton myasthenic syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The diagram shows antibodies against the acetylcholine receptor preventing ACh from activating the postsynaptic membrane, the defining mechanism of myasthenia gravis. Aminoglycosides can antagonize ACh receptors and cause neuromuscular blockade that compounds this deficit, so they are used cautiously in these patients.",
+        "whyCorrect": "The diagram shows antibodies against the acetylcholine receptor preventing ACh from activating the postsynaptic membrane, the defining mechanism of myasthenia gravis. Aminoglycosides can antagonize ACh receptors and cause neuromuscular blockade that compounds this deficit, so they are used cautiously in these patients.",
+        "whyWrongByChoice": {
+          "B": "ALS is degeneration of upper and lower motor neurons, causing mixed spasticity and atrophy, without autoantibodies blocking postsynaptic ACh receptors.",
+          "C": "Guillain-Barre syndrome is an autoimmune attack on peripheral nerve myelin or axons, causing ascending weakness and areflexia, not receptor blockade at the junction.",
+          "D": "Botulism results from a toxin that cleaves SNARE proteins and blocks presynaptic ACh release; it does not involve autoantibodies at the postsynaptic receptor.",
+          "E": "Lambert-Eaton syndrome involves antibodies against presynaptic voltage-gated calcium channels, reducing ACh release, and weakness improves with repeated use rather than worsening."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-133_mi012_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-192",
+      "topicId": "protein-synthesis-inhibitors",
+      "topicName": "Protein Synthesis Inhibitors",
+      "stem": "This figure summarizes the major adverse reactions of one class of protein synthesis inhibitors. By what mechanism does the depicted inner-ear toxicity most likely occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of mitochondrial protein synthesis in hair cells"
+        },
+        {
+          "label": "B",
+          "text": "Immune-mediated destruction of the organ of Corti"
+        },
+        {
+          "label": "C",
+          "text": "Chelation of endolymph calcium disrupting hair-cell transduction"
+        },
+        {
+          "label": "D",
+          "text": "Autoantibodies directed against the stria vascularis"
+        },
+        {
+          "label": "E",
+          "text": "Blockade of the outer hair cell prestin motor protein"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The panels depict nephrotoxicity, ototoxicity, and fetal harm, the hallmark adverse effects of aminoglycosides. Ototoxicity results from aminoglycoside inhibition of mitochondrial ribosomes in cochlear and vestibular hair cells, causing cell death; cochlear loss is irreversible while vestibular cells can partly regenerate.",
+        "whyCorrect": "The panels depict nephrotoxicity, ototoxicity, and fetal harm, the hallmark adverse effects of aminoglycosides. Ototoxicity results from aminoglycoside inhibition of mitochondrial ribosomes in cochlear and vestibular hair cells, causing cell death; cochlear loss is irreversible while vestibular cells can partly regenerate.",
+        "whyWrongByChoice": {
+          "B": "Aminoglycoside ototoxicity is a direct drug effect on hair-cell mitochondria, not an immune-mediated attack on the organ of Corti as in autoimmune inner-ear disease.",
+          "C": "Aminoglycosides do not act by chelating endolymph calcium; hair cells die because the drug inhibits their mitochondrial ribosomes, generating oxidative injury.",
+          "D": "No autoantibodies against the stria vascularis are involved; loop diuretics, not aminoglycosides, primarily disturb strial function, and aminoglycoside injury targets hair cells.",
+          "E": "Prestin is the outer hair cell motor protein, and salicylates rather than aminoglycosides interfere with it, causing reversible hearing loss."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-192_mi012_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-193",
+      "topicId": "protein-synthesis-inhibitors",
+      "topicName": "Protein Synthesis Inhibitors",
+      "stem": "This figure summarizes the adverse reactions of one antibiotic class, including a cardiac effect. The depicted prolongation of cardiac repolarization predisposes patients to which arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete (third-degree) heart block"
+        },
+        {
+          "label": "B",
+          "text": "Wolff-Parkinson-White tachycardia"
+        },
+        {
+          "label": "C",
+          "text": "Atrial fibrillation"
+        },
+        {
+          "label": "D",
+          "text": "Ventricular escape rhythm"
+        },
+        {
+          "label": "E",
+          "text": "Torsades de pointes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The panels show macrolide adverse effects: diarrhea, QT prolongation, nausea, and vomiting. By prolonging the QT interval, macrolides increase the risk of torsades de pointes, so they are avoided with other QT-prolonging agents and in patients with cardiovascular disease.",
+        "whyCorrect": "The panels show macrolide adverse effects: diarrhea, QT prolongation, nausea, and vomiting. By prolonging the QT interval, macrolides increase the risk of torsades de pointes, so they are avoided with other QT-prolonging agents and in patients with cardiovascular disease.",
+        "whyWrongByChoice": {
+          "A": "Complete heart block is an AV conduction failure from nodal or His-Purkinje disease, not a result of prolonged ventricular repolarization.",
+          "B": "Wolff-Parkinson-White tachycardia uses an accessory pathway with a short PR and delta wave, a congenital conduction anomaly unrelated to QT prolongation.",
+          "C": "Atrial fibrillation arises from chaotic atrial activity, usually with atrial dilation or structural disease, not from delayed ventricular repolarization.",
+          "D": "A ventricular escape rhythm is a slow backup pacemaker that appears when higher pacemakers fail, not a triggered arrhythmia from a long QT."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-193_mi012_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-194",
+      "topicId": "protein-synthesis-inhibitors",
+      "topicName": "Protein Synthesis Inhibitors",
+      "stem": "These panels depict the adverse reactions of this drug, including a risk of serotonin syndrome. This risk exists because the drug also acts as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A reversible monoamine oxidase inhibitor"
+        },
+        {
+          "label": "B",
+          "text": "A postsynaptic serotonin (5-HT) receptor agonist"
+        },
+        {
+          "label": "C",
+          "text": "A selective serotonin reuptake inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "An activator of tryptophan hydroxylase"
+        },
+        {
+          "label": "E",
+          "text": "A serotonin-norepinephrine reuptake inhibitor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The figure shows linezolid adverse effects: bone marrow suppression, peripheral neuropathy, and serotonin syndrome. Linezolid is a reversible MAO inhibitor, so co-administration with serotonergic drugs such as SSRIs or SNRIs can raise serotonin levels and precipitate serotonin syndrome.",
+        "whyCorrect": "The figure shows linezolid adverse effects: bone marrow suppression, peripheral neuropathy, and serotonin syndrome. Linezolid is a reversible MAO inhibitor, so co-administration with serotonergic drugs such as SSRIs or SNRIs can raise serotonin levels and precipitate serotonin syndrome.",
+        "whyWrongByChoice": {
+          "B": "Linezolid does not act directly on postsynaptic 5-HT receptors as triptans or buspirone do; it raises serotonin by inhibiting its breakdown via MAO.",
+          "C": "Linezolid does not block the serotonin transporter; SSRIs do, and combining them with linezolid's MAO inhibition is what precipitates serotonin syndrome.",
+          "D": "Linezolid does not activate tryptophan hydroxylase, the rate-limiting enzyme of serotonin synthesis; its effect is reduced degradation of serotonin.",
+          "E": "SNRIs such as venlafaxine block serotonin and norepinephrine reuptake; linezolid lacks this transporter action and works as a weak reversible MAO inhibitor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-194_mi012_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-207",
+      "topicId": "protein-synthesis-inhibitors",
+      "topicName": "Protein Synthesis Inhibitors",
+      "stem": "This labeled schematic depicts a bacterial ribosome with its subunits and functional sites. Which ribosomal subunit is the primary target of aminoglycoside and tetracycline antibiotics?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The peptidyl transferase center"
+        },
+        {
+          "label": "B",
+          "text": "The 50S subunit"
+        },
+        {
+          "label": "C",
+          "text": "The 60S subunit"
+        },
+        {
+          "label": "D",
+          "text": "The 30S subunit"
+        },
+        {
+          "label": "E",
+          "text": "The 70S rRNA core"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The figure shows the 70S bacterial ribosome composed of a 30S and 50S subunit, with the A (acceptor), P (peptidyl), and E (exit) tRNA-binding sites and rRNA. Aminoglycosides and tetracyclines are 30S subunit inhibitors, whereas macrolides, clindamycin, chloramphenicol, and linezolid act on the 50S subunit.",
+        "whyCorrect": "The figure shows the 70S bacterial ribosome composed of a 30S and 50S subunit, with the A (acceptor), P (peptidyl), and E (exit) tRNA-binding sites and rRNA. Aminoglycosides and tetracyclines are 30S subunit inhibitors, whereas macrolides, clindamycin, chloramphenicol, and linezolid act on the 50S subunit.",
+        "whyWrongByChoice": {
+          "A": "The peptidyl transferase center is a catalytic site within the 50S subunit's 23S rRNA, targeted by chloramphenicol and linezolid, not a subunit and not the site of aminoglycosides.",
+          "B": "The 50S subunit is the target of macrolides, clindamycin, chloramphenicol, and linezolid; aminoglycosides and tetracyclines bind the 30S subunit.",
+          "C": "The 60S subunit belongs to the eukaryotic 80S ribosome, which is why ribosomal antibiotics spare host cytoplasmic protein synthesis.",
+          "E": "70S is the whole assembled bacterial ribosome, not a subunit; aminoglycosides and tetracyclines specifically bind the 30S subunit's 16S rRNA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-207_mi011_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-140",
+      "topicId": "sulfonamides",
+      "topicName": "Sulfonamides",
+      "stem": "A patient develops this widespread skin sloughing after starting a sulfonamide. Which severe cutaneous adverse reaction does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stevens-Johnson syndrome / toxic epidermal necrolysis"
+        },
+        {
+          "label": "B",
+          "text": "Pemphigus vulgaris"
+        },
+        {
+          "label": "C",
+          "text": "Erythema multiforme minor"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcal scalded skin syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Bullous pemphigoid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The photograph shows large-scale epidermal desquamation, the hallmark of Stevens-Johnson syndrome and its more extensive form toxic epidermal necrolysis. These are rare but potentially fatal hypersensitivity reactions to sulfonamides that mandate immediate discontinuation of the drug.",
+        "whyCorrect": "The photograph shows large-scale epidermal desquamation, the hallmark of Stevens-Johnson syndrome and its more extensive form toxic epidermal necrolysis. These are rare but potentially fatal hypersensitivity reactions to sulfonamides that mandate immediate discontinuation of the drug.",
+        "whyWrongByChoice": {
+          "B": "Pemphigus vulgaris is autoimmune, with antibodies against desmoglein 3 forming flaccid intraepidermal bullae over a chronic course, not an acute reaction after starting a sulfonamide.",
+          "C": "Erythema multiforme minor shows targetoid lesions with minimal mucosal involvement and no widespread sloughing, usually triggered by HSV.",
+          "D": "Staphylococcal scalded skin syndrome is toxin-mediated superficial splitting at the granular layer in young children, with mucosa spared, not a drug reaction.",
+          "E": "Bullous pemphigoid is an autoimmune disease of older adults with tense subepidermal bullae and anti-hemidesmosome antibodies, not acute sheet-like sloughing after a drug."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-140_mi016_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-195",
+      "topicId": "sulfonamides",
+      "topicName": "Sulfonamides",
+      "stem": "The functional group depicted here forms the shared active core of which class of antibiotics?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tetracyclines"
+        },
+        {
+          "label": "B",
+          "text": "Aminoglycosides"
+        },
+        {
+          "label": "C",
+          "text": "Sulfonamides"
+        },
+        {
+          "label": "D",
+          "text": "Fluoroquinolones"
+        },
+        {
+          "label": "E",
+          "text": "Beta-lactams"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The structure shows a central sulfur double-bonded to two oxygens and single-bonded to a nitrogen (the sulfonamide moiety) with variable R groups. This sulfonamide functional group defines the sulfa drug class, which acts as competitive inhibitors of bacterial folate synthesis.",
+        "whyCorrect": "The structure shows a central sulfur double-bonded to two oxygens and single-bonded to a nitrogen (the sulfonamide moiety) with variable R groups. This sulfonamide functional group defines the sulfa drug class, which acts as competitive inhibitors of bacterial folate synthesis.",
+        "whyWrongByChoice": {
+          "A": "Tetracyclines are built on four fused six-membered rings (a naphthacene core) and bind the 30S ribosome; they lack the S(=O)2-N sulfonamide group.",
+          "B": "Aminoglycosides are amino sugars linked to an aminocyclitol ring, with no sulfur-containing functional group at their core.",
+          "D": "Fluoroquinolones share a bicyclic quinolone ring with a carboxylic acid and a fluorine, not a sulfur double-bonded to two oxygens and bonded to nitrogen.",
+          "E": "Beta-lactams are defined by a four-membered cyclic amide (the beta-lactam ring), not a sulfonyl-amide group."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-195_mi016_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-211",
+      "topicId": "sulfonamides",
+      "topicName": "Sulfonamides",
+      "stem": "This diagram shows where sulfonamides and trimethoprim act within a bacterial cell. What is the basis for their selective toxicity toward bacteria?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The drug is only activated by bacterial beta-lactamase"
+        },
+        {
+          "label": "B",
+          "text": "Human cells rapidly efflux the drug via P-glycoprotein"
+        },
+        {
+          "label": "C",
+          "text": "Human cells cannot synthesize folate, so they lack the targeted enzyme"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial ribosomes bind the drug but human ribosomes do not"
+        },
+        {
+          "label": "E",
+          "text": "Sulfonamides cannot cross the human cell membrane"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The schematic shows PABA being converted through DHF to THF inside the bacterium, with sulfonamides blocking the folate-synthesis step. Mammalian cells lack dihydropteroate synthase and obtain preformed folate from the diet, so blocking de novo folate synthesis harms bacteria selectively.",
+        "whyCorrect": "The schematic shows PABA being converted through DHF to THF inside the bacterium, with sulfonamides blocking the folate-synthesis step. Mammalian cells lack dihydropteroate synthase and obtain preformed folate from the diet, so blocking de novo folate synthesis harms bacteria selectively.",
+        "whyWrongByChoice": {
+          "A": "Sulfonamides are active drugs that need no activation, and beta-lactamases inactivate rather than activate drugs, destroying penicillins and cephalosporins.",
+          "B": "P-glycoprotein efflux is not the basis of sulfonamide selectivity; human cells are spared because they take up dietary folate and lack dihydropteroate synthase.",
+          "D": "Ribosomal selectivity explains protein synthesis inhibitors such as aminoglycosides and macrolides; sulfonamides and trimethoprim act on folate-pathway enzymes, not ribosomes.",
+          "E": "Sulfonamides readily enter human cells and tissues; their selectivity comes from targeting an enzyme humans do not have, not from exclusion by the membrane."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-211_mi016_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-212",
+      "topicId": "sulfonamides",
+      "topicName": "Sulfonamides",
+      "stem": "Based on the two enzyme-blocking points shown in this pathway, why does pairing a sulfonamide with trimethoprim produce a synergistic, bactericidal effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The combination inhibits bacterial DNA gyrase in addition to folate synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Trimethoprim converts the sulfonamide into an active bactericidal metabolite"
+        },
+        {
+          "label": "C",
+          "text": "The two drugs block sequential steps of the same folate pathway"
+        },
+        {
+          "label": "D",
+          "text": "Trimethoprim prevents efflux of the sulfonamide from the cell"
+        },
+        {
+          "label": "E",
+          "text": "Both drugs bind the 30S ribosomal subunit to halt protein synthesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The flowchart shows sulfonamides inhibiting dihydropteroate synthase and trimethoprim/pyrimethamine inhibiting dihydrofolate reductase, two consecutive steps leading to tetrahydrofolic acid. Blocking both steps sharply reduces THF for nucleotide and protein synthesis, converting two bacteriostatic agents into a bactericidal combination.",
+        "whyCorrect": "The flowchart shows sulfonamides inhibiting dihydropteroate synthase and trimethoprim/pyrimethamine inhibiting dihydrofolate reductase, two consecutive steps leading to tetrahydrofolic acid. Blocking both steps sharply reduces THF for nucleotide and protein synthesis, converting two bacteriostatic agents into a bactericidal combination.",
+        "whyWrongByChoice": {
+          "A": "Neither sulfonamides nor trimethoprim inhibit DNA gyrase, which is the target of fluoroquinolones; both act within the folate pathway.",
+          "B": "Trimethoprim does not metabolize the sulfonamide; each drug is independently active, and the synergy comes from blocking two consecutive enzymes.",
+          "D": "Trimethoprim has no effect on sulfonamide efflux; it inhibits dihydrofolate reductase one step downstream of the sulfonamide target.",
+          "E": "Neither drug binds the 30S ribosome; that is the target of aminoglycosides and tetracyclines, whereas this pair blocks folate synthesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-212_mi016_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-007",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "The serpentine, rope-like parallel arrangement of the stained bacilli shown is attributed to which virulence factor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cord factor"
+        },
+        {
+          "label": "B",
+          "text": "Lipoteichoic acid"
+        },
+        {
+          "label": "C",
+          "text": "Hyaluronic acid capsule"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcal protein A"
+        },
+        {
+          "label": "E",
+          "text": "Lipoarabinomannan"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cord factor (trehalose dimycolate) causes M. tuberculosis to grow in the characteristic serpentine cords seen here and is toxic to mammalian cells while inhibiting neutrophil migration.",
+        "whyCorrect": "Cord factor (trehalose dimycolate) causes M. tuberculosis to grow in the characteristic serpentine cords seen here and is toxic to mammalian cells while inhibiting neutrophil migration.",
+        "whyWrongByChoice": {
+          "B": "Lipoteichoic acid is a gram-positive cell-envelope polymer that triggers inflammation via TLR2; it is not the mycobacterial glycolipid that produces serpentine cording.",
+          "C": "A hyaluronic acid capsule is the antiphagocytic capsule of Streptococcus pyogenes, which is nonimmunogenic because it resembles host tissue; it does not arrange bacilli in cords.",
+          "D": "Protein A of S. aureus binds the Fc portion of IgG to block opsonization; it plays no role in the parallel cording of mycobacteria.",
+          "E": "Lipoarabinomannan is a mycobacterial cell-wall glycolipid that modulates macrophage responses and is detected in urine assays, but cording is attributed to trehalose dimycolate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-007_mi017_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-049",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This staining technique was used to visualize the pink bacilli shown against the blue background. What structural property of these bacteria makes this special stain necessary rather than a routine Gram stain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An unusually thick peptidoglycan layer"
+        },
+        {
+          "label": "B",
+          "text": "A thick polysaccharide capsule"
+        },
+        {
+          "label": "C",
+          "text": "A waxy, mycolic acid-rich cell wall"
+        },
+        {
+          "label": "D",
+          "text": "Presence of heat-resistant endospores"
+        },
+        {
+          "label": "E",
+          "text": "Complete absence of a cell wall"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mycobacteria have a lipid-rich, mycolic acid cell wall that will not take up the Gram stain, so the Ziehl-Neelsen (acid-fast) stain is required; retained pink color identifies acid-fast bacilli.",
+        "whyCorrect": "Mycobacteria have a lipid-rich, mycolic acid cell wall that will not take up the Gram stain, so the Ziehl-Neelsen (acid-fast) stain is required; retained pink color identifies acid-fast bacilli.",
+        "whyWrongByChoice": {
+          "A": "A thick peptidoglycan layer is what makes gram-positive bacteria retain crystal violet in the routine Gram stain, so it would not require a special stain.",
+          "B": "Capsules are shown with India ink or the Quellung reaction; the capsule does not prevent Gram staining or explain retention of carbol fuchsin after acid-alcohol.",
+          "D": "Endospores resist staining and are shown with malachite green (Schaeffer-Fulton); mycobacteria do not form spores, and their acid-fastness comes from mycolic acids.",
+          "E": "Organisms with no cell wall, such as Mycoplasma, are invisible on Gram stain and do not retain acid-fast stain, unlike these pink bacilli."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-049_mi017_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-050",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This selective slant medium is used to culture the pathogen. Approximately how long does colony growth typically take here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 24 hours"
+        },
+        {
+          "label": "B",
+          "text": "Several weeks"
+        },
+        {
+          "label": "C",
+          "text": "Two to three days"
+        },
+        {
+          "label": "D",
+          "text": "A few hours"
+        },
+        {
+          "label": "E",
+          "text": "Less than one hour"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mycobacterium tuberculosis is a very slow grower on Lowenstein-Jensen medium, with detection taking up to 10 days or several weeks, reflecting its long doubling time.",
+        "whyCorrect": "Mycobacterium tuberculosis is a very slow grower on Lowenstein-Jensen medium, with detection taking up to 10 days or several weeks, reflecting its long doubling time.",
+        "whyWrongByChoice": {
+          "A": "Growth in about 24 hours is typical of fast-growing pathogens such as E. coli or staphylococci, not M. tuberculosis with its doubling time of roughly 15-20 hours.",
+          "C": "Two to three days fits slower routine organisms or rapidly growing mycobacteria, but M. tuberculosis takes weeks to form visible colonies on Lowenstein-Jensen medium.",
+          "D": "Visible colonies never appear within a few hours for any clinical bacterium; M. tuberculosis is one of the slowest-growing pathogens cultured.",
+          "E": "No bacterium forms visible colonies within an hour; M. tuberculosis needs several weeks of incubation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-050_mi017_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-051",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "These rough, dry, buff-colored colonies with a waxy appearance are characteristic of which organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "E",
+          "text": "Neisseria meningitidis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The high mycolic acid content of the mycobacterial cell wall gives colonies their rough, waxy, buff appearance, distinct from the smooth colonies of typical bacteria.",
+        "whyCorrect": "The high mycolic acid content of the mycobacterial cell wall gives colonies their rough, waxy, buff appearance, distinct from the smooth colonies of typical bacteria.",
+        "whyWrongByChoice": {
+          "A": "Escherichia coli forms smooth, moist, gray colonies within a day, not dry, rough, buff, waxy colonies.",
+          "C": "Staphylococcus aureus forms smooth, glistening, golden colonies overnight, without the rough, dry, waxy texture caused by mycolic acids.",
+          "D": "Streptococcus pyogenes forms small, gray-white, beta-hemolytic colonies on blood agar, not rough, buff, waxy growth.",
+          "E": "Neisseria meningitidis forms smooth, moist, gray colonies on chocolate agar, unlike the dry, cauliflower-like mycobacterial colonies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-051_mi017_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-052",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This chest radiograph accompanies primary tuberculosis. Which radiographic feature is most characteristic of primary TB, especially in a child?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral upper-lobe cavitation"
+        },
+        {
+          "label": "B",
+          "text": "Calcified pleural plaques"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse fine miliary nodules"
+        },
+        {
+          "label": "D",
+          "text": "Lobar consolidation with air bronchograms"
+        },
+        {
+          "label": "E",
+          "text": "Hilar lymphadenopathy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Primary TB typically shows a peripheral parenchymal (Ghon) focus with prominent hilar lymphadenopathy, unlike the apical cavitation of reactivation disease.",
+        "whyCorrect": "Primary TB typically shows a peripheral parenchymal (Ghon) focus with prominent hilar lymphadenopathy, unlike the apical cavitation of reactivation disease.",
+        "whyWrongByChoice": {
+          "A": "Bilateral upper-lobe cavitation is typical of reactivation (secondary) TB in adults, where well-oxygenated apices favor bacillary growth, not of primary infection.",
+          "B": "Calcified pleural plaques are a marker of asbestos exposure, not a feature of primary tuberculosis.",
+          "C": "Diffuse fine miliary nodules indicate hematogenous dissemination; they can complicate primary TB but are not its most characteristic radiographic feature.",
+          "D": "Lobar consolidation with air bronchograms is the classic appearance of typical bacterial pneumonia such as pneumococcus, not the Ghon focus with hilar adenopathy of primary TB."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-052_mi017_f10.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-053",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This chest radiograph is from reactivation tuberculosis. In which lung zone do the cavitary lesions of reactivation TB characteristically appear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The costophrenic angles"
+        },
+        {
+          "label": "B",
+          "text": "Right middle lobe only"
+        },
+        {
+          "label": "C",
+          "text": "Upper lobes"
+        },
+        {
+          "label": "D",
+          "text": "The lingula"
+        },
+        {
+          "label": "E",
+          "text": "Lower lobes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Reactivation TB characteristically produces cavitary disease in the well-oxygenated apices/upper lobes of the lungs.",
+        "whyCorrect": "Reactivation TB characteristically produces cavitary disease in the well-oxygenated apices/upper lobes of the lungs.",
+        "whyWrongByChoice": {
+          "A": "The costophrenic angles are where pleural effusions blunt the lung base, not where reactivation TB cavitates; the bases are less oxygenated.",
+          "B": "The right middle lobe is not a preferred site of reactivation TB; disease there is classically from bronchial compression by enlarged nodes (middle lobe syndrome) rather than apical cavitation.",
+          "D": "The lingula is part of the left upper lobe but lies anteriorly and inferiorly; reactivation favors the apical and posterior upper-lobe segments.",
+          "E": "The lower lobes are typical for aspiration pneumonia and the primary Ghon focus, not reactivation TB, which favors the higher-oxygen apices."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-053_mi017_f11.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-054",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "The photograph shows administration of the tuberculin (PPD) skin test, which is read 48-72 hours later. A positive reaction represents which type of hypersensitivity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A non-immune irritant reaction"
+        },
+        {
+          "label": "B",
+          "text": "Type I (immediate, IgE-mediated)"
+        },
+        {
+          "label": "C",
+          "text": "Type II (antibody-mediated cytotoxic)"
+        },
+        {
+          "label": "D",
+          "text": "Type IV (delayed-type, cell-mediated)"
+        },
+        {
+          "label": "E",
+          "text": "Type III (immune-complex mediated)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A positive PPD is a type IV reaction: memory T cells sensitized by prior infection are recruited to the injection site, release cytokines, and cause induration over 48-72 hours.",
+        "whyCorrect": "A positive PPD is a type IV reaction: memory T cells sensitized by prior infection are recruited to the injection site, release cytokines, and cause induration over 48-72 hours.",
+        "whyWrongByChoice": {
+          "A": "A non-immune irritant reaction would appear in anyone exposed, including unsensitized people; PPD induration reflects antigen-specific memory T-cell responses.",
+          "B": "Type I hypersensitivity is IgE-mediated mast cell degranulation that produces a wheal within minutes, not induration peaking at 48-72 hours.",
+          "C": "Type II hypersensitivity involves antibodies binding fixed cell-surface antigens, as in hemolytic anemia; it does not explain delayed induration after intradermal antigen.",
+          "E": "Type III hypersensitivity is immune-complex deposition, like the Arthus reaction peaking at 4-12 hours, and is antibody- rather than T-cell-mediated."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-054_mi017_f15.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-141",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "The organized structure diagrammed here walls off the infection. Which immune process is primarily responsible for forming it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type III immune-complex deposition"
+        },
+        {
+          "label": "B",
+          "text": "Innate neutrophil-driven abscess formation"
+        },
+        {
+          "label": "C",
+          "text": "Cell-mediated (type IV) immunity"
+        },
+        {
+          "label": "D",
+          "text": "Type II antibody-mediated cytotoxicity"
+        },
+        {
+          "label": "E",
+          "text": "Type I immediate hypersensitivity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Granuloma formation is driven by cell-mediated (type IV) immunity: T cells recruit and organize macrophages (including multinucleated giant cells) around the infection, walling it off with central caseous necrosis.",
+        "whyCorrect": "Granuloma formation is driven by cell-mediated (type IV) immunity: T cells recruit and organize macrophages (including multinucleated giant cells) around the infection, walling it off with central caseous necrosis.",
+        "whyWrongByChoice": {
+          "A": "Type III immune-complex deposition causes vasculitis and glomerulonephritis by activating complement, not organized collections of macrophages and giant cells.",
+          "B": "Neutrophil-driven abscesses are liquefied pus cavities from acute pyogenic infection, not organized epithelioid macrophage aggregates with caseous centers.",
+          "D": "Type II cytotoxicity is antibody binding to cell-surface antigens with complement or ADCC-mediated destruction, not granuloma formation.",
+          "E": "Type I hypersensitivity is IgE-triggered mast cell degranulation producing immediate allergic responses, not the organization of macrophages around persistent antigen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-141_mi017_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-142",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This illustration depicts a peripheral lung lesion together with involved hilar lymph nodes. This combined finding is a hallmark of which stage of tuberculosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary (initial) infection"
+        },
+        {
+          "label": "B",
+          "text": "Progressive fibrocavitary disease"
+        },
+        {
+          "label": "C",
+          "text": "Reactivation (secondary) TB"
+        },
+        {
+          "label": "D",
+          "text": "Miliary dissemination"
+        },
+        {
+          "label": "E",
+          "text": "Latent infection with no visible lesion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The Ghon complex (a peripheral parenchymal Ghon focus plus caseating hilar nodes) develops during primary tuberculosis infection.",
+        "whyCorrect": "The Ghon complex (a peripheral parenchymal Ghon focus plus caseating hilar nodes) develops during primary tuberculosis infection.",
+        "whyWrongByChoice": {
+          "B": "Progressive fibrocavitary disease shows upper-lobe cavitation with fibrosis, not a small peripheral focus paired with hilar nodes.",
+          "C": "Reactivation TB arises in previously sensitized hosts and presents with apical cavitary lesions, usually without prominent hilar lymph node involvement.",
+          "D": "Miliary dissemination produces innumerable tiny nodules throughout the lungs from hematogenous spread, not a single peripheral lesion with hilar nodes.",
+          "E": "Latent infection may leave no visible lesion or only a calcified Ranke complex; the depicted active focus with involved hilar nodes is the primary Ghon complex."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-142_mi017_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-143",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This gross lung specimen shows innumerable small tan nodules scattered uniformly throughout the parenchyma. What mechanism produced this distribution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphatic spread limited to one hilum"
+        },
+        {
+          "label": "B",
+          "text": "Direct bronchial spread from a cavity"
+        },
+        {
+          "label": "C",
+          "text": "Contiguous extension from the pleura"
+        },
+        {
+          "label": "D",
+          "text": "Hematogenous dissemination of bacilli"
+        },
+        {
+          "label": "E",
+          "text": "Aspiration of gastric contents"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Miliary tuberculosis results when bacilli seed the bloodstream and disseminate widely, producing tiny nodules throughout the lungs and other organs.",
+        "whyCorrect": "Miliary tuberculosis results when bacilli seed the bloodstream and disseminate widely, producing tiny nodules throughout the lungs and other organs.",
+        "whyWrongByChoice": {
+          "A": "Lymphatic spread confined to one hilum would enlarge hilar nodes, not scatter innumerable uniform nodules throughout both lungs.",
+          "B": "Bronchial spread from a cavity produces patchy acinar or tree-in-bud nodules in dependent or adjacent segments, not a uniform millet-seed distribution.",
+          "C": "Contiguous pleural extension causes pleural thickening or effusion and subpleural disease, not nodules evenly distributed through the parenchyma.",
+          "E": "Aspiration of gastric contents causes chemical pneumonitis or dependent consolidation in the lower lobes or posterior upper lobes, not innumerable uniform tan nodules."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-143_mi017_f13.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-213",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This schematic shows the macrophage-driven immune response to the organism, with a cytokine activating NK cells and driving naive T cells toward a helper phenotype. What is the principal downstream consequence of this activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Large-scale antibody production by plasma cells"
+        },
+        {
+          "label": "B",
+          "text": "Mast cell degranulation and histamine release"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophil recruitment against helminths"
+        },
+        {
+          "label": "D",
+          "text": "Direct complement-mediated bacterial lysis"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced macrophage killing of intracellular bacteria"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "IL-12 from infected macrophages activates NK cells and drives Th1 differentiation; the resulting IFN-gamma activates macrophages to kill the intracellular mycobacteria, the core of cell-mediated defense.",
+        "whyCorrect": "IL-12 from infected macrophages activates NK cells and drives Th1 differentiation; the resulting IFN-gamma activates macrophages to kill the intracellular mycobacteria, the core of cell-mediated defense.",
+        "whyWrongByChoice": {
+          "A": "Large-scale antibody production by plasma cells is driven by Th2 and T follicular helper help, and antibodies are ineffective against bacilli hidden inside macrophages.",
+          "B": "Mast cell degranulation and histamine release reflect IgE-mediated type I responses, not IL-12-driven Th1 immunity.",
+          "C": "Eosinophil recruitment against helminths is a Th2 response mediated by IL-5, the opposite arm from the IL-12/IFN-gamma Th1 axis shown.",
+          "D": "Complement-mediated lysis requires membrane attack complex insertion into exposed outer membranes, and mycobacteria within macrophages are not cleared this way."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-213_mi017_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-214",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This overview schematic contrasts primary and secondary tuberculosis outcomes. In an immunocompetent person, what is the most common outcome after primary infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rapid miliary dissemination"
+        },
+        {
+          "label": "B",
+          "text": "Fatal tuberculous meningitis"
+        },
+        {
+          "label": "C",
+          "text": "Containment within a latent granuloma"
+        },
+        {
+          "label": "D",
+          "text": "Immediate cavitary disease"
+        },
+        {
+          "label": "E",
+          "text": "Complete sterilization within 24 hours"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In roughly 90% of immunocompetent patients, primary infection is contained within a latent granuloma, and the patient remains asymptomatic for years.",
+        "whyCorrect": "In roughly 90% of immunocompetent patients, primary infection is contained within a latent granuloma, and the patient remains asymptomatic for years.",
+        "whyWrongByChoice": {
+          "A": "Miliary dissemination is an uncommon outcome, seen mainly in infants, the elderly, or immunocompromised hosts, not the usual result in immunocompetent people.",
+          "B": "Tuberculous meningitis is a rare, severe complication of hematogenous spread, mostly in young children or immunocompromised patients, not the typical outcome.",
+          "D": "Cavitary disease is the hallmark of reactivation TB years later, not of primary infection in an immunocompetent host.",
+          "E": "Immune control takes weeks to develop, and viable bacilli persist in granulomas for years, so sterilization within 24 hours does not occur."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-214_mi017_f14.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-215",
+      "topicId": "mycobacterium-tuberculosis-and-mac",
+      "topicName": "Mycobacterium Tuberculosis and MAC",
+      "stem": "This three-panel schematic illustrates the reaction underlying a positive PPD test over 24-72 hours. Which cells are the principal mediators of the visible lesion that develops?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement proteins"
+        },
+        {
+          "label": "B",
+          "text": "IgE-armed mast cells"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophils forming pus"
+        },
+        {
+          "label": "D",
+          "text": "Sensitized T cells"
+        },
+        {
+          "label": "E",
+          "text": "Circulating antibodies"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The delayed-type (type IV) reaction is driven by sensitized T cells that recognize injected antigen and recruit macrophages, producing the palpable induration.",
+        "whyCorrect": "The delayed-type (type IV) reaction is driven by sensitized T cells that recognize injected antigen and recruit macrophages, producing the palpable induration.",
+        "whyWrongByChoice": {
+          "A": "Complement proteins mediate immune-complex and antibody-triggered injury, not the T-cell- and macrophage-driven induration of a delayed-type reaction.",
+          "B": "IgE-armed mast cells cause immediate wheal-and-flare reactions within minutes, not induration that develops over 48-72 hours.",
+          "C": "Neutrophils forming pus characterize acute pyogenic infection or Arthus reactions; the PPD lesion is a lymphocyte and macrophage infiltrate.",
+          "E": "Circulating antibodies mediate type I-III reactions; a positive PPD can occur without antibody and depends on sensitized T cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-215_mi017_f16.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

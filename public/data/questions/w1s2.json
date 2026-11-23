@@ -3,230 +3,45 @@
   "categoryName": "Session 2",
   "questions": [
     {
-      "id": "mipic-020",
-      "topicId": "gram-positive-and-negative-algorithms",
+      "id": "mipic-265",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
       "topicName": "Gram-Positive and Negative Algorithms",
-      "stem": "This Gram stain shows round purple organisms arranged in irregular grape-like clusters. Which genus does this arrangement suggest?",
+      "stem": "This Gram stain shows purple-staining cocci (arrows). Based on the stain and grouping pattern, which genus is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "Streptococcus"
+          "text": "Staphylococcus"
         },
         {
           "label": "B",
-          "text": "Bacillus"
+          "text": "Streptococcus"
         },
         {
           "label": "C",
-          "text": "Staphylococcus"
+          "text": "Vibrio"
         },
         {
           "label": "D",
           "text": "Neisseria"
-        },
-        {
-          "label": "E",
-          "text": "Clostridium"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Gram-positive cocci that bunch into grape-like clusters are characteristic of Staphylococcus, which divides in multiple planes. Streptococci form chains, Neisseria form diplococci, and Bacillus/Clostridium are rods.",
-        "whyCorrect": "Gram-positive cocci that bunch into grape-like clusters are characteristic of Staphylococcus, which divides in multiple planes. Streptococci form chains, Neisseria form diplococci, and Bacillus/Clostridium are rods.",
-        "whyWrongByChoice": {
-          "A": "Streptococci form chains or pairs because they divide in one plane, not grape-like clusters.",
-          "B": "Bacillus species are gram-positive rods, not round cocci.",
-          "D": "Neisseria are gram-negative diplococci that stain pink, not purple clusters.",
-          "E": "Clostridium species are gram-positive rods, often spore-forming, not cocci."
-        }
+        "summary": "Gram-positive (purple) cocci bunched in grape-like clusters are characteristic of Staphylococcus spp. Streptococci form pairs or chains; Neisseria are gram-negative diplococci.",
+        "whyCorrect": "Gram-positive (purple) cocci bunched in grape-like clusters are characteristic of Staphylococcus spp. Streptococci form pairs or chains; Neisseria are gram-negative diplococci.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-020_mi047_f02.png",
+      "imageRef": "mipic-265_brick_56_03.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-109",
-      "topicId": "gram-positive-and-negative-algorithms",
+      "id": "mipic-266",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
       "topicName": "Gram-Positive and Negative Algorithms",
-      "stem": "These white, dry, wrinkled colonies grew on Sabouraud dextrose agar. What type of organism is this medium designed to select for?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Anaerobic bacteria"
-        },
-        {
-          "label": "B",
-          "text": "Gram-negative bacilli"
-        },
-        {
-          "label": "C",
-          "text": "Spirochetes"
-        },
-        {
-          "label": "D",
-          "text": "Fungi"
-        },
-        {
-          "label": "E",
-          "text": "Mycobacteria"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Sabouraud dextrose agar uses an acidic pH plus antibiotics to inhibit bacteria and favor the growth of fungi such as Candida and Aspergillus.",
-        "whyCorrect": "Sabouraud dextrose agar uses an acidic pH plus antibiotics to inhibit bacteria and favor the growth of fungi such as Candida and Aspergillus.",
-        "whyWrongByChoice": {
-          "A": "Anaerobes are grown in anaerobic conditions on enriched media such as blood agar, not Sabouraud's acidic agar.",
-          "B": "Gram-negative bacilli are selected with media such as MacConkey or EMB; Sabouraud agar suppresses bacteria.",
-          "C": "Spirochetes are mostly diagnosed by serology or darkfield microscopy and do not grow on Sabouraud agar.",
-          "E": "Mycobacteria are cultured on Lowenstein-Jensen or Middlebrook media, not Sabouraud agar."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-109_mi047_f04.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-110",
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
-      "stem": "A rectal swab was plated on the two media shown; growth is abundant on the left plate but restricted to a specific organism on the right. What property of the right-hand medium explains this?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It is a nonselective enrichment broth"
-        },
-        {
-          "label": "B",
-          "text": "It is selective for Neisseria"
-        },
-        {
-          "label": "C",
-          "text": "It selects for fungi"
-        },
-        {
-          "label": "D",
-          "text": "It is purely differential"
-        },
-        {
-          "label": "E",
-          "text": "It supports all normal flora equally"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Thayer-Martin medium contains antibiotics that suppress normal flora and select for Neisseria gonorrhoeae, whereas the nonselective chocolate agar is overgrown by normal flora.",
-        "whyCorrect": "Thayer-Martin medium contains antibiotics that suppress normal flora and select for Neisseria gonorrhoeae, whereas the nonselective chocolate agar is overgrown by normal flora.",
-        "whyWrongByChoice": {
-          "A": "The right-hand medium restricts growth, so it cannot be a nonselective enrichment medium.",
-          "C": "Fungal selection uses Sabouraud agar; Thayer-Martin includes nystatin to suppress fungi.",
-          "D": "A purely differential medium distinguishes organisms by color but still lets them grow; this medium inhibits most flora.",
-          "E": "Supporting all flora equally describes a nonselective medium like the overgrown left plate."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-110_mi047_f05.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-111",
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
-      "stem": "This organism produced a distinctive bright metallic-green sheen on EMB agar. Which bacterium is classically identified by this appearance?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Proteus mirabilis"
-        },
-        {
-          "label": "B",
-          "text": "Salmonella enterica"
-        },
-        {
-          "label": "C",
-          "text": "Klebsiella pneumoniae"
-        },
-        {
-          "label": "D",
-          "text": "Escherichia coli"
-        },
-        {
-          "label": "E",
-          "text": "Pseudomonas aeruginosa"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Rapid, vigorous lactose fermentation by E. coli produces amines that bind the dyes, creating the characteristic green metallic sheen on EMB.",
-        "whyCorrect": "Rapid, vigorous lactose fermentation by E. coli produces amines that bind the dyes, creating the characteristic green metallic sheen on EMB.",
-        "whyWrongByChoice": {
-          "A": "Proteus is a non-lactose fermenter that gives colorless colonies and swarms on blood agar.",
-          "B": "Salmonella does not ferment lactose and produces colorless colonies with H2S on suitable media.",
-          "C": "Klebsiella ferments lactose but forms mucoid pink-purple colonies without the classic green metallic sheen.",
-          "E": "Pseudomonas is a non-lactose fermenter producing blue-green pigment and a grape-like odor, not metallic sheen on EMB."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-111_mi047_f11.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-112",
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
-      "stem": "This gram-positive algorithm sorts beta-hemolytic streptococci by antibiotic susceptibility. Sensitivity to which agent identifies Streptococcus pyogenes?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Novobiocin"
-        },
-        {
-          "label": "B",
-          "text": "Bacitracin"
-        },
-        {
-          "label": "C",
-          "text": "Optochin"
-        },
-        {
-          "label": "D",
-          "text": "Colistin"
-        },
-        {
-          "label": "E",
-          "text": "Vancomycin"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "S. pyogenes (Group A) is bacitracin sensitive, whereas S. agalactiae (Group B) is bacitracin resistant. Optochin and novobiocin are used for other organisms.",
-        "whyCorrect": "S. pyogenes (Group A) is bacitracin sensitive, whereas S. agalactiae (Group B) is bacitracin resistant. Optochin and novobiocin are used for other organisms.",
-        "whyWrongByChoice": {
-          "A": "Novobiocin distinguishes S. saprophyticus (resistant) from S. epidermidis (sensitive) among coagulase-negative staphylococci.",
-          "C": "Optochin sensitivity identifies S. pneumoniae among alpha-hemolytic streptococci.",
-          "D": "Colistin is a selective agent in some media and is not used to identify S. pyogenes.",
-          "E": "Vancomycin sensitivity is not used to separate beta-hemolytic streptococci; nearly all streptococci are susceptible."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-112_mi047_f12.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-113",
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
-      "stem": "In this test, one sample bubbles vigorously when mixed with hydrogen peroxide while the other does not. Which gram-positive genus corresponds to the bubbling (positive) result?",
+      "stem": "This Gram stain shows purple-staining cocci (arrow). Based on the stain and grouping pattern, which genus is most likely?",
       "choices": [
         {
           "label": "A",
@@ -234,7 +49,7 @@
         },
         {
           "label": "B",
-          "text": "Lactobacillus"
+          "text": "Neisseria"
         },
         {
           "label": "C",
@@ -242,35 +57,166 @@
         },
         {
           "label": "D",
-          "text": "Clostridium"
-        },
-        {
-          "label": "E",
-          "text": "Enterococcus"
+          "text": "Bacillus"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "Catalase-positive staphylococci break H2O2 into water and oxygen, producing bubbles; streptococci are catalase negative and produce none.",
-        "whyCorrect": "Catalase-positive staphylococci break H2O2 into water and oxygen, producing bubbles; streptococci are catalase negative and produce none.",
-        "whyWrongByChoice": {
-          "B": "Lactobacillus is catalase negative and would not bubble with hydrogen peroxide.",
-          "C": "Streptococcus is catalase negative, the classic contrast to staphylococci in this test.",
-          "D": "Clostridium species are obligate anaerobes and generally catalase negative.",
-          "E": "Enterococcus is catalase negative and does not produce bubbles."
-        }
+        "summary": "Gram-positive cocci arranged in short, single-file chains are characteristic of Streptococcus spp., in contrast to the grape-like clusters of Staphylococcus.",
+        "whyCorrect": "Gram-positive cocci arranged in short, single-file chains are characteristic of Streptococcus spp., in contrast to the grape-like clusters of Staphylococcus.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-113_mi047_f13.png",
+      "imageRef": "mipic-266_brick_56_04.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-114",
-      "topicId": "gram-positive-and-negative-algorithms",
+      "id": "mipic-267",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
       "topicName": "Gram-Positive and Negative Algorithms",
-      "stem": "A disk was placed on this blood agar plate; one half shows a clear zone of inhibition around the disk and the other grows up to it. If the disk contains optochin, which organism is represented by the zone of inhibition?",
+      "stem": "Which term describes the shape of the bacteria in this stained smear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacillus"
+        },
+        {
+          "label": "B",
+          "text": "Coccus"
+        },
+        {
+          "label": "C",
+          "text": "Spirochete"
+        },
+        {
+          "label": "D",
+          "text": "Vibrio"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "These organisms are rod-shaped ('like a hot dog'), which is the bacillus shape. Cocci are spherical, vibrios are curved/comma-shaped, spirilla are wavy, and spirochetes are tightly twisted like screw threads.",
+        "whyCorrect": "These organisms are rod-shaped ('like a hot dog'), which is the bacillus shape. Cocci are spherical, vibrios are curved/comma-shaped, spirilla are wavy, and spirochetes are tightly twisted like screw threads.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-267_brick_56_05.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-268",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "This Gram stain shows red-staining, curved, comma-shaped rods. Which genus is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neisseria"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus"
+        },
+        {
+          "label": "C",
+          "text": "Vibrio"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Gram-negative (pink/red) comma-shaped bacilli are characteristic of Vibrio spp. Neisseria are gram-negative diplococci; Streptococcus, Staphylococcus, and Clostridium are gram-positive.",
+        "whyCorrect": "Gram-negative (pink/red) comma-shaped bacilli are characteristic of Vibrio spp. Neisseria are gram-negative diplococci; Streptococcus, Staphylococcus, and Clostridium are gram-positive.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-268_brick_56_06.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-269",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "A vaginal swab is plated on an agar with an acidic pH and antibiotics that inhibit bacterial growth, and the yeast colonies shown grow. Which agar is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MacConkey agar"
+        },
+        {
+          "label": "B",
+          "text": "Sabouraud dextrose agar"
+        },
+        {
+          "label": "C",
+          "text": "Thayer-Martin agar"
+        },
+        {
+          "label": "D",
+          "text": "Mannitol salt agar"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sabouraud dextrose agar is selective for fungi such as Candida spp.: its acidic pH and antibiotics suppress bacterial normal flora, allowing fungal pathogens to be isolated from heavily colonized sites.",
+        "whyCorrect": "Sabouraud dextrose agar is selective for fungi such as Candida spp.: its acidic pH and antibiotics suppress bacterial normal flora, allowing fungal pathogens to be isolated from heavily colonized sites.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-269_brick_56_08.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-270",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "A rectal swab from a patient with suspected gonorrhea is cultured on two media. The left plate is overgrown, while the right plate grows only the target organism. Which property of the right-hand medium explains this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It contains 7.5% NaCl that inhibits most bacteria"
+        },
+        {
+          "label": "B",
+          "text": "It contains sheep's blood to show hemolysis"
+        },
+        {
+          "label": "C",
+          "text": "It is selective, with antibiotics that inhibit normal flora"
+        },
+        {
+          "label": "D",
+          "text": "It is differential, with a pH indicator for lactose"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Thayer-Martin agar is a selective medium: vancomycin inhibits gram-positives, colistin and trimethoprim inhibit most gram-negatives, and nystatin inhibits fungi, so Neisseria can be isolated from sites with heavy normal flora (rectum, pharynx, urethra). A non-selective chocolate plate is overrun by normal flora.",
+        "whyCorrect": "Thayer-Martin agar is a selective medium: vancomycin inhibits gram-positives, colistin and trimethoprim inhibit most gram-negatives, and nystatin inhibits fungi, so Neisseria can be isolated from sites with heavy normal flora (rectum, pharynx, urethra). A non-selective chocolate plate is overrun by normal flora.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-270_brick_56_09.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-271",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "Three streptococcal isolates are streaked on sheep blood agar. The upper-right streak produced a completely clear zone around its growth. Which organism is classically associated with this pattern?",
       "choices": [
         {
           "label": "A",
@@ -278,7 +224,7 @@
         },
         {
           "label": "B",
-          "text": "Staphylococcus aureus"
+          "text": "Streptococcus mutans"
         },
         {
           "label": "C",
@@ -287,773 +233,961 @@
         {
           "label": "D",
           "text": "Streptococcus pyogenes"
-        },
-        {
-          "label": "E",
-          "text": "Viridans streptococci"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "S. pneumoniae is optochin sensitive, producing a clear zone of inhibition, whereas viridans streptococci are optochin resistant and grow up to the disk.",
-        "whyCorrect": "S. pneumoniae is optochin sensitive, producing a clear zone of inhibition, whereas viridans streptococci are optochin resistant and grow up to the disk.",
-        "whyWrongByChoice": {
-          "B": "S. aureus is not identified with an optochin disk; it is catalase and coagulase positive.",
-          "C": "Enterococcus is optochin resistant and identified by bile esculin hydrolysis and growth in 6.5% NaCl.",
-          "D": "S. pyogenes is beta-hemolytic and identified by bacitracin sensitivity and PYR, not optochin.",
-          "E": "Viridans streptococci are optochin resistant, growing up to the disk, which is the half without a zone."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-114_mi047_f15.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-115",
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
-      "stem": "This gram-negative identification decision tree branches early on a single enzyme test. Which test distinguishes Pseudomonas from most Enterobacteriaceae here?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Catalase test"
-        },
-        {
-          "label": "B",
-          "text": "Optochin sensitivity"
-        },
-        {
-          "label": "C",
-          "text": "Bile solubility"
-        },
-        {
-          "label": "D",
-          "text": "Oxidase test"
-        },
-        {
-          "label": "E",
-          "text": "Coagulase test"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Pseudomonas is oxidase positive while most Enterobacteriaceae (E. coli, Shigella, Salmonella) are oxidase negative, making oxidase the key early branch.",
-        "whyCorrect": "Pseudomonas is oxidase positive while most Enterobacteriaceae (E. coli, Shigella, Salmonella) are oxidase negative, making oxidase the key early branch.",
-        "whyWrongByChoice": {
-          "A": "Catalase separates staphylococci from streptococci in the gram-positive algorithm, not Pseudomonas from Enterobacteriaceae.",
-          "B": "Optochin distinguishes S. pneumoniae from viridans streptococci, a gram-positive test.",
-          "C": "Bile solubility also identifies S. pneumoniae and is not used in the gram-negative algorithm.",
-          "E": "Coagulase identifies S. aureus among staphylococci and has no role in gram-negative identification."
-        }
+        "summary": "A clear zone means beta (complete) hemolysis, as seen with S. pyogenes. Alpha hemolysis (partial, greenish/brown) is typical of S. pneumoniae and the viridans streptococci; gamma (no hemolysis) is typical of Enterococcus faecalis.",
+        "whyCorrect": "A clear zone means beta (complete) hemolysis, as seen with S. pyogenes. Alpha hemolysis (partial, greenish/brown) is typical of S. pneumoniae and the viridans streptococci; gamma (no hemolysis) is typical of Enterococcus faecalis.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-115_mi047_f17.png",
+      "imageRef": "mipic-271_brick_56_11.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-116",
-      "topicId": "gram-positive-and-negative-algorithms",
+      "id": "mipic-272",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
       "topicName": "Gram-Positive and Negative Algorithms",
-      "stem": "In this assay, one filter-paper sample developed a dark blue-purple color while the other stayed pale. The blue color indicates the organism produces which enzyme?",
+      "stem": "This uninoculated slanted tube medium is used to identify gram-negative bacteria by fermentation of three sugars, gas production, and hydrogen sulfide production. What is it?",
       "choices": [
         {
           "label": "A",
-          "text": "Beta-lactamase"
+          "text": "Triple sugar iron agar"
         },
         {
           "label": "B",
-          "text": "Urease"
+          "text": "Mannitol salt agar"
         },
         {
           "label": "C",
-          "text": "Cytochrome c oxidase"
+          "text": "Urease broth"
         },
         {
           "label": "D",
-          "text": "Coagulase"
-        },
-        {
-          "label": "E",
-          "text": "Catalase"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "The oxidase reagent turns blue-purple when oxidized by cytochrome c oxidase, marking an oxidase-positive organism; a pale result is oxidase negative.",
-        "whyCorrect": "The oxidase reagent turns blue-purple when oxidized by cytochrome c oxidase, marking an oxidase-positive organism; a pale result is oxidase negative.",
-        "whyWrongByChoice": {
-          "A": "Beta-lactamase is detected with chromogenic cephalosporins such as nitrocefin, which turn red, not by oxidase reagent on filter paper.",
-          "B": "Urease is detected by a pink color change on urea agar from ammonia.",
-          "D": "Coagulase is shown by clot formation in plasma, not by a color change on filter paper.",
-          "E": "Catalase is shown by bubbling with hydrogen peroxide, not by a blue-purple color."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-116_mi047_f18.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-117",
-      "topicId": "staphylococci",
-      "topicName": "Staphylococci",
-      "stem": "This stained microscopy field shows purple, spherical bacteria arranged in irregular grape-like clusters. What does this staining reaction and arrangement indicate about the organism?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Gram-positive cocci in clusters (staphylococci)"
-        },
-        {
-          "label": "B",
-          "text": "Acid-fast bacilli"
-        },
-        {
-          "label": "C",
-          "text": "Gram-positive bacilli"
-        },
-        {
-          "label": "D",
-          "text": "Gram-positive cocci in chains (streptococci)"
-        },
-        {
-          "label": "E",
-          "text": "Gram-negative diplococci"
+          "text": "MacConkey agar"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Staphylococci retain the crystal violet stain (Gram-positive, purple) and, dividing in multiple planes, form the characteristic grape-like clusters seen here, distinguishing them from chain-forming streptococci and rod-shaped organisms.",
-        "whyCorrect": "Staphylococci retain the crystal violet stain (Gram-positive, purple) and, dividing in multiple planes, form the characteristic grape-like clusters seen here, distinguishing them from chain-forming streptococci and rod-shaped organisms.",
-        "whyWrongByChoice": {
-          "B": "Acid-fast bacilli are rods stained red with carbol fuchsin, not purple spherical clusters.",
-          "C": "Gram-positive bacilli are rods, whereas these organisms are spherical.",
-          "D": "Streptococci form chains or pairs, not irregular grape-like clusters.",
-          "E": "Gram-negative diplococci are pink and paired, not purple clusters."
-        }
+        "summary": "Triple sugar iron (TSI) agar contains glucose, lactose, and sucrose plus iron salts. Fermentation turns it yellow, gas causes bubbles or cracks, and H2S forms a black precipitate.",
+        "whyCorrect": "Triple sugar iron (TSI) agar contains glucose, lactose, and sucrose plus iron salts. Fermentation turns it yellow, gas causes bubbles or cracks, and H2S forms a black precipitate.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-117_mi048_f01.png",
+      "imageRef": "mipic-272_brick_56_12.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-118",
-      "topicId": "staphylococci",
-      "topicName": "Staphylococci",
-      "stem": "Hydrogen peroxide was applied to two bacterial samples; the upper sample generated abundant gas bubbles while the lower sample remained flat and bubble-free. Which enzyme activity does the bubbling sample demonstrate?",
+      "id": "mipic-273",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "A stool isolate from a patient with fever and diarrhea after eating undercooked chicken is a gram-negative bacillus that does not ferment lactose and is oxidase negative. It gives the TSI result shown. Which organism is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "Beta-lactamase activity"
+          "text": "Escherichia coli"
         },
         {
           "label": "B",
-          "text": "Urease activity"
+          "text": "Salmonella"
         },
         {
           "label": "C",
-          "text": "Catalase activity"
+          "text": "Shigella"
         },
         {
           "label": "D",
-          "text": "Coagulase activity"
-        },
-        {
-          "label": "E",
-          "text": "Oxidase activity"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Catalase converts hydrogen peroxide to water and oxygen; the visible oxygen bubbles mark a catalase-positive organism, which separates staphylococci from catalase-negative streptococci and enterococci.",
-        "whyCorrect": "Catalase converts hydrogen peroxide to water and oxygen; the visible oxygen bubbles mark a catalase-positive organism, which separates staphylococci from catalase-negative streptococci and enterococci.",
-        "whyWrongByChoice": {
-          "A": "Beta-lactamase activity is detected with chromogenic substrates such as nitrocefin, not by bubbles with peroxide.",
-          "B": "Urease activity is detected by color change on urea medium, not gas bubbles with hydrogen peroxide.",
-          "D": "Coagulase activity produces a clot in plasma, not bubbles.",
-          "E": "Oxidase activity produces a purple color on reagent paper, not oxygen bubbles."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-118_mi048_f02.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-119",
-      "topicId": "staphylococci",
-      "topicName": "Staphylococci",
-      "stem": "A student uses this branching chart to identify an unknown Gram-positive isolate, moving from one phenotypic test to the next until a species is reached. What laboratory approach does this chart represent?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A 16S rRNA gene sequencing algorithm"
-        },
-        {
-          "label": "B",
-          "text": "A colony pigment grading scale"
-        },
-        {
-          "label": "C",
-          "text": "A dichotomous key"
-        },
-        {
-          "label": "D",
-          "text": "Serotyping by antibody reactions"
-        },
-        {
-          "label": "E",
-          "text": "Antibiotic susceptibility (Kirby-Bauer) interpretation"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "The chart is a dichotomous identification key: each node is a phenotypic test (catalase, coagulase, novobiocin sensitivity) whose result branches the isolate toward a definitive species such as S. aureus, S. epidermidis, or S. saprophyticus.",
-        "whyCorrect": "The chart is a dichotomous identification key: each node is a phenotypic test (catalase, coagulase, novobiocin sensitivity) whose result branches the isolate toward a definitive species such as S. aureus, S. epidermidis, or S. saprophyticus.",
-        "whyWrongByChoice": {
-          "A": "16S rRNA sequencing is molecular identification and does not proceed through branching phenotypic tests.",
-          "B": "A pigment grading scale scores one trait and does not branch through sequential tests to a species.",
-          "D": "Serotyping uses antibodies against surface antigens, not a sequence of biochemical tests.",
-          "E": "Kirby-Bauer interpretation measures drug susceptibility zones and is not a species-identification flowchart."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-119_mi048_f03.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-120",
-      "topicId": "staphylococci",
-      "topicName": "Staphylococci",
-      "stem": "Arrows on this blood agar plate point to a zone of complete clearing of red blood cells around the colonies. What type of hemolysis is shown, and which staphylococcal species characteristically produces it?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Gamma-hemolysis, produced by S. aureus"
-        },
-        {
-          "label": "B",
-          "text": "Alpha-hemolysis, produced by S. pneumoniae"
-        },
-        {
-          "label": "C",
-          "text": "Beta-hemolysis, produced by S. aureus"
-        },
-        {
-          "label": "D",
-          "text": "Alpha-hemolysis, produced by S. epidermidis"
-        },
-        {
-          "label": "E",
-          "text": "Gamma-hemolysis (no hemolysis), produced by S. saprophyticus"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Complete lysis of erythrocytes leaving a clear, transparent zone is beta-hemolysis; among the common staphylococci only S. aureus is beta-hemolytic, giving another way to separate it from S. epidermidis and S. saprophyticus.",
-        "whyCorrect": "Complete lysis of erythrocytes leaving a clear, transparent zone is beta-hemolysis; among the common staphylococci only S. aureus is beta-hemolytic, giving another way to separate it from S. epidermidis and S. saprophyticus.",
-        "whyWrongByChoice": {
-          "A": "Gamma-hemolysis means no lysis, which contradicts the clear zone, though S. aureus is the right species.",
-          "B": "Alpha-hemolysis is green partial lysis, and S. pneumoniae is a streptococcus, not a staphylococcus.",
-          "D": "S. epidermidis is typically nonhemolytic, and the clear zone shown is complete (beta) hemolysis.",
-          "E": "S. saprophyticus is nonhemolytic, which does not match the complete clearing shown."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-120_mi048_f05.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-121",
-      "topicId": "staphylococci",
-      "topicName": "Staphylococci",
-      "stem": "Small paper disks soaked in different antibiotics were placed on a confluent bacterial lawn. Some disks are surrounded by clear zones while bacteria grow right up to others. How should a clear zone around a disk be interpreted?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "The organism is resistant to that antibiotic"
-        },
-        {
-          "label": "B",
-          "text": "The organism is susceptible to that antibiotic"
-        },
-        {
-          "label": "C",
-          "text": "The zone represents plate contamination"
-        },
-        {
-          "label": "D",
-          "text": "The bacteria are secreting that antibiotic"
-        },
-        {
-          "label": "E",
-          "text": "The disk contained no antibiotic"
+          "text": "Pseudomonas"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "In a disk-diffusion (Kirby-Bauer) assay, antibiotic diffuses outward from each disk; a clear zone of inhibited growth means the drug stopped the bacteria (susceptible), while growth reaching the disk edge means the organism is resistant.",
-        "whyCorrect": "In a disk-diffusion (Kirby-Bauer) assay, antibiotic diffuses outward from each disk; a clear zone of inhibited growth means the drug stopped the bacteria (susceptible), while growth reaching the disk edge means the organism is resistant.",
-        "whyWrongByChoice": {
-          "A": "Resistance is indicated by growth up to the disk edge, not a clear zone.",
-          "C": "Contamination would add unexpected colonies, not produce a symmetric clear zone around a disk.",
-          "D": "The antibiotic diffuses from the disk; the bacteria are not producing it.",
-          "E": "A blank disk would produce no zone, so a clear zone means the drug inhibited growth."
-        }
+        "summary": "The black butt shows H2S production. A lactose non-fermenting, oxidase-negative, H2S-positive gram-negative bacillus points to Salmonella (as in the brick's potluck case). Shigella is H2S negative, Pseudomonas is oxidase positive, and E. coli and Klebsiella ferment lactose.",
+        "whyCorrect": "The black butt shows H2S production. A lactose non-fermenting, oxidase-negative, H2S-positive gram-negative bacillus points to Salmonella (as in the brick's potluck case). Shigella is H2S negative, Pseudomonas is oxidase positive, and E. coli and Klebsiella ferment lactose.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-121_mi048_f10.png",
+      "imageRef": "mipic-273_brick_56_13.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-200",
-      "topicId": "cephalosporins",
-      "topicName": "Cephalosporins",
-      "stem": "The four-membered ring highlighted in red is the pharmacologically essential core of this cephalosporin. Resistant bacteria most commonly inactivate the drug by producing an enzyme that hydrolyzes this ring. What are those enzymes called?",
+      "id": "mipic-274",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "Five organisms were grown on TSI agar. What does the black color in the fourth tube from the left indicate?",
       "choices": [
         {
           "label": "A",
-          "text": "Aminoglycoside-modifying acetyltransferases"
+          "text": "Urease production"
         },
         {
           "label": "B",
-          "text": "DNA gyrase"
+          "text": "Gas production"
         },
         {
           "label": "C",
-          "text": "Penicillin-binding proteins"
+          "text": "Hydrogen sulfide production"
         },
         {
           "label": "D",
-          "text": "β-lactamases"
+          "text": "Lactose fermentation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "On TSI agar, H2S reacts with the iron salts to form ferrous sulfide, an insoluble black precipitate. Fermentation turns the medium yellow and gas production causes bubbles or cracks.",
+        "whyCorrect": "On TSI agar, H2S reacts with the iron salts to form ferrous sulfide, an insoluble black precipitate. Fermentation turns the medium yellow and gas production causes bubbles or cracks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-274_brick_56_14.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-275",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "Three staphylococcal sections of a high-salt agar are shown. What causes the yellow color around the S. aureus growth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lactose fermentation producing acid"
         },
         {
-          "label": "E",
-          "text": "Transpeptidases"
+          "label": "B",
+          "text": "Production of hydrogen sulfide"
+        },
+        {
+          "label": "C",
+          "text": "Beta hemolysis of red cells"
+        },
+        {
+          "label": "D",
+          "text": "Mannitol fermentation producing acid"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "The strained four-membered β-lactam ring is what covalently binds and inhibits transpeptidases. Bacteria resist β-lactam antibiotics chiefly by secreting β-lactamases, enzymes that cleave the amide bond of this ring and render the drug inactive.",
-        "whyCorrect": "The strained four-membered β-lactam ring is what covalently binds and inhibits transpeptidases. Bacteria resist β-lactam antibiotics chiefly by secreting β-lactamases, enzymes that cleave the amide bond of this ring and render the drug inactive.",
-        "whyWrongByChoice": {
-          "A": "Aminoglycoside-modifying enzymes inactivate aminoglycosides by acetylation, phosphorylation or adenylation; they do not act on beta-lactam rings.",
-          "B": "DNA gyrase is a topoisomerase targeted by fluoroquinolones, not an enzyme that degrades antibiotics.",
-          "C": "PBPs are the drug's targets, which the beta-lactam ring binds; they do not hydrolyze it.",
-          "E": "Transpeptidases are PBPs that build cross-links; they are inhibited by, not inactivating, the drug."
-        }
+        "summary": "On mannitol salt agar, 7.5% NaCl selects for staphylococci, and phenol red turns yellow when acid is produced by mannitol fermentation. S. aureus ferments mannitol; S. epidermidis and S. saprophyticus do not, so their area stays pink.",
+        "whyCorrect": "On mannitol salt agar, 7.5% NaCl selects for staphylococci, and phenol red turns yellow when acid is produced by mannitol fermentation. S. aureus ferments mannitol; S. epidermidis and S. saprophyticus do not, so their area stays pink.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-200_mi049_f02.png",
+      "imageRef": "mipic-275_brick_56_15.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-244",
-      "topicId": "cephalosporins",
-      "topicName": "Cephalosporins",
-      "stem": "This schematic depicts the layered bacterial envelope in which alternating sugar subunits are joined into a rigid meshwork that protects the cell from osmotic lysis. Formation of which bonds within this structure is the step blocked by cephalosporins?",
+      "id": "mipic-276",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "Gram-negative bacilli are streaked on an agar containing bile salts, crystal violet, lactose, and neutral red. Colonies on the left are pink. Which agar is this?",
       "choices": [
         {
           "label": "A",
-          "text": "Disulfide bonds between membrane proteins"
+          "text": "Mannitol salt agar"
         },
         {
           "label": "B",
-          "text": "Hydrogen bonds stabilizing the lipid bilayer"
+          "text": "Eosin methylene blue agar"
         },
         {
           "label": "C",
-          "text": "Glycosidic bonds between the sugar backbone"
+          "text": "Thayer-Martin agar"
         },
         {
           "label": "D",
-          "text": "Phosphodiester bonds in the plasma membrane"
-        },
-        {
-          "label": "E",
-          "text": "Peptide cross-links formed by transpeptidation"
+          "text": "MacConkey agar"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "The rigidity of the peptidoglycan wall comes from transpeptidase (penicillin-binding protein) enzymes cross-linking adjacent peptide chains that dangle from the NAM-NAG sugar backbone. Cephalosporins are structural analogs of the D-Ala-D-Ala substrate and covalently inhibit these transpeptidases, halting cross-linking so the growing cell lyses.",
-        "whyCorrect": "The rigidity of the peptidoglycan wall comes from transpeptidase (penicillin-binding protein) enzymes cross-linking adjacent peptide chains that dangle from the NAM-NAG sugar backbone. Cephalosporins are structural analogs of the D-Ala-D-Ala substrate and covalently inhibit these transpeptidases, halting cross-linking so the growing cell lyses.",
-        "whyWrongByChoice": {
-          "A": "Disulfide bonds between membrane proteins are not formed in peptidoglycan cross-linking and are not targeted by cephalosporins.",
-          "B": "Hydrogen bonds in the lipid bilayer are not a cephalosporin target.",
-          "C": "Glycosidic bonds of the NAM-NAG backbone are formed by transglycosylases and cleaved by lysozyme; cephalosporins block peptide cross-linking.",
-          "D": "Phosphodiester bonds are in nucleic acids and phospholipid head groups, not the peptidoglycan cross-links cephalosporins block."
-        }
+        "summary": "MacConkey agar is selective (bile salts and crystal violet inhibit gram-positives) and differential (lactose plus neutral red): lactose fermenters turn pink, non-fermenters stay colorless.",
+        "whyCorrect": "MacConkey agar is selective (bile salts and crystal violet inhibit gram-positives) and differential (lactose plus neutral red): lactose fermenters turn pink, non-fermenters stay colorless.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-244_mi049_f01.png",
+      "imageRef": "mipic-276_brick_56_16.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-201",
-      "topicId": "carbapenems",
-      "topicName": "Carbapenems",
-      "stem": "The structure shown in the lower-right quadrant of this comparison differs from the other three antibiotic classes depicted. What structural property distinguishes it?",
+      "id": "mipic-277",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "Gram-negative bacilli grow on eosin methylene blue (EMB) agar with the bright metallic green sheen shown. Which organism is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "Its beta-lactam ring is monocyclic, not fused to a second ring"
+          "text": "Pseudomonas"
         },
         {
           "label": "B",
-          "text": "It has a five-membered thiazolidine ring fused to the beta-lactam"
+          "text": "Salmonella"
         },
         {
           "label": "C",
-          "text": "It lacks a beta-lactam ring entirely and acts as a glycopeptide"
+          "text": "Escherichia coli"
         },
         {
           "label": "D",
-          "text": "It contains a six-membered dihydrothiazine ring fused to the beta-lactam"
-        },
-        {
-          "label": "E",
-          "text": "It replaces the beta-lactam ring sulfur with a carbon atom"
+          "text": "Klebsiella pneumoniae"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "Monobactams (lower right) are the only class shown with a solitary, monocyclic beta-lactam ring not fused to a second ring. Penicillins have a fused thiazolidine ring, cephalosporins a fused dihydrothiazine ring, and carbapenems a fused carbon-containing ring. This monocyclic structure underlies aztreonam's minimal cross-reactivity with penicillins.",
-        "whyCorrect": "Monobactams (lower right) are the only class shown with a solitary, monocyclic beta-lactam ring not fused to a second ring. Penicillins have a fused thiazolidine ring, cephalosporins a fused dihydrothiazine ring, and carbapenems a fused carbon-containing ring. This monocyclic structure underlies aztreonam's minimal cross-reactivity with penicillins.",
-        "whyWrongByChoice": {
-          "B": "A fused five-membered thiazolidine ring defines penicillins, not the monocyclic structure in the lower right.",
-          "C": "The highlighted structure still contains a beta-lactam ring; glycopeptides such as vancomycin are entirely different molecules.",
-          "D": "A fused six-membered dihydrothiazine ring defines cephalosporins.",
-          "E": "Replacing the sulfur with carbon in a fused ring describes carbapenems, which remain bicyclic."
-        }
+        "summary": "On EMB agar, lactose fermenters stain purple to black, but E. coli is the classic exception: its rapid lactose fermentation produces a distinctive metallic green sheen.",
+        "whyCorrect": "On EMB agar, lactose fermenters stain purple to black, but E. coli is the classic exception: its rapid lactose fermentation produces a distinctive metallic green sheen.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-201_mi050_f01.png",
+      "imageRef": "mipic-277_brick_56_17.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-202",
-      "topicId": "carbapenems",
-      "topicName": "Carbapenems",
-      "stem": "Of the three adverse reactions illustrated here for carbapenems and monobactams, the central one is most likely to occur with which specific agent, particularly in renal impairment?",
+      "id": "mipic-278",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "Klebsiella pneumoniae is grown on eosin methylene blue (EMB) agar, producing the dark purple colonies shown. What do these colonies indicate about the organism?",
       "choices": [
         {
           "label": "A",
-          "text": "Aztreonam"
+          "text": "It is gram-positive"
         },
         {
           "label": "B",
-          "text": "Imipenem/cilastatin"
+          "text": "It ferments lactose"
         },
         {
           "label": "C",
-          "text": "Meropenem"
+          "text": "It produces hydrogen sulfide"
         },
         {
           "label": "D",
-          "text": "Ertapenem"
-        },
-        {
-          "label": "E",
-          "text": "Doripenem"
+          "text": "It ferments mannitol"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "The central panel depicts seizures. Carbapenems can lower the seizure threshold, but the risk is greatest with imipenem/cilastatin, especially at high doses or when drug accumulates due to renal impairment. Meropenem is preferred clinically because of its lower seizure risk.",
-        "whyCorrect": "The central panel depicts seizures. Carbapenems can lower the seizure threshold, but the risk is greatest with imipenem/cilastatin, especially at high doses or when drug accumulates due to renal impairment. Meropenem is preferred clinically because of its lower seizure risk.",
-        "whyWrongByChoice": {
-          "A": "Aztreonam is a monobactam not known for seizures; its main concerns are rash and GI effects.",
-          "C": "Meropenem has a lower seizure propensity and is preferred over imipenem for CNS infections.",
-          "D": "Ertapenem can cause seizures with accumulation but less often than imipenem/cilastatin.",
-          "E": "Doripenem has a seizure risk comparable to meropenem, not the class-leading risk of imipenem."
-        }
+        "summary": "EMB agar inhibits most gram-positive bacteria and contains lactose. Acid from lactose fermentation reacts with eosin Y and methylene blue, turning colonies purple or black, as with Klebsiella (a fast lactose fermenter).",
+        "whyCorrect": "EMB agar inhibits most gram-positive bacteria and contains lactose. Acid from lactose fermentation reacts with eosin Y and methylene blue, turning colonies purple or black, as with Klebsiella (a fast lactose fermenter).",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-202_mi050_f03.png",
+      "imageRef": "mipic-278_brick_56_18.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-245",
-      "topicId": "carbapenems",
-      "topicName": "Carbapenems",
-      "stem": "This schematic of the bacterial cell envelope highlights an enzyme acting between the NAG-NAM glycan strands. What is the direct consequence when beta-lactams bind that enzyme?",
+      "id": "mipic-279",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "Gram-positive cocci are mixed with hydrogen peroxide on a slide; the right sample bubbles and the left does not. This test is used mainly to distinguish which two genera?",
       "choices": [
         {
           "label": "A",
-          "text": "Peptidoglycan cross-links fail to form"
+          "text": "Escherichia from Klebsiella"
         },
         {
           "label": "B",
-          "text": "Ribosomal protein synthesis is halted at the 50S subunit"
+          "text": "Clostridium from Bacillus"
         },
         {
           "label": "C",
-          "text": "The plasma membrane becomes permeable to protons"
+          "text": "Staphylococcus from Streptococcus"
         },
         {
           "label": "D",
-          "text": "The 30S ribosomal subunit is blocked, causing misreading"
-        },
-        {
-          "label": "E",
-          "text": "DNA gyrase is inhibited, blocking chromosome replication"
+          "text": "Neisseria from Moraxella"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "The enzyme shown (a penicillin-binding protein) is a transpeptidase that cross-links adjacent NAM-NAG peptidoglycan strands. Beta-lactams irreversibly inhibit it, so without cross-linking the wall cannot withstand osmotic pressure and the growing bacterium lyses.",
-        "whyCorrect": "The enzyme shown (a penicillin-binding protein) is a transpeptidase that cross-links adjacent NAM-NAG peptidoglycan strands. Beta-lactams irreversibly inhibit it, so without cross-linking the wall cannot withstand osmotic pressure and the growing bacterium lyses.",
-        "whyWrongByChoice": {
-          "B": "Halting protein synthesis at the 50S subunit is how macrolides, clindamycin and linezolid act, not beta-lactams.",
-          "C": "Increased membrane permeability is the action of daptomycin or polymyxins, not PBP inhibition.",
-          "D": "Blocking the 30S subunit and causing misreading is the aminoglycoside mechanism.",
-          "E": "DNA gyrase inhibition is the fluoroquinolone mechanism."
-        }
+        "summary": "Catalase breaks H2O2 into water and oxygen (bubbles). All Staphylococcus spp. are catalase positive and all Streptococcus spp. are catalase negative.",
+        "whyCorrect": "Catalase breaks H2O2 into water and oxygen (bubbles). All Staphylococcus spp. are catalase positive and all Streptococcus spp. are catalase negative.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-245_mi050_f02.png",
+      "imageRef": "mipic-279_brick_56_20.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-246",
-      "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin",
-      "stem": "This diagram traces the transport and assembly of peptidoglycan units across the bacterial membrane. Which step in this pathway does bacitracin inhibit?",
+      "id": "mipic-280",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "Staphylococcal isolates are mixed with serum; the upper tube forms a clot and the lower tube does not. Which organism produced the result in the upper tube?",
       "choices": [
         {
           "label": "A",
-          "text": "Addition of new sugar units by transglycosylase"
+          "text": "Staphylococcus saprophyticus"
         },
         {
           "label": "B",
-          "text": "Cross-linking of peptide chains by transpeptidase"
+          "text": "Streptococcus pyogenes"
         },
         {
           "label": "C",
-          "text": "Binding of the D-alanyl-D-alanine terminus"
-        },
-        {
-          "label": "D",
-          "text": "Autolysin-mediated remodeling at the growth point"
-        },
-        {
-          "label": "E",
-          "text": "Dephosphorylation/regeneration of the bactoprenol lipid carrier"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Bacitracin blocks the recycling of the bactoprenol (lipid) carrier, so NAM cannot be joined to it and no new peptidoglycan subunits are transported to the wall. This is an early step, distinct from vancomycin's later D-Ala-D-Ala binding and from the transpeptidase cross-linking targeted by beta-lactams.",
-        "whyCorrect": "Bacitracin blocks the recycling of the bactoprenol (lipid) carrier, so NAM cannot be joined to it and no new peptidoglycan subunits are transported to the wall. This is an early step, distinct from vancomycin's later D-Ala-D-Ala binding and from the transpeptidase cross-linking targeted by beta-lactams.",
-        "whyWrongByChoice": {
-          "A": "Transglycosylation of new sugar units is blocked by vancomycin binding the precursor, not by bacitracin.",
-          "B": "Transpeptidase cross-linking is the target of beta-lactams.",
-          "C": "Binding the D-Ala-D-Ala terminus is vancomycin's mechanism.",
-          "D": "Autolysins remodel the wall and are activated downstream of beta-lactams; bacitracin acts on the lipid carrier."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "mipic-246_mi051_f02.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "mipic-122",
-      "topicId": "penicillins",
-      "topicName": "Penicillins",
-      "stem": "This colonic finding developed after broad-spectrum penicillin therapy. Which organism is responsible?",
-      "choices": [
-        {
-          "label": "A",
           "text": "Staphylococcus aureus"
         },
         {
-          "label": "B",
-          "text": "Shigella dysenteriae"
-        },
-        {
-          "label": "C",
-          "text": "Salmonella enterica"
-        },
-        {
           "label": "D",
-          "text": "Escherichia coli O157:H7"
-        },
-        {
-          "label": "E",
-          "text": "Clostridioides difficile"
+          "text": "Staphylococcus epidermidis"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "Antibiotic-associated pseudomembranous colitis results from overgrowth of toxin-producing C. difficile spores after normal flora is disrupted; the yellow-white plaques are the pseudomembranes.",
-        "whyCorrect": "Antibiotic-associated pseudomembranous colitis results from overgrowth of toxin-producing C. difficile spores after normal flora is disrupted; the yellow-white plaques are the pseudomembranes.",
-        "whyWrongByChoice": {
-          "A": "S. aureus can cause enterocolitis, but pseudomembranous colitis after antibiotics is characteristically C. difficile.",
-          "B": "Shigella causes dysentery with mucosal ulceration after fecal-oral exposure, not pseudomembranes after antibiotics.",
-          "C": "Salmonella causes gastroenteritis or typhoid from food exposure, not antibiotic-associated pseudomembranes.",
-          "D": "E. coli O157:H7 causes hemorrhagic colitis and HUS from undercooked beef, not pseudomembranous colitis."
-        }
+        "summary": "Coagulase converts fibrinogen in serum to fibrin, forming a clot. Among the staphylococci, only S. aureus is coagulase positive.",
+        "whyCorrect": "Coagulase converts fibrinogen in serum to fibrin, forming a clot. Among the staphylococci, only S. aureus is coagulase positive.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-122_mi000_f03.png",
+      "imageRef": "mipic-280_brick_56_21.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-123",
-      "topicId": "penicillins",
-      "topicName": "Penicillins",
-      "stem": "A patient given aminopenicillin develops this widespread maculopapular eruption. Concurrent infection with which condition classically precipitates it?",
+      "id": "mipic-281",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "Two alpha-hemolytic streptococci are tested on blood agar with an antibiotic disk. The isolate on the right shows a clear ring of no growth around its disk. Which organism is it?",
       "choices": [
         {
           "label": "A",
-          "text": "Influenza A"
+          "text": "Viridans streptococci"
         },
         {
           "label": "B",
-          "text": "Primary HIV infection"
+          "text": "Streptococcus pyogenes"
         },
         {
           "label": "C",
-          "text": "Streptococcal pharyngitis"
+          "text": "Streptococcus agalactiae"
         },
         {
           "label": "D",
-          "text": "Infectious mononucleosis"
-        },
-        {
-          "label": "E",
-          "text": "Acute hepatitis B"
+          "text": "Streptococcus pneumoniae"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Ampicillin or amoxicillin given during EBV mononucleosis produces a characteristic non-allergic maculopapular rash; it does not indicate a true penicillin allergy.",
-        "whyCorrect": "Ampicillin or amoxicillin given during EBV mononucleosis produces a characteristic non-allergic maculopapular rash; it does not indicate a true penicillin allergy.",
-        "whyWrongByChoice": {
-          "A": "Influenza does not classically trigger an aminopenicillin rash.",
-          "B": "Primary HIV infection can cause its own rash but is not the classic precipitant of the ampicillin eruption.",
-          "C": "Streptococcal pharyngitis is often the mistaken diagnosis that leads to amoxicillin; the rash reflects underlying EBV infection.",
-          "E": "Acute hepatitis B can cause a serum sickness-like prodrome but is not linked to the aminopenicillin rash."
-        }
+        "summary": "With an optochin disk, a zone of no growth means susceptibility. S. pneumoniae is optochin sensitive, while viridans streptococci are optochin resistant and grow up to the disk.",
+        "whyCorrect": "With an optochin disk, a zone of no growth means susceptibility. S. pneumoniae is optochin sensitive, while viridans streptococci are optochin resistant and grow up to the disk.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-123_mi000_f04.png",
+      "imageRef": "mipic-281_brick_56_22.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-188",
-      "topicId": "penicillins",
-      "topicName": "Penicillins",
-      "stem": "The highlighted four-membered ring in this core antibiotic structure allows the drug to act as a structural analogue of which bacterial cell-wall substrate?",
+      "id": "mipic-282",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "An alpha-hemolytic streptococcal isolate is mixed with bile salt solution, and the medium clears, as in the left vial. Which organism is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "N-acetylmuramic acid"
+          "text": "Streptococcus pneumoniae"
         },
         {
           "label": "B",
-          "text": "D-glutamyl-D-glutamate"
+          "text": "Viridans streptococci"
         },
         {
           "label": "C",
-          "text": "L-lysyl-L-lysine"
+          "text": "Streptococcus gallolyticus"
         },
         {
           "label": "D",
-          "text": "meso-diaminopimelic acid"
-        },
-        {
-          "label": "E",
-          "text": "D-Alanyl-D-alanine"
+          "text": "Enterococcus faecalis"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "The strained beta-lactam ring mimics the D-Ala-D-Ala terminus of the peptidoglycan pentapeptide, letting penicillin covalently bind and irreversibly inhibit transpeptidase (PBP).",
-        "whyCorrect": "The strained beta-lactam ring mimics the D-Ala-D-Ala terminus of the peptidoglycan pentapeptide, letting penicillin covalently bind and irreversibly inhibit transpeptidase (PBP).",
-        "whyWrongByChoice": {
-          "A": "N-acetylmuramic acid is a glycan sugar that carries the peptide side chain; it is not what the beta-lactam ring mimics.",
-          "B": "D-glutamyl-D-glutamate is not the peptidoglycan terminus recognized by transpeptidases.",
-          "C": "L-lysyl-L-lysine is not the substrate imitated by the beta-lactam ring.",
-          "D": "meso-Diaminopimelic acid is a stem-peptide residue in gram-negative peptidoglycan, not the terminal D-Ala-D-Ala that PBPs bind."
-        }
+        "summary": "Clearing means the bacteria were lysed (bile soluble), which is characteristic of S. pneumoniae. Viridans streptococci, S. gallolyticus (formerly S. bovis), and Enterococcus resist bile and leave the medium cloudy.",
+        "whyCorrect": "Clearing means the bacteria were lysed (bile soluble), which is characteristic of S. pneumoniae. Viridans streptococci, S. gallolyticus (formerly S. bovis), and Enterococcus resist bile and leave the medium cloudy.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-188_mi000_f01.png",
+      "imageRef": "mipic-282_brick_56_23.jpg",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "mipic-189",
-      "topicId": "penicillins",
-      "topicName": "Penicillins",
-      "stem": "These four illustrated panels summarize the principal adverse-effect categories of which antibiotic class?",
+      "id": "mipic-283",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "Gram-negative bacilli are applied to filter paper with a reagent; the right sample turns blue-purple. Which organism is classically positive on this test, unlike E. coli, Shigella, and Salmonella?",
       "choices": [
         {
           "label": "A",
-          "text": "Aminoglycosides"
+          "text": "Klebsiella"
         },
         {
           "label": "B",
-          "text": "Fluoroquinolones"
+          "text": "Proteus"
         },
         {
           "label": "C",
-          "text": "Tetracyclines"
+          "text": "Pseudomonas"
         },
         {
           "label": "D",
-          "text": "Macrolides"
-        },
-        {
-          "label": "E",
-          "text": "Penicillins"
+          "text": "Enterobacter"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "Hypersensitivity reactions, diarrhea/C. difficile colitis, interstitial nephritis, and hematologic toxicities are the classic adverse effects associated with penicillin-class beta-lactam therapy.",
-        "whyCorrect": "Hypersensitivity reactions, diarrhea/C. difficile colitis, interstitial nephritis, and hematologic toxicities are the classic adverse effects associated with penicillin-class beta-lactam therapy.",
-        "whyWrongByChoice": {
-          "A": "Aminoglycosides are known for nephrotoxicity, ototoxicity and neuromuscular blockade, not hypersensitivity and hemolysis.",
-          "B": "Fluoroquinolones are known for tendinopathy, QT prolongation, CNS effects and cartilage damage.",
-          "C": "Tetracyclines cause tooth discoloration, photosensitivity and esophagitis.",
-          "D": "Macrolides cause GI motility upset, QT prolongation and CYP3A4 interactions."
-        }
+        "summary": "The oxidase test detects cytochrome c oxidase, which turns the reagent blue or dark purple. Pseudomonas spp. are oxidase positive, while most Enterobacteriaceae are oxidase negative.",
+        "whyCorrect": "The oxidase test detects cytochrome c oxidase, which turns the reagent blue or dark purple. Pseudomonas spp. are oxidase positive, while most Enterobacteriaceae are oxidase negative.",
+        "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "mipic-189_mi000_f05.png",
+      "imageRef": "mipic-283_brick_56_25.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-284",
+      "topicId": "staphylococci-2026",
+      "topicName": "Staphylococci",
+      "stem": "A Gram stain of a skin abscess aspirate shows the organisms pictured. Which genus is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria"
+        },
+        {
+          "label": "C",
+          "text": "Enterococcus"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Staphylococci are gram-positive (purple) spherical cocci that cluster together like bunches of grapes. Streptococci and enterococci are also gram-positive cocci but form chains or pairs, Neisseria are gram-negative diplococci, and Clostridium are gram-positive rods.",
+        "whyCorrect": "Staphylococci are gram-positive (purple) spherical cocci that cluster together like bunches of grapes. Streptococci and enterococci are also gram-positive cocci but form chains or pairs, Neisseria are gram-negative diplococci, and Clostridium are gram-positive rods.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-284_brick_57_01.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-285",
+      "topicId": "staphylococci-2026",
+      "topicName": "Staphylococci",
+      "stem": "A gram-positive coccus isolate produces the reaction in the top slide when mixed with hydrogen peroxide. This result separates staphylococci from which organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S. epidermidis and S. saprophyticus"
+        },
+        {
+          "label": "B",
+          "text": "Streptococci and enterococci"
+        },
+        {
+          "label": "C",
+          "text": "Bacillus and Clostridium"
+        },
+        {
+          "label": "D",
+          "text": "Neisseria and Moraxella"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bubbling (O2 release) on adding H2O2 is a positive catalase test. All staphylococci are catalase positive, which distinguishes them from catalase-negative Streptococcus and Enterococcus species. It does not separate staphylococcal species from one another.",
+        "whyCorrect": "Bubbling (O2 release) on adding H2O2 is a positive catalase test. All staphylococci are catalase positive, which distinguishes them from catalase-negative Streptococcus and Enterococcus species. It does not separate staphylococcal species from one another.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-285_brick_57_02.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-286",
+      "topicId": "staphylococci-2026",
+      "topicName": "Staphylococci",
+      "stem": "A catalase-positive, gram-positive coccus in clusters grows on blood agar with the clear zone around the colonies shown (arrows). Which staphylococcal species is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus hominis"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus epidermidis"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus saprophyticus"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The pale, clear zone around the colonies is beta-hemolysis (complete lysis of red cells). Among the clinically important staphylococci, only S. aureus is beta-hemolytic; S. epidermidis and S. saprophyticus are gamma (non)-hemolytic.",
+        "whyCorrect": "The pale, clear zone around the colonies is beta-hemolysis (complete lysis of red cells). Among the clinically important staphylococci, only S. aureus is beta-hemolytic; S. epidermidis and S. saprophyticus are gamma (non)-hemolytic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-286_brick_57_04.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-287",
+      "topicId": "staphylococci-2026",
+      "topicName": "Staphylococci",
+      "stem": "Staphylococci are streaked on a high-salt selective medium. The S. aureus sector turns the medium yellow while the other sector stays pink. What property does the yellow color change reflect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mannitol fermentation"
+        },
+        {
+          "label": "B",
+          "text": "Coagulase production"
+        },
+        {
+          "label": "C",
+          "text": "Novobiocin resistance"
+        },
+        {
+          "label": "D",
+          "text": "Catalase production"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mannitol salt agar (7.5% NaCl) is selective for staphylococci. S. aureus ferments mannitol and turns the agar yellow; other staphylococci such as S. epidermidis do not ferment mannitol and leave the medium pink/red.",
+        "whyCorrect": "Mannitol salt agar (7.5% NaCl) is selective for staphylococci. S. aureus ferments mannitol and turns the agar yellow; other staphylococci such as S. epidermidis do not ferment mannitol and leave the medium pink/red.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-287_brick_57_05.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-288",
+      "topicId": "staphylococci-2026",
+      "topicName": "Staphylococci",
+      "stem": "A neonate develops widespread erythema with sheets of superficial skin peeling and denuded areas, as shown. Which organism and virulence factor are most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S. aureus exfoliatin (exfoliative toxin)"
+        },
+        {
+          "label": "B",
+          "text": "S. epidermidis biofilm"
+        },
+        {
+          "label": "C",
+          "text": "S. aureus enterotoxin"
+        },
+        {
+          "label": "D",
+          "text": "S. aureus TSST-1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is staphylococcal scalded-skin syndrome. S. aureus exfoliatin cleaves desmoglein-1 in desmosomes, producing a split just below the stratum corneum; the same toxin underlies bullous impetigo. TSST-1 causes toxic shock syndrome and enterotoxin causes food poisoning.",
+        "whyCorrect": "This is staphylococcal scalded-skin syndrome. S. aureus exfoliatin cleaves desmoglein-1 in desmosomes, producing a split just below the stratum corneum; the same toxin underlies bullous impetigo. TSST-1 causes toxic shock syndrome and enterotoxin causes food poisoning.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-288_brick_57_07.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-289",
+      "topicId": "staphylococci-2026",
+      "topicName": "Staphylococci",
+      "stem": "The diagram shows a toxin bridging MHC class II and the T-cell receptor outside the antigen-binding groove, triggering massive cytokine release. Which S. aureus toxin acts this way and causes a tampon-associated shock syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Protein A"
+        },
+        {
+          "label": "B",
+          "text": "Coagulase"
+        },
+        {
+          "label": "C",
+          "text": "TSST-1"
+        },
+        {
+          "label": "D",
+          "text": "Exfoliatin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "TSST-1 (and enterotoxin) are superantigens: they non-specifically link the APC's MHC II to the TCR of CD4 T cells, causing a massive release of proinflammatory cytokines that can lead to shock and multiorgan failure. TSS is associated with tampon use and foreign bodies such as nasal packing.",
+        "whyCorrect": "TSST-1 (and enterotoxin) are superantigens: they non-specifically link the APC's MHC II to the TCR of CD4 T cells, causing a massive release of proinflammatory cytokines that can lead to shock and multiorgan failure. TSS is associated with tampon use and foreign bodies such as nasal packing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-289_brick_57_08.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-290",
+      "topicId": "staphylococci-2026",
+      "topicName": "Staphylococci",
+      "stem": "An S. aureus isolate is plated with antibiotic-impregnated disks as shown. What does a large clear zone with no growth around a disk indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The isolate is beta-hemolytic"
+        },
+        {
+          "label": "B",
+          "text": "The isolate is susceptible to that antibiotic"
+        },
+        {
+          "label": "C",
+          "text": "The isolate is resistant to that antibiotic"
+        },
+        {
+          "label": "D",
+          "text": "The isolate ferments mannitol"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In this antibiotic resistance assay, bacteria that do not grow around a disk are susceptible to that drug, whereas growth right up to a disk means resistance. Antibiotic resistance (e.g., MRSA, VRSA) is a major concern with S. aureus.",
+        "whyCorrect": "In this antibiotic resistance assay, bacteria that do not grow around a disk are susceptible to that drug, whereas growth right up to a disk means resistance. Antibiotic resistance (e.g., MRSA, VRSA) is a major concern with S. aureus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-290_brick_57_09.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-291",
+      "topicId": "streptococci-and-enterococci-2026",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "A throat culture isolate shows the Gram stain morphology pictured and is catalase negative. Which genus is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neisseria"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus"
+        },
+        {
+          "label": "D",
+          "text": "Bacillus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Streptococci are gram-positive, catalase-negative cocci arranged in pairs or chains. The chains help distinguish them visually from the grape-like clusters of catalase-positive staphylococci.",
+        "whyCorrect": "Streptococci are gram-positive, catalase-negative cocci arranged in pairs or chains. The chains help distinguish them visually from the grape-like clusters of catalase-positive staphylococci.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-291_brick_58_01.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-292",
+      "topicId": "streptococci-and-enterococci-2026",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "A Gram stain shows the arrangement of gram-positive cocci pictured. Which genus is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus"
+        },
+        {
+          "label": "C",
+          "text": "Neisseria"
+        },
+        {
+          "label": "D",
+          "text": "Enterococcus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Gram-positive cocci in grape-like clusters are staphylococci. Streptococci form pairs or chains, enterococci form pairs and short chains, and Neisseria/Moraxella are gram-negative diplococci.",
+        "whyCorrect": "Gram-positive cocci in grape-like clusters are staphylococci. Streptococci form pairs or chains, enterococci form pairs and short chains, and Neisseria/Moraxella are gram-negative diplococci.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-292_brick_58_02.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-293",
+      "topicId": "streptococci-and-enterococci-2026",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "Sputum from an adult with lobar pneumonia shows the gram-positive organisms pictured: pairs of cocci with pointed ends. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "S. pneumoniae appears as lancet-shaped gram-positive diplococci, with a pointed end on each coccus. S. pyogenes and S. agalactiae form chains, S. aureus forms clusters, and enterococci appear as a mix of pairs and chains.",
+        "whyCorrect": "S. pneumoniae appears as lancet-shaped gram-positive diplococci, with a pointed end on each coccus. S. pyogenes and S. agalactiae form chains, S. aureus forms clusters, and enterococci appear as a mix of pairs and chains.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-293_brick_58_03.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-294",
+      "topicId": "streptococci-and-enterococci-2026",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "A urine isolate from a hospitalized patient shows the gram-positive cocci pictured, in pairs and short chains. The organism is nonhemolytic and grows in bile and in 6.5% NaCl. Which genus is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Neisseria"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Enterococcus spp. appear as a combination of diplococci and chains, are nonhemolytic, and cause urinary, biliary, wound infections and subacute endocarditis. Unlike S. gallolyticus (group D strep), which also grows in bile, only enterococci grow in 6.5% NaCl.",
+        "whyCorrect": "Enterococcus spp. appear as a combination of diplococci and chains, are nonhemolytic, and cause urinary, biliary, wound infections and subacute endocarditis. Unlike S. gallolyticus (group D strep), which also grows in bile, only enterococci grow in 6.5% NaCl.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-294_brick_58_04.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-295",
+      "topicId": "streptococci-and-enterococci-2026",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "Three streptococci are streaked on a blood agar plate. The left streak produces partial, greenish (incomplete) hemolysis. Which streptococci characteristically show this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S. pyogenes and S. agalactiae"
+        },
+        {
+          "label": "B",
+          "text": "S. pyogenes and Enterococcus faecalis"
+        },
+        {
+          "label": "C",
+          "text": "S. pneumoniae and viridans streptococci"
+        },
+        {
+          "label": "D",
+          "text": "Enterococcus faecalis and E. faecium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Alpha-hemolysis is incomplete RBC destruction, seen with S. pneumoniae and viridans streptococci. S. pyogenes and S. agalactiae are beta-hemolytic (complete clearing, center streak), and enterococci are generally nonhemolytic (gamma, right streak).",
+        "whyCorrect": "Alpha-hemolysis is incomplete RBC destruction, seen with S. pneumoniae and viridans streptococci. S. pyogenes and S. agalactiae are beta-hemolytic (complete clearing, center streak), and enterococci are generally nonhemolytic (gamma, right streak).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-295_brick_58_05.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-296",
+      "topicId": "streptococci-and-enterococci-2026",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "A child with recent pharyngitis develops a fine, blanching, sandpaper-like rash with flushed cheeks, as shown, and a strawberry tongue. Which organism and product cause this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S. aureus exfoliatin"
+        },
+        {
+          "label": "B",
+          "text": "S. pneumoniae pneumolysin"
+        },
+        {
+          "label": "C",
+          "text": "S. aureus TSST-1"
+        },
+        {
+          "label": "D",
+          "text": "S. pyogenes erythrogenic toxin (SPE)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This is scarlet fever: systemic release of S. pyogenes erythrogenic (pyrogenic) exotoxins causes a confluent sandpaper rash starting on the chest and neck, circumoral pallor, strawberry tongue, and later desquamation. M protein underlies rheumatic fever via molecular mimicry, not the rash.",
+        "whyCorrect": "This is scarlet fever: systemic release of S. pyogenes erythrogenic (pyrogenic) exotoxins causes a confluent sandpaper rash starting on the chest and neck, circumoral pallor, strawberry tongue, and later desquamation. M protein underlies rheumatic fever via molecular mimicry, not the rash.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-296_brick_58_06.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-297",
+      "topicId": "streptococci-and-enterococci-2026",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "A catalase-negative, gram-positive coccus turns the reagent cherry-red in the test shown (right tube). Which organisms give this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S. agalactiae and S. pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "S. pneumoniae and viridans streptococci"
+        },
+        {
+          "label": "C",
+          "text": "S. aureus and S. epidermidis"
+        },
+        {
+          "label": "D",
+          "text": "S. pyogenes and Enterococcus spp."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The PYR (pyrrolidonyl arylamidase) test turns pink/cherry-red when the enzyme hydrolyzes the substrate. It is used for presumptive identification of S. pyogenes (group A strep) and Enterococcus spp.",
+        "whyCorrect": "The PYR (pyrrolidonyl arylamidase) test turns pink/cherry-red when the enzyme hydrolyzes the substrate. It is used for presumptive identification of S. pyogenes (group A strep) and Enterococcus spp.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-297_brick_58_07.jpg",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "mipic-298",
+      "topicId": "streptococci-and-enterococci-2026",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "An older adult with fever, productive cough, and lobar consolidation produces the sputum shown. Which organism is most characteristically associated with this sputum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus agalactiae"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Rust-colored sputum is characteristic of pneumococcal pneumonia. The brick attributes it to pneumolysin, an oxygen-labile exotoxin of S. pneumoniae. Patients with sickle cell disease or asplenia are at high risk of pneumococcal sepsis.",
+        "whyCorrect": "Rust-colored sputum is characteristic of pneumococcal pneumonia. The brick attributes it to pneumolysin, an oxygen-labile exotoxin of S. pneumoniae. Patients with sickle cell disease or asplenia are at high risk of pneumococcal sepsis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "mipic-298_brick_58_08.jpg",
       "tags": [
         "picture"
       ]
